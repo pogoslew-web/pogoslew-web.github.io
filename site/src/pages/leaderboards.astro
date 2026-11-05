@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import Icon from '../components/Icon.astro';
+import fs from 'node:fs'; import path from 'node:path';
+const lb = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), '../db/leaderboards.json'), 'utf8'));
+---
+<Base title="Leaderboards" description="Overrank leaderboard categories. Rankings are live game data on the original wiki.">
+  <div class="wrap page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Leaderboards' }]} />
+    <header class="page-head"><h1>Leaderboards</h1><p>{lb.description}</p></header>
+    <div class="notice warn"><b>Live data — not copied.</b> Rankings change constantly and list real player usernames, so they are not duplicated here. Open the live page at the source to see current standings.</div>
+    <h2 style="font-size:var(--fs-xl);margin:24px 0 12px">Boards</h2>
+    <div class="cat-pills">{lb.boards.map((b: string) => <span class="cat-pill">{b}</span>)}</div>
+    <p style="margin-top:24px"><a class="btn btn-primary" href={lb.source} target="_blank" rel="noopener noreferrer"><Icon name="external" size={14} /> Open live leaderboards</a></p>
+  </div>
+</Base>

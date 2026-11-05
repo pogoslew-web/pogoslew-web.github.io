@@ -1,0 +1,63 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SearchPalette from '../components/SearchPalette.astro';
+import { asset } from '../lib/db';
+interface Props { title: string; description?: string; image?: string | null; noindex?: boolean; type?: string }
+const { title, description = 'Everything you need to master Overrank: classes, skills, items, rifts, ranks, guides and codes — searchable and organised.', image = null, noindex = false, type = 'website' } = Astro.props;
+const indexable = import.meta.env.PUBLIC_INDEXABLE === '1';
+const full = title.includes('Overrank') ? title : `${title} · Overrank Atlas`;
+const icon = asset('/games/overrank/icon.webp');
+const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : undefined;
+---
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{full}</title>
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#0a0d12" />
+    {(noindex || !indexable) && <meta name="robots" content="noindex, nofollow" />}
+    {canonical && <link rel="canonical" href={canonical} />}
+    {icon && <link rel="icon" href={icon} type="image/webp" />}
+    <meta property="og:title" content={full} /><meta property="og:description" content={description} /><meta property="og:type" content={type} />
+    {image && <meta property="og:image" content={image} />}
+    <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
+    <script is:inline>
+      try { var t = localStorage.getItem('theme') || 'dark'; document.documentElement.dataset.theme = t; } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <Header />
+    <main id="main"><slot /></main>
+    <Footer />
+    <SearchPalette />
+    <script>
+      // tri des tableaux (clic sur l'en-tête)
+      const num = (s: string) => { const m = s.replace(/[, ]/g, '').match(/-?\d+(\.\d+)?/); return m ? parseFloat(m[0]) : NaN; };
+      document.querySelectorAll<HTMLTableElement>('table.data-table').forEach(t => {
+        const heads = [...t.querySelectorAll<HTMLTableCellElement>('thead th')];
+        const body = t.tBodies[0]; if (!body || body.rows.length < 3) return;
+        heads.forEach((th, i) => {
+          th.setAttribute('data-sortable', ''); th.tabIndex = 0; th.setAttribute('role', 'columnheader');
+          const sort = () => {
+            const asc = th.getAttribute('aria-sort') !== 'ascending';
+            heads.forEach(h => h.removeAttribute('aria-sort')); th.setAttribute('aria-sort', asc ? 'ascending' : 'descending');
+            const rows = [...body.rows];
+            rows.sort((a, b) => {
+              const x = a.cells[i]?.textContent?.trim() ?? '', y = b.cells[i]?.textContent?.trim() ?? '';
+              const nx = num(x), ny = num(y);
+              const c = !Number.isNaN(nx) && !Number.isNaN(ny) ? nx - ny : x.localeCompare(y, 'en', { numeric: true });
+              return asc ? c : -c;
+            });
+            rows.forEach(r => body.appendChild(r));
+          };
+          th.addEventListener('click', sort); th.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); sort(); } });
+        });
+      });
+    </script>
+  </body>
+</html>

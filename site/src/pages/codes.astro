@@ -1,0 +1,45 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import { codes } from '../lib/db';
+const rows = [...codes].sort((a, b) => (b.listed_active_at_crawl ? 1 : 0) - (a.listed_active_at_crawl ? 1 : 0) || a.code.localeCompare(b.code));
+---
+<Base title="Codes" description="Overrank redeem codes with their rewards, release dates and end dates as published on the wiki.">
+  <div class="wrap page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Codes' }]} />
+    <header class="page-head"><div class="eyebrow">Extra</div><h1>Codes <span class="count">{rows.length}</span></h1>
+      <p>Codes announced on the original wiki. The status is computed from the end date shown at the source; when no end date is published, it says so instead of guessing.</p></header>
+    <div class="notice"><b>How to redeem:</b> open the code option in the game menu or settings, paste the code and confirm. Snapshot taken Nov 5, 2026.</div>
+    <div class="table-wrap" tabindex="0">
+      <table class="data-table" id="codes-table">
+        <thead><tr><th>Code</th><th>Status</th><th>Rewards</th><th>Announced</th><th>Ends</th><th></th></tr></thead>
+        <tbody>
+          {rows.map(c => (
+            <tr data-ends={c.ends_text ?? ''} data-src={c.status_at_source ?? ''}>
+              <td><b style="font-family:var(--font-display);letter-spacing:.06em">{c.code}</b></td>
+              <td><span class="status unknown" data-status>Checking…</span></td>
+              <td>{c.rewards ?? c.detail_rewards ?? 'Not recovered'}</td>
+              <td>{c.detail_date ?? c.published_text ?? '—'}</td>
+              <td>{c.ends_text ?? <span class="faint">Not shown</span>}</td>
+              <td><button class="btn btn-sm copy-btn" type="button" data-copy={c.code}>Copy</button></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p class="faint" style="font-size:var(--fs-xs);margin-top:12px">Announcement pages: {rows.map(c => c.news_path && <a href={`/news/${c.news_path.split('/').pop()}/`} style="margin-right:10px">{c.code}</a>)}</p>
+  </div>
+  <script>
+    const now = Date.now();
+    document.querySelectorAll<HTMLTableRowElement>('#codes-table tbody tr').forEach(tr => {
+      const el = tr.querySelector<HTMLElement>('[data-status]')!; const ends = tr.dataset.ends!, src = tr.dataset.src!;
+      let cls = 'unknown', txt = 'End date not published';
+      if (src === 'Expired') { cls = 'expired'; txt = 'Expired'; }
+      else if (ends) { const t = Date.parse(ends + ' 23:59:59 UTC'); if (!Number.isNaN(t)) { if (now <= t) { cls = 'active'; txt = 'Active'; } else { cls = 'expired'; txt = 'Expired'; } } }
+      el.className = 'status ' + cls; el.textContent = txt;
+    });
+    document.querySelectorAll<HTMLButtonElement>('[data-copy]').forEach(b => b.addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(b.dataset.copy!); b.textContent = 'Copied'; b.dataset.done = 'true'; setTimeout(() => { b.textContent = 'Copy'; b.dataset.done = 'false'; }, 1600); } catch { b.textContent = 'Copy failed'; }
+    }));
+  </script>
+</Base>

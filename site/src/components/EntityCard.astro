@@ -1,0 +1,24 @@
+---
+import { asset, entityHref, FACETS, type Entity } from '../lib/db';
+import { tierClass } from '../lib/tier';
+interface Props { e: Entity; attrs?: Record<string, string | number>; compact?: boolean }
+const { e, attrs = {} } = Astro.props;
+const img = asset(e.image);
+const meta = (() => {
+  const keys = (FACETS[e.type] ?? []).filter(k => k !== 'Rank / rarity' && k !== 'Rarity');
+  for (const k of keys) { const v = e.infobox.find(i => i.key === k)?.value; if (v && v !== '-') return v; }
+  return null;
+})();
+---
+<a class="card card-link entry" href={entityHref(e)} {...attrs}>
+  <span class="entry-media">
+    {img ? <img src={img} alt="" loading="lazy" decoding="async" width="320" height="200" /> : <span class="ph" aria-hidden="true">{(e.title ?? '?').trim().charAt(0).toUpperCase()}</span>}
+  </span>
+  <span class="entry-body">
+    <span class="entry-title">{e.title}</span>
+    <span class="entry-meta">
+      {e.rarity && <span class={`badge ${tierClass(e.rarity)}`}>{e.rarity}</span>}
+      {meta && <span>{meta}</span>}
+    </span>
+  </span>
+</a>

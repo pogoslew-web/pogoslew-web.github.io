@@ -1,0 +1,370 @@
+{
+ "generated": "2026-11-05",
+ "stage": "source->db",
+ "fidelity_special_pages": [
+  {
+   "path": "/en/news/14293f86-5caf-4863-93a3-7a68b9a0ddf7",
+   "raw_words": 34,
+   "entity_words": 38,
+   "words_missing": {},
+   "missing_total": 0
+  },
+  {
+   "path": "/en/news/828dbeb1-2b12-4523-bf56-3ee53ab89d6a",
+   "raw_words": 32,
+   "entity_words": 36,
+   "words_missing": {},
+   "missing_total": 0
+  },
+  {
+   "path": "/en/news/c36d1c58-f5a6-48b4-85ed-db9c114c2bbc",
+   "raw_words": 49,
+   "entity_words": 54,
+   "words_missing": {},
+   "missing_total": 0
+  },
+  {
+   "path": "/en/news/96d4fcd5-bc4f-4dad-963b-8b32275819dd",
+   "raw_words": 39,
+   "entity_words": 44,
+   "words_missing": {},
+   "missing_total": 0
+  },
+  {
+   "path": "/en/news/ce780136-a058-4d0f-b89f-40af17b05755",
+   "raw_words": 20,
+   "entity_words": 24,
+   "words_missing": {},
+   "missing_total": 0
+  },
+  {
+   "path": "/en/news/67bd6c13-fdbd-4cb3-888d-b2b1598cf856",
+   "raw_words": 32,
+   "entity_words": 39,
+   "words_missing": {},
+   "missing_total": 0
+  },
+  {
+   "path": "/en/news/66cb036d-e21c-4798-a665-8dfac4b24c23",
+   "raw_words": 39,
+   "entity_words": 49,
+   "words_missing": {},
+   "missing_total": 0
+  },
+  {
+   "path": "/en/news",
+   "raw_words": 300,
+   "entity_words": 333,
+   "words_missing": {},
+   "missing_total": 0
+  },
+  {
+   "path": "/en/news/fcba97a6-9587-4871-ae55-8e322b0195ea",
+   "raw_words": 60,
+   "entity_words": 72,
+   "words_missing": {},
+   "missing_total": 0
+  },
+  {
+   "path": "/en/w/overrank/odds",
+   "raw_words": 6262,
+   "entity_words": 6285,
+   "words_missing": {},
+   "missing_total": 0
+  }
+ ],
+ "fidelity_vacuous_pages": [],
+ "fidelity": {
+  "pages_compared": 1135,
+  "pages_with_differences": 0,
+  "details": []
+ },
+ "by_category": [
+  {
+   "id": "badges",
+   "label": "Badges",
+   "declared": 38,
+   "cards_listed": 38,
+   "fetched": 38,
+   "integrated": 38,
+   "overview": true
+  },
+  {
+   "id": "classes",
+   "label": "Classes",
+   "declared": 15,
+   "cards_listed": 15,
+   "fetched": 15,
+   "integrated": 15,
+   "overview": true
+  },
+  {
+   "id": "cosmetics",
+   "label": "Cosmetics",
+   "declared": 179,
+   "cards_listed": 179,
+   "fetched": 179,
+   "integrated": 179,
+   "overview": true
+  },
+  {
+   "id": "dungeons",
+   "label": "Dungeons",
+   "declared": 13,
+   "cards_listed": 13,
+   "fetched": 13,
+   "integrated": 13,
+   "overview": true
+  },
+  {
+   "id": "events",
+   "label": "Events",
+   "declared": 11,
+   "cards_listed": 11,
+   "fetched": 11,
+   "integrated": 11,
+   "overview": true
+  },
+  {
+   "id": "formulas",
+   "label": "Formulas",
+   "declared": 8,
+   "cards_listed": 8,
+   "fetched": 8,
+   "integrated": 8,
+   "overview": true
+  },
+  {
+   "id": "glossary",
+   "label": "Glossary",
+   "declared": 24,
+   "cards_listed": 24,
+   "fetched": 24,
+   "integrated": 24,
+   "overview": true
+  },
+  {
+   "id": "guides",
+   "label": "Guides",
+   "declared": 11,
+   "cards_listed": 11,
+   "fetched": 11,
+   "integrated": 11,
+   "overview": true
+  },
+  {
+   "id": "items",
+   "label": "Items",
+   "declared": 191,
+   "cards_listed": 191,
+   "fetched": 191,
+   "integrated": 191,
+   "overview": true
+  },
+  {
+   "id": "monsters",
+   "label": "Monsters",
+   "declared": 78,
+   "cards_listed": 78,
+   "fetched": 78,
+   "integrated": 78,
+   "overview": true
+  },
+  {
+   "id": "passes",
+   "label": "Game passes",
+   "declared": 6,
+   "cards_listed": 6,
+   "fetched": 6,
+   "integrated": 6,
+   "overview": true
+  },
+  {
+   "id": "passives",
+   "label": "Passives",
+   "declared": 74,
+   "cards_listed": 74,
+   "fetched": 74,
+   "integrated": 74,
+   "overview": true
+  },
+  {
+   "id": "places",
+   "label": "Places",
+   "declared": 16,
+   "cards_listed": 16,
+   "fetched": 16,
+   "integrated": 16,
+   "overview": true
+  },
+  {
+   "id": "products",
+   "label": "Shop products",
+   "declared": 81,
+   "cards_listed": 81,
+   "fetched": 81,
+   "integrated": 81,
+   "overview": true
+  },
+  {
+   "id": "ranks",
+   "label": "Ranks",
+   "declared": 8,
+   "cards_listed": 8,
+   "fetched": 8,
+   "integrated": 8,
+   "overview": true
+  },
+  {
+   "id": "rifts",
+   "label": "Rifts",
+   "declared": 18,
+   "cards_listed": 18,
+   "fetched": 18,
+   "integrated": 18,
+   "overview": false
+  },
+  {
+   "id": "skills",
+   "label": "Skills",
+   "declared": 136,
+   "cards_listed": 136,
+   "fetched": 136,
+   "integrated": 136,
+   "overview": true
+  },
+  {
+   "id": "systems",
+   "label": "Systems",
+   "declared": 9,
+   "cards_listed": 9,
+   "fetched": 9,
+   "integrated": 9,
+   "overview": true
+  },
+  {
+   "id": "titles",
+   "label": "Titles",
+   "declared": 96,
+   "cards_listed": 96,
+   "fetched": 96,
+   "integrated": 96,
+   "overview": true
+  },
+  {
+   "id": "weapon-arts",
+   "label": "Weapon arts",
+   "declared": 92,
+   "cards_listed": 92,
+   "fetched": 92,
+   "integrated": 92,
+   "overview": true
+  },
+  {
+   "id": "odds",
+   "label": "Odds & luck",
+   "declared": 76,
+   "cards_listed": 0,
+   "fetched": 1,
+   "integrated": 2,
+   "overview": true
+  }
+ ],
+ "pages": {
+  "in_scope_discovered": 1160,
+  "fetched_ok": 1160,
+  "fetch_failed": 0,
+  "integrated_as_pages": 1135,
+  "index_and_home_pages": 24,
+  "alias_not_content": [
+   "/en/w/overrank/random (redirects to a random page)"
+  ],
+  "edit_forms_excluded": 678,
+  "out_of_scope_paths": [
+   "/en/forum",
+   "/en/forum/new",
+   "/en/legal/cookies",
+   "/en/legal/notice",
+   "/en/legal/privacy",
+   "/en/legal/rules",
+   "/en/legal/terms",
+   "/en/login",
+   "/en/players"
+  ],
+  "out_of_scope_count": 9
+ },
+ "images": {
+  "referenced": 2090,
+  "downloaded": 2090,
+  "failed": [],
+  "unique_files_after_dedup": 1961,
+  "duplicates_removed": 129,
+  "total_bytes": 102105676,
+  "entities_with_image": 1050,
+  "entity_images_missing": [],
+  "by_type": {
+   ".glb": 317,
+   ".webp": 1639,
+   ".svg": 2,
+   ".png": 3
+  }
+ },
+ "entities_without_image": 85,
+ "incomplete_at_source": [
+  "/en/w/overrank/classes/berserker",
+  "/en/w/overrank/classes/bipolar",
+  "/en/w/overrank/classes/chad",
+  "/en/w/overrank/classes/magic-attacker",
+  "/en/w/overrank/classes/overlord",
+  "/en/w/overrank/classes/reaper",
+  "/en/w/overrank/classes/survivor",
+  "/en/w/overrank/classes/warper",
+  "/en/w/overrank/cosmetics/creator-creator-armor",
+  "/en/w/overrank/cosmetics/creator-creator-aura",
+  "/en/w/overrank/cosmetics/creator-creator-pendant",
+  "/en/w/overrank/cosmetics/creator-creator-weapon",
+  "/en/w/overrank/cosmetics/creator-kick-armor",
+  "/en/w/overrank/cosmetics/creator-kick-aura",
+  "/en/w/overrank/cosmetics/creator-kick-pendant",
+  "/en/w/overrank/cosmetics/creator-kick-weapon",
+  "/en/w/overrank/cosmetics/creator-tik-tok-armor",
+  "/en/w/overrank/cosmetics/creator-tik-tok-aura",
+  "/en/w/overrank/cosmetics/creator-tik-tok-pendant",
+  "/en/w/overrank/cosmetics/creator-tik-tok-weapon",
+  "/en/w/overrank/cosmetics/creator-twitch-armor",
+  "/en/w/overrank/cosmetics/creator-twitch-aura",
+  "/en/w/overrank/cosmetics/creator-twitch-pendant",
+  "/en/w/overrank/cosmetics/creator-twitch-weapon",
+  "/en/w/overrank/cosmetics/creator-you-tube-armor",
+  "/en/w/overrank/cosmetics/creator-you-tube-aura",
+  "/en/w/overrank/cosmetics/creator-you-tube-pendant",
+  "/en/w/overrank/cosmetics/creator-you-tube-weapon",
+  "/en/w/overrank/cosmetics/secret-armor",
+  "/en/w/overrank/cosmetics/secret-aura",
+  "/en/w/overrank/cosmetics/secret-pendant",
+  "/en/w/overrank/cosmetics/secret-weapon",
+  "/en/w/overrank/monsters/grave-shambler",
+  "/en/w/overrank/monsters/nested-warden",
+  "/en/w/overrank/monsters/pumpkin-knight",
+  "/en/w/overrank/monsters/wailing-specter",
+  "/en/w/overrank/monsters/wraith-lich",
+  "/en/w/overrank/places/systems-trial",
+  "/en/w/overrank/rifts/disguised-nation-rift",
+  "/en/w/overrank/rifts/double-dungeon",
+  "/en/w/overrank/rifts/nested-rift",
+  "/en/w/overrank/rifts/rift-nation",
+  "/en/w/overrank/skills/hidden-school-a-1",
+  "/en/w/overrank/skills/hidden-school-a-2",
+  "/en/w/overrank/skills/hidden-school-a-3",
+  "/en/w/overrank/skills/hidden-school-a-4",
+  "/en/w/overrank/skills/hidden-school-b-1",
+  "/en/w/overrank/skills/hidden-school-b-2",
+  "/en/w/overrank/skills/hidden-school-b-3",
+  "/en/w/overrank/skills/hidden-school-b-4",
+  "/en/w/overrank/titles/creator-creator",
+  "/en/w/overrank/titles/creator-kick",
+  "/en/w/overrank/titles/creator-tik-tok",
+  "/en/w/overrank/titles/creator-twitch",
+  "/en/w/overrank/titles/creator-you-tube"
+ ]
+}

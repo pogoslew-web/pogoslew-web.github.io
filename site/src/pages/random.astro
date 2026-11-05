@@ -1,0 +1,10 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Random page" noindex>
+  <div class="wrap page"><div class="empty" id="msg"><b>Picking a random page…</b><p class="faint">If nothing happens, <a href="/database/">browse the database</a>.</p></div></div>
+  <script>
+    fetch('/search-index.json').then(r => r.json()).then((recs: { h: string }[]) => { location.replace(recs[Math.floor(Math.random() * recs.length)].h); })
+      .catch(() => { document.getElementById('msg')!.innerHTML = '<b>Could not load the page list.</b><p><a href="/database/">Browse the database</a></p>'; });
+  </script>
+</Base>

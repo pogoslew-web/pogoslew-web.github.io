@@ -1,0 +1,84 @@
+---
+import Icon from './Icon.astro';
+import { categories } from '../lib/db';
+const cats = categories.map(c => ({ id: c.id, label: c.label, n: c.count }));
+---
+<div class="palette" id="palette" data-open="false" role="dialog" aria-modal="true" aria-label="Search" data-cats={JSON.stringify(cats)}>
+  <div class="palette-box">
+    <form class="palette-input" role="search" id="palette-form">
+      <Icon name="search" />
+      <input id="palette-q" type="search" autocomplete="off" spellcheck="false" placeholder="Search classes, skills, items, monsters, guides…" aria-label="Search" aria-controls="palette-list" />
+      <button class="btn btn-ghost btn-sm" type="button" id="palette-close">Esc</button>
+    </form>
+    <div class="palette-list" id="palette-list" role="listbox" aria-label="Results"></div>
+    <div class="palette-foot"><span><span class="kbd">↑</span> <span class="kbd">↓</span> navigate</span><span><span class="kbd">↵</span> open</span><span><a href="/search/" id="palette-all">See all results</a></span></div>
+  </div>
+</div>
+<script>
+  import { runSearch, mark, esc, loadIndex } from '../scripts/searchCore';
+  const pal = document.getElementById('palette')!;
+  const input = document.getElementById('palette-q') as HTMLInputElement;
+  const list = document.getElementById('palette-list')!;
+  const all = document.getElementById('palette-all') as HTMLAnchorElement;
+  const cats: { id: string; label: string; n: number }[] = JSON.parse(pal.dataset.cats || '[]');
+  let items: HTMLAnchorElement[] = []; let sel = 0; let token = 0; let lastFocus: Element | null = null;
+
+  function renderIdle() {
+    list.innerHTML = '<div class="palette-group">Browse by category</div><div style="display:flex;flex-wrap:wrap;gap:8px;padding:6px 12px 14px">' +
+      cats.map(c => `<a class="cat-pill" href="/${c.id}/">${esc(c.label)} <span class="n">${c.n}</span></a>`).join('') + '</div>';
+    items = []; all.href = '/search/';
+  }
+  function setSel(i: number) {
+    items.forEach((a, k) => a.setAttribute('aria-selected', String(k === i)));
+    sel = i; items[i]?.scrollIntoView({ block: 'nearest' });
+  }
+  async function render(q: string) {
+    const my = ++token;
+    if (!q.trim()) return renderIdle();
+    const res = await runSearch(q, null, 24);
+    if (my !== token) return;
+    all.href = '/search/?q=' + encodeURIComponent(q);
+    if (!res.length) {
+      list.innerHTML = `<div class="palette-empty"><b>No results for “${esc(q)}”</b><br><span class="faint">Check the spelling or try a shorter word. You can also browse a category:</span><div class="sugg">` +
+        cats.slice(0, 8).map(c => `<a class="cat-pill" href="/${c.id}/">${esc(c.label)}</a>`).join('') + '</div></div>';
+      items = []; return;
+    }
+    const groups = new Map<string, typeof res>();
+    for (const r of res) { if (!groups.has(r.tl)) groups.set(r.tl, []); groups.get(r.tl)!.push(r); }
+    let html = '';
+    for (const [g, rs] of groups) {
+      html += `<div class="palette-group">${esc(g)}</div>`;
+      for (const r of rs.slice(0, 6)) {
+        html += `<a class="palette-item" role="option" aria-selected="false" href="${r.h}">` +
+          (r.i ? `<img src="${r.i}" alt="" loading="lazy" decoding="async">` : `<span class="thumb"></span>`) +
+          `<span class="txt"><span class="t">${mark(r.n, q)}</span><div class="s">${esc(r.d || r.tl)}</div></span>` +
+          (r.r ? `<span class="badge">${esc(r.r)}</span>` : '') + '</a>';
+      }
+    }
+    list.innerHTML = html;
+    items = [...list.querySelectorAll<HTMLAnchorElement>('.palette-item')];
+    setSel(0);
+  }
+  function open(q = '') {
+    lastFocus = document.activeElement; pal.dataset.open = 'true'; document.body.style.overflow = 'hidden';
+    input.value = q; input.focus(); loadIndex().catch(() => {}); render(q);
+  }
+  function close() { pal.dataset.open = 'false'; document.body.style.overflow = ''; (lastFocus as HTMLElement | null)?.focus?.(); }
+  document.querySelectorAll('[data-open-search]').forEach(b => b.addEventListener('click', () => open((b as HTMLElement).dataset.q || '')));
+  document.getElementById('palette-close')!.addEventListener('click', close);
+  pal.addEventListener('mousedown', e => { if (e.target === pal) close(); });
+  input.addEventListener('input', () => render(input.value));
+  document.getElementById('palette-form')!.addEventListener('submit', e => { e.preventDefault(); if (items[sel]) location.href = items[sel].href; else if (input.value.trim()) location.href = '/search/?q=' + encodeURIComponent(input.value); });
+  pal.addEventListener('keydown', e => {
+    if (e.key === 'ArrowDown') { e.preventDefault(); if (items.length) setSel((sel + 1) % items.length); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); if (items.length) setSel((sel - 1 + items.length) % items.length); }
+    else if (e.key === 'Escape') { e.preventDefault(); close(); }
+  });
+  document.addEventListener('keydown', e => {
+    const typing = /^(INPUT|TEXTAREA|SELECT)$/.test((document.activeElement as HTMLElement)?.tagName) || (document.activeElement as HTMLElement)?.isContentEditable;
+    if ((e.key === 'k' || e.key === 'K') && (e.ctrlKey || e.metaKey)) { e.preventDefault(); pal.dataset.open === 'true' ? close() : open(); }
+    else if (e.key === '/' && !typing && pal.dataset.open !== 'true') { e.preventDefault(); open(); }
+  });
+  // pré-chauffe l'index quand l'utilisateur approche de la recherche
+  document.querySelectorAll('[data-open-search]').forEach(b => b.addEventListener('pointerenter', () => loadIndex().catch(() => {}), { once: true }));
+</script>

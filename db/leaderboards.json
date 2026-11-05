@@ -1,0 +1,19 @@
+{
+ "description": "The best players, updated live by the game servers.",
+ "boards": [
+  "Level",
+  "Guild points",
+  "Monsters slain",
+  "Time played",
+  "Shards",
+  "Dungeons cleared",
+  "Robux donated",
+  "Victories",
+  "Arena kills",
+  "Best tower floor",
+  "Global score",
+  "Pantheon time"
+ ],
+ "source": "https://overrank.awaitlab.com/en/w/overrank/leaderboards",
+ "note": "Player names and scores are live game data about individuals and are intentionally not copied."
+}

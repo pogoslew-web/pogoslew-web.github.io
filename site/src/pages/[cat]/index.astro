@@ -1,0 +1,159 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import EntityCard from '../../components/EntityCard.astro';
+import Icon from '../../components/Icon.astro';
+import { categories, entitiesOf, byId, FACETS, popularityRank, parseDate, entityHref } from '../../lib/db';
+import { renderHtml } from '../../lib/links';
+import { asset } from '../../lib/db';
+
+export function getStaticPaths() { return categories.map(c => ({ params: { cat: c.id }, props: { id: c.id } })); }
+const { id } = Astro.props;
+const cat = categories.find(c => c.id === id)!;
+const pop = popularityRank();
+const list = entitiesOf(id);
+const overview = byId.get(`${id}/overview`);
+const intro = byId.get(`${id}/index`);
+const facetKeys = (FACETS[id] ?? []).map(key => {
+  const counts = new Map<string, number>();
+  for (const e of list) { const v = e.infobox.find(i => i.key === key)?.value; if (v && v !== '-') counts.set(v, (counts.get(v) ?? 0) + 1); }
+  return { key, label: key === 'Rank / rarity' ? 'Rarity / rank' : key, options: [...counts.entries()].sort((a, b) => b[1] - a[1]) };
+}).filter(f => f.options.length >= 2 && f.options.length <= 40);
+const introHtml = intro ? intro.sections.map((s: any) => ({ h: s.heading, id: s.id, icon: s.icon ? asset(s.icon) : null, html: s.blocks.map(b => b.type === 'heading' ? `<h${b.level}>${b.text}</h${b.level}>` : renderHtml(b.html ?? '')).join('\n') })) : [];
+---
+<Base title={cat.label} description={cat.description ?? `${cat.label} in Overrank.`}>
+  <div class="wrap page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: cat.label }]} />
+    <header class="page-head">
+      <div class="eyebrow">{cat.family}</div>
+      <h1>{cat.label} <span class="count">{cat.count} pages</span></h1>
+      {cat.description && <p>{cat.description}</p>}
+      <div class="page-actions" style="margin-top:12px">
+        {overview && <a class="btn btn-primary" href={entityHref(overview)}>Read the overview</a>}
+        <a class="btn" href={cat.source.url} target="_blank" rel="noopener noreferrer"><Icon name="external" size={14} /> Original list</a>
+      </div>
+    </header>
+
+    {introHtml.length > 0 && (
+      <div style="margin-bottom:32px" id="intro">
+        {introHtml.length > 5 && (
+          <div class="toolbar" style="position:static;border:0;padding-top:0">
+            <div class="toolbar-row">
+              <input class="input" type="search" id="intro-q" placeholder={`Filter the ${introHtml.length - 2} tables (monster, chest, rank, gem…)`} aria-label="Filter tables" autocomplete="off" />
+              <button class="btn" type="button" id="intro-open">Expand all</button><button class="btn" type="button" id="intro-close">Collapse all</button>
+            </div>
+            <div class="result-line"><span id="intro-count" aria-live="polite"></span></div>
+          </div>
+        )}
+        <div class="sections">
+          {introHtml.map((s, i) => s.h ? <details class="acc" id={s.id ?? undefined} open={i < 2} data-intro data-text={(s.h + ' ' + s.html.replace(/<[^>]+>/g, ' ')).toLowerCase()}><summary><span style="display:flex;align-items:center;gap:12px">{s.icon && <img src={s.icon} alt="" width="32" height="32" loading="lazy" style="border-radius:8px;background:var(--surface-2)" />}{s.h}</span></summary><div class="acc-body prose" set:html={s.html} /></details> : <div class="prose" set:html={s.html} />)}
+        </div>
+      </div>
+    )}
+
+    {list.length > 0 && (
+    <section id="browser" aria-label={`Browse ${cat.label}`} data-total={list.length} data-facets={JSON.stringify(facetKeys.map(f => f.key))} data-label={cat.label}>
+      <div class="toolbar">
+        <div class="toolbar-row">
+          <input class="input" type="search" id="f-q" placeholder={`Filter ${cat.label.toLowerCase()}…`} aria-label={`Filter ${cat.label}`} autocomplete="off" />
+          <select class="select" id="f-sort" aria-label="Sort">
+            <option value="pop">Most viewed (original order)</option>
+            <option value="az">Name A–Z</option>
+            <option value="za">Name Z–A</option>
+            <option value="new">Recently updated</option>
+          </select>
+          {facetKeys.length > 0 && <button class="btn f-toggle" type="button" id="f-toggle" aria-expanded="false" aria-controls="facets">Filters <span id="f-active"></span></button>}
+          <div role="group" aria-label="View" style="display:flex;gap:4px">
+            <button class="btn btn-icon" type="button" id="v-grid" aria-pressed="true" aria-label="Grid view"><Icon name="grid" /></button>
+            <button class="btn btn-icon" type="button" id="v-list" aria-pressed="false" aria-label="List view"><Icon name="list" /></button>
+          </div>
+        </div>
+        {facetKeys.length > 0 && (
+          <div class="facets" id="facets" data-collapsed="true">
+            {facetKeys.map(f => (
+              <div class="facet">
+                <label for={`facet-${f.key}`}>{f.label}</label>
+                <select class="select" id={`facet-${f.key}`} data-facet={f.key}>
+                  <option value="">All</option>
+                  {f.options.map(([v, n]) => <option value={v}>{v} ({n})</option>)}
+                </select>
+              </div>
+            ))}
+            <div class="facet" style="justify-content:flex-end"><button class="btn" type="button" id="f-reset">Reset filters</button></div>
+          </div>
+        )}
+      </div>
+      <div class="result-line"><span id="f-count" aria-live="polite"></span></div>
+      <div class="grid grid-cards" id="f-grid">
+        {list.map(e => (
+          <div class="cell" data-name={e.title.toLowerCase()} data-text={[e.title, e.rarity, ...e.infobox.map(i => i.value)].join(' ').toLowerCase()} data-pop={pop.get(e.source.path) ?? 9999} data-date={parseDate(e.last_edited)} data-f={JSON.stringify(Object.fromEntries(facetKeys.map(f => [f.key, e.infobox.find(i => i.key === f.key)?.value ?? ''])))}>
+            <EntityCard e={e} />
+          </div>
+        ))}
+      </div>
+      <div id="f-empty" class="empty" hidden><b>No match.</b><p>Nothing in {cat.label} matches these filters.</p><button class="btn btn-primary" type="button" id="f-clear">Clear filters</button></div>
+      <div class="more"><button class="btn" type="button" id="f-more" hidden>Show more</button></div>
+    </section>
+    )}
+  </div>
+  <script>
+    const intro = [...document.querySelectorAll<HTMLDetailsElement>('details[data-intro]')];
+    if (intro.length) {
+      const iq = document.getElementById('intro-q') as HTMLInputElement | null, ic = document.getElementById('intro-count');
+      const run = () => { const w = (iq?.value ?? '').toLowerCase().split(/\s+/).filter(Boolean); let n = 0; intro.forEach(d => { const ok = w.every(x => d.dataset.text!.includes(x)); d.hidden = !ok; if (ok) n++; if (w.length && ok) d.open = true; }); if (ic) ic.textContent = w.length ? `${n} of ${intro.length} sections match` : `${intro.length} sections`; };
+      iq?.addEventListener('input', run);
+      document.getElementById('intro-open')?.addEventListener('click', () => intro.forEach(d => !d.hidden && (d.open = true)));
+      document.getElementById('intro-close')?.addEventListener('click', () => intro.forEach(d => (d.open = false)));
+      const open = () => { const id = decodeURIComponent(location.hash.slice(1)); const t = id && document.getElementById(id) as HTMLDetailsElement | null; if (t && 'open' in t) { t.hidden = false; t.open = true; t.scrollIntoView(); } };
+      addEventListener('hashchange', open); open(); run();
+    }
+    const root = document.getElementById('browser');
+    if (root) {
+      const PAGE = 60; let shown = PAGE;
+      const cells = [...root.querySelectorAll<HTMLElement>('.cell')];
+      const grid = document.getElementById('f-grid')!;
+      const q = document.getElementById('f-q') as HTMLInputElement, sort = document.getElementById('f-sort') as HTMLSelectElement;
+      const facetSel = [...root.querySelectorAll<HTMLSelectElement>('select[data-facet]')];
+      const count = document.getElementById('f-count')!, empty = document.getElementById('f-empty')!, more = document.getElementById('f-more') as HTMLButtonElement;
+      const total = cells.length;
+      const data = new Map(cells.map(c => [c, JSON.parse(c.dataset.f || '{}')]));
+      const sp = new URLSearchParams(location.search);
+      q.value = sp.get('q') ?? ''; sort.value = sp.get('sort') ?? 'pop';
+      facetSel.forEach(s => { const v = sp.get('f.' + s.dataset.facet); if (v) s.value = v; });
+      const setView = (list: boolean) => { grid.classList.toggle('list-view', list); document.getElementById('v-list')!.setAttribute('aria-pressed', String(list)); document.getElementById('v-grid')!.setAttribute('aria-pressed', String(!list)); try { localStorage.setItem('view', list ? 'list' : 'grid'); } catch {} };
+      try { setView(sp.get('view') === 'list' || (!sp.get('view') && localStorage.getItem('view') === 'list')); } catch {}
+      function apply(resetPage = true) {
+        if (resetPage) shown = PAGE;
+        const term = q.value.trim().toLowerCase();
+        const words = term.split(/\s+/).filter(Boolean);
+        const active = facetSel.filter(s => s.value);
+        let match = cells.filter(c => words.every(w => c.dataset.text!.includes(w)) && active.every(s => data.get(c)[s.dataset.facet!] === s.value));
+        const by = sort.value;
+        match.sort((a, b) => by === 'az' ? a.dataset.name!.localeCompare(b.dataset.name!) : by === 'za' ? b.dataset.name!.localeCompare(a.dataset.name!) : by === 'new' ? (+b.dataset.date! - +a.dataset.date!) || a.dataset.name!.localeCompare(b.dataset.name!) : (+a.dataset.pop! - +b.dataset.pop!));
+        const set = new Set(match);
+        match.forEach(c => grid.appendChild(c));
+        cells.forEach(c => { c.hidden = !set.has(c); });
+        match.forEach((c, i) => { c.hidden = i >= shown; });
+        count.textContent = match.length === total ? `${total} pages` : `${match.length} of ${total} pages`;
+        empty.hidden = match.length > 0; more.hidden = match.length <= shown;
+        more.textContent = `Show more (${Math.min(PAGE, match.length - shown)} of ${match.length - shown} remaining)`;
+        const p = new URLSearchParams();
+        if (term) p.set('q', q.value.trim()); if (by !== 'pop') p.set('sort', by);
+        active.forEach(s => p.set('f.' + s.dataset.facet, s.value));
+        if (grid.classList.contains('list-view')) p.set('view', 'list');
+        history.replaceState(null, '', p.toString() ? '?' + p : location.pathname);
+      }
+      q.addEventListener('input', () => apply()); sort.addEventListener('change', () => apply()); facetSel.forEach(s => s.addEventListener('change', () => apply()));
+      more.addEventListener('click', () => { shown += PAGE; apply(false); });
+      const reset = () => { q.value = ''; sort.value = 'pop'; facetSel.forEach(s => (s.value = '')); apply(); };
+      document.getElementById('f-reset')?.addEventListener('click', reset); document.getElementById('f-clear')?.addEventListener('click', reset);
+      document.getElementById('v-grid')!.addEventListener('click', () => { setView(false); apply(false); });
+      document.getElementById('v-list')!.addEventListener('click', () => { setView(true); apply(false); });
+      const tg = document.getElementById('f-toggle'), fc = document.getElementById('facets');
+      tg?.addEventListener('click', () => { const c = fc!.dataset.collapsed === 'true'; fc!.dataset.collapsed = String(!c); tg.setAttribute('aria-expanded', String(c)); });
+      const upd = () => { const n = facetSel.filter(s => s.value).length; const a = document.getElementById('f-active'); if (a) a.textContent = n ? `(${n})` : ''; };
+      facetSel.forEach(s => s.addEventListener('change', upd)); document.getElementById('f-reset')?.addEventListener('click', upd); document.getElementById('f-clear')?.addEventListener('click', upd); upd();
+      apply();
+    }
+  </script>
+</Base>

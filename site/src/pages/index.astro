@@ -1,0 +1,135 @@
+---
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import EntityCard from '../components/EntityCard.astro';
+import { categories, entities, byPath, byId, home, codes, asset, entityHref, catLabel, parseDate, FAMILIES, FAMILY_BLURB, entitiesOf } from '../lib/db';
+import { mapHref } from '../lib/links';
+import { tierClass } from '../lib/tier';
+
+const hero = asset('/games/overrank/banners/all-hail-the-king.webp');
+const pageCount = entities.length;
+const cat = (id: string) => categories.find(c => c.id === id)!;
+const quick = [
+  { icon: 'classes', title: 'Classes', text: cat('classes').description, href: '/classes/' },
+  { icon: 'skills', title: 'Skills', text: cat('skills').description, href: '/skills/' },
+  { icon: 'items', title: 'Items', text: cat('items').description, href: '/items/' },
+  { icon: 'weapons', title: 'Weapons', text: 'Every weapon in the item database.', href: '/items/?q=weapon' },
+  { icon: 'rifts', title: 'Rifts', text: cat('rifts').description, href: '/rifts/' },
+  { icon: 'guides', title: 'Guides', text: cat('guides').description, href: '/guides/' },
+  { icon: 'ranks', title: 'Ranks', text: cat('ranks').description, href: '/ranks/' },
+  { icon: 'codes', title: 'Codes', text: 'Active and past redeem codes with their rewards.', href: '/codes/' },
+  { icon: 'database', title: 'Database', text: `All ${categories.length} categories, from badges to weapon arts.`, href: '/database/' },
+];
+const start = home.start_here.map((s: any) => ({ ...s, href: mapHref(s.href).href, img: asset(s.image) }));
+const popular = home.popular_at_crawl.map((p: any) => ({ ...p, ent: byPath.get(p.href), img: asset(p.image) })).filter((p: any) => p.ent);
+const latest = entities.filter(e => e.last_edited && !e.is_overview && e.type !== 'news').sort((a, b) => parseDate(b.last_edited) - parseDate(a.last_edited) || a.title.localeCompare(b.title)).slice(0, 8);
+const news = entities.filter(e => e.type === 'news' && e.slug !== 'index');
+const activeCodes = home.active_codes_at_crawl;
+const groups = FAMILIES.map(f => ({ f, cats: categories.filter(c => c.family === f) })).filter(g => g.cats.length);
+const examples = popular.slice(0, 3).map((p: any) => p.ent.title);
+---
+<Base title="Overrank Atlas — Everything you need to master Overrank">
+  <section class="hero" style={hero ? `--hero-img:url(${hero})` : ''}>
+    <div class="wrap">
+      <span class="eyebrow">Overrank · complete reference</span>
+      <h1>Everything you need to master <em>Overrank</em></h1>
+      <p class="lead">One searchable place for every class, skill, item, rift, rank, guide and code — kept exactly as published, organised so you find it in seconds.</p>
+      <div class="hero-search">
+        <button class="big" type="button" data-open-search aria-label="Search the whole database">
+          <Icon name="search" size={22} /> <span>Search classes, skills, items, monsters, guides…</span> <span class="kbd">Ctrl K</span>
+        </button>
+      </div>
+      <div class="hero-quick">
+        {examples.map((x: string) => <button class="chip" type="button" data-open-search data-q={x}>{x}</button>)}
+        <button class="chip" type="button" data-open-search data-q="rift">rift</button>
+        <button class="chip" type="button" data-open-search data-q="forge">forge</button>
+      </div>
+      <div class="hero-stats">
+        <div><b>{pageCount}</b>pages</div><div><b>{categories.length}</b>categories</div><div><b>{codes.length}</b>codes tracked</div>
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <div class="section-title"><h2>Quick access</h2><a href="/database/">All categories →</a></div>
+    <div class="grid quick-grid">
+      {quick.map(q => (
+        <a class="card card-link quick" href={q.href}>
+          <span class="ico"><Icon name={q.icon} /></span>
+          <span><h3>{q.title}</h3><p>{q.text}</p></span>
+        </a>
+      ))}
+    </div>
+
+    <div class="section-title"><h2>Start here</h2><span class="faint" style="font-size:var(--fs-sm)">Essentials for new hunters</span></div>
+    <div class="grid start-grid">
+      {start.map((s: any, i: number) => (
+        <a class="card card-link start-card" href={s.href}>
+          <div class="im">{s.img && <img src={s.img} alt="" loading="lazy" decoding="async" width="640" height="320" />}</div>
+          <div class="bd"><span class="n">STEP {i + 1}</span><h3>{s.title}</h3><p>{s.text}</p></div>
+        </a>
+      ))}
+    </div>
+
+    <div class="two-col" style="margin-top:48px">
+      <section>
+        <div class="section-title" style="margin-top:0"><h2>Popular content</h2><span class="faint" style="font-size:var(--fs-xs)">Most viewed on the original wiki · snapshot Nov 5, 2026</span></div>
+        <ul class="rows">
+          {popular.map((p: any) => (
+            <li><a class="card card-link row" href={entityHref(p.ent)}>
+              {p.img ? <img src={p.img} alt="" loading="lazy" width="40" height="40" /> : <span class="thumb"></span>}
+              <span class="tx"><b>{p.ent.title}</b><span>{catLabel(p.ent.type)}</span></span>
+              {p.badge && <span class={`badge ${tierClass(p.badge)}`}>{p.badge}</span>}
+            </a></li>
+          ))}
+        </ul>
+      </section>
+      <section>
+        <div class="section-title" style="margin-top:0"><h2>Active codes</h2><a href="/codes/">All codes →</a></div>
+        <ul class="rows">
+          {activeCodes.map((c: any) => (
+            <li class="card row" style="align-items:flex-start;flex-wrap:wrap">
+              <span class="tx"><b style="font-family:var(--font-display);letter-spacing:.06em">{c.code}</b><span>Ends {c.ends_text} · {c.rewards}</span></span>
+              <button class="btn btn-sm copy-btn" type="button" data-copy={c.code}>Copy</button>
+            </li>
+          ))}
+        </ul>
+        <p class="faint" style="font-size:var(--fs-xs);margin-top:8px">Listed as active on the original wiki at snapshot time. Check the end date before redeeming.</p>
+      </section>
+    </div>
+
+    <div class="section-title"><h2>Latest updates</h2><span class="faint" style="font-size:var(--fs-sm)">Dates as shown on the original pages</span></div>
+    <div class="two-col" style="grid-template-columns:1fr">
+      <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(260px,1fr))">
+        {news.map(n => (
+          <a class="card card-link row" href={`/news/${n.slug}/`}>
+            <span class="thumb" style="display:grid;place-items:center;color:var(--accent-strong)"><Icon name="news" size={18} /></span>
+            <span class="tx"><b>{n.title}</b><span>Announcement</span></span>
+          </a>
+        ))}
+        {latest.map(e => (
+          <a class="card card-link row" href={entityHref(e)}>
+            {asset(e.image) ? <img src={asset(e.image)!} alt="" loading="lazy" width="40" height="40" /> : <span class="thumb"></span>}
+            <span class="tx"><b>{e.title}</b><span>{catLabel(e.type)} · edited {e.last_edited}</span></span>
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <div class="section-title"><h2>Explore the database</h2><a href="/database/">Open the full map →</a></div>
+    <div class="grid family-grid">
+      {groups.map(g => (
+        <section class="card family">
+          <h3>{g.f}</h3>
+          <p class="b">{FAMILY_BLURB[g.f]}</p>
+          <div class="cat-pills">{g.cats.map(c => <a class="cat-pill" href={`/${c.id}/`}><Icon name={c.id} size={16} />{c.label} <span class="n">{c.count}</span></a>)}</div>
+        </section>
+      ))}
+    </div>
+  </div>
+  <script>
+    document.querySelectorAll<HTMLButtonElement>('[data-copy]').forEach(b => b.addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(b.dataset.copy!); b.textContent = 'Copied'; b.dataset.done = 'true'; setTimeout(() => { b.textContent = 'Copy'; b.dataset.done = 'false'; }, 1600); } catch { b.textContent = 'Copy failed'; }
+    }));
+  </script>
+</Base>

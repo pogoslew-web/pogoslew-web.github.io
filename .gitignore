@@ -1,0 +1,10 @@
+node_modules/
+site/dist/
+site/.astro/
+raw/
+audit/
+tests/shots/
+site/public/assets/
+site/public/search-index.json
+site/src/data/asset-map.json
+__pycache__/

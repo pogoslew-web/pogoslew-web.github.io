@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import Icon from '../../components/Icon.astro';
+import { entities, codes } from '../../lib/db';
+const posts = entities.filter(e => e.type === 'news' && e.slug !== 'index').map(e => {
+  const bl = e.sections.flatMap(s => s.blocks);
+  const date = bl.find(b => b.type === 'div' && /20\d\d/.test(b.text ?? ''))?.text?.split('·')[0].trim() ?? null;
+  const snippet = bl.find(b => b.type === 'p')?.text ?? '';
+  const code = codes.find(c => c.news_id === e.id);
+  return { e, date, snippet, code };
+});
+---
+<Base title="Announcements" description="Announcements and code releases published on the Overrank wiki.">
+  <div class="wrap page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Announcements' }]} />
+    <header class="page-head"><h1>Announcements <span class="count">{posts.length}</span></h1><p>Posts published on the original wiki, with the dates shown there.</p></header>
+    <ul class="rows">
+      {posts.map(p => (
+        <li><a class="card card-link row" href={`/news/${p.e.slug}/`} style="min-height:72px">
+          <span class="thumb" style="display:grid;place-items:center;color:var(--accent-strong)"><Icon name={p.code ? 'codes' : 'news'} size={18} /></span>
+          <span class="tx"><b>{p.e.title}</b><span>{p.date ?? 'Date not shown'}{p.snippet ? ' · ' + p.snippet.slice(0, 110) : ''}</span></span>
+        </a></li>
+      ))}
+    </ul>
+  </div>
+</Base>

@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import { categories } from '../lib/db';
+---
+<Base title="Page not found" noindex>
+  <div class="wrap page" style="text-align:center;padding-block:96px">
+    <div class="eyebrow">Error 404</div><h1 style="font-size:var(--fs-2xl);margin:8px 0 12px">This page does not exist</h1>
+    <p class="muted">It may have moved, or the address has a typo. Try a search or pick a category.</p>
+    <p><button class="btn btn-primary" type="button" data-open-search>Search the database</button></p>
+    <div class="cat-pills" style="justify-content:center;margin-top:24px">{categories.map(c => <a class="cat-pill" href={`/${c.id}/`}>{c.label}</a>)}</div>
+  </div>
+</Base>

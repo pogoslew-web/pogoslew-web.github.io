@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import { categories } from '../lib/db';
+---
+<Base title="Search" description="Search every Overrank class, skill, item, monster, rift, guide and more." noindex>
+  <div class="wrap page" data-cats={JSON.stringify(categories.map(c => ({ id: c.id, label: c.label })))} id="sp">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Search' }]} />
+    <header class="page-head"><h1>Search</h1></header>
+    <form id="sf" role="search" style="display:flex;gap:8px"><input class="input" id="sq" type="search" placeholder="Search the whole database…" autocomplete="off" aria-label="Search" /><button class="btn btn-primary" type="submit">Search</button></form>
+    <div class="cat-pills" id="stypes" style="margin:16px 0" role="group" aria-label="Filter by category"></div>
+    <div class="result-line"><span id="scount" aria-live="polite"></span></div>
+    <div class="grid grid-cards" id="sres"></div>
+    <div class="empty" id="sempty" hidden></div>
+  </div>
+  <script>
+    import { runSearch, esc, mark } from '../scripts/searchCore';
+    const sp = document.getElementById('sp')!; const cats: { id: string; label: string }[] = JSON.parse(sp.dataset.cats!);
+    const q = document.getElementById('sq') as HTMLInputElement; const res = document.getElementById('sres')!; const empty = document.getElementById('sempty')!; const types = document.getElementById('stypes')!; const count = document.getElementById('scount')!;
+    const params = new URLSearchParams(location.search); q.value = params.get('q') ?? ''; let type = params.get('type');
+    async function go() {
+      const term = q.value.trim(); const p = new URLSearchParams(); if (term) p.set('q', term); if (type) p.set('type', type);
+      history.replaceState(null, '', p.toString() ? '?' + p : location.pathname);
+      if (!term) { res.innerHTML = ''; types.innerHTML = ''; count.textContent = ''; empty.hidden = false; empty.innerHTML = '<b>Type something to search.</b><p class="faint">Names, ranks, elements, items… Press <span class="kbd">/</span> anywhere to search faster.</p>'; return; }
+      const all = await runSearch(term, null, 200);
+      const by = new Map<string, number>(); all.forEach(r => by.set(r.t, (by.get(r.t) ?? 0) + 1));
+      const list = type ? all.filter(r => r.t === type) : all;
+      types.innerHTML = `<button class="chip" aria-pressed="${!type}" data-t="">All <span class="n">${all.length}</span></button>` + [...by.entries()].map(([t, n]) => `<button class="chip" aria-pressed="${type === t}" data-t="${t}">${esc(cats.find(c => c.id === t)?.label ?? (t === 'news' ? 'Announcements' : t))} <span class="n">${n}</span></button>`).join('');
+      count.textContent = `${list.length} result${list.length === 1 ? '' : 's'} for “${term}”`;
+      empty.hidden = list.length > 0;
+      if (!list.length) empty.innerHTML = `<b>No results for “${esc(term)}”</b><p>Try fewer letters, check the spelling, or browse a category.</p><div class="cat-pills" style="justify-content:center">${cats.slice(0, 10).map(c => `<a class="cat-pill" href="/${c.id}/">${esc(c.label)}</a>`).join('')}</div>`;
+      res.innerHTML = list.map(r => `<a class="card card-link entry" href="${r.h}"><span class="entry-media">${r.i ? `<img src="${r.i}" alt="" loading="lazy" decoding="async">` : `<span class="ph">${esc(r.n.charAt(0).toUpperCase())}</span>`}</span><span class="entry-body"><span class="entry-title">${mark(r.n, term)}</span><span class="entry-meta"><span>${esc(r.tl)}</span>${r.r ? `<span class="badge">${esc(r.r)}</span>` : ''}</span></span></a>`).join('');
+    }
+    types.addEventListener('click', e => { const b = (e.target as HTMLElement).closest('button[data-t]') as HTMLElement | null; if (b) { type = b.dataset.t || null; go(); } });
+    document.getElementById('sf')!.addEventListener('submit', e => { e.preventDefault(); type = null; go(); });
+    let t: number; q.addEventListener('input', () => { clearTimeout(t); t = window.setTimeout(() => { type = null; go(); }, 120); });
+    q.focus(); go();
+  </script>
+</Base>

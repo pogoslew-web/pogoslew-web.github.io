@@ -1,0 +1,15 @@
+{
+ "pages_expected": 1163,
+ "pages_checked": 1135,
+ "pages_missing": 0,
+ "missing_list": [],
+ "numbers_checked": 13456,
+ "numbers_missing": 0,
+ "pages_with_missing_numbers": [],
+ "internal_links_checked": 86373,
+ "broken_internal_links": 0,
+ "broken_sample": [],
+ "images_missing": [],
+ "images_missing_count": 0,
+ "html_pages_in_dist": 1163
+}

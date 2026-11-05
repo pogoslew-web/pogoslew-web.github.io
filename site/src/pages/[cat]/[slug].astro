@@ -1,0 +1,158 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import Icon from '../../components/Icon.astro';
+import { entities, byId, catLabel, catById, asset, entityHref, FACETS } from '../../lib/db';
+import { renderHtml } from '../../lib/links';
+import { tierClass } from '../../lib/tier';
+
+export function getStaticPaths() {
+  return entities
+    .filter(e => !['news'].includes(e.type) && !(e.type === 'odds' && e.slug === 'index') && !(e.type === 'page'))
+    .map(e => ({ params: { cat: e.type, slug: e.slug }, props: { id: e.id } }));
+}
+const { id } = Astro.props;
+const e = byId.get(id)!;
+const cat = catById.get(e.type);
+const img = asset(e.image);
+const sections = e.sections.filter(s => s.blocks.length || s.heading);
+const SKIP = new Set(['Talk about this page']);
+const toc = sections.filter(s => s.heading && s.id && !SKIP.has(s.heading));
+const blocksHtml = (blocks: any[]) => blocks.map(b => {
+  if (b.type === 'heading') return `<h${b.level}${b.id ? ` id="${b.id}"` : ''}>${b.text}</h${b.level}>`;
+  if (b.type === 'model' || b.type === 'image') return '';
+  return renderHtml(b.html ?? '');
+}).join('\n');
+const model = e.media.find(m => m.kind === '3d-model');
+const modelUrl = model ? asset(model.src) : null;
+const related = e.related.map(r => ({ ...r, ent: [...byId.values()].find(x => x.source.path === r.href.replace(/\/$/, '')) })).filter(r => r.ent);
+const backlinks = e.linked_from.map(i => byId.get(i)!).filter(x => x && !['news'].includes(x.type) && !x.is_overview).slice(0, 24);
+const facts = e.infobox.filter(i => i.value !== '');
+const desc = (e.summary || e.sections.flatMap(s => s.blocks).find(b => b.type === 'p')?.text || `${e.title} — ${catLabel(e.type)} in Overrank.`).slice(0, 180);
+const label = catLabel(e.type);
+const crumbs = [{ label: 'Home', href: '/' }, { label, href: `/${e.type}/` }, ...(e.is_overview ? [] : []), { label: e.title }];
+---
+<Base title={`${e.title} · ${label}`} description={desc} image={img} type="article">
+  <div class="wrap page">
+    <Breadcrumb items={crumbs} />
+    <header class="detail-head">
+      <div class="portrait">{img ? <img src={img} alt={`${e.title} (${label})`} width="148" height="148" decoding="async" /> : <span class="ph" style="font:700 2.2rem var(--font-display);color:var(--fg-faint)" aria-hidden="true">{e.title.trim().charAt(0).toUpperCase()}</span>}</div>
+      <div>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:6px">
+          <a class="badge" href={`/${e.type}/`}>{label}</a>
+          {e.rarity && <span class={`badge ${tierClass(e.rarity)}`}>{e.rarity}</span>}
+          {e.incomplete_at_source && <span class="badge" style="border-color:var(--warn);color:var(--warn)">Incomplete at source</span>}
+        </div>
+        <h1>{e.title}</h1>
+        {e.summary && <p class="sub">{e.summary}</p>}
+        <div class="meta">
+          {e.last_edited && <span>Last edited by {e.last_edited_by ?? 'Awaitlab'} · {e.last_edited}</span>}
+          <a href={e.source.url} target="_blank" rel="noopener noreferrer" style="display:inline-flex;gap:4px;align-items:center"><Icon name="external" size={13} /> Original page</a>
+          <button class="btn btn-ghost btn-sm" type="button" id="copy-link">Copy link</button>
+        </div>
+      </div>
+    </header>
+
+    {e.incomplete_at_source && <div class="notice warn"><b>This page is incomplete on the original wiki.</b> Unknown information appears as “???” exactly as published. Nothing has been filled in.</div>}
+
+    <div class="detail">
+      <aside class="toc" aria-label="On this page">
+        <div class="sticky">
+          <h2>On this page</h2>
+          <ul>{toc.map(s => <li><a href={`#${s.id}`}>{s.heading}</a></li>)}</ul>
+          <div class="page-actions" style="margin-top:16px">
+            <button class="btn btn-sm" type="button" id="expand-all">Expand all</button>
+            <button class="btn btn-sm" type="button" id="collapse-all">Collapse all</button>
+          </div>
+        </div>
+      </aside>
+
+      <article>
+        {facts.length > 0 && (
+          <div id="facts-inline">
+            <div class="facts-inline">
+              {facts.slice(0, 6).map(f => <div class="stat"><div class="k">{f.key}</div><div class="v">{f.key === 'Rank / rarity' || f.key === 'Rarity' ? <span class={`badge ${tierClass(f.value)}`}>{f.value}</span> : f.value}</div></div>)}
+            </div>
+            {facts.length > 6 && (
+              <details class="more-facts"><summary class="btn btn-sm">All {facts.length} details</summary>
+                <div class="facts-inline" style="margin-top:10px">
+                  {facts.slice(6).map(f => <div class="stat"><div class="k">{f.key}</div><div class="v">{f.value}</div></div>)}
+                </div>
+              </details>
+            )}
+          </div>
+        )}
+        {toc.length > 2 && <nav class="toc-chips" aria-label="Jump to section">{toc.map(s => <a class="chip" href={`#${s.id}`}>{s.heading}</a>)}</nav>}
+        <div class="sections">
+          {sections.map((s, i) => (
+            s.heading ? (
+              <details class="acc" id={s.id ?? undefined} open data-sec>
+                <summary>{s.heading}</summary>
+                <div class="acc-body prose" set:html={blocksHtml(s.blocks)} />
+              </details>
+            ) : <div class="prose" set:html={blocksHtml(s.blocks)} />
+          ))}
+        </div>
+      </article>
+
+      <aside class="side-stack" aria-label="Details">
+        <div class="sticky side-stack">
+          {facts.length > 0 && (
+            <section class="card facts facts-aside" aria-label="Quick facts">
+              <h2>Quick facts</h2>
+              <dl>{facts.map(f => <div class="f"><dt>{f.key}</dt><dd>{f.key === 'Rank / rarity' || f.key === 'Rarity' ? <span class={`badge ${tierClass(f.value)}`}>{f.value}</span> : f.value}</dd></div>)}</dl>
+            </section>
+          )}
+          {modelUrl && (
+            <section class="model-box" aria-label="3D view">
+              <model-viewer src={modelUrl} alt={model?.alt ?? `${e.title} 3D`} camera-controls auto-rotate loading="lazy" interaction-prompt="none" shadow-intensity="0.6"></model-viewer>
+            </section>
+          )}
+          {related.length > 0 && (
+            <section class="card facts" aria-label="Related pages">
+              <h2>Related pages</h2>
+              <ul class="related-list">{related.map(r => (
+                <li><a href={entityHref(r.ent!)}>{asset(r.img ?? r.ent!.image) ? <img src={asset(r.img ?? r.ent!.image)!} alt="" loading="lazy" width="36" height="36" /> : <span class="thumb"></span>}<span>{r.text}</span></a></li>
+              ))}</ul>
+            </section>
+          )}
+          {backlinks.length > 0 && (
+            <section class="card facts" aria-label="Linked from">
+              <h2>Linked from</h2>
+              <ul class="related-list">{backlinks.slice(0, 8).map(b => <li><a href={entityHref(b)}>{asset(b.image) ? <img src={asset(b.image)!} alt="" loading="lazy" width="36" height="36" /> : <span class="thumb"></span>}<span>{b.title}<br /><small class="faint">{catLabel(b.type)}</small></span></a></li>)}</ul>
+              {backlinks.length > 8 && (
+                <details style="margin-top:6px"><summary class="faint" style="cursor:pointer;font-size:var(--fs-sm)">Show {backlinks.length - 8} more</summary>
+                  <ul class="related-list" style="margin-top:6px">{backlinks.slice(8).map(b => <li><a href={entityHref(b)}><span class="thumb"></span><span>{b.title}<br /><small class="faint">{catLabel(b.type)}</small></span></a></li>)}</ul>
+                </details>
+              )}
+            </section>
+          )}
+        </div>
+      </aside>
+    </div>
+  </div>
+  {modelUrl && <script>import '@google/model-viewer';</script>}
+  <script>
+    const secs = [...document.querySelectorAll<HTMLDetailsElement>('details[data-sec]')];
+    // mobile : seules les deux premières sections restent ouvertes ; tout reste accessible
+    if (matchMedia('(max-width: 719px)').matches && secs.length > 3) secs.slice(2).forEach(s => (s.open = false));
+    const openHash = () => { const id = decodeURIComponent(location.hash.slice(1)); if (!id) return; const t = document.getElementById(id); const d = t?.closest('details[data-sec]') as HTMLDetailsElement | null; if (d) { d.open = true; t!.scrollIntoView(); } };
+    addEventListener('hashchange', openHash); openHash();
+    document.getElementById('expand-all')?.addEventListener('click', () => secs.forEach(s => (s.open = true)));
+    document.getElementById('collapse-all')?.addEventListener('click', () => secs.forEach(s => (s.open = false)));
+    document.querySelectorAll<HTMLAnchorElement>('.toc-chips a, .toc a').forEach(a => a.addEventListener('click', () => { const t = document.getElementById(a.hash.slice(1)) as HTMLDetailsElement | null; if (t && 'open' in t) t.open = true; }));
+    // surlignage du sommaire
+    const links = [...document.querySelectorAll<HTMLAnchorElement>('.toc a')];
+    if ('IntersectionObserver' in window && links.length) {
+      const io = new IntersectionObserver(es => { es.forEach(en => { if (en.isIntersecting) links.forEach(l => l.setAttribute('aria-current', String(l.hash === '#' + en.target.id))); }); }, { rootMargin: '-20% 0px -70% 0px' });
+      secs.forEach(s => io.observe(s));
+    }
+    document.getElementById('copy-link')?.addEventListener('click', async ev => { const b = ev.currentTarget as HTMLButtonElement; try { await navigator.clipboard.writeText(location.href.split('#')[0]); b.textContent = 'Link copied'; setTimeout(() => (b.textContent = 'Copy link'), 1600); } catch { b.textContent = 'Copy failed'; } });
+  </script>
+  <style>
+    @media (min-width: 1080px) { #facts-inline { display: none !important; } }
+    .more-facts { margin: -8px 0 20px; } .more-facts summary { list-style: none; cursor: pointer; display: inline-flex; }
+    .more-facts summary::-webkit-details-marker { display: none; }
+    @media (max-width: 1079px) { .facts-aside { display: none; } }
+  </style>
+</Base>

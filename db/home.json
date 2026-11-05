@@ -1,0 +1,82 @@
+{
+ "source": "https://overrank.awaitlab.com/en",
+ "tagline": "Classes, ranks, rifts, items. Ask a question or browse the wiki.",
+ "start_here": [
+  {
+   "href": "/en/w/overrank/guides/getting-started",
+   "image": "/games/overrank/captures/s1-squad.webp",
+   "title": "Getting started",
+   "text": "Your first hour: class, rifts, forge."
+  },
+  {
+   "href": "/en/w/overrank/guides/progression-path",
+   "image": "/games/overrank/banners/nobody-to-s-rank.webp",
+   "title": "Ranks E to Nation",
+   "text": "The road to S-rank, step by step."
+  },
+  {
+   "href": "/en/w/overrank/classes/overview",
+   "image": "/games/overrank/banners/select-your-class.webp",
+   "title": "Pick a class",
+   "text": "15 classes, 8 of them secret."
+  }
+ ],
+ "active_codes_at_crawl": [
+  {
+   "code": "VISIT8",
+   "news_path": "/en/news/c36d1c58-f5a6-48b4-85ed-db9c114c2bbc",
+   "ends_text": "Nov 5, 2026",
+   "rewards": "5,000 shards, 1 × Server boost, 1 × XP boost, 1 × Shard boost, 1 × Luck boost, item Trash, XP/Shards/Luck x2 30 min, +1 pass level"
+  },
+  {
+   "code": "VISIT9",
+   "news_path": "/en/news/96d4fcd5-bc4f-4dad-963b-8b32275819dd",
+   "ends_text": "Nov 8, 2026",
+   "rewards": "1 × Rift summon, 1 × Private rift, item Trash, XP x2 10 min, XP/Shards/Luck x2 30 min"
+  }
+ ],
+ "popular_at_crawl": [
+  {
+   "href": "/en/w/overrank/classes/reaper",
+   "image": "/games/overrank/classes/reaper.webp",
+   "title": "Reaper",
+   "category": "Classes",
+   "badge": "Mythical"
+  },
+  {
+   "href": "/en/w/overrank/classes/overlord",
+   "image": "/games/overrank/classes/overlord.webp",
+   "title": "Overlord",
+   "category": "Classes",
+   "badge": "Legendary"
+  },
+  {
+   "href": "/en/w/overrank/classes/overview",
+   "image": "/games/overrank/banners/class-lineup.webp",
+   "title": "Classes: how to choose",
+   "category": "Classes",
+   "badge": null
+  },
+  {
+   "href": "/en/w/overrank/classes/warper",
+   "image": "/games/overrank/classes/warper.webp",
+   "title": "Warper",
+   "category": "Classes",
+   "badge": null
+  },
+  {
+   "href": "/en/w/overrank/guides/progression-path",
+   "image": "/games/overrank/icons/rank-e-to-s.webp",
+   "title": "Progression path: E to Nation",
+   "category": "Guides",
+   "badge": null
+  },
+  {
+   "href": "/en/w/overrank/classes/assassin",
+   "image": "/games/overrank/classes/assassin.webp",
+   "title": "Assassin",
+   "category": "Classes",
+   "badge": "Rare"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import fs from 'node:fs'; import path from 'node:path';
+const R = path.resolve(process.cwd(), '..');
+const rep = JSON.parse(fs.readFileSync(path.join(R, 'db/integrity.json'), 'utf8'));
+const distPath = path.join(R, 'db/dist_check.json');
+const dist = fs.existsSync(distPath) ? JSON.parse(fs.readFileSync(distPath, 'utf8')) : null;
+const fmt = (n: number) => n.toLocaleString('en-US');
+const mb = (b: number) => (b / 1048576).toFixed(1) + ' MB';
+const okRows = rep.by_category.filter((r: any) => r.declared === r.fetched && r.fetched === r.integrated).length;
+const notes = [
+  ['Leaderboards (live player rankings)', 'Not copied', 'Live game data listing real player usernames. The categories are listed and the page links to the live source.'],
+  ['Awakened Registry', 'Not accessible', 'Requires signing in on the original site; nothing could be read.'],
+  ['Forum, players list, sign-in and account pages', 'Out of scope', 'Community and authentication features, not wiki content. Reached only as links.'],
+  ['Legal pages (notice, privacy, terms, cookies, rules)', 'Not copied', 'They describe the original site, not this one.'],
+  ['Odds calculator (attempts, luck bonuses, group tabs)', 'Not reproduced', 'All 76 odds tables and the luck-modifier list are kept with their values at the source defaults (100 attempts, no bonus). The interactive recalculation and the group tabs are not reproduced: the group membership of each table is not in the published HTML and the formulas were not invented.'],
+  ['“Ask a question” AI assistant and live online counter', 'Not reproduced', 'Server-side features of the original site.'],
+  ['Discussion widgets under announcements', 'Not copied', 'Community interface (countdown, sign-in prompt), not content.'],
+  ['“Most viewed” order and popular pages', 'Snapshot', 'Taken on Nov 5, 2026. The original ranking is live and cannot be refreshed from here.'],
+  ['Unknown information shown as “???”', 'As published', `${rep.incomplete_at_source.length} pages are incomplete on the original wiki. They are shown exactly as published; nothing was filled in.`],
+  ['Artwork and 3D models', 'Rights reserved', 'The original footer states “Overrank art © AwaitLab”. Files are kept for private review and must not be published without authorization from the owner.'],
+];
+---
+<Base title="Content integrity report" description="What was discovered, recovered, integrated and verified from the original Overrank wiki, and what could not be.">
+  <div class="wrap page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Content integrity' }]} />
+    <header class="page-head"><div class="eyebrow">Transparency</div><h1>Content integrity report</h1>
+      <p>Counts come from the crawl and the verification scripts, not from estimates. Snapshot of the original wiki: {rep.generated}.</p></header>
+
+    <div class="stat-grid">
+      <div class="stat"><div class="k">Pages discovered</div><div class="v">{fmt(rep.pages.in_scope_discovered)}</div></div>
+      <div class="stat"><div class="k">Pages recovered</div><div class="v">{fmt(rep.pages.fetched_ok)}</div></div>
+      <div class="stat"><div class="k">Content pages integrated</div><div class="v">{fmt(rep.pages.integrated_as_pages)}</div></div>
+      <div class="stat"><div class="k">Inaccessible pages</div><div class="v">{rep.pages.fetch_failed}</div></div>
+      <div class="stat"><div class="k">Images &amp; media referenced</div><div class="v">{fmt(rep.images.referenced)}</div></div>
+      <div class="stat"><div class="k">Images &amp; media recovered</div><div class="v">{fmt(rep.images.downloaded)}</div></div>
+      <div class="stat"><div class="k">Resources missing</div><div class="v">{rep.images.failed.length + rep.images.entity_images_missing.length}</div></div>
+      <div class="stat"><div class="k">Value differences found</div><div class="v">{rep.fidelity.pages_with_differences}</div></div>
+    </div>
+
+    <div class="section-title"><h2>How the pages add up</h2></div>
+    <div class="table-wrap" tabindex="0"><table class="data-table"><tbody>
+      <tr><td>Pages discovered in scope (wiki + announcements + home)</td><td>{fmt(rep.pages.in_scope_discovered)}</td></tr>
+      <tr><td>– Home, wiki home and category index pages (used for navigation, cross-checked)</td><td>{rep.pages.index_and_home_pages + 1}</td></tr>
+      <tr><td>– Random-page address (redirects to a random page, not content)</td><td>1</td></tr>
+      <tr><td><b>= Content pages integrated</b></td><td><b>{fmt(rep.pages.integrated_as_pages)}</b></td></tr>
+      <tr><td>Edit forms found but excluded (not content)</td><td>{fmt(rep.pages.edit_forms_excluded)}</td></tr>
+      <tr><td>Other addresses seen, out of scope (forum, players, sign-in, legal)</td><td>{rep.pages.out_of_scope_count}</td></tr>
+    </tbody></table></div>
+
+    <div class="section-title"><h2>Declared vs recovered, by category</h2><span class="faint" style="font-size:var(--fs-sm)">{okRows} of {rep.by_category.length} categories match exactly</span></div>
+    <div class="table-wrap" tabindex="0"><table class="data-table">
+      <thead><tr><th>Category</th><th>Declared on source</th><th>Listed</th><th>Recovered</th><th>Integrated</th><th>Check</th></tr></thead>
+      <tbody>{rep.by_category.map((r: any) => {
+        const ok = r.declared === r.fetched && r.fetched === r.integrated;
+        const odds = r.id === 'odds';
+        return <tr><td><a href={`/${r.id}/`}>{r.label}</a></td><td>{r.declared}</td><td>{odds ? '76 tables' : r.cards_listed}</td><td>{odds ? '76 tables' : r.fetched}</td><td>{odds ? '76 tables' : r.integrated}</td><td>{(ok || odds) ? '✓ matches' : '✗ differs'}</td></tr>;
+      })}</tbody></table></div>
+
+    <div class="section-title"><h2>Verification</h2></div>
+    <ul>
+      <li><b>Source → database.</b> {fmt(rep.fidelity.pages_compared)} pages compared word by word and number by number against the original HTML: {rep.fidelity.pages_with_differences} differences. The {rep.fidelity_special_pages.length} pages with a non-standard layout (announcements and the odds hub) were compared on their full content: {rep.fidelity_special_pages.reduce((a: number, s: any) => a + s.missing_total, 0)} words missing.</li>
+      {dist && <li><b>Database → built site.</b> {fmt(dist.pages_checked)} pages checked in the final HTML: {fmt(dist.numbers_checked)} numeric values compared, {dist.numbers_missing} missing; {dist.pages_missing} expected pages absent; {dist.broken_internal_links} broken internal links.</li>}
+      <li><b>Images.</b> {fmt(rep.images.downloaded)} of {fmt(rep.images.referenced)} resources downloaded ({mb(rep.images.total_bytes)}), {rep.images.duplicates_removed} byte-identical duplicates stored once. Every page image resolves to a recovered file. {rep.entities_without_image} pages have no image on the original and none was substituted.</li>
+    </ul>
+
+    <div class="section-title"><h2>What was not copied or could not be verified</h2></div>
+    <div class="table-wrap" tabindex="0"><table class="data-table"><thead><tr><th>Item</th><th>Status</th><th>Detail</th></tr></thead>
+      <tbody>{notes.map(n => <tr><td>{n[0]}</td><td><span class="badge">{n[1]}</span></td><td>{n[2]}</td></tr>)}</tbody></table></div>
+    <p class="faint" style="margin-top:16px;font-size:var(--fs-sm)">No claim of 100% recovery is made beyond the figures above: they cover what is reachable without signing in.</p>
+  </div>
+</Base>
