@@ -1,0 +1,26 @@
+{
+ "summary": "Comment fonctionnent les grades, ce que peut faire la forge (amélioration, montée de grade, reforge) et comment le marché fixe le prix de l’équipement.",
+ "headings": {
+  "grades": "Grades",
+  "the-forge": "La forge",
+  "the-market": "Le marché",
+  "slots-and-weapons": "Emplacements et armes"
+ },
+ "blocks": {
+  "grades": {
+   "0": "<p>L’équipement a un <strong>grade</strong>, écrit sous forme de lettre de rang, tiré au moment du butin : <strong>F</strong> Trash, <strong>E</strong> Common, <strong>D</strong> Uncommon, <strong>C</strong> Rare, <strong>B</strong> Epic, <strong>A</strong> Legendary, <strong>S</strong> Mythic. Au-dessus : <strong>EX</strong> (éditions limitées, jamais en boutique) et <strong>SP</strong> (récompenses exclusives entre S et EX). Un compte peut posséder plusieurs exemplaires d’un objet EX ou SP ; seul le profil qui a obtenu un exemplaire peut l’échanger, le vendre ou le mettre aux enchères. Un meilleur grade multiplie les stats et la valeur de l’objet.</p>",
+   "2": "<p>Fréquence de butin de chaque grade : <a href=\"/en/w/overrank/odds#item-rarity-normal\">tableaux de rareté des objets</a>.</p>"
+  },
+  "the-forge": {
+   "0": "<p>La forge se trouve sur l’Awakened Plaza. Elle fait trois choses, et <strong>aucune ne peut détruire votre objet</strong> :</p>",
+   "1": "<ul> <li><strong>Amélioration (+1, +2...)</strong> : chaque niveau ajoute 8 % aux stats principales. Maximum <strong>+10</strong>, <strong>+25</strong> pour une arme de grade S, <strong>+30</strong> pour les armes EX et SP. Elle n’échoue jamais.</li> <li><strong>Montée de grade</strong> (à +10) : l’objet gagne un grade (jusqu’à S), son niveau de forge repasse à +0 et il gagne de nouveaux bonus.</li> <li><strong>Reforge</strong> : retire au sort les stats bonus de l’objet (<a href=\"/en/w/overrank/odds#forge\">tableau de reforge</a>). C’est la seule partie aléatoire.</li> </ul>",
+   "2": "<p>Coûts : <a href=\"/en/w/overrank/formulas/items-and-forge\">formules d’objets et de forge</a>.</p>"
+  },
+  "the-market": {
+   "0": "<p>Le marché vend des potions et de l’équipement de <strong>votre rang</strong>. Son stock change toutes les heures et est le même pour tous les éveillés de votre rang : chaque modèle est surtout Uncommon (D), parfois Common, Rare ou Epic, rarement Legendary. Les modèles d’un rang supérieur, les armes Nation et les éditions exclusives ne sont jamais vendus. L’achat coûte 4 fois la valeur de rang E de l’objet, multipliée par un facteur de votre rang (de ×1 au rang E à ×30 à Nation, ×130 pour une arme) ; la revente rend <strong>80 %</strong> de ce que vous avez payé (ou de sa valeur pour un objet looté), plus 80 % des éclats investis à la forge. Voir les <a href=\"/en/w/overrank/formulas/economy\">formules d’économie</a> et le <a href=\"/en/w/overrank/odds#market-offer\">tableau du stock du marché</a>.</p>"
+  },
+  "slots-and-weapons": {
+   "0": "<p>Les armes existent en 7 styles (blade, spear, dagger, scythe, greatsword, hammer, staff) avec des dégâts et une vitesse différents : voir <a href=\"/en/w/overrank/items/overview\">Objets</a>. Chaque arme porte aussi un <a href=\"/en/w/overrank/weapon-arts/overview\">art d’arme</a>.</p>"
+  }
+ }
+}

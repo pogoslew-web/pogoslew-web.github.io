@@ -1,0 +1,146 @@
+b5f3091161|Récompenses d'une victoire
+353369e999|Ruptures de faille arrêtées
+b3f4ad4755|Les <strong>ruptures de faille</strong> arrêtées donnent ×⟦1⟧ points.
+ba4c3d5bfe|Faille fermée
+4f15c50f08|<strong>Objets de faille</strong> : invocations de faille, failles d'anomalie, failles privées et jetons de boost de serveur.
+3e950b871e|Types de faille à l'ouverture d'une faille en ville
+6e638d653f|Rang de la faille
+6ec1ac7bc4|Rangs de faille dans les Docks
+2764fed482|Rangs de faille dans la Zone industrielle
+152cda65fe|Rangs de faille dans la Vieille Ville
+4d47b619af|Rangs de faille dans le Quartier résidentiel
+8f2c46fee4|<strong>Rift Rend</strong>
+ae7cc15c9d|<p>Rift Rend et Abyss Gate sont ses deux attaques signature : chacune peut vous toucher deux fois.</p>
+b873774dc0|Points de faille
+32b904ce3b|<span><span>Invocation de faille</span></span>
+31c7ee5524|Rang de l'invocation de faille
+2bced16d34|<span><span>Invocation de faille x⟦1⟧</span></span>
+334cba8e4b|<strong>RiftPull <em>(à partir du rang C)</em></strong>
+188ec0deca|<strong>RiftRake</strong>
+288fe7743e|Les failles en groupe
+1475e2c3b5|Failles ici
+dc7213fd0d|Failles de tous rangs et de tous types
+8637657af8|<strong>Failles de tous rangs</strong>, failles rouges d'anomalie, ruptures de faille, donjons doubles, raids de guilde et un événement saisonnier.
+57cc9633a8|Failles de ce rang : ⟦1⟧
+143e18136d|<p>Les failles s'ouvrent sur les places des quartiers de ⟦1⟧, regroupés en quatre zones de danger. Commencez dans la zone des <strong>Docks</strong> (danger faible : Namsan, Mapo, la place du jardin du palais pour les nouveaux éveillés) et prenez des failles de rang E ; les ⟦2⟧ vous y emmènent gratuitement : ⟦3⟧. Battez le gardien pour fermer la faille. Venez avec des amis : un groupe compte jusqu'à ⟦4⟧ et donne un bonus d'XP.</p>
+2898810e08|<strong>Failles</strong> : vous pouvez entrer dans des failles d'un rang supérieur, avec de meilleures récompenses (voir ⟦1⟧).
+bbc57541be|Éveillé rival
+3170051fdf|<span><span>Éveillé rival (Un autre éveillé revendique cette faille.)</span></span>
+4da85bdd92|<strong>Guilde rivale</strong> : parfois une rivale, Ashen Crown [ASH], vous dispute une faille.
+9890c58a38|Monstres errants
+25e9811671|Robe, Lourde
+c3f104d136|Rôle
+624aa3967f|<span><span>Armure Ronin (Rare)</span><span>C</span></span>
+8c6d2739f4|<strong>RootPaths</strong>
+a0aac339ef|<span><span>Temple en ruines (gardien Hollow Sovereign)</span></span>
+b140096098|Salle à règle
+c9c7e318b5|<span><span>Salle à règle (Une salle ici suit sa propre loi.)</span></span>
+35e77024e0|Rune
+7dac7dba99|Passages de liaison de rune
+3864e290d2|Rune d'un gardien de donjon
+76d7755780|<strong>Rune of Arcana</strong>
+fb42c34412|<strong>Rune of Evasion</strong>
+5642fa8bff|<strong>Rune of Ferocity</strong>
+4519d5efd1|<strong>Rune of Focus</strong>
+1dc87e5b1c|<strong>Rune of Haste</strong>
+fa356eeb21|<strong>Rune of Might</strong>
+8becc15a18|<strong>Rune of Precision</strong>
+4ffb51aa19|<strong>Rune of Swiftness</strong>
+f68a9c20f1|<strong>Rune of the Leech</strong>
+4092520f48|<strong>Rune of Vigor</strong>
+944b7183e1|<strong>Rune of Ward</strong>
+51bbb26562|<strong>Rune of Wisdom</strong>
+6756bd3e1a|Runes
+6894299b28|Des runes (⟦1⟧ types, ⟦2⟧ raretés, issues des gardiens de donjon) gravées au Temple des runes, et jusqu'à ⟦3⟧ étoiles sur les armes et armures pour +⟦4⟧ % de leurs stats chacune en donjon.
+d90f052e59|Les runes ne tombent que des <strong>gardiens de donjon</strong> : chaque éveillé y fait un tirage (⟦1⟧ % dans un donjon de rang E jusqu'à ⟦2⟧ % dans un donjon Nation, x⟦3⟧ lors d'un raid de guilde) ; le donjon d'un rang supérieur donne des runes plus rares. Probabilités : ⟦4⟧ et ⟦5⟧.
+0977fe9b02|<span><span>Aura runique (Épique)</span><span>B</span></span>
+414f251859|S (Mythique)
+235db39ce8|Des ⟦1⟧ s'ouvrent au hasard sur les places des quartiers de la ville, toutes les ⟦2⟧-⟦3⟧ s (plus vite avec plus d'éveillés), jusqu'à ⟦4⟧ à la fois (⟦5⟧ par quartier).
+0b8c7af214|<p>Des ⟦1⟧ s'ouvrent au hasard sur les places des quartiers de la ville, toutes les ⟦2⟧-⟦3⟧ s (plus vite avec plus d'éveillés), jusqu'à ⟦4⟧ à la fois (⟦5⟧ par quartier). Chacune mène à un donjon procédural de son rang : salles de combat, une salle d'événement, un sanctuaire, des salles annexes et l'arène du gardien. La terminer ferme la faille ; laissée seule jusqu'à la fin de son minuteur, elle peut se rompre.</p>
+ebdfd4bdca|Des ⟦1⟧ s'ouvrent au hasard sur les places des quatre quartiers de ⟦2⟧.
+eb87f14867|Failles S, configurez votre build, commencez les cosmétiques et les titres
+fafeec69bf|S+ et Nation
+b0ad27d16f|Armure et accessoire d'édition S+
+abf3f668c2|Zone sûre au cœur de la ville : ni failles, ni monstres.
+e51c628651|<p>Zone sûre au cœur de la ville : ni failles, ni monstres. Le point d'apparition fait face à l'obélisque, avec les kiosques de la carte de la ville et du guide de la ville ; autour de la place se dressent le Registre, la forge, le marché (une halle d'armes hanok ouverte), les boutiques de gemmes et le hall de guilde, et au nord le Hall des Éveillés (les classements et leurs statues). Un kiosque de transit se trouve près du point d'apparition.</p>
+6ef65ebc7f|Sage's Elixir, Titan's Elixir
+80ed77ed1f|<span><span>Aura Sakura (Rare)</span><span>C</span></span>
+488c37557b|<span><span>Même rang</span></span>
+933945556f|<span><span>Armure Scarecrow</span></span>
+037b2115e1|Points d'école
+ba04c07498|<strong>Scourge</strong>
+2ca0c4acfb|Faux
+52ffb1439a|Faux, Bâton
+8cf2daf561|<span><span>Sceau</span></span>
+b5a67d4229|Passe de la saison ⟦1⟧ : niveau ⟦2⟧ de la voie gratuite.
+24586e6fd9|<p>Passe de la saison ⟦1⟧ : niveau ⟦2⟧ de la voie gratuite.</p>
+0d3d67c94c|Passe de la saison ⟦1⟧ : le dernier niveau de la voie premium.
+b9a1d0e822|<p>Passe de la saison ⟦1⟧ : le dernier niveau de la voie premium.</p>
+11fd3b375c|Saison ⟦1⟧ : la voie du Monarque
+e7ab4b5162|<strong>Événement de saison</strong>
+c4f497151c|Équipement de saison (SP) et cosmétiques, uniquement pendant la saison.
+511f9aa882|Marchands saisonniers et invasions pour les éditions les plus rares (SP et EX).
+27d882d46a|Saisons
+2c7d965f33|<strong>Saisons</strong> : la saison d'Halloween et la saison du passe de combat.
+f546c6c54e|<span><span>Deuxième événement (jamais un deuxième majeur)</span></span>
+ae3b59098b|Deuxième emplacement de profil
+8a4cfa3c11|Coffres des salles secrètes
+296c7704eb|Énigmes des salles secrètes
+14c931e827|<p>salles secrètes par donjon : E ⟦1⟧-⟦2⟧ D ⟦3⟧-⟦4⟧ C ⟦5⟧-⟦6⟧ B ⟦7⟧-⟦8⟧ A ⟦9⟧-⟦10⟧ S ⟦11⟧-⟦12⟧ S+ ⟦13⟧-⟦14⟧ Nation ⟦15⟧-⟦16⟧ ; éclats x⟦17⟧</p>
+3943381cf9|<p>À voir aussi : ⟦1⟧, ⟦2⟧.</p>
+8b33f547ca|<p>À voir aussi : ⟦1⟧.</p>
+8598222918|Sélectionner
+4ef043a7f8|Vente d'équipement à l'Hôtel des ventes (⟦1⟧ % prélevés sur une vente)
+9b5dcaa1cf|Vente d'objets au marché (⟦1⟧ % de leur prix)
+7ae041bcf7|<strong>Sentence</strong>
+777e774d49|<span><span>Sentinelle</span></span>
+8fe8ded319|<strong>Seongsu</strong>
+b22d467c16|<span><span>Boost de serveur</span></span>
+131efeade2|Boost de serveur (boutique ou jeton)
+3ab4908ad7|Boost de chance de serveur (boutique, ⟦1⟧ min)
+53dae4a436|Boost de chance de serveur +⟦1⟧
+5cbd584046|Services
+2ef928eba6|Sept étoiles arcaniques tombent devant et étourdissent.
+aa0e7e86b7|Ombre
+43df5643fb|Shadow Essence, Monarch's Blood
+0b4ed5e491|Shadowstep, Swiftness, Precision, Vampiric, Fury
+0e185631f3|<span><span>Boost d'éclats</span></span>
+756c747399|<span><span>Boost d'éclats x⟦1⟧</span></span>
+4db9569781|Boost d'éclats, boost de chance
+f5e774b695|Boost d'éclats, invocation de faille
+31194699e2|<p>Les boosts d'éclats de la boutique ou des événements multiplient ces gains : ⟦1⟧.</p>
+dac94fb730|Éclats pour une victoire
+c17262fa64|<strong>Éclats</strong> en six tailles, avec jusqu'à +⟦1⟧ % de bonus.
+52d8f84510|Éclats x⟦1⟧ pendant ⟦2⟧ min (tous les serveurs)
+a446d3a278|<p>Éclats x⟦1⟧ pendant ⟦2⟧ min (tous les serveurs)</p>
+f6f1541b0e|Éclats x⟦1⟧ pendant ⟦2⟧ min (personnel)
+ec698a18fc|<p>Éclats x⟦1⟧ pendant ⟦2⟧ min (personnel)</p>
+b07809adc8|Éclats x⟦1⟧ pendant ⟦2⟧ min (tout le serveur)
+a08b0ffd3a|<p>Éclats x⟦1⟧ pendant ⟦2⟧ min (tout le serveur)</p>
+9493fc5214|Éclats, boosts, packs
+9c238c9df8|<strong>ShardVolley</strong>
+1d2ee26be0|Part des failles
+b2a8952b03|Partage de l'XP en groupe
+d95ee77de7|<strong>Bouclier</strong> : à ⟦1⟧ % et ⟦2⟧ % de sa santé, il est protégé pendant ⟦3⟧ s et ⟦4⟧ monstres sortent de la porte (plus avec plus d'éveillés, ⟦5⟧ au maximum ; aucun quand il est présent sur tous les serveurs)
+2e6cd0b078|Verrouillage de caméra (Shift)
+4b93d4207b|<strong>Shockwave</strong>
+b68274065d|<strong>Shockwave <em>(à partir du rang B)</em></strong>
+50034ba463|<strong>Shockwave <em>(à partir du rang C)</em></strong>
+7dc2cff1b3|<strong>Shockwave (jusqu'au rang C)</strong>
+4a78d3a26e|<strong>Shockwave (jusqu'au rang D)</strong>
+55de887092|Boutique
+5ab39ec70f|boutique (⟦1⟧ éclats)
+c69d76461c|boutique (Robux)
+c192081ab0|Boutique (Robux)
+2ee867a18d|boutique (Robux), ou ⟦1⟧ éclats
+d0f77806b5|Rues commerçantes sous les néons.
+779df603e3|Afficher ou masquer les effets visuels des événements du staff (pluie d'éclats, lumières de groupe) et les morts-vivants des autres invocateurs.
+db993d9379|<span><span>Linceul du Wraith Lich</span></span>
+95c23320d2|Branches latérales
+7706b457da|Corps à corps simple
+4c37dee807|Six éclairs de lumière stellaire frappent devant et étourdissent.
+ec9f630c86|Compétence
+5985e66043|temps de recharge des compétences (réduits)
+7c4964c30e|Points de compétence
+4d18e7b7ba|Arbre de compétences
+b02c16ea78|<p>Arbre de compétences ⟦1⟧, palier ⟦2⟧ : ⟦3⟧ point de compétence par niveau, ⟦4⟧ niveaux.</p>

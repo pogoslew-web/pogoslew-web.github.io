@@ -1,0 +1,31 @@
+{
+ "summary": "Invocations · une armée à ses côtés. Les morts-vivants combattent à ses côtés, toujours : plus nombreux et plus forts avec plus de mana. En donjon, il relève les monstres qu’il vainc (ils disparaissent quand il part).",
+ "headings": {
+  "overview": "Présentation",
+  "playstyle": "Style de jeu",
+  "bonuses": "Bonus",
+  "equipment": "Équipement",
+  "skills": "Compétences",
+  "passives": "Passifs",
+  "how-to-unlock": "Comment débloquer"
+ },
+ "blocks": {
+  "overview": {
+   "0": "<p>Les morts-vivants combattent à ses côtés, toujours : plus nombreux et plus forts avec plus de mana. En donjon, il relève les monstres qu’il vainc (ils disparaissent quand il part).</p>",
+   "1": "<p><strong>Pour vous si :</strong> vous voulez des morts-vivants qui se battent pour vous.</p>"
+  },
+  "equipment": {
+   "0": "<ul> <li><strong>Armes :</strong> Staff, Scythe</li> <li><strong>Armure :</strong> Robe</li> <li><strong>Stats à privilégier :</strong> Intelligence, Spirit</li> <li><strong>Niveau max :</strong> 100</li> </ul>"
+  },
+  "skills": {
+   "0": "<p>Compétences de l’arbre Necromancer. Dépensez des points de compétence pour les débloquer et les monter de niveau ; chaque niveau après le premier ajoute 15 % de puissance et retire 5 % du temps de recharge.</p>"
+  },
+  "passives": {
+   "0": "<ul> <li><a href=\"/en/w/overrank/passives/dark-pact\">Dark Pact</a>: +5 % mana max par niveau (jusqu’à +25 % mana max)</li> <li><a href=\"/en/w/overrank/passives/bone-legion\">Bone Legion</a>: +6 % puissance des morts-vivants par niveau (jusqu’à +30 % puissance des morts-vivants)</li> <li><a href=\"/en/w/overrank/passives/soul-siphon\">Soul Siphon</a>: +6 % régénération de mana par niveau (jusqu’à +18 % régénération de mana)</li> <li><a href=\"/en/w/overrank/passives/master-of-death\">Master Of Death</a>: +3 % mana max, +10 % puissance des morts-vivants par niveau (jusqu’à +6 % mana max, +20 % puissance des morts-vivants)</li> </ul>"
+  },
+  "how-to-unlock": {
+   "0": "<p>Choisissez-la librement dans la fenêtre de classe (fenêtre de statut, puis <strong>Change class</strong>).</p>",
+   "1": "<p>Changer de classe : le premier changement d’un profil est gratuit, ensuite il coûte <strong>100 éclats × votre niveau</strong> (au moins 1 000). Il y a 60 s d’attente entre deux changements, votre niveau est conservé par paliers de 50 (le niveau 449 devient 400), et vos points de stats et arbres de compétences vous sont rendus. Voir les <a href=\"/en/w/overrank/formulas/economy\">formules d’économie</a>.</p>"
+  }
+ }
+}

@@ -1,0 +1,172 @@
+e411924d97|⟦1⟧ éclats, ⟦2⟧ × XP boost, ⟦3⟧ × Rift summon, ⟦4⟧ × Shard boost, XP x⟦5⟧ ⟦6⟧ min, arme de classe (grade +⟦7⟧)
+8bd12a7232|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="cosmetic Celestial halo" src="/games/overrank/rewards/aura-celestial.webp"/>cosmétique Celestial halo
+7678e87f56|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="cosmetic Monarch's edge" src="/games/overrank/rewards/edge-monarch.webp"/>cosmétique Monarch's edge
+3460093faf|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, objet Epic
+7c5814e2d4|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, objet Legendary
+c7fcdeb854|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, System Art ArtSwiftness
+827221f361|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, System Art ArtVigor
+30959d2fa9|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="System Art SovereignsWard" src="/games/overrank/rewards/sovereigns-ward.webp"/>System Art SovereignsWard
+9327184ba3|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="System Art SystemBlade" src="/games/overrank/rewards/system-blade.webp"/>System Art SystemBlade
+3e40374a85|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="System Art SystemJudgment" src="/games/overrank/rewards/system-judgment.webp"/>System Art SystemJudgment
+881b019ce4|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="System Art SystemOverride" src="/games/overrank/rewards/system-override.webp"/>System Art SystemOverride
+70386d759f|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, titre SeasonHunter⟦2⟧
+edd2411431|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="weapon MonarchsEdge (Limited)" src="/games/overrank/rewards/monarchs-edge.webp"/>arme MonarchsEdge (Limited), titre SeasonMonarch⟦2⟧
+be76d3bc5c|⟦1⟧ éclats, XP x⟦2⟧ ⟦3⟧ min, +⟦4⟧ emplacements de sac (une fois par compte)
+3c49c3f19c|<p>⟦1⟧ éclats, XP x⟦2⟧ ⟦3⟧ min, +⟦4⟧ emplacements de sac (une fois par compte)</p>
+8006d4fec0|⟦1⟧ éclats, XP x⟦2⟧ ⟦3⟧ min, Éclats x⟦4⟧ ⟦5⟧ min, ⟦6⟧ x Rift summon, +⟦7⟧ emplacements de sac
+a81f720ed1|<p>⟦1⟧ éclats, XP x⟦2⟧ ⟦3⟧ min, Éclats x⟦4⟧ ⟦5⟧ min, ⟦6⟧ x Rift summon, +⟦7⟧ emplacements de sac</p>
+3578478e67|⟦1⟧ éclats, XP/Éclats/Chance x⟦2⟧ ⟦3⟧ min, ⟦4⟧ x Anomaly summon, cosmétique Inferno aura
+bd43b8d9b1|<p>⟦1⟧ éclats, XP/Éclats/Chance x⟦2⟧ ⟦3⟧ min, ⟦4⟧ x Anomaly summon, cosmétique Inferno aura</p>
+786ad81209|⟦1⟧ branche(s) latérale(s), ⟦2⟧ boucles, ⟦3⟧ impasses
+66ae8700fb|⟦1⟧ squelettes vous rejoignent pendant ⟦2⟧ s (chaque niveau +⟦3⟧).
+ac6fd4fe50|⟦1⟧ compétences : l’arbre de compétences de chaque classe, l’arbre General et les System Arts du pass de combat.
+f855cbb771|<blockquote> <p>Les codes <code>LIKE</code> et <code>VISIT</code> s’ouvrent quand le jeu atteint un objectif de likes ou de visites, puis restent valides un temps donné (⟦1⟧ jours pour <code>LIKE⟦2⟧</code>, ⟦3⟧ jours pour les codes <code>VISIT</code>). La fenêtre des codes du jeu montre les prochains objectifs et l’avancement. Quand un nouveau code s’ouvre, il est publié dans ⟦4⟧ et sur cette page.</p> </blockquote>
+68957522a0|<blockquote> <p>Le pass Lucky donne <strong>+⟦1⟧ %</strong> (×⟦2⟧), et non ×⟦3⟧, et les bonus <strong>s’additionnent</strong> au lieu de se multiplier. Les anciennes notes de ce wiki étaient fausses.</p> </blockquote>
+c4e1f5016f|⟦1⟧ titres et comment les obtenir
+afdfeb9e36|⟦1⟧ titres s’affichent au-dessus des têtes : rangs, classes, combat, richesse, chance, forge, saisons et classements.
+4998582de2|⟦1⟧ bornes de transit relient les services, lieux et quartiers de la ville : gratuites, instantanées, ouvertes dès le début.
+22bfcd808c|<blockquote> <p><strong>Cosmétique non découvert.</strong> Chaque gemme cache un cosmétique qui s’affiche <code>???</code> tant que personne ne l’a trouvé. Personne n’a encore complété cette page.</p> </blockquote>
+7d80b375f5|<blockquote> <p><strong>Cosmétique non découvert.</strong> Ce cosmétique n’est pas en boutique. Personne n’a encore complété cette page.</p> </blockquote>
+40288f51d9|<blockquote> <p><strong>Monstre non découvert.</strong> Son nom est connu, mais personne n’a encore complété cette page. Si vous l’avez affronté, dites-le aux autres !</p> </blockquote>
+ab6192af3d|<blockquote> <p><strong>Lieu non découvert.</strong> Le rang Nation n’est pas indiqué : il se gagne quelque part. Personne n’a encore complété cette page.</p> </blockquote>
+52cd04e6ee|<blockquote> <p><strong>Rift non découvert.</strong> Le jeu n’annonce jamais celui-ci. Personne n’a encore complété cette page : soyez le premier à le documenter.</p> </blockquote>
+34abedafef|<blockquote> <p><strong>Compétence non découverte.</strong> Le Mage a des écoles de magie qui restent cachées (<code>???</code>) tant que assez de points d’école ne sont pas placés. Ceci est l’une de leurs compétences : personne n’a encore complété cette page.</p> </blockquote>
+eb3fc7d314|<blockquote> <p><strong>Titre non découvert.</strong> Certains titres ne se gagnent pas en jouant seul. Personne n’a encore complété cette page.</p> </blockquote>
+b3b0e0474d|⟦1⟧ arts d’arme : chaque arme porte sa propre compétence, utilisée avec la touche E quand elle est en main.
+7544c08003|⟦1⟧ x ⟦2⟧ (marchand de la saison Halloween) : Déterrés du cimetière : feu de fantôme, chauves-souris et la couronne
+050a9961b6|<p>⟦1⟧ x ⟦2⟧ (marchand de la saison Halloween) : Déterrés du cimetière : feu de fantôme, chauves-souris et la couronne</p>
+8fdcadaebe|⟦1⟧ x ⟦2⟧ (marchand de la saison Halloween) : Sculptés par Grimble lui-même : les premiers looks de la saison
+1f7024c901|<p>⟦1⟧ x ⟦2⟧ (marchand de la saison Halloween) : Sculptés par Grimble lui-même : les premiers looks de la saison</p>
+306b0f9e8b|⟦1⟧ x ⟦2⟧ (marchand de la saison Halloween) : Ceux du Wraith Lich : les meilleures chances
+73c862e5cd|<p>⟦1⟧ x ⟦2⟧ (marchand de la saison Halloween) : Ceux du Wraith Lich : les meilleures chances</p>
+ce706b9484|⟦1⟧ x Anomaly summon
+7e421fd9cc|<p>⟦1⟧ x Anomaly summon</p>
+be25766d67|⟦1⟧ x ARMOR GEM
+f1177295c4|<p>⟦1⟧ x ARMOR GEM</p>
+900626601a|⟦1⟧ x AURA GEM
+2f9ed4ebe3|<p>⟦1⟧ x AURA GEM</p>
+e37ed707e9|⟦1⟧ x Crypt Chest (marchand de la saison Halloween) : Déterrés du cimetière : feu de fantôme, chauves-souris et la couronne
+61380e57d3|<p>⟦1⟧ x Crypt Chest (marchand de la saison Halloween) : Déterrés du cimetière : feu de fantôme, chauves-souris et la couronne</p>
+1a2fb890e9|⟦1⟧ x ticket de la Tour infinie de palier ⟦2⟧ (une ascension depuis le point de contrôle ⟦3⟧)
+39531c7e3a|<p>⟦1⟧ x ticket de la Tour infinie de palier ⟦2⟧ (une ascension depuis le point de contrôle ⟦3⟧)</p>
+dfffc960cc|⟦1⟧ x Lich's Reliquary (marchand de la saison Halloween) : Ceux du Wraith Lich : les meilleures chances
+b0b9af5577|<p>⟦1⟧ x Lich's Reliquary (marchand de la saison Halloween) : Ceux du Wraith Lich : les meilleures chances</p>
+fca6622750|⟦1⟧ x Luck boost
+9b4ab578ef|⟦1⟧ x PENDANT GEM
+a957e0e6d6|<p>⟦1⟧ x PENDANT GEM</p>
+b32e96eedd|⟦1⟧ x Private rift
+1490f5661f|<p>⟦1⟧ x Private rift</p>
+3043a56487|⟦1⟧ x Pumpkin Chest (marchand de la saison Halloween) : Sculptés par Grimble lui-même : les premiers looks de la saison
+46a816db15|<p>⟦1⟧ x Pumpkin Chest (marchand de la saison Halloween) : Sculptés par Grimble lui-même : les premiers looks de la saison</p>
+9f5914e49e|⟦1⟧ x Rift summon
+28de5e99d7|<p>⟦1⟧ x Rift summon</p>
+9fc0bf8e9e|⟦1⟧ x Server boost
+097c629bbc|<p>⟦1⟧ x Server boost</p>
+f53a714783|⟦1⟧ x Shard boost
+24c3466e97|⟦1⟧ x WEAPON GEM
+ed33d576df|<p>⟦1⟧ x WEAPON GEM</p>
+16c9a73792|⟦1⟧ x XP boost
+1f1b1d972a|<img alt="Anomaly summon" src="/games/overrank/rewards/anomaly-summon.webp"/>⟦1⟧ × Anomaly summon
+aa86e8ef82|<img alt="Anomaly summon" src="/games/overrank/rewards/anomaly-summon.webp"/>⟦1⟧ × Anomaly summon, <img alt="Server boost" src="/games/overrank/rewards/server-boost-token.webp"/>⟦2⟧ × Server boost
+5967611f71|<img alt="Luck boost" src="/games/overrank/rewards/luck-token.webp"/>⟦1⟧ × Luck boost
+3cac557cb9|<img alt="Luck boost" src="/games/overrank/rewards/luck-token.webp"/>⟦1⟧ × Luck boost, <img alt="XP boost" src="/games/overrank/rewards/xp-token.webp"/>⟦2⟧ × XP boost
+978e7b39bc|<img alt="Private rift" src="/games/overrank/rewards/private-rift.webp"/>⟦1⟧ × Private rift
+c542c944d8|<img alt="Private rift" src="/games/overrank/rewards/private-rift.webp"/>⟦1⟧ × Private rift, <img alt="Rift summon" src="/games/overrank/rewards/rift-summon.webp"/>⟦2⟧ × Rift summon
+3922ce6dc9|<img alt="Rift summon" src="/games/overrank/rewards/rift-summon.webp"/>⟦1⟧ × Rift summon
+486115385b|⟦1⟧ × Rift summon
+8af1012d8a|<img alt="Rift summon" src="/games/overrank/rewards/rift-summon.webp"/>⟦1⟧ × Rift summon, <img alt="Private rift" src="/games/overrank/rewards/private-rift.webp"/>⟦2⟧ × Private rift, objet Trash, XP x⟦3⟧ ⟦4⟧ min, XP/Éclats/Chance x⟦5⟧ ⟦6⟧ min
+b6e1b76329|<p>⟦1⟧ × Rift summon, ⟦2⟧ × Private rift, objet Trash, XP x⟦3⟧ ⟦4⟧ min, XP/Éclats/Chance x⟦5⟧ ⟦6⟧ min</p>
+d9f1d4d413|<div><span>⟦1⟧ × Rift summon, ⟦2⟧ × Private rift, objet Trash, XP x⟦3⟧ ⟦4⟧ min, XP/Éclats/Chance x⟦5⟧ ⟦6⟧ min</span><span>Expire le ⟦7⟧ nov. ⟦8⟧</span></div>
+bbf1f4e480|<img alt="Rift summon" src="/games/overrank/rewards/rift-summon.webp"/>⟦1⟧ × Rift summon, <img alt="Server boost" src="/games/overrank/rewards/server-boost-token.webp"/>⟦2⟧ × Server boost
+f1e00dacef|<p>⟦1⟧ × Rift summon, ⟦2⟧ × Server boost</p>
+bfbe841bdb|<img alt="Shard boost" src="/games/overrank/rewards/shard-token.webp"/>⟦1⟧ × Shard boost
+9babfd3e41|⟦1⟧ × Shard boost
+21fa9c9e22|<img alt="XP boost" src="/games/overrank/rewards/xp-token.webp"/>⟦1⟧ × XP boost
+57dfa3cfea|⟦1⟧ × XP boost
+4d46c547c6|⟦1⟧ × XP boost, objet Rare
+1adc222028|« ⟦1⟧ sur N » est une moyenne : vous pouvez l’obtenir plus tôt ou bien plus tard.
+8f350022f4|« Au moins ⟦1⟧ sur N essais » = ⟦2⟧ - (⟦3⟧ - p)^N : la chance de l’obtenir au moins une fois.
+3df693ae7f|⟦1⟧ % (plafonné)
+326d4f0f57|⟦1⟧ % de la meilleure puissance
+b984506e69|⟦1⟧ % de la puissance magique
+98b02b130b|⟦1⟧ % de la puissance physique
+067ae4908d|+⟦1⟧ emplacements de sac
+93d84bc498|<p>+⟦1⟧ emplacements de sac</p>
+182b8d1ab3|+⟦1⟧ emplacements de sac, inclut VIP, DoubleXP, DoubleShards, Lucky. Pour toujours.
+7999b06cc9|+⟦1⟧ emplacements de sac, inclut VIP, DoubleXP, DoubleShards, Lucky
+d3a150ec79|+⟦1⟧ niveau(x) de pass de combat
+bd35471d15|<p>+⟦1⟧ niveau(x) de pass de combat</p>
+f82b3cc77e|+⟦1⟧ chacun, +⟦2⟧ au maximum
+a048144369|+⟦1⟧ de chance
+e6f54f7519|+⟦1⟧ de puissance magique par point ; +⟦2⟧ de mana max par point ; -⟦3⟧ % de temps de recharge par point (max ⟦4⟧ %)
+d3e5e2e6c0|+⟦1⟧ de PV max par point ; +⟦2⟧ % de régénération de PV max par seconde par point
+f95a2365c5|+⟦1⟧ de mana max par point ; +⟦2⟧ de régénération de mana par seconde par point ; +⟦3⟧ % de puissance de soin par point
+324d3022f8|<p>+⟦1⟧ de vitesse de déplacement pendant ⟦2⟧ s. Recharge de ⟦3⟧ s, une potion à la fois, ⟦4⟧ portées au maximum.</p>
+16fdaafea9|<p>+⟦1⟧ de vitesse de déplacement, +⟦2⟧ % d’esquive pendant ⟦3⟧ s. Recharge de ⟦4⟧ s, une potion à la fois, ⟦5⟧ portées au maximum. Un élixir : uniquement chez le marchand itinérant, une fois par marchand.</p>
+789a25cbd0|+⟦1⟧ par niveau
+35f6dcf30c|+⟦1⟧ par niveau (⟦2⟧ niveaux)
+a7b5beaf38|+⟦1⟧ rang
+480c75be45|<span><span>+⟦1⟧ rangs</span><span>✦</span></span>
+08e7371512|<span><span>+⟦1⟧ rang</span><span>✦</span></span>
+a3872c3129|+⟦1⟧ de vitesse de marche
+5f748f87c4|+⟦1⟧ de vitesse de marche <strong>par niveau</strong>
+a78e239dbf|+⟦1⟧ de dégâts d’arme par point ; puissance des compétences physiques
+e895b369e1|+⟦1⟧ d’XP et d’éclats
+9e4e854733|+⟦1⟧ d’XP ou d’éclats
+906619757b|+⟦1⟧ % de toutes les stats <strong>par niveau</strong>
+5fb298109b|+⟦1⟧ % de toutes les stats par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre General).
+1f31f67349|+⟦1⟧ % de zone d’effet <strong>par niveau</strong>
+4ca3a96b74|+⟦1⟧ % de zone d’effet, +⟦2⟧ % de régénération de mana par niveau (⟦3⟧ niveaux, palier ⟦4⟧ de l’arbre Duality).
+082337c59d|+⟦1⟧ % de vitesse d’attaque
+ca27d1a7ec|+⟦1⟧ % de vitesse d’attaque <strong>par niveau</strong>
+4ae12ce351|+⟦1⟧ % de vitesse d’attaque par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Attacker).
+431c09cfb7|+⟦1⟧ % de vitesse d’attaque par point ; +⟦2⟧ % d’esquive par point (max ⟦3⟧ %) ; +⟦4⟧ de vitesse d’esquive par point
+f18d466c6a|+⟦1⟧ % de vitesse d’attaque, +⟦2⟧ % de dégâts magiques par niveau (⟦3⟧ niveaux, palier ⟦4⟧ de l’arbre Lightning).
+a9a1f63e38|+⟦1⟧ % de vitesse d’attaque, +⟦2⟧ % de mana max, +⟦3⟧ % de régénération de mana par niveau (⟦4⟧ niveaux, palier ⟦5⟧ de l’arbre Assassin).
+17711068fc|+⟦1⟧ % de durée des boosts par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Support).
+727ef68295|+⟦1⟧ % de durée des boosts <strong>par niveau</strong>
+9e14e0f409|<p>+⟦1⟧ % de chance critique pendant ⟦2⟧ s. Recharge de ⟦3⟧ s, une potion à la fois, ⟦4⟧ portées au maximum.</p>
+a188dbb351|+⟦1⟧ % de chance critique par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre General).
+5b34b8e531|+⟦1⟧ % de chance critique <strong>par niveau</strong>
+546f6b0f10|+⟦1⟧ % de chance critique par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Lightning).
+0c3809811e|+⟦1⟧ % de chance critique par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Assassin).
+9881e4e830|+⟦1⟧ % de chance critique par point (max ⟦2⟧ %) ; +⟦3⟧ % de dégâts critiques par point
+b164691dbb|+⟦1⟧ % de chance critique, +⟦2⟧ % de mana max par niveau (⟦3⟧ niveaux, palier ⟦4⟧ de l’arbre Warper).
+4b82e5c4e5|+⟦1⟧ % de dégâts critiques par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Void).
+87516c9f45|+⟦1⟧ % de dégâts critiques <strong>par niveau</strong>
+0b121a7ee3|+⟦1⟧ % de dégâts critiques par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Assassin).
+c32154598d|+⟦1⟧ % de dégâts critiques par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Reaper).
+7e0c6dd17d|+⟦1⟧ % de dégâts
+5890153d36|<p>+⟦1⟧ % de dégâts pendant ⟦2⟧ s. Recharge de ⟦3⟧ s, une potion à la fois, ⟦4⟧ portées au maximum.</p>
+4dac210767|+⟦1⟧ % de dégâts <strong>par niveau</strong>
+81d9b759f0|+⟦1⟧ % de dégâts par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Berserker).
+7716819cb0|+⟦1⟧ % de dégâts par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Overlord).
+5be04f3436|+⟦1⟧ % de dégâts par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Warper).
+99c82dda4b|+⟦1⟧ % de réduction de dégâts
+b56df864a7|<p>+⟦1⟧ % de réduction de dégâts pendant ⟦2⟧ s. Recharge de ⟦3⟧ s, une potion à la fois, ⟦4⟧ portées au maximum.</p>
+9b183575a1|+⟦1⟧ % de réduction de dégâts par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Earth).
+c0d195db8f|+⟦1⟧ % de réduction de dégâts <strong>par niveau</strong>
+d4aaf00923|+⟦1⟧ % de réduction de dégâts par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Berserker).
+c1be121a8a|+⟦1⟧ % de réduction de dégâts par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Ice).
+fca528040c|+⟦1⟧ % de réduction de dégâts par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Spellblade).
+071075695a|+⟦1⟧ % de réduction de dégâts, +⟦2⟧ % de mana max, +⟦3⟧ % de régénération de mana par niveau (⟦4⟧ niveaux, palier ⟦5⟧ de l’arbre Tank).
+5e094f0b5f|<p>+⟦1⟧ % de dégâts, +⟦2⟧ % de réduction de dégâts pendant ⟦3⟧ s. Recharge de ⟦4⟧ s, une potion à la fois, ⟦5⟧ portées au maximum. Un élixir : uniquement chez le marchand itinérant, une fois par marchand.</p>
+9f15de9fa9|+⟦1⟧ % de dégâts, +⟦2⟧ % de réduction de dégâts par niveau (⟦3⟧ niveaux, palier ⟦4⟧ de l’arbre Attacker).
+4fde97d5f5|<p>+⟦1⟧ % de dégâts, +⟦2⟧ % de vol de vie pendant ⟦3⟧ s. Recharge de ⟦4⟧ s, une potion à la fois, ⟦5⟧ portées au maximum. Un élixir : uniquement chez le marchand itinérant, une fois par marchand.</p>
+519a87e68b|+⟦1⟧ % de dégâts, +⟦2⟧ % de PV max par niveau (⟦3⟧ niveaux, palier ⟦4⟧ de l’arbre General).
+fab903b34d|+⟦1⟧ % de dégâts, +⟦2⟧ % de mana max, +⟦3⟧ % de régénération de mana par niveau (⟦4⟧ niveaux, palier ⟦5⟧ de l’arbre Reaper).
+40589cad3f|+⟦1⟧ % de dégâts, +⟦2⟧ % de mana max, +⟦3⟧ % de régénération de mana par niveau (⟦4⟧ niveaux, palier ⟦5⟧ de l’arbre Survivor).
+782a687709|+⟦1⟧ % d’esquive
+a6870d22f6|<p>+⟦1⟧ % d’esquive pendant ⟦2⟧ s. Recharge de ⟦3⟧ s, une potion à la fois, ⟦4⟧ portées au maximum.</p>
+fd105f4983|+⟦1⟧ % d’esquive <strong>par niveau</strong>
+72bca89ebb|+⟦1⟧ % d’esquive par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Time).
+4496cc684b|+⟦1⟧ % d’esquive par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Assassin).
+db7331c5ec|+⟦1⟧ % d’esquive par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Reaper).
+abb9c4fffb|+⟦1⟧ % d’esquive par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Warper).
+f75c356e5f|+⟦1⟧ % d’esquive par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Survivor).
+39360ffd0b|+⟦1⟧ % d’esquive, +⟦2⟧ de vitesse de marche par niveau (⟦3⟧ niveaux, palier ⟦4⟧ de l’arbre Arts).
+929722016b|+⟦1⟧ % d’esquive, +⟦2⟧ % des PV max par seconde par niveau (⟦3⟧ niveaux, palier ⟦4⟧ de l’arbre Survivor).
+899bebf0f5|+⟦1⟧ % de recharge plus rapide
+19f6d49741|+⟦1⟧ % de recharge plus rapide par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Ice).
+fe8e82e5fa|+⟦1⟧ % de recharge plus rapide <strong>par niveau</strong>
+392467aa1a|+⟦1⟧ % de recharge plus rapide par niveau (⟦2⟧ niveaux, palier ⟦3⟧ de l’arbre Spellblade).

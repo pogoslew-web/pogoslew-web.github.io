@@ -1,0 +1,175 @@
+8aa59f73af|TreeReset
+f292852a87|<p>TreeReset</p>
+5f7537cf06|Épreuve
+72677028b4|Essayer
+4c22061ca1|Tout essayer
+76d61bb204|<span><span>Jumeaux</span></span>
+aa329a50c3|Deux entailles arcaniques en croix.
+d38aff9a3a|Deux anneaux de duel
+64a209d2e5|Deux lourdes entailles croisées qui repoussent les ennemis.
+f2dbbfd290|Deux types de tables
+551035b00c|Deux lunes filent : l'une brûle, l'autre glace.
+9c2b022bad|Deux pulsations autour de vous, feu puis glace.
+93b9e289e2|Types
+630e0b2583|Peu commun
+3fc448180e|<span><span>Peu commun</span></span>
+76f90e6615|<span><span>Peu commun (rang D)</span><span>D</span></span>
+aa28ab6a2f|Morts-vivants au moins
+2c3d5e806e|Puissance des morts-vivants
+2220f30ad6|Non découvert
+8879b5da79|<p><strong>Inconnu - découvrez où il se cache et modifiez cette page.</strong> Certains disent qu'il ne se montre que lors d'occasions spéciales.</p>
+7674978f46|Débloquez ⟦1⟧ titres.
+929e74ba21|<p>Débloquez ⟦1⟧ titres.</p>
+a6fa3ff52c|Débloquez toutes les classes spéciales.
+f0f05a5df2|<p>Débloquez toutes les classes spéciales.</p>
+31bf8756a1|Jusqu'à ⟦1⟧ éveillés jouant ensemble sur n'importe quel serveur : invitations, le chef, failles en groupe, l'XP partagée et les donjons plus coriaces.
+d421236b05|Jusqu'à <strong>⟦1⟧ étoiles</strong> sur une arme ou une armure (pas sur les pendentifs), ajoutées à la forge (STARS).
+f4f1bacf18|Jusqu'à +⟦1⟧ % de dégâts à mesure que les PV baissent, +⟦2⟧ % de mana max, +⟦3⟧ % de régénération de mana par niveau (⟦4⟧ niveaux, palier ⟦5⟧ de l'arbre du Berserker).
+2d0a5e1ad4|Jusqu'à +⟦1⟧ % de dégâts à mesure que les PV baissent <strong>par niveau</strong>
+791610d4dd|<nav><ol><li>⟦1⟧</li><li><span>Mise à jour</span></li></ol></nav>
+b310ab71d4|Mises à jour, codes et événements de chaque jeu Awaitlab.
+c4289d6b45|<strong>Amélioration (+⟦1⟧ +⟦2⟧...)</strong> : chaque niveau ajoute ⟦3⟧ % aux stats principales. Maximum <strong>+⟦4⟧</strong>, <strong>+⟦5⟧</strong> pour une arme de grade S, <strong>+⟦6⟧</strong> pour les armes EX et SP. Elle n'échoue jamais.
+ba4c842e0a|Améliorez une arme de rang maximal à +⟦1⟧ à la forge.
+bac963ce21|<p>Améliorez une arme de rang maximal à +⟦1⟧ à la forge.</p>
+4ac6353a9e|Améliorez une arme de rang S à +⟦1⟧ à la forge.
+377d70fa30|<p>Améliorez une arme de rang S à +⟦1⟧ à la forge.</p>
+be4368ebd2|Améliorez un objet à +⟦1⟧ à la forge.
+fdab9c9544|<p>Améliorez un objet à +⟦1⟧ à la forge.</p>
+ec016973ed|Améliorez et reforgez vos armes et armures.
+043f566fb7|Amélioration d'un objet de rang E, Commun
+eeb9d6c6c7|Améliore un objet (+⟦1⟧ .. +⟦2⟧ +⟦3⟧ +⟦4⟧), fait monter son grade, ou retire au sort ses bonus.
+23ec0cc6d1|<p>Améliore un objet (+⟦1⟧ .. +⟦2⟧ +⟦3⟧ +⟦4⟧), fait monter son grade, ou retire au sort ses bonus.</p>
+8a606ab637|Utiliser une potion
+8dce170de2|Valeur
+7da9398d26|Multiplicateur de valeur
+c2cf340129|Vampiric, Regeneration, Shadowstep, Healing, Purifying
+a6975b2ee9|Disparaît et frappe par derrière, en buvant leur sang.
+1bc3d368f8|Variantes
+168972a5b1|<span><span>Armure Verdant (Épique)</span><span>B</span></span>
+e700423ca3|<code>VISIT⟦1⟧</code>
+1157ff3d04|<strong>Qualité visuelle</strong> (Basse, Moyenne, Haute, Extrême) et <strong>détail des effets</strong> (Bas, Moyen, Élevé). Ils sont conservés par type d'appareil : un téléphone démarre en Basse, une manette en Moyenne, un ordinateur en Haute.
+e58eb73975|<p>VIT, INT et SPI sont votre Vitalité, votre Intelligence et votre Esprit. Hors combat, vous régénérez <strong>⟦1⟧ % de vos PV max par seconde</strong>, à partir de ⟦2⟧ secondes après le dernier coup (plus ⟦3⟧ % par point de Vitalité).</p>
+076b2970c3|<strong>Vitalité</strong>
+be320b06f4|Vitalité
+207c7c0063|Vide
+bbc7398174|<span><span>Finition Voidglass (Légendaire)</span><span>A</span></span>
+027423b384|<span><span>Tenue Voidwalker (Mythique)</span><span>S</span></span>
+37c4869abb|<span><span>Aura Volt (Épique)</span><span>B</span></span>
+bae2bd7c4e|Entrez : salles de combat, une salle d'événement, un sanctuaire, des salles annexes, puis l'arène du gardien.
+acfa7db661|Marchez jusqu'à un <strong>kiosque de transit</strong> et maintenez son invite : la fenêtre du réseau s'ouvre, avec une vue en direct de la ville et des failles ouvertes.
+7a83f5d43c|Approchez-vous d'un éveillé et appuyez sur <strong>T</strong> (Échange). Il a <strong>⟦1⟧ s</strong> pour accepter ; deux éveillés qui se le demandent en même temps ouvrent l'échange aussitôt.
+de9b1be49d|Eau
+726f517f22|Vagues
+6fb96e2846|<span><span>Boussole Wayfinder (Rare)</span><span>C</span></span>
+2e2033cd03|Les monstres plus faibles donnent moins d'XP (−⟦1⟧ % par rang en dessous du vôtre).
+9205f45e8f|Richesse
+8f3f26f519|<span><span>Arme</span></span>
+395d3b4c7b|arme
+d0e08248fe|Art d'arme
+0641e721b1|<strong>Arts d'arme</strong> : la compétence d'une arme, sur la touche E : voir ⟦1⟧.
+dbc6b12705|Cosmétique d'arme (Limité). Tour infinie : top ⟦1⟧ de son classement (conservé tant que vous êtes dans le top ⟦2⟧).
+7967ad946f|Cosmétique d'arme (Limité). Paliers (récompenses de niveau).
+e1e468be30|Gemme d'arme
+2faf03fed2|Arme sortie / dans le dos
+db5294b01a|arme, pendentif
+f32d0645a8|Armes
+606b098204|<p>Les armes existent en ⟦1⟧ styles (lame, lance, dague, faux, espadon, marteau, bâton) avec des dégâts et une vitesse différents : voir ⟦2⟧. Chaque arme porte aussi un ⟦3⟧.</p>
+526f6f640a|Armes, armures, accessoires et potions
+603774d537|<strong>Armes :</strong> toutes
+d3ac69a461|<strong>Armes :</strong> Lame, Espadon
+b6b9310b9b|<strong>Armes :</strong> Dague
+e6175b09ee|<strong>Armes :</strong> Marteau, Lance
+236314513e|<strong>Armes :</strong> Bâton
+03c0e3e42e|<strong>Armes :</strong> Bâton, Faux
+69c0b81540|Poids
+afbdc2fe2a|<p>poids x (⟦1⟧ + ⟦2⟧ x sa place : Commun ⟦3⟧ .. Astral ⟦4⟧) ; objet d'un coffre : table de rareté item-rarity-normal (x chance sur la probabilité) ; éclats ⟦5⟧-⟦6⟧ x le palier</p>
+c08639deae|<p>poids x (⟦1⟧ + ⟦2⟧ x la part d'éveillés présents voulant ce rang : leur rang et le suivant) ; failles S+ seulement tant qu'un éveillé de rang S ou plus est sur le serveur, failles Nation seulement tant qu'un éveillé Nation y est (leur poids est de ⟦3⟧ sinon) ; valeurs par défaut : l'équipe peut ajuster ces taux en direct</p>
+e368e4715c|Ce que donne chaque point
+6a6904d785|À quoi ça sert
+6c5dc7769a|Ce qui se passe quand vous tombez : en ville, dans un donjon (vies supplémentaires, élimination, le retour contre des Robux) et dans la Tour infinie.
+0efd7948bf|Ce qu'il vend
+641022cc95|Qu'est-ce qu'un art d'arme ?
+8e25a6c00e|Ce que contient la saison
+44f1e3eb3c|Ce qu'il y a
+ca032b5844|Ce qu'elle fait
+819bf257f6|Ce qu'il lâche.
+ec7fb89012|Ce qu'il donne
+e855ed84c2|Ce qu'il montre
+edba0e556a|Ce que coûtent les étoiles : chaque boss de donjon en donne à l'éveillé qui a aidé à le vaincre, plus pour un rang supérieur.
+38f142b6b6|<p>Ce que coûtent les étoiles : chaque boss de donjon en donne à l'éveillé qui a aidé à le vaincre, plus pour un rang supérieur.</p>
+e84b48ba1b|Ce que le marché facture et paie, et ce que coûtent un changement de classe, une réinitialisation des stats et une réinitialisation de l'arbre de compétences.
+2f671dcf3d|Ce que vend la boutique
+6f9e1e955f|Ce que sont les titres
+a11813ed8b|Ce que vous pouvez cacher
+c58dea8bc8|Ce que vous trouvez
+54f6b3b351|Ce que vous trouvez ici
+8ac7aa173f|Ce que vous obtenez
+02c9ac3262|Ce que vous avez vu, dans l'ordre.
+bfa7440fe0|Ce que vous voyez
+c9cad94928|Ce que vous gagnez.
+dec4cf94d0|Ce que sont réellement votre santé, votre mana, vos dégâts, votre vitesse, votre chance de critique, votre défense et votre esquive, avec les plafonds.
+769bb19e61|Quand
+a775b68685|<p>Quand ⟦1⟧ s'ouvre, le jeu construit son donjon : un <strong>thème</strong> (monstres, gardien, danger), les salles (combat, événement, sanctuaire, salles annexes, salles secrètes), éventuellement un <strong>événement</strong> et un <strong>modificateur</strong>.</p>
+d79628b15b|<p>Quand un donjon est généré, il y a <strong>⟦1⟧ %</strong> de chances d'avoir un événement, et <strong>⟦2⟧ %</strong> d'en avoir un deuxième. Une règle de <em>pitié</em> les rend plus probables plus vous en êtes privé (+⟦3⟧ % par donjon, garanti après ⟦4⟧). Seuls les événements autorisés au rang du donjon peuvent survenir, et au plus un événement <em>majeur</em> par donjon.</p>
+941d482c72|<p><p>quand une faille ouverte expire sans personne à l'intérieur<!-- --> · <!-- -->un résultat par tirage</p></p>
+c66d107d91|Quand et où
+37440fffbb|<p><p>quand le donjon est généré<!-- --> · <!-- -->un résultat par tirage</p></p>
+32042ca7c6|<p><p>quand le donjon est généré<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+11847817d2|<p>Quand le chef entre dans une faille, chaque membre libre de son serveur est invité à venir. Ceux qui restent forment un groupe à part (son chef est tiré au sort). À l'intérieur, le panneau de groupe montre les PV et les vies supplémentaires de chaque chasseur.</p>
+18b24ee2bd|D'où viennent les bonus
+7ec5738058|Où les cosmétiques s'équipent
+67ba7da517|D'où vient l'équipement
+ac9ccd2cb8|Où elle s'ouvre
+1a71142402|Où la chance compte
+f1e626c567|Où la chance ne compte pas
+4ce8c39ddd|Où le trouver
+16f9959fad|Quel événement de donjon
+ed56630621|Quel modificateur
+7d531617dd|Qui
+0489f81a4c|Qui peut le porter et comment en obtenir un.
+83174b03b4|Qui vous rencontrez
+0936297dbf|Gagnez ⟦1⟧ duels.
+ebca9ea0b9|<p>Gagnez ⟦1⟧ duels.</p>
+23e7080b82|Gagnez ⟦1⟧ combats au colisée (kills d'arène et duels).
+140d71a275|<p>Gagnez ⟦1⟧ combats au colisée (kills d'arène et duels).</p>
+825475eba4|Gagnez un duel ⟦1⟧v⟦2⟧ au Colisée.
+d7c89d665f|<p>Gagnez un duel ⟦1⟧v⟦2⟧ au Colisée.</p>
+142b5758f3|Vent
+ef3f375455|<span><span>Wisp</span></span>
+6ebf59ba14|Retirer de la banque
+aaaa4c069b|<span><span>Croc de loup (Rare)</span><span>C</span></span>
+ff2400bb4c|Boss mondial de l'invasion · niveau ⟦1⟧ · sa santé est fixée par les éveillés qui le combattent.
+dc12d6ca0e|Les objets portés, les objets verrouillés et les éditions spéciales (<strong>EX</strong> et <strong>SP</strong>) : voir la ligne <em>Échangeable</em> de chaque objet.
+ff6cb217cf|<p>x le facteur d'objet du palier de coffre (Ashen ⟦1⟧, Obsidian ⟦2⟧, Gilded ⟦3⟧ Astral ⟦4⟧), puis x chance, ⟦5⟧ % au maximum</p>
+a071e45559|<p>XP et éclats x⟦1⟧ pour tout le serveur, ⟦2⟧ min</p>
+5f292ffaaf|<span><span>Boost d'XP</span></span>
+daa42ab798|<span><span>Boost d'XP x⟦1⟧</span></span>
+f6d0f036f9|Boost d'XP, invocation de faille
+0159b6557c|Boost d'XP, boost d'éclats
+eaeec02c0f|XP jusqu'au niveau suivant
+ac8d7c0111|XP x⟦1⟧ ⟦2⟧ min
+04fc73d626|XP x⟦1⟧ pendant ⟦2⟧ min (tous les serveurs)
+3702f0e5fb|<p>XP x⟦1⟧ pendant ⟦2⟧ min (tous les serveurs)</p>
+c672a96bde|XP x⟦1⟧ pendant ⟦2⟧ min (personnel)
+9b68a8f96a|<p>XP x⟦1⟧ pendant ⟦2⟧ min (personnel)</p>
+7113c71861|XP x⟦1⟧ pendant ⟦2⟧ min (tout le serveur)
+85d9a5467b|<p>XP x⟦1⟧ pendant ⟦2⟧ min (tout le serveur)</p>
+5f5b6524ce|<p>L'XP, les éclats et la chance suivent la même règle : <strong>chaque bonus s'additionne</strong>, puis vous obtenez un seul multiplicateur.</p>
+368363887e|XP/Éclats/Chance x⟦1⟧ pendant ⟦2⟧ min (personnel)
+bf864a3f16|<p>XP/Éclats/Chance x⟦1⟧ pendant ⟦2⟧ min (personnel)</p>
+7f4879d204|XP/Éclats/Chance x⟦1⟧ pendant ⟦2⟧ min (tous les serveurs)
+186dec4b1a|<p>XP/Éclats/Chance x⟦1⟧ pendant ⟦2⟧ min (tous les serveurs)</p>
+7c4e3bdb85|XP/Éclats/Chance x⟦1⟧ pendant ⟦2⟧ min (tout le serveur)
+c27091f741|<p>XP/Éclats/Chance x⟦1⟧ pendant ⟦2⟧ min (tout le serveur)</p>
+fb360f9c09|oui
+2e8b2b723c|<p>Vous vous relevez après <strong>⟦1⟧ s</strong>, intouchable pendant ⟦2⟧ s.</p>
+054b74f598|<p>Vous avez ⟦1⟧ s pour <strong>revenir</strong> contre ⟦2⟧ R$ (au maximum ⟦3⟧ fois par run : retour au point d'apparition de l'arène, l'étage continue) ou <strong>partir</strong> (le run s'arrête là). Voir ⟦4⟧.</p>
+029b132ae4|Vous n'obtenez jamais moins que ce que vous obtiendriez seul.
+a94f9649df|<p>Vous commencez dans <strong>The Threshold</strong> : votre premier donjon, puis une courte visite de la ville. Le terminer vous éveille et donne le badge ⟦1⟧. Vous obtenez une arme de départ.</p>
+2473ee6c68|Vos bonus
+9861ac0d29|<p>Vos chances de drop x⟦1⟧ pendant ⟦2⟧ min de jeu</p>
+43a859559f|<p>Votre première vraie promotion. Les failles ⟦1⟧ ajoutent une troisième salle et des gardiens plus coriaces, et le premier cadeau de montée de rang arrive.</p>
+bbe64627b4|<span><span>Votre rang</span></span>
+0e9ae89fc8|Votre rang, son évaluation, le registre des éveillés.
+09b5580b91|<p>Vos éclats x⟦1⟧ pendant ⟦2⟧ min de jeu</p>
+a4ca740e4a|<p>Votre XP x⟦1⟧ pendant ⟦2⟧ min de jeu</p>

@@ -1,0 +1,22 @@
+{
+ "summary": "Overrank est un RPG d’action Roblox où l’on passe de simple inconnu à éveillé de rang S en terminant des rifts, forgeant de l’équipement et battant des gardiens.",
+ "headings": {
+  "the-game-in-one-minute": "Le jeu en une minute",
+  "where-to-start": "Par où commencer",
+  "every-hub-of-this-wiki": "Tous les hubs de ce wiki",
+  "official-links": "Liens officiels"
+ },
+ "blocks": {
+  "the-game-in-one-minute": {
+   "0": "<p><strong>Overrank</strong> est un RPG d’action sur Roblox, créé par le studio AwaitLab. Vous êtes un <em>éveillé</em> : un humain dont le mana s’est réveillé. Des portails appelés <strong>rifts</strong> s’ouvrent dans votre ville ; vous entrez dans l’un d’eux, traversez ses salles avec votre classe et ses compétences, vainquez le <strong>gardien</strong> à la fin et récupérez des <strong>éclats</strong>, de l’XP et de l’équipement.</p>",
+   "1": "<ul> <li><strong>15 classes</strong> : 7 à choisir librement et 8 spéciales à mériter (voir <a href=\"/en/w/overrank/classes/overview\">Classes</a>).</li> <li><strong>Rang E à S, S+ et Nation</strong> : votre rang mesure votre vraie force (voir <a href=\"/en/w/overrank/guides/progression-path\">Parcours de progression</a>).</li> <li><strong>Équipement que vous forgez</strong> : armes, armures et accessoires, avec une <a href=\"/en/w/overrank/guides/forge-and-gear\">forge</a> qui ne détruit jamais votre objet.</li> <li><strong>Des rifts de chaque rang</strong>, rifts d’anomalie rouges, ruptures de rift, donjons doubles, raids de guilde et un événement saisonnier.</li> <li><strong>JcJ</strong> au <a href=\"/en/w/overrank/places/colosseum\">Colosseum</a> et une <a href=\"/en/w/overrank/guides/endless-tower\">Endless Tower</a> pour les joueurs solo.</li> <li><strong>Guildes</strong>, un <strong>pass de combat</strong> à chaque saison, récompenses quotidiennes et codes.</li> </ul>"
+  },
+  "where-to-start": {
+   "0": "<ol> <li>Lisez <a href=\"/en/w/overrank/guides/getting-started\">Pour bien débuter</a>.</li> <li>Choisissez une classe : <a href=\"/en/w/overrank/classes\">Classes</a>.</li> <li>Apprenez comment fonctionnent les rifts : <a href=\"/en/w/overrank/rifts/rifts\">Rifts</a>.</li> <li>Suivez la route vers S : <a href=\"/en/w/overrank/guides/progression-path\">Parcours de progression</a>.</li> <li>Utilisez les <a href=\"/en/w/overrank/guides/codes\">codes actifs</a>.</li> </ol>"
+  },
+  "official-links": {
+   "0": "<ul> <li><a href=\"https://www.roblox.com/games/96358181868914\">Jouer sur Roblox</a></li> <li><a href=\"https://www.roblox.com/communities/452166249\">Groupe AwaitLab</a></li> <li><a href=\"https://discord.gg/82Avb3R5C4\">Discord</a></li> <li><a href=\"https://awaitlab.com/\">awaitlab.com</a></li> </ul>",
+   "1": "<blockquote> <p>Ce wiki est écrit par des joueurs. Une erreur ou un secret à signaler ? Cliquez sur <strong>Edit</strong> : chaque modification est tracée et peut être annulée.</p> </blockquote>"
+  }
+ }
+}

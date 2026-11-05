@@ -1,0 +1,265 @@
+eb01bf04c9|Exemples
+5b5aafe6b9|Expérience
+0614a54ee6|<span>Expiré</span>
+68abdc881e|<dl><div><dt>Expire</dt><dd>⟦1⟧ novembre ⟦2⟧</dd></div></dl>
+47527da277|Expliquez comment vous l'avez débloqué (court et précis).
+e3229e9319|Expliquez ses compétences
+ce57504bba|Vies supplémentaires (maximum)
+3b7782ff05|Bonus
+7cfd3f19d1|F (Camelote)
+80efa9c0d2|<strong>Duel équitable</strong> : un duel peut être demandé équitable : les deux combattent avec la même force, égale à leur moyenne, chacun avec sa propre classe.
+edb0d98e85|<p>Tombé dans la tour, vous avez ⟦1⟧ s pour choisir : <strong>revenir</strong> pour ⟦2⟧ R$ (au maximum ⟦3⟧ fois par run : retour au point d'apparition de l'arène, l'étage continue) ou <strong>partir</strong> (le run s'arrête là).</p>
+e37828a6f5|Tombé avec une vie en réserve, vous revenez dans la <strong>salle la plus lointaine que le groupe a nettoyée</strong> (l'entrée avant cela).
+b03c7c6cb8|meilleur temps d'épreuve
+849afde5f9|Fatigue
+d6e1a3122a|Fatigue +⟦1⟧ %
+48b2c2cc67|<strong>Mettre le jeu en favori</strong> : ⟦1⟧ éclats, boost d'XP × ⟦2⟧ + arme HunterSaber (Rare, rang D).
+ba7b750e93|Renseignez les stats, les armes et les armures de la classe.
+2d1eaf6e55|En trouver une
+d19e8b0413|Terminez le tutoriel et éveillez votre pouvoir.
+495ecd5e5f|<p>Terminez le tutoriel et éveillez votre pouvoir.</p>
+78baebfcb4|Feu
+089af49a4b|Tire ⟦1⟧ projectile(s) : ⟦2⟧ % de dégâts magiques chacun.
+e1878cc155|Tire ⟦1⟧ projectile(s) : ⟦2⟧ % de dégâts physiques chacun.
+6283ca82dc|<strong>Première victoire sur une faille</strong> : ⟦1⟧ éclats ; <strong>toute première victoire jamais réalisée</strong> : ⟦2⟧ éclats, boost d'XP × ⟦3⟧ + un objet Rare.
+bab49373e9|<span><span>Premier événement</span></span>
+411301e8c9|<strong>Marché aux poissons</strong>
+6ef1ffd0ea|<strong>Fissures</strong>
+c724782af1|Convient à
+fee5439732|Cinq lunes transpercent les ennemis.
+b19347878d|Cinq piliers de feu jaillissent devant et brûlent les ennemis.
+24bf458c99|Cinq piliers de lumière tombent devant.
+14e6db47e2|Fonce droit devant dans un éclair ; là où vous étiez, une explosion éclate.
+7db82f7409|Étage
+b778a60e17|Éclats d'étage : ⟦1⟧ + ⟦2⟧ par étage (× ⟦3⟧ sur un étage de boss).
+04aa7da06c|Force de l'étage
+e623d4fb14|Étages
+fe7f55b8bf|Focus
+c6f8e2ea9b|<span><span>Plis</span></span>
+7003e0e94a|Suivez la route vers S : ⟦1⟧.
+f360426258|Pendant ⟦1⟧ s :
+3ab11b75ca|Forge
+a7d886ddc5|<strong>Forge</strong>
+6381c2c6ae|Forge (amélioration, montée de grade, reforge)
+3a2a15e259|Coûts de forge
+64b38fb9d3|Coûts de forge : voir ⟦1⟧.
+87ed22a2f1|Forge : bonus de reforge
+3cf0edd42f|<p>Les formules sont écrites en LaTeX (<code>$x^⟦1⟧$</code>) : voir ⟦2⟧ pour un exemple.</p>
+a5446daec3|<p>Formules : ⟦1⟧.</p>
+eb994e570a|Fonder ou rejoindre une guilde ; le classement des guildes.
+f9f50d6f5c|Fondez votre propre guilde.
+6a19d51bb5|<p>Fondez votre propre guilde.</p>
+563bcfbd18|fonde et liste les guildes
+67781da315|Quatre portes s'ouvrent devant et explosent.
+c229178788|Quatre sceaux du vide éclatent devant et étourdissent.
+2b4b37118c|Quatre fauches circulaires qui attirent les ennemis et boivent leur vie.
+925e0fb9e4|<p><strong>Gratuit</strong> pour les détenteurs du titre ⟦1⟧.</p>
+8dbdbccc37|Route libre
+11decb6644|gratuit avec le titre BetaTester
+e905d2119c|Amis sur le serveur
+683a6e77d1|<strong>Amis</strong> : +⟦1⟧ % d'XP et d'éclats par ami Roblox présent sur le serveur, +⟦2⟧ % maximum.
+7ffff3d658|À partir de l'étage
+90ef924813|<p>À partir du niveau ⟦1⟧ (classes spéciales), tous les ⟦2⟧ niveaux apportent un gros cadeau :</p>
+041484bacc|À partir du rang
+6032a672e3|Givre
+1549cec297|<span><span>Finition Frostbite (Rare)</span><span>C</span></span>
+40fba99ee9|<strong>FrostPetals</strong>
+831e3d78e8|<span><span>Caverne gelée (gardienne Frost Matriarch)</span></span>
+57619a6689|<p>Guide complet : ⟦1⟧.</p>
+8e0d1326ca|<p>Règles complètes : ⟦1⟧.</p>
+2ed13cc6e2|<p>Tables complètes : ⟦1⟧.</p>
+7a499b87dc|Fury, Stoneskin, Greater healing, Vampiric, Regeneration
+2e29f46499|Game passes (Double XP, Double Shards)
+6d919082f3|Game passes : DoubleXP, DoubleShards
+c9280a6ea5|<p>Game passes : DoubleXP, DoubleShards</p>
+74cad0d42a|Game passes : VIP, DoubleXP, DoubleShards, Lucky, Monarch
+24c45a5b3c|<p>Game passes : VIP, DoubleXP, DoubleShards, Lucky, Monarch</p>
+4dde0030c4|Manette
+4fca5e3081|<strong>Gangnam</strong>
+53ae8753a7|<span><span>Gauntlet</span></span>
+b0429d8f7d|<p>Un équipement a un <strong>grade</strong> (de F Camelote à S Mythique, tiré au drop), un <strong>rang</strong> (le palier dont il provient) et un <strong>niveau de forge</strong>. Les pages montrent les valeurs de base (rang E, Commun, +⟦1⟧) ; les vraies stats sont plus élevées : voir ⟦2⟧ et ⟦3⟧.</p>
+9027118503|Équipement des rangs au-dessus de S, trouvé à partir du rang S+ / Nation ; les armes Nation uniquement sur un tirage rare d'un gardien.
+3257b971f2|<p>Équipement des rangs au-dessus de S, trouvé à partir du rang S+ / Nation ; les armes Nation uniquement sur un tirage rare d'un gardien.</p>
+78d7ca028e|<strong>Équipement que vous forgez</strong> : armes, armures et accessoires, avec une ⟦1⟧ qui ne détruit jamais votre objet.
+2e580815f2|<strong>Équipement</strong> : le marché propose de meilleurs équipements dans les failles de rang A et plus, et les grades du butin dépendent de votre rang.
+261d43b424|<strong>Gearwheel</strong>
+2c90450a67|<strong>Boutiques de gemmes</strong>
+b677728f53|Des gemmes pour votre arme, votre armure, votre pendentif et votre aura.
+1d1711dd0a|Gemmes (⟦1⟧-⟦2⟧)
+104d3096fc|<strong>Arbre général</strong> : ouvert à toutes les classes ; complet pour l'Humain.
+8eba9de243|Général, Nécromancien, ⟦1⟧
+7719555102|Se déplacer
+843ad0a8fd|<span><span>Ghostfire</span></span>
+8a5946bfc9|<span><span>Arme Ghostglass</span></span>
+8d0a32ed63|Cadeau
+4f8a120814|<span><span>Coffre doré</span></span>
+88d267d5ca|<span><span>Coffre doré (éclats x⟦1⟧, chance d'objet ⟦2⟧ %)</span></span>
+0981d29bfc|<span><span>Finition dorée (Épique)</span><span>B</span></span>
+7e82c66e93|Offert par le staff aux bêta-testeurs du jeu.
+5b8b4f148e|<p>Offert par le staff aux bêta-testeurs du jeu.</p>
+ba72cdcdd8|Donne
+ac5ed4de6b|<strong>GlacialBloom</strong>
+84cad76868|<span><span>Armure Glacier (Rare)</span><span>C</span></span>
+5f1184f7df|Global
+7cb742579d|Boost global (boutique)
+8896631ca5|Boost de chance global (boutique, ⟦1⟧ min)
+804f509fcd|Boost de chance global +⟦1⟧
+acc957fe82|score global
+d843bcc8ca|Passez directement du rang E au rang S en une seule réévaluation.
+197a8e7cd4|<p>Passez directement du rang E au rang S en une seule réévaluation.</p>
+9fe00acebc|Objectif
+79fc372dc7|Bon à savoir
+aecc49c153|Grade
+b6bd9f8140|<strong>Montée de grade</strong> (à +⟦1⟧) : l'objet monte d'un grade (jusqu'à S), son niveau de forge revient à +⟦2⟧ et il gagne de nouveaux bonus.
+ec80deffe7|Grade, rang et forge
+ab255c27ae|Graphismes
+34a19b3228|<span><span>Pendentif Grave lantern</span></span>
+a0c4679f7b|<span><span>Armure Gravewarden</span></span>
+1b2b3396e9|Espadon
+b3de9184ed|<strong>Grimble</strong>
+85c49fd332|<p>Bazar de bonbons de Grimble : coffres (Pumpkin ⟦1⟧ Crypt ⟦2⟧ Reliquary ⟦3⟧), achat direct d'un lot (prix du coffre / chance × ⟦4⟧), le titre Halloween ⟦5⟧ (⟦6⟧)</p>
+785fe41d55|Bazar de bonbons de Grimble : trois coffres ou un achat direct (prix du coffre / chance × ⟦1⟧), et le titre ⟦2⟧ pour ⟦3⟧ bonbons. Les coffres : ⟦4⟧, ⟦5⟧, ⟦6⟧.
+171a0606f7|Groupe
+f3686a9df2|Récompense quotidienne du groupe : tirages supplémentaires
+3ce2b98fb7|Récompense quotidienne du groupe : éclats
+7129bf4155|groupe : récompense de départ du groupe AwaitLab
+bfed2d435a|groupe : récompense de départ du groupe AwaitLab (Rare)
+6809e8745e|Gardien
+01002b8c2d|Gardien vaincu
+86b76ed7fd|Gardien de ⟦1⟧
+2352a9114d|Gardien du thème ⟦1⟧
+8153b71a1b|Butin du gardien (lots d'éclats)
+c7a27b9245|butin du gardien (lots spéciaux)
+af9060d5cd|Butin du gardien (le tirage)
+38eee2258f|butin du gardien : tirage rare de l'édition Nation (donjon Nation ⟦1⟧ %, donjon double ERROR ⟦2⟧ % ; chance non comptée)
+24b1049dc8|<strong>Butin du gardien</strong> : seuls les grades d'équipement <strong>au-dessus du rang central</strong> sont multipliés, par min(multiplicateur × bonus d'étoiles, ⟦1⟧), puis les poids sont renormalisés. Les étoiles du donjon ajoutent ×⟦2⟧, ×⟦3⟧ ou ×⟦4⟧ pour ⟦5⟧ ⟦6⟧ ou ⟦7⟧ étoiles. L'arme quotidienne du groupe suit la même règle.
+5d10285e3a|Variante de gardien, rang Nation
+84ef7d3cb9|<strong>Gardien</strong> : le combat final d'un donjon ; le ⟦1⟧ décide lequel.
+8437414d3a|Gardiens, coffres, élites et mimics des failles.
+54241a3d00|Guilde
+bb80beb95c|Boost de guilde
+126fc616ce|Boost de guilde Chance (⟦1⟧ h)
+0e4490b03f|<strong>Hall de guilde</strong>
+9d831347fc|Boost de chance de guilde +⟦1⟧
+2995db3993|Avantage de guilde Chance
+87fab97355|Avantage de guilde Chance +⟦1⟧ /niv.
+8baa29dccf|Avantages de guilde
+f0826e7bb2|points de guilde
+39bcdac61f|<strong>Raids de guilde</strong> : les failles de rang A et S s'ouvrent en raid ⟦1⟧ % du temps ; points ×⟦2⟧ et les éveillés solo peuvent les rejoindre.
+ee8123402f|Améliorations, boosts et ancres de guilde
+bb386fdbe7|Guildes
+04bdf4d8ed|<strong>Guildes</strong>, un <strong>passe de combat</strong> par saison, récompenses quotidiennes et codes.
+61c7de9dd8|<strong>HailRing</strong>
+ca919be1c4|<strong>Hall des Éveillés</strong>
+deec71e50f|<code>HALLOWEEN</code>
+34091aa81f|Bonbons d'Halloween restants à la fin de la saison (x⟦1⟧)
+4bc7005143|Bonbons d'Halloween ramassés
+b1df9dc2bd|Tirage du donjon d'Halloween
+59a72e5176|Coffre du marchand d'Halloween : Pumpkin
+02db74e626|Coffre du marchand d'Halloween : Crypt
+4835d69c5f|Coffre du marchand d'Halloween : Reliquary
+fd0cbcaeec|<strong>Halo</strong>
+ab7b8ea47e|Marteau
+63cac5bf8d|<strong>Fleuve Han</strong>
+3acec3d6e2|<span><span>Poignée (x⟦1⟧ les bonbons d'une victoire)</span></span>
+20a89915f1|Difficile
+a96bf1d554|<p>Victoires au Château hanté (E ⟦1⟧ D ⟦2⟧ C ⟦3⟧ B ⟦4⟧ A ⟦5⟧ S ⟦6⟧ S+ ⟦7⟧ Nation ⟦8⟧)</p>
+eeb62b9588|Avoir une classe.
+8037625090|<p>Avoir une classe.</p>
+21fed0a046|<p>Mettez tous vos points de stats en intelligence, et uniquement là. Il faut dépasser ⟦1⟧ points.</p>
+3d015fb134|N'avoir aucune classe (humain).
+011f3665aa|<p>N'avoir aucune classe (humain).</p>
+e1e31f080d|Danger
+361bab9ec5|Soin %
+05014f9173|Soins et buffs
+71a545931f|Healing, Greater healing, Regeneration, Purifying, Mana
+228c3798ff|Soigne ⟦1⟧ % des PV max.
+512729b9ca|soigne / protège de ⟦1⟧ % des PV max.
+c8f4ab93ef|Soins et boosts
+3703cd2168|Santé
+30e6f7cb8b|Santé (PV)
+bfaa1fc5e5|Santé +⟦1⟧ %
+07fd3c68d1|Santé et mana
+2b57ac0a4a|<strong>Santé</strong> : fixée par la force des éveillés qui le combattent, pour un combat d'environ ⟦1⟧ minutes ; elle augmente quand plus d'éveillés arrivent ou quand il tombe trop vite (ce qui a été infligé reste infligé), elle diminue un peu quand le combat traîne
+f6fd7a46d8|Aidez à stopper une rupture de faille en ville.
+97daf54e61|<p>Aidez à stopper une rupture de faille en ville.</p>
+21cc8561e9|<span><span>Lame Hexfire</span></span>
+196e408ed1|Cachez des parties de votre ⟦1⟧ aux autres : équipement, stats, compétences, records.
+1f4a4cf35c|<p>son espèce (Iron Monger, Bone Peddler, Arcane Hawker, Shadow Fence, Blood Trader, Wandering Herbalist) et son quartier sont aussi tirés au sort ; un marchand Commun a ⟦1⟧ % de chances d'avoir un élixir, un Rare ⟦2⟧ %</p>
+b564dec620|<p>Ses espèces, raretés et marchandises : ⟦1⟧. Probabilités : ⟦2⟧.</p>
+33199b74a9|Frapper fort et se déplacer vite
+d7e6ab4bde|<span><span>Trésor (x⟦1⟧ les éclats de victoire du rang)</span></span>
+89e253cea1|Détenez ⟦1⟧ éclats en même temps.
+a9af1b4eee|<p>Détenez ⟦1⟧ éclats en même temps.</p>
+db7678c648|<p>Tenez l'arme et appuyez sur <strong>E</strong> pour utiliser ⟦1⟧.</p>
+61d872e780|Tenir la ligne pour un groupe
+dfe1d7f7d1|Sacré
+da08fcb467|Terre sacrée : elle blesse les ennemis et soigne les alliés qui s'y tiennent.
+f5b24fcd97|Comment un donjon est conçu
+b9e710d78b|Comment se déroule une faille
+4ca9e450e2|Comment le rang d'une faille fait évoluer ses monstres et son gardien, ce que rapporte une victoire en XP et en éclats, et comment un groupe change la donne.
+f5729a8324|Comment se déroule un échange
+6c564714e3|Comment fonctionnent les événements
+fc773b0c49|Comment il apparaît
+63738f88dd|Comment ça se passe
+1dd6a17cb4|Comment ça marche
+baa33d693a|Comment les monstres, les vagues, les élites et les récompenses évoluent d'étage en étage, et ce que coûte un ticket.
+24fe7d3af9|Combien d'XP chaque niveau demande, combien de points de stats et de compétences vous obtenez, et comment un groupe partage l'XP.
+5993fb9d55|<p>Fréquence de drop de chaque grade : ⟦1⟧.</p>
+14b4ee4788|À quelle fréquence il apparaît
+a1ebb58619|Comment fonctionnent les passifs
+fea17493b6|Comment fonctionnent les compétences
+8387ab451c|Comment le score du classement Global est calculé, quels classements existent et comment les points de guilde sont gagnés.
+4ddec66f9d|Comment le grade, le rang et le niveau de forge modifient les stats et la valeur d'un objet, et ce que coûte chaque action de forge.
+6c2e1a0acc|Comment fonctionne le bonus de chance
+dc77ab07f1|Comment y entrer
+6d597cefcd|Comment l'obtenir
+d69cb0445c|Comment les obtenir
+e13e18f3a4|Comment l'utiliser
+7c4259bfb5|Comment vous l'avez obtenu, en quelques mots.
+d3477a16fa|Comment vous y êtes arrivé et ce qui se passe.
+c620f23230|PV et réduction des dégâts (légère, moyenne, lourde ou robe)
+a38df5fc50|Hub
+74a05ff1ec|Les classes humaines et normales s'arrêtent au niveau <strong>⟦1⟧</strong>.
+8e01f6bc77|Hybride
+0a2af398fe|Glace
+d9d49ce984|La glace éclot devant : elle explose et ralentit.
+dd1733baff|Si vous aimez...
+a8dde3a535|En ⟦1⟧ essais
+22d638e619|Dans un donjon
+8b254388df|<strong>Dans un donjon</strong> : la carte du donjon, nord en haut : zoomez avec la molette ou en pinçant, faites-la glisser, RECENTRER pour qu'elle vous suive à nouveau.
+48c1b26984|Dans le butin d'un gardien, seuls les grades au-dessus du rang central reçoivent la chance (x⟦1⟧ au maximum, avec le bonus d'étoiles du donjon), puis la table est ramenée à ⟦2⟧ %.
+320d28f497|En action
+fe47df2dcc|<p>Dans ⟦1⟧, vous pouvez cacher votre équipement, vos stats, vos compétences ou vos records aux autres : ils voient ces parties vides. Vous voyez toujours toute votre fiche.</p>
+5198440046|En ville
+4ad7606fe3|<strong>En ville</strong> : les quartiers par niveau de danger, les failles et ruptures ouvertes, les icônes des lieux et votre marqueur.
+8207bf9d3c|Dans la fenêtre de classe, elle est décrite ainsi : <em>Un tank qui frappe plus fort quand il est blessé</em>.
+383ed7dc79|Dans la fenêtre de classe, elle est décrite ainsi : <em>Magie de zone · feu et glace</em>.
+be7bfb444a|Dans la fenêtre de classe, elle est décrite ainsi : <em>Aucune classe · tout est plus fort</em>.
+a09ba6d17d|Dans la fenêtre de classe, elle est décrite ainsi : <em>Épée et magie · corps à corps</em>.
+109b61197b|Dans la fenêtre de classe, elle est décrite ainsi : <em>Invocations · sorts d'attaque</em>.
+8e71309676|Dans la fenêtre de classe, elle est décrite ainsi : <em>Dégâts · vole de la vie</em>.
+1704651076|Dans la fenêtre de classe, elle est décrite ainsi : <em>Dégâts · esquives · se soigne seul</em>.
+d3782be47f|Dans la fenêtre de classe, elle est décrite ainsi : <em>Mobilité · frappe depuis les failles</em>.
+aef8e2138b|Dans la Tour infinie
+dc9d2a2b5d|<p><em>Dans le jeu :</em> Devenez un Éveillé VIP ! Tag VIP doré au-dessus de votre tête et dans le chat, +⟦1⟧ % d'XP et d'éclats à chaque chasse, +⟦2⟧ emplacements de sac, titre VIP exclusif, à vous POUR TOUJOURS sur chaque profil !</p>
+a6972cdd21|<p><em>Dans le jeu :</em> Doublez votre fortune ! ⟦1⟧ de chaque monstre, coffre et donjon, forgez et améliorez votre équipement plus vite, se cumule avec les boosts d'éclats, à vous POUR TOUJOURS sur chaque profil !</p>
+c39bad2950|<p><em>Dans le jeu :</em> La fortune vous sourit ! Meilleures chances de butin de rang A et S, sur les monstres, gardiens et coffres, se cumule avec les boosts de chance, à vous POUR TOUJOURS sur chaque profil !</p>
+adeced50ad|<p><em>Dans le jeu :</em> Montez de niveau DEUX FOIS plus vite ! ⟦1⟧ de chaque monstre, donjon et commande, grimpez plus vite du rang E au rang S, se cumule avec les boosts d'XP, à vous POUR TOUJOURS sur chaque profil !</p>
+60b83c170e|<p><em>Dans le jeu :</em> Jouez à OVERRANK avec votre propre avatar Roblox sur les deux profils. Votre équipement et vos auras restent visibles. Gratuit pour les bêta-testeurs.</p>
+3df1e970e5|<p><em>Dans le jeu :</em> Le passe ULTIME. Régnez sur les failles ! TOUT en un : VIP, ⟦1⟧x XP, ⟦2⟧x éclats, Lucky, titre Monarch exclusif, +⟦3⟧ emplacements de sac, économisez ⟦4⟧ R$ par rapport à un achat à l'unité ! À vous POUR TOUJOURS sur chaque profil !</p>
+ff37f4e8f2|Dans le hub des probabilités
+66d4b870d8|Comprend VIP, DoubleXP, DoubleShards, Lucky
+7a6efabfce|<strong>Indépendant</strong> : chaque ligne est tirée séparément (une table de drop) ; les chances ne s'additionnent pas à ⟦1⟧ %.
+b79c5b1f17|<span><span>Armure Inferno (Légendaire)</span><span>A</span></span>
+4b631f6984|Infos
+88d8800e0e|<strong>Intelligence</strong>
+c698f940a0|Intelligence
+7b4db7ef1f|Interface
+dad0e524d8|Taille de l'interface (⟦1⟧ % à ⟦2⟧ %) et taille du texte (Normal, Grand, Très grand).
+1d51fc3b0e|Éditions spéciales d'invasion
+b80957e3ec|<strong>Invasion</strong> : une porte s'ouvre dans le ciel, des vagues puis un boss mondial.
+79723d0874|Invasions
+595ee9aef1|Invasions, saisons, commandes quotidiennes
+00417f8076|Les invasions, la saison d'Halloween, les événements du staff, le passe de combat et les commandes quotidiennes.
+620a14343d|Vagabond invincible

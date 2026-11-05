@@ -1,0 +1,142 @@
+ad0e6e76a2|⟦1⟧ (⟦2⟧ au minimum)
+d63a4a9dce|⟦1⟧ (+⟦2⟧ pour un donjon terminé avant le choix)
+26090fff3a|⟦1⟧ (gardien du rift d’entraînement Agile)
+12c2b4dcb9|⟦1⟧ (rift d’entraînement Agile)
+d23b536ab8|⟦1⟧ (gardien du rift d’entraînement des Mages)
+038331f92a|⟦1⟧ (rift d’entraînement des Mages)
+3e9783ada4|⟦1⟧ (gardien du rift d’entraînement des Novices)
+f8b958b500|⟦1⟧ (rift d’entraînement des Novices)
+e47770193d|⟦1⟧ (gardien du rift d’entraînement des Invocateurs)
+47bf6df5d1|⟦1⟧ (rift d’entraînement des Invocateurs)
+d0c86f3967|⟦1⟧ (gardien du rift d’entraînement Support)
+11205f79f9|⟦1⟧ (rift d’entraînement Support)
+e180b9847f|⟦1⟧ (Le Seuil)
+21c6d4fc6a|⟦1⟧ <em>(non découvert)</em>
+0fcf627842|⟦1⟧ (gardien du rift d’entraînement des Guerriers)
+8eab9eb768|⟦1⟧ (rift d’entraînement des Guerriers)
+0bb144139b|⟦1⟧ - extrême (Gangnam, le fleuve Han)
+2d0718feca|⟦1⟧ - gardien ⟦2⟧
+eef245e055|⟦1⟧ - élevé (Bukchon, Jongno)
+eb8f4f74a2|⟦1⟧ - danger faible (Namsan, Mapo)
+70f51bb3a3|⟦1⟧ - modéré (Myeongdong, Seongsu)
+4feee36e1c|<p>⟦1⟧ - le combat final. Chaque variante (standard, enragée, invocateur) est tirée à la génération du donjon : ⟦2⟧.</p>
+b283b2ca82|⟦1⟧ - le cœur sûr
+44def594a2|<p>⟦1⟧ ajoute <strong>+⟦2⟧ % de chance</strong>. Les bonus de chance s’additionnent, ils ne se multiplient pas : voir ⟦3⟧.</p>
+acbe55b81a|⟦1⟧ et ⟦2⟧ peuvent être achetés si vous êtes en retard.
+4e3965175f|<p>Les ⟦1⟧ sont décernés par Roblox et apparaissent sur votre profil Roblox. Chaque page indique leur difficulté, comment l’obtenir et un lien vers sa page Roblox. Vos badges du jeu apparaissent aussi sur votre profil du wiki une fois votre compte Roblox lié.</p>
+0e8472d80d|<p>Les ⟦1⟧ s’achètent <strong>une seule fois</strong> sur Roblox et durent <strong>pour toujours</strong> sur chaque profil. Le pass Monarch en contient quatre autres.</p>
+5f2419879b|<p>Les ⟦1⟧ ne font pas partie de votre arbre de compétences : ils ne coûtent aucun point de compétence.</p>
+476f6073c1|⟦1⟧ de base
+d119cc3a1e|⟦1⟧ de base par coup
+545e461e6e|⟦1⟧ explosion(s) à ⟦2⟧ studs devant (⟦3⟧ studs) : ⟦4⟧ % de dégâts magiques.
+7f15abf853|⟦1⟧ explosion(s) à ⟦2⟧ studs devant (⟦3⟧ studs) : ⟦4⟧ % de dégâts physiques.
+b708e7c2e1|⟦1⟧ explosion(s) à ⟦2⟧ studs devant (⟦3⟧ studs) : ⟦4⟧ % de dégâts physiques ou magiques (le plus fort des deux).
+dadbd5f136|<p>⟦1⟧ bonbons ; les cosmétiques déjà possédés remboursent une partie du prix ; les objets sont de l’équipement de saison SP</p>
+1faebb09c1|<strong>⟦1⟧ classes</strong> : ⟦2⟧ que vous pouvez choisir librement et ⟦3⟧ spéciales à mériter (voir ⟦4⟧).
+fdc06de7e4|⟦1⟧ classes : l’Humain non éveillé, ⟦2⟧ classes à choisir librement et ⟦3⟧ classes spéciales à mériter.
+43681cdf65|⟦1⟧ codes étaient valides le ⟦2⟧ novembre ⟦3⟧, chacun avec son dernier jour. Utilisez-les en jeu.
+797ae84589|⟦1⟧ cosmétiques : auras, edges et skins pour armes, armures et pendentifs. Ils changent votre apparence, jamais vos stats.
+ec31a3b9ad|⟦1⟧ quêtes quotidiennes (distance, temps de jeu, kills, un donjon, un rift fermé).
+659199bfc9|<p>⟦1⟧ quêtes quotidiennes (distance, temps de jeu, kills, un donjon, un rift fermé).</p>
+33caff15e1|⟦1⟧ thèmes de donjon décident des monstres et du gardien ; événements et modificateurs relèvent chaque run.
+61edfd0037|⟦1⟧ élixir, un cosmétique
+bb4c679c0a|⟦1⟧ élixirs, un cosmétique
+e3fc54140b|⟦1⟧ événement : une porte énorme s’ouvre au-dessus de la ville et, après les vagues de monstres, il en descend sous la forme d’un éclair
+62484d2dbc|⟦1⟧ entrée gratuite dans la tour par jour (jour UTC).
+473c636ffd|<p>⟦1⟧ entrée gratuite dans la tour par jour (jour UTC).</p>
+234aebcb3c|<p>⟦1⟧ est un skin d’armure : il ne change que votre apparence, il ne donne <strong>aucune stat</strong>. Il peut être échangé.</p>
+5a7c8807c6|<p>⟦1⟧ est un skin d’armure : il ne change que votre apparence, il ne donne <strong>aucune stat</strong>. Il ne peut pas être échangé.</p>
+5ce5d4f453|<p>⟦1⟧ est un boss de rang E.</p>
+04c8c2e6f2|<p>⟦1⟧ est un skin de pendentif : il ne change que votre apparence, il ne donne <strong>aucune stat</strong>. Il peut être échangé.</p>
+5b9f8d6cac|<p>⟦1⟧ est un skin de pendentif : il ne change que votre apparence, il ne donne <strong>aucune stat</strong>. Il ne peut pas être échangé.</p>
+d983062c3e|<p>⟦1⟧ est un monstre ordinaire de rang A.</p>
+5a798c7d3f|<p>⟦1⟧ est un monstre ordinaire de rang E.</p>
+8282dbb1f5|<p>⟦1⟧ est un monstre ordinaire de rang D.</p>
+31cfd40a0e|<p>⟦1⟧ est un monstre ordinaire de rang C.</p>
+db9bfe4350|<p>⟦1⟧ est un monstre ordinaire de rang B.</p>
+191c19e4f7|<p>⟦1⟧ est un monstre ordinaire de rang A. ⟦2⟧ % de chances de se téléporter derrière sa cible lorsqu’il est touché.</p>
+13d14c3333|<p>⟦1⟧ est un monstre ordinaire de rang E. ⟦2⟧ % de chances de se téléporter derrière sa cible lorsqu’il est touché.</p>
+731ea396d2|<p>⟦1⟧ est un monstre ordinaire de rang S.</p>
+deaff1ce2c|<p>⟦1⟧ est un monstre ordinaire de rang B. ⟦2⟧ % de chances de se téléporter derrière sa cible lorsqu’il est touché.</p>
+cc94943e8d|<p>⟦1⟧ est un gardien de rift : le dernier combat d’un donjon de rang B.</p>
+53533ae9d5|<p>⟦1⟧ est un gardien de rift : le dernier combat d’un donjon de rang C.</p>
+86d8e8ee7c|<p>⟦1⟧ est un gardien de rift : le dernier combat d’un donjon de rang S. ⟦2⟧ % de chances de se téléporter derrière sa cible lorsqu’il est touché.</p>
+5bbc80a745|<p>⟦1⟧ est un gardien de rift : le dernier combat d’un donjon de rang A. ⟦2⟧ % de chances de se téléporter derrière sa cible lorsqu’il est touché.</p>
+9e6d0d25af|<p>⟦1⟧ est un gardien de rift : le dernier combat d’un donjon de rang E.</p>
+55213382ec|<p>⟦1⟧ est un gardien de rift : le dernier combat d’un donjon de rang D.</p>
+94aeab4f81|<p>⟦1⟧ est un gardien de rift : le dernier combat d’un donjon de rang B. ⟦2⟧ % de chances de se téléporter derrière sa cible lorsqu’il est touché.</p>
+ffa21dd6a8|<p>⟦1⟧ est un gardien de rift : le dernier combat d’un donjon de rang A.</p>
+6a2d8d03e4|<p>⟦1⟧ est un skin d’arme : il ne change que votre apparence, il ne donne <strong>aucune stat</strong>. Il ne peut pas être échangé.</p>
+5ca54e64bf|<p>⟦1⟧ est un skin d’arme : il ne change que votre apparence, il ne donne <strong>aucune stat</strong>. Il peut être échangé.</p>
+942eef5169|<p>⟦1⟧ est une aura : elle ne change que votre apparence, elle ne donne <strong>aucune stat</strong>. Elle peut être échangée.</p>
+76fdcf1ec9|<p>⟦1⟧ est une aura : elle ne change que votre apparence, elle ne donne <strong>aucune stat</strong>. Elle ne peut pas être échangée.</p>
+edcf022346|<p>⟦1⟧ est un effet d’edge : il ne change que votre apparence, il ne donne <strong>aucune stat</strong>. Il ne peut pas être échangé.</p>
+fa2ef52d60|⟦1⟧ est désactivé là où Roblox n’autorise pas l’échange d’objets payants.
+3a1bdf1584|<p>⟦1⟧ est l’un des thèmes choisis par le jeu à la génération d’un donjon. Le thème apporte les monstres des salles et le gardien de l’arène. Son danger caractéristique est <strong>la lave</strong> : sols de lave.</p>
+a36054cd86|<p>⟦1⟧ est l’un des thèmes choisis par le jeu à la génération d’un donjon. Le thème apporte les monstres des salles et le gardien de l’arène. Son danger caractéristique est <strong>la malédiction</strong> : une malédiction pèse sur les salles.</p>
+42b4809fbd|<p>⟦1⟧ est l’un des thèmes choisis par le jeu à la génération d’un donjon. Le thème apporte les monstres des salles et le gardien de l’arène. Son danger caractéristique est <strong>le gel</strong> : sol gelé.</p>
+312a0eb7cd|<p>⟦1⟧ est l’un des thèmes choisis par le jeu à la génération d’un donjon. Le thème apporte les monstres des salles et le gardien de l’arène. Son danger caractéristique est <strong>le toxique</strong> : nuages de poison.</p>
+7dd4551ea0|<p>⟦1⟧ est le <strong>boss mondial</strong> de l’événement ⟦2⟧ : <em>« La porte s’ouvre pour son maître. »</em> Il apparaît à chaque rang, une fois les vagues de monstres vaincues. C’est un géant, environ dix fois plus grand qu’un éveillé, et le bestiaire du jeu lui consacre une section à part.</p>
+760fce917b|⟦1⟧ objets : ⟦2⟧ armes en ⟦3⟧ styles, armures, accessoires et potions.
+13d302dbd3|⟦1⟧ niveaux de ⟦2⟧ XP, une voie gratuite et une premium, des System Arts et la Monarch’s Edge (EX) à la fin. La saison ⟦3⟧ dure du ⟦4⟧ septembre ⟦5⟧ au ⟦6⟧ décembre ⟦7⟧.
+013167e72e|⟦1⟧ niveaux de ⟦2⟧ XP, voies gratuite et premium, ⟦3⟧ quêtes quotidiennes de pass ; niveau ⟦4⟧ premium : Monarch’s Edge (EX).
+ad6120e7ee|<p>⟦1⟧ niveaux de ⟦2⟧ XP, voies gratuite et premium, ⟦3⟧ quêtes quotidiennes de pass ; niveau ⟦4⟧ premium : Monarch’s Edge (EX).</p>
+6e142b26ee|⟦1⟧ min
+b8cb1a0a3c|⟦1⟧ minutes au maximum.
+23e70b7d19|⟦1⟧ monstres, gardiens et boss
+649cecc933|⟦1⟧ monstres : monstres ordinaires, gardiens qui closent chaque donjon et quelques boss.
+6e497dd142|⟦1⟧ novembre ⟦2⟧
+a7b7dd65b5|⟦1⟧ passifs : bonus permanents débloqués avec des points de compétence dans les arbres de classe et l’arbre General.
+fb4cc19da4|<strong>⟦1⟧</strong> par niveau du niveau ⟦2⟧ au niveau ⟦3⟧ (⟦4⟧ au niveau ⟦5⟧).
+998d4dbba6|<strong>⟦1⟧</strong> par niveau jusqu’au niveau ⟦2⟧, <strong>⟦3⟧</strong> jusqu’au niveau ⟦4⟧, <strong>⟦5⟧</strong> jusqu’au niveau ⟦6⟧, aucun ensuite.
+5fd6fb6bf3|⟦1⟧ potions
+5a44c49d9b|⟦1⟧ tables de probabilités lues dans le jeu, avec la vraie formule de chance.
+681abd8170|⟦1⟧ produits : éclats, boosts, objets de rift, cosmétiques, stockage, réinitialisations, gemmes et lots.
+51aa114929|<p><strong>⟦1⟧ R$</strong> (un don : merci !).</p>
+6e108838a9|<p><strong>⟦1⟧ R$</strong> (produit développeur, acheté en jeu).</p>
+1112c2375b|<p><strong>⟦1⟧ R$</strong>, acheté une fois sur Roblox, valable sur tous les profils.</p>
+fad798be51|⟦1⟧ badges Roblox d’Overrank : rangs, niveaux, rifts, PvP, guildes et exploits spéciaux.
+660eddb85e|<blockquote> <p><strong>Équipement de saison (SP).</strong> Disponible uniquement pendant la saison, dans les coffres du marchand de saison.</p> </blockquote>
+624f9a4ef3|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats
+4a62861a47|⟦1⟧ éclats
+17f103cc0e|<span><span>⟦1⟧ éclats</span></span>
+8b92587e0f|<p>⟦1⟧ éclats</p>
+50e2ea98e3|⟦1⟧ éclats (+⟦2⟧ % de bonus)
+f0722bb87c|<p>⟦1⟧ éclats (+⟦2⟧ % de bonus)</p>
+488d4cfce4|<p>⟦1⟧ éclats ou Robux ; déjà possédé : Legendary ⟦2⟧ %, Mythic ⟦3⟧ %, Epic ⟦4⟧ %, Limited ⟦5⟧ %, Rare ⟦6⟧ % du prix rendus en éclats ; le nom du secret est caché en jeu</p>
+01ebf35668|⟦1⟧ éclats, ⟦2⟧ x Private rift, ⟦3⟧ x Anomaly summon, ⟦4⟧ x Rift summon, ⟦5⟧ x Server boost, cosmétique Shadow monarch aura, pass VIP
+0e6bc82b15|<p>⟦1⟧ éclats, ⟦2⟧ x Private rift, ⟦3⟧ x Anomaly summon, ⟦4⟧ x Rift summon, ⟦5⟧ x Server boost, cosmétique Shadow monarch aura, pass VIP</p>
+c887147647|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="Anomaly summon" src="/games/overrank/rewards/anomaly-summon.webp"/>⟦2⟧ × Anomaly summon
+a9590ee460|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="Anomaly summon" src="/games/overrank/rewards/anomaly-summon.webp"/>⟦2⟧ × Anomaly summon, <img alt="Server boost" src="/games/overrank/rewards/server-boost-token.webp"/>⟦3⟧ × Server boost, XP/Éclats/Chance x⟦4⟧ ⟦5⟧ min, +⟦6⟧ niveau de pass
+6a2899cb5a|⟦1⟧ éclats, ⟦2⟧ × Anomaly summon, ⟦3⟧ × Luck boost, titre Devoted
+1d289c1485|⟦1⟧ éclats, ⟦2⟧ × Anomaly summon
+1aaa13f3d5|⟦1⟧ éclats, ⟦2⟧ × Anomaly summon, ⟦3⟧ × Rift summon, ⟦4⟧ × Shard boost, XP x⟦5⟧ ⟦6⟧ min, arme de classe (grade +⟦7⟧)
+b50f446682|<p>⟦1⟧ éclats, ⟦2⟧ × Anomaly summon, ⟦3⟧ × Server boost, XP/Éclats/Chance x⟦4⟧ ⟦5⟧ min, +⟦6⟧ niveau de pass</p>
+f30b24f0b6|⟦1⟧ éclats, ⟦2⟧ × Luck boost
+460181bf68|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Rift summon, ⟦4⟧ × XP boost, XP x⟦5⟧ ⟦6⟧ min, arme de classe (grade +⟦7⟧)
+218f9ef6e6|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Shard boost, ⟦5⟧ × Anomaly summon, XP x⟦6⟧ ⟦7⟧ min, arme de classe (grade +⟦8⟧)
+a197a3cdea|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Anomaly summon, ⟦4⟧ × Private rift, ⟦5⟧ × Server boost, XP/Éclats x⟦6⟧ ⟦7⟧ min, arme de classe (grade +⟦8⟧)
+e913521df0|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × Shard boost, ⟦6⟧ × Server boost, XP/Éclats x⟦7⟧ ⟦8⟧ min, arme de classe (grade +⟦9⟧)
+4712c38c70|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × XP boost, ⟦6⟧ × Shard boost, ⟦7⟧ × Server boost, XP/Éclats/Chance x⟦8⟧ ⟦9⟧ min, arme de classe de rang S+ (grade +⟦10⟧), armure et accessoire d’édition S+
+892233be28|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × Shard boost, ⟦6⟧ × Server boost, objet Armure S+, XP/Éclats x⟦7⟧ ⟦8⟧ min
+d238739bc2|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × Shard boost, ⟦6⟧ × Server boost, objet Armure Nation, XP/Éclats x⟦7⟧ ⟦8⟧ min
+7b98c7014d|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × XP boost, ⟦4⟧ × Private rift, ⟦5⟧ × Anomaly summon, ⟦6⟧ × Server boost, objet Accessoire S+, XP/Éclats x⟦7⟧ ⟦8⟧ min
+f9aa4c30c4|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × Shard boost, ⟦6⟧ × Server boost, objet Accessoire Nation, XP/Éclats/Chance x⟦7⟧ ⟦8⟧ min
+e15fb84ac8|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × Shard boost, ⟦6⟧ × Server boost, objet Arme S+, XP/Éclats/Chance x⟦7⟧ ⟦8⟧ min
+dfbaa26619|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × XP boost, ⟦6⟧ × Shard boost, ⟦7⟧ × Server boost, objet Arme Nation, objet Armure Nation, objet Accessoire Nation, titre TheFinisher, cosmétique The Last Eclipse, XP/Éclats/Chance x⟦8⟧ ⟦9⟧ min
+ffc9d912e7|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × XP boost, ⟦6⟧ × Shard boost, ⟦7⟧ × Server boost, objet Arme Nation, XP/Éclats/Chance x⟦8⟧ ⟦9⟧ min
+3bf6f6718b|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × XP boost, ⟦6⟧ × Shard boost, ⟦7⟧ × Server boost, objet Armure Nation, cosmétique Ascendant's Edge, XP/Éclats/Chance x⟦8⟧ ⟦9⟧ min
+5243c01122|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × XP boost, ⟦6⟧ × Shard boost, ⟦7⟧ × Server boost, objet Accessoire Nation, XP/Éclats/Chance x⟦8⟧ ⟦9⟧ min
+098b79fd5e|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × XP boost, ⟦6⟧ × Shard boost, ⟦7⟧ × Server boost, objet Arme Nation +⟦8⟧ objet Armure Nation +⟦9⟧ objet Accessoire Nation +⟦10⟧ cosmétique Apex Blade, XP/Éclats/Chance x⟦11⟧ ⟦12⟧ min
+e7074960e5|⟦1⟧ éclats, ⟦2⟧ × Luck boost, ⟦3⟧ × Private rift, ⟦4⟧ × Anomaly summon, ⟦5⟧ × XP boost, ⟦6⟧ × Shard boost, ⟦7⟧ × Server boost, objet Arme Nation Limited +⟦8⟧ objet Armure Nation Limited +⟦9⟧ objet Accessoire Nation Limited +⟦10⟧ titre TheUnbound, cosmétique The Unbound, XP/Éclats/Chance x⟦11⟧ ⟦12⟧ min
+bab2f8b613|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="Private rift" src="/games/overrank/rewards/private-rift.webp"/>⟦2⟧ × Private rift
+6748cef5bd|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="Rift summon" src="/games/overrank/rewards/rift-summon.webp"/>⟦2⟧ × Rift summon
+9f7857c1ad|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="Rift summon" src="/games/overrank/rewards/rift-summon.webp"/>⟦2⟧ × Rift summon, <img alt="Anomaly summon" src="/games/overrank/rewards/anomaly-summon.webp"/>⟦3⟧ × Anomaly summon, objet Trash, XP/Éclats/Chance x⟦4⟧ ⟦5⟧ min, +⟦6⟧ niveau de pass
+f332cd1932|<p>⟦1⟧ éclats, ⟦2⟧ × Rift summon, ⟦3⟧ × Anomaly summon, objet Trash, XP/Éclats/Chance x⟦4⟧ ⟦5⟧ min, +⟦6⟧ niveau de pass</p>
+e16f463c52|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="Server boost" src="/games/overrank/rewards/server-boost-token.webp"/>⟦2⟧ × Server boost, titre SeasonVeteran⟦3⟧
+3e3d9ab5cb|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="Server boost" src="/games/overrank/rewards/server-boost-token.webp"/>⟦2⟧ × Server boost, <img alt="XP boost" src="/games/overrank/rewards/xp-token.webp"/>⟦3⟧ × XP boost, <img alt="Shard boost" src="/games/overrank/rewards/shard-token.webp"/>⟦4⟧ × Shard boost, <img alt="Luck boost" src="/games/overrank/rewards/luck-token.webp"/>⟦5⟧ × Luck boost, objet Trash, XP/Éclats/Chance x⟦6⟧ ⟦7⟧ min, +⟦8⟧ niveau de pass
+52dd632d22|<p>⟦1⟧ éclats, ⟦2⟧ × Server boost, ⟦3⟧ × XP boost, ⟦4⟧ × Shard boost, ⟦5⟧ × Luck boost, objet Trash, XP/Éclats/Chance x⟦6⟧ ⟦7⟧ min, +⟦8⟧ niveau de pass</p>
+a79797da83|<div><span>⟦1⟧ éclats, ⟦2⟧ × Server boost, ⟦3⟧ × XP boost, ⟦4⟧ × Shard boost, ⟦5⟧ × Luck boost, objet Trash, XP/Éclats/Chance x⟦6⟧ ⟦7⟧ min, +⟦8⟧ niveau de pass</span><span>Expire le ⟦9⟧ nov. ⟦10⟧</span></div>
+545b20d34d|⟦1⟧ éclats, ⟦2⟧ × Shard boost
+c76eb13950|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="Shard boost" src="/games/overrank/rewards/shard-token.webp"/>⟦2⟧ × Shard boost, <img alt="Server boost" src="/games/overrank/rewards/server-boost-token.webp"/>⟦3⟧ × Server boost
+dc3b019aee|<img alt="shards" src="/games/overrank/rewards/shards.webp"/>⟦1⟧ éclats, <img alt="XP boost" src="/games/overrank/rewards/xp-token.webp"/>⟦2⟧ × XP boost

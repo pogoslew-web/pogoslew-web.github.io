@@ -1,0 +1,142 @@
+8611bff528|+⟦1⟧ % de soins et boosts <strong>par niveau</strong>
+905cdb8659|<p>+⟦1⟧ % de vol de vie pendant ⟦2⟧ s. Recharge de ⟦3⟧ s, une potion à la fois, ⟦4⟧ portées au maximum.</p>
+b9dc75f4e3|+⟦1⟧ % de vol de vie <strong>par niveau</strong>
+0de66b8bd3|+⟦1⟧ % de dégâts magiques <strong>par niveau</strong>
+69b92da57f|+⟦1⟧ % de régénération de mana <strong>par niveau</strong>
+5a28b4f3d8|+⟦1⟧ % de PV max <strong>par niveau</strong>
+b9afedcf15|+⟦1⟧ % de mana max <strong>par niveau</strong>
+5d57a20111|+⟦1⟧ % des PV max par seconde <strong>par niveau</strong>
+d4990d407f|+⟦1⟧ % de dégâts physiques <strong>par niveau</strong>
+f437840745|+⟦1⟧ % de puissance des morts-vivants <strong>par niveau</strong>
+10b43d5f0e|⟦1⟧, ⟦2⟧ et ⟦3⟧ : les boutiques de la ville.
+4344bfa5e9|⟦1⟧, ⟦2⟧, ⟦3⟧ et ⟦4⟧.
+6e4eb856a0|⟦1⟧, niveau ⟦2⟧ (voie premium)
+6eaece1466|⟦1⟧-⟦2⟧ monstres par salle
+791dc8c336|<span><span>-⟦1⟧ rang</span></span>
+07389fd274|<span><span>-⟦1⟧ rangs</span></span>
+b4d354bc1f|<p>-⟦1⟧ % de temps de recharge des compétences pendant ⟦2⟧ s. Recharge de ⟦3⟧ s, une potion à la fois, ⟦4⟧ portées au maximum.</p>
+b757b1b07e|<p>-⟦1⟧ % de temps de recharge des compétences, +⟦2⟧ % de chance critique pendant ⟦3⟧ s. Recharge de ⟦4⟧ s, une potion à la fois, ⟦5⟧ portées au maximum. Un élixir : uniquement chez le marchand itinérant, une fois par marchand.</p>
+6fda39e183|<p>⟦1⟧-⟦2⟧-⟦3⟧ au ⟦4⟧-⟦5⟧-⟦6⟧ (UTC).</p>
+44aa79d3e1|⟦1⟧. Fermez des rifts
+ad90b11463|⟦1⟧. Montez en rang
+0fd958d620|⟦1⟧. Devenez plus fort
+ccfeb81e0a|⟦1⟧. Choisissez une classe
+10f5451ad3|⟦1⟧. Dépensez vos points
+c91125bec3|⟦1⟧. Le Seuil (tutoriel)
+528798e376|⟦1⟧ : ⟦2⟧ bornes pour voyager n’importe où dans la ville, gratuites et instantanées.
+318d8fc457|⟦1⟧ : ⟦2⟧ R$, ou ⟦3⟧ éclats en jeu.
+03944a34fe|⟦1⟧ : +⟦2⟧ % de chance critique par niveau (jusqu’à +⟦3⟧ % de chance critique)
+afd76d9b7c|⟦1⟧ : un nouveau marchand toutes les ⟦2⟧ minutes, le même sur tous les serveurs.
+cf51847f52|⟦1⟧ : chaque boîte contient ⟦2⟧ cosmétiques, dont un secret. Voir les tables de gemmes de ⟦3⟧.
+9d70a836c2|⟦1⟧ : toutes les touches (clavier et manette) et la carte de chaque lieu.
+6fbaf64945|⟦1⟧ : puissance des étages, tickets
+bf9f890b29|⟦1⟧ : graphismes, son, interface, commandes, confidentialité.
+3d65761411|⟦1⟧ : santé, dégâts, coups critiques, défense
+8cc47731ba|⟦1⟧ : marché, changement de classe, réinitialisations
+8d62c2aa70|⟦1⟧ : puissance des monstres, récompenses
+ccdd761802|⟦1⟧ : entraînement, rien ne compte sur vos records.
+d936d4faf4|⟦1⟧ : arène PvP et duels.
+cdfc91de4d|⟦1⟧ : runes gravées dans votre équipement, et étoiles pour +⟦2⟧ % de stats en donjon.
+3c214de3a4|⟦1⟧ : stats, valeur, coûts
+02ab28a59a|⟦1⟧ : échanger des objets et des éclats avec un autre éveillé.
+25976e4363|⟦1⟧ : le score global, les points de guilde
+f6d310a062|⟦1⟧ : l’ascension solo infinie.
+58a998a560|⟦1⟧ : le tutoriel.
+bf49fd32be|⟦1⟧ : jusqu’à ⟦2⟧ éveillés ensemble, sur n’importe quel serveur, et comment l’XP est partagée.
+2573a83257|⟦1⟧ : ce qui se passe quand vous tombez, en ville, en donjon et dans la tour.
+5cfdcd9717|⟦1⟧ : ce que les autres voient de vous, et ce que vous pouvez cacher.
+ee2f3e589b|⟦1⟧ : multiplicateurs d’XP, d’éclats et de chance
+c31ae3e54b|⟦1⟧ : points d’XP, de stats et de compétence
+0e42ef2af5|??? (jamais annoncé)
+3a40fea442|<span><span>??? (jamais annoncé)</span></span>
+ef28cb8bd7|<p>Un ⟦1⟧ accueille jusqu’à ⟦2⟧ éveillés. L’XP d’un kill n’est <strong>pas partagée</strong> : chaque membre concerné reçoit son XP solo complète, comme s’il avait frappé le monstre, multipliée par un <strong>bonus de groupe</strong> (×⟦3⟧ seul, ×⟦4⟧ à deux, ×⟦5⟧ à trois, ×⟦6⟧ à quatre). Un membre compte lorsqu’il est à moins de ⟦7⟧ studs du monstre ou dans le même donjon, vivant ou mort depuis moins de ⟦8⟧ s ; le kill compte aussi pour ses ordres quotidiens.</p>
+0780bd4993|A (Legendary)
+25bda78e47|Un champ de bataille : à l’intérieur, les éveillés peuvent s’affronter (jamais des membres de la même guilde, jamais à l’entrée ni dans le sanctuaire).
+500bb3e6b4|<p>Un champ de bataille : à l’intérieur, les éveillés peuvent s’affronter (jamais des membres de la même guilde, jamais à l’entrée ni dans le sanctuaire).</p>
+ecd882317d|Un rayon d’arcane pur droit devant.
+c0f5a2f47f|Un rift rouge sang au cœur noir, parcouru d’éclairs crépitants, deux fois plus grand que d’habitude : un donjon plus long, plus dur et plus riche.
+33e19826ab|<p>Un rift rouge sang au cœur noir, parcouru d’éclairs crépitants, deux fois plus grand que d’habitude : un donjon plus long, plus dur et plus riche. Annoncé à tout le serveur.</p>
+dd96ada611|Un tableau garde la mémoire des meilleurs : le Panthéon.
+e9ce7f56d7|Un trait de feu des tombes qui boit la vie.
+397fd8956e|<p><p>un prix de boost<!-- --> · <!-- -->un résultat par tirage</p></p>
+86bb005af7|Un coup de taille enflammé le long d’une ligne ; les flammes continuent de mordre.
+8dd379a9b3|<span><span>Une salle calme renferme un coffre</span></span>
+2437038f81|<p><p>un coffre ouvert (bonbons ; ou Robux, un ou dix à la fois)<!-- --> · <!-- -->un résultat par tirage</p></p>
+a89734fb9e|<p><p>un coffre ouvert (chaque éveillé)<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+af910d40ac|Une spirale de mort qui boit la vie.
+40d1165c16|<span><span>Une salle de combat est calme (aucun monstre)</span></span>
+5061677f07|Une boîte cosmétique : ⟦1⟧ cosmétiques, dont un secret.
+9e6c8cd775|<p>Une boîte cosmétique : ⟦1⟧ cosmétiques, dont un secret.</p>
+b7758e7e35|Un cosmétique qui ne peut pas être acheté. Personne n’a encore documenté comment l’obtenir.
+bac07056ab|Un domaine du vide qui attire les ennemis et les ralentit.
+81efcb8329|Un don de ⟦1⟧ Robux
+3715eb9fba|<p>Un don de ⟦1⟧ Robux</p>
+8da7766896|Un événement de donjon se produit
+b3c23e3dc8|Un événement de donjon : au-delà du gardien, un second donjon d’un rang au-dessus.
+4a68b51870|<p>Un événement de donjon : au-delà du gardien, un second donjon d’un rang au-dessus.</p>
+f536f3bc2e|<p><p>un gardien de donjon vaincu (chaque éveillé tire)<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+5746bf13e4|<p>Un donjon de votre rang rien que pour vous, directement</p>
+998bea92d4|Un donjon de votre rang rien que pour vous, directement.
+290846f729|Un thème de donjon avec le gardien Grand Mechanist et des sols de lave.
+3b1b68ee60|Un thème de donjon avec le gardien Scarlet Archon et une malédiction qui pèse sur les salles.
+2191c1b761|Un thème de donjon avec le gardien Eclipse Monarch et une malédiction qui pèse sur les salles.
+f1d6418008|Un thème de donjon avec le gardien Cinder Colossus et des sols de lave.
+8652434323|Un thème de donjon avec le gardien Wraith Lich et une malédiction qui pèse sur les salles.
+f123d92bc8|Un thème de donjon avec le gardien Frost Matriarch et un sol gelé.
+c53d4ead9c|Un thème de donjon avec le gardien Hollow Sovereign et une malédiction qui pèse sur les salles.
+239fe39ea5|Un thème de donjon avec le gardien Rift Colossus et une malédiction qui pèse sur les salles.
+a061644122|Un thème de donjon avec le gardien Storm Titan et un sol gelé.
+664125bf3d|Un thème de donjon avec le gardien Drowned King et un sol gelé.
+52cdb9288f|Un thème de donjon avec le gardien Rotwood Behemoth et des nuages de poison.
+07dd282fee|<p>un donjon avec ⟦1⟧ étoiles donne un second tirage ; les étoiles ajoutent de la chance : +⟦2⟧ % / +⟦3⟧ % / +⟦4⟧ % ; le rouleau montre les cartes rares bien plus souvent qu’elles ne tombent (leurre)</p>
+39b402eecc|Un champ d’ombre devant soi qui blesse et ralentit.
+4fd0e91d38|Un tour complet de faux tout autour.
+f543353410|Une fente en rafale qui vous soigne à chaque ennemi transpercé.
+fc43ed4c0e|Une porte qui s’ouvre dans la ville et mène à un donjon procédural de son rang.
+c04b49ab54|<p>Une porte qui s’ouvre dans la ville et mène à un donjon procédural de son rang.</p>
+13b38a56e6|Une porte déchire le ciel au-dessus de la ville : ⟦1⟧ vagues de monstres (⟦2⟧/⟦3⟧/⟦4⟧), puis le boss mondial ; ⟦5⟧ min au maximum. Récompenses selon la place au classement des dégâts : éclats, boosts, objets spéciaux et une chance d’obtenir des armes d’édition SP / EX.
+6fe42bccd5|<p>Une porte déchire le ciel au-dessus de la ville : ⟦1⟧ vagues de monstres (⟦2⟧/⟦3⟧/⟦4⟧), puis le boss mondial ; ⟦5⟧ min au maximum. Récompenses selon la place au classement des dégâts : éclats, boosts, objets spéciaux et une chance d’obtenir des armes d’édition SP / EX.</p>
+07259c3970|Une porte déchire le ciel au-dessus de la ville.
+a647679452|<p><p>une gemme ouverte<!-- --> · <!-- -->un résultat par tirage</p></p>
+816313dad0|<p>Une version cadeau permet de l’envoyer à un autre éveillé.</p>
+13f32e8bea|Une entaille dorée le long d’une large ligne.
+25a1b7d555|Un grand halo qui brûle les ennemis et soigne les alliés à l’intérieur.
+75b7db923a|<p>Un gardien s’énerve à mesure qu’il perd de la vie : chaque nouvelle phase le rend plus rapide (vitesse ×⟦1⟧, préparations ×⟦2⟧, recharges ×⟦3⟧), ouvre une nouvelle attaque à partir de la phase ⟦4⟧ et une attaque signature à partir du rang C. Le nombre de phases dépend du rang du donjon (⟦5⟧ au rang E jusqu’à ⟦6⟧ au rang Nation). Voir ⟦7⟧.</p>
+cad3af020d|<p>Un gardien a plus de phases quand le rang du rift est élevé (⟦1⟧ au rang E, jusqu’à ⟦2⟧ au rang Nation). Il attaque plus vite après chacune. Les variantes sont tirées au début du donjon : Standard, Enraged (plus rapide sous ⟦3⟧ % de PV) et Summoner (appelle des renforts à ⟦4⟧ % et ⟦5⟧ %).</p>
+74f64a252f|<p>Un gardien verse <strong>un prix par éveillé qui l’a combattu</strong> : ⟦1⟧ (équipement, éclats, objets de boost, objets rares), puis les coffres du donjon : ⟦2⟧.</p>
+7e505eaecd|Un test de gardien
+6456b4197a|<p>Un boost de guilde dure ⟦1⟧ heure pour chaque membre.</p>
+20f2eaa367|<p>Une guilde est une équipe d’au plus <strong>⟦1⟧ éveillés</strong> (⟦2⟧ officiers au maximum). Vous pouvez en créer une à partir du <strong>rang D</strong>. Nom : ⟦3⟧ à ⟦4⟧ caractères, tag : ⟦5⟧ à ⟦6⟧. Renommer coûte ⟦7⟧ éclats. Le recrutement peut être <strong>Ouvert, Sur candidature, Fermé</strong>.</p>
+bda4df2f20|Un temple hanok dans son parc, au sud-ouest de la Place des Éveillés, avec l’autel des runes : une rune trouvée sur un gardien de donjon est gravée sur une arme, une armure ou un pendentif (une rune par objet, une nouvelle remplace l’ancienne).
+a120fb3e91|<p>Un temple hanok dans son parc, au sud-ouest de la Place des Éveillés, avec l’autel des runes : une rune trouvée sur un gardien de donjon est gravée sur une arme, une armure ou un pendentif (une rune par objet, une nouvelle remplace l’ancienne). L’objet est lié pendant un temps (⟦1⟧ min pour une rune Common jusqu’à ⟦2⟧ h pour une Mythic), puis la rune agit tant que l’objet est porté. La liaison peut être sautée avec des éclats ou des Robux.</p>
+529c0a5b9e|Une classe cachée (Spellblade, Survivor, Warper, Bipolar, Berserker, Reaper, Chad, Overlord) débloquée par un exploit secret ; niveau maximum ⟦1⟧.
+e8f7e2c4e1|<p>Une classe cachée (Spellblade, Survivor, Warper, Bipolar, Berserker, Reaper, Chad, Overlord) débloquée par un exploit secret ; niveau maximum ⟦1⟧.</p>
+2def956f7f|<p>Un coup porté à un autre éveillé inflige <strong>⟦1⟧ %</strong> de ses dégâts, et jamais plus de <strong>⟦2⟧ % des PV max de la victime</strong> en un seul coup.</p>
+57fdfb0d4b|Un coup énorme payé en sang, dont une partie est rebue.
+de180da209|Une lance de runes qui transperce tous les ennemis alignés.
+c6e27356f3|Une longue fente perçante qui vous soigne un peu.
+812091c93d|Une halle de marbre à l’ouest de la Place des Éveillés où les éveillés achètent et vendent de l’équipement avec tous les serveurs, en éclats : enchères (la meilleure offre l’emporte) et prix d’achat immédiat, un graphique de prix pour chaque objet et un prix suggéré selon l’offre et la demande.
+1cd1baeb80|<p>Une halle de marbre à l’ouest de la Place des Éveillés où les éveillés achètent et vendent de l’équipement avec tous les serveurs, en éclats : enchères (la meilleure offre l’emporte) et prix d’achat immédiat, un graphique de prix pour chaque objet et un prix suggéré selon l’offre et la demande. Jusqu’à ⟦1⟧ annonces à la fois pendant ⟦2⟧ ⟦3⟧ ⟦4⟧ ⟦5⟧ ou ⟦6⟧ h ; une enchère augmente le prix d’au moins ⟦7⟧ %, et une enchère dans la dernière minute prolonge la vente. Frais de mise en vente ⟦8⟧ % du prix (⟦9⟧ à ⟦10⟧ éclats), ⟦11⟧ % prélevés à la vente ; les gains attendent dans MY SALES jusqu’à COLLECT ALL.</p>
+08baa57bc3|Une marque ajoutée à une arme ou une armure à la forge avec des essences : chaque étoile donne à l’objet +⟦1⟧ % de ses propres stats en donjon, ⟦2⟧ au maximum.
+35f04090e7|<p>Une marque ajoutée à une arme ou une armure à la forge avec des essences : chaque étoile donne à l’objet +⟦1⟧ % de ses propres stats en donjon, ⟦2⟧ au maximum.</p>
+d8554c0a3f|Une marque devant soi ; une faux du vide s’abat dessus.
+e374edcf21|<span><span>Un modificateur</span></span>
+707a849eb3|<p>Un modificateur change les règles de la partie en échange de plus d’XP et d’éclats : voir ⟦1⟧.</p>
+305d05b5ee|Un monstre de ⟦1⟧ rangs ou plus au-dessus de vous que vous n’avez pas frappé vous-même donne ×⟦2⟧ (pas de boost pour un ami de bas rang) ; frappez-le une fois et vous recevez votre part entière.
+10438c145e|<p><p>un monstre tué<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+7662603b0f|Un monstre que personne n’a encore documenté.
+2d459e054d|Un monstre plus faible que votre rang donne −⟦1⟧ % d’XP par rang d’écart, comme quand vous jouez seul.
+28329e4322|Un nouveau marchand toutes les ⟦1⟧ min, le même sur tous les serveurs : ⟦2⟧ sortes, ⟦3⟧ raretés, ⟦4⟧ à ⟦5⟧ % de réduction, sa charrette quelque part dans l’un des ⟦6⟧ quartiers (une rumeur le nomme : suivez sa fumée). Potions, objets spéciaux, sauts de rune, essences d’étoile ; élixirs et un cosmétique chez les plus rares.
+ae3f6befd0|<p>Un nouveau marchand toutes les ⟦1⟧ min, le même sur tous les serveurs : ⟦2⟧ sortes, ⟦3⟧ raretés, ⟦4⟧ à ⟦5⟧ % de réduction, sa charrette quelque part dans l’un des ⟦6⟧ quartiers (une rumeur le nomme : suivez sa fumée). Potions, objets spéciaux, sauts de rune, essences d’étoile ; élixirs et un cosmétique chez les plus rares.</p>
+4a47ff0215|Un nouveau marchand toutes les ⟦1⟧ minutes, le même sur tous les serveurs : ⟦2⟧ sortes, ⟦3⟧ raretés, ⟦4⟧ à ⟦5⟧ % de réduction, sa charrette quelque part dans la ville.
+4a65ab3367|<p><p>un nouveau marchand itinérant (toutes les ⟦1⟧ min, le même sur tous les serveurs)<!-- --> · <!-- -->un résultat par tirage</p></p>
+f2a634c33c|<p><p>un nouveau tirage payant (Robux, dans les ⟦1⟧ min)<!-- --> · <!-- -->un résultat par tirage</p></p>
+820917a87b|Un groupe fonctionne <strong>entre serveurs</strong> : vous pouvez rejoindre un membre là où il se trouve, sur un autre serveur ou dans son rift.
+c06e6e306e|<p>Un <strong>passif</strong> est un bonus permanent : plus de santé, plus de dégâts, recharges plus rapides... Chacun a plusieurs niveaux, un coût par niveau et une condition (un autre nœud au niveau maximum). Les points peuvent être remboursés avec une réinitialisation de l’arbre de compétences (⟦1⟧ éclats par point).</p>
+150c04cd6b|Une fosse de cendres qui attire les ennemis et les ralentit.
+1b9d50f015|Un lieu que peu ont vu. Personne ne l’a encore documenté.
+a1d79bda30|Un joueur : un humain dont le mana s’est éveillé. Le jeu appelle les joueurs des éveillés (plus des chasseurs).
+6050542f2a|<p>Un joueur : un humain dont le mana s’est éveillé. Le jeu appelle les joueurs des éveillés (plus des chasseurs).</p>
+356fea653b|Une poche d’un autre monde est logée dans ce rift.
+c3d1afc167|Une zone d’entraînement au sud de la ville : ring PvP, cibles mobiles, un test de gardien et un test de build libre (vos vraies stats reviennent quand vous partez) ; rien de ce qui s’y fait ne compte sur les records.
+e6788117f1|<p>Une zone d’entraînement au sud de la ville : ring PvP, cibles mobiles, un test de gardien et un test de build libre (vos vraies stats reviennent quand vous partez) ; rien de ce qui s’y fait ne compte sur les records. Les rifts d’entraînement par classe (Awakening Dojo, Proving Forge, Shade Maze, Vigil Sanctum, Arcane Archive, Ossuary) sont désactivés dans cette version.</p>

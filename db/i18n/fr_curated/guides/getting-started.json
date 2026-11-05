@@ -1,0 +1,35 @@
+{
+ "summary": "Votre première heure dans Overrank : le tutoriel, votre classe, vos premiers rifts, la forge et le premier rang.",
+ "headings": {
+  "1-the-threshold-tutorial": "1. Le Seuil (tutoriel)",
+  "2-pick-a-class": "2. Choisir une classe",
+  "3-spend-your-points": "3. Dépenser ses points",
+  "4-clear-rifts": "4. Terminer des rifts",
+  "5-get-stronger": "5. Devenir plus fort",
+  "6-climb-the-ranks": "6. Grimper les rangs",
+  "tips": "Conseils"
+ },
+ "blocks": {
+  "1-the-threshold-tutorial": {
+   "0": "<p>Vous commencez à <strong>The Threshold</strong> : votre premier donjon, puis une courte visite de la ville. Le terminer vous éveille et vous donne le badge <a href=\"/en/w/overrank/badges/awakening\">Awakened</a>. Vous recevez une arme de départ.</p>"
+  },
+  "2-pick-a-class": {
+   "0": "<p>Tout nouvel éveillé est <strong>Human</strong> : sans classe, +8 % à toutes les stats et +10 % d’XP, avec tout l’arbre de compétences General ouvert. Ouvrez la fenêtre de classe (fenêtre de statut, <strong>Change class</strong>) pour en choisir une. Le premier changement d’un profil est gratuit ; les suivants coûtent des éclats. Pas sûr ? Regardez la <a href=\"/en/w/overrank/classes\">liste des classes</a> et lisez la <em>Difficulté</em> et le <em>Rôle</em> de chacune. <a href=\"/en/w/overrank/classes/assassin\">Assassin</a>, <a href=\"/en/w/overrank/classes/tank\">Tank</a>, <a href=\"/en/w/overrank/classes/mage\">Mage</a> et <a href=\"/en/w/overrank/classes/support\">Support</a> sont de bons premiers choix.</p>"
+  },
+  "3-spend-your-points": {
+   "0": "<p>Chaque niveau donne des <strong>points de stats</strong> (3 par niveau jusqu’au niveau 30, puis 2, puis 1) et un <strong>point de compétence</strong>. Mettez vos points de stats dans les stats que votre classe privilégie : voir <a href=\"/en/w/overrank/guides/stats\">les 7 stats</a>. Les erreurs ne sont pas définitives : une réinitialisation des stats coûte 120 éclats par point (500 au minimum).</p>"
+  },
+  "4-clear-rifts": {
+   "0": "<p>Les rifts s’ouvrent sur les places des quartiers de la <a href=\"/en/w/overrank/places/city\">ville</a>, regroupés en quatre zones de danger. Commencez dans la zone des <strong>Docks</strong> (danger faible : Namsan, Mapo, la place du jardin du palais pour les nouveaux éveillés) et prenez des rifts de rang E ; les <a href=\"/en/w/overrank/systems/transit\">bornes de transit</a> vous y emmènent gratuitement : <a href=\"/en/w/overrank/rifts/rift-e\">Rank E rift</a>. Battez le gardien pour fermer le rift. Venez avec des amis : un groupe compte jusqu’à 4 joueurs et donne un bonus d’XP.</p>"
+  },
+  "5-get-stronger": {
+   "0": "<ul> <li>Dépensez vos éclats au marché et à la <a href=\"/en/w/overrank/guides/forge-and-gear\">forge</a>.</li> <li>Ouvrez des coffres et tuez des monstres <strong>élites</strong> : ils peuvent lâcher de l’équipement.</li> <li>Récupérez vos <a href=\"/en/w/overrank/guides/daily-rewards\">récompenses quotidiennes</a> et utilisez les <a href=\"/en/w/overrank/guides/codes\">codes</a>.</li> </ul>"
+  },
+  "6-climb-the-ranks": {
+   "0": "<p>Au niveau 10 et avec 5 donjons terminés, vous pouvez demander le rang D à l’<strong>Awakened Registry</strong>. Une réévaluation est gratuite, une fois par minute. Route complète : <a href=\"/en/w/overrank/guides/progression-path\">Parcours de progression</a>.</p>"
+  },
+  "tips": {
+   "0": "<ul> <li>Ne vous précipitez pas dans des rifts très au-dessus de votre rang : le jeu vous refuse l’accès si l’écart est trop grand.</li> <li>Les monstres plus faibles donnent moins d’XP (−20 % par rang sous le vôtre).</li> <li>Rejoignez une <a href=\"/en/w/overrank/guides/guilds\">guilde</a> à partir du rang D pour débloquer ses avantages.</li> <li>Consultez le <a href=\"/en/w/overrank/odds\">hub des probabilités</a> avant de dépenser des éclats dans des tirages aléatoires.</li> </ul>"
+  }
+ }
+}

@@ -1,0 +1,166 @@
+732b4dbdb0|<p><strong>⟦1⟧</strong> s'élève au nord de ⟦2⟧ : entrez par sa place. Elle n'a pas de fin : vous jouez étage après étage, <strong>seul</strong>, contre des vagues de plus en plus dures à chaque étage. Un <strong>boss</strong> attend tous les ⟦3⟧ étages et vous pouvez repartir d'un <strong>point de contrôle</strong> tous les ⟦4⟧ étages.</p>
+ba5eaf0ee6|Le jeu murmure : <em>« Un support qui se bat seul... et que rien ne touche jamais. »</em>
+93bebef804|Le jeu murmure : <em>« Un assassin dont l'intelligence est aussi acérée que sa lame. »</em>
+3edeacf7c2|Le jeu murmure : <em>« Certains humains n'ont jamais eu besoin d'une classe pour atteindre le sommet. »</em>
+adab5b6dc2|Le jeu murmure : <em>« Certains attaquants lisent plus de livres qu'ils ne brisent de crânes. »</em>
+cfda158bcb|La monnaie du jeu.
+c906be96f9|<p>La monnaie du jeu.</p>
+faecf3165a|La porte des terrains d'entraînement
+f90392cabd|Les étals de gemmes
+32612fa3cf|<p>Le classement <strong>Global</strong> classe chaque éveillé selon un score unique qui mêle niveau, activité et richesse :</p>
+517ad8c83d|Le score Global
+b44258bdc4|Le gardien de cette faille est éveillé. Il est bien plus fort.
+a3984161ae|Le hall de guilde
+35e3030959|<strong>Le gardien de guilde</strong>
+c586bfb88c|Le Hall des Éveillés (classements)
+11ff0edce9|Le donjon de la saison d'Halloween, par le portail de l'Île hantée : le thème Haunted Castle, son gardien le Wraith Lich ; son tirage rapporte des bonbons, jamais d'objets.
+51e840c20a|<p>Le donjon de la saison d'Halloween, par le portail de l'Île hantée : le thème Haunted Castle, son gardien le Wraith Lich ; son tirage rapporte des bonbons, jamais d'objets.</p>
+d20a6e4b50|La zone de la saison d'Halloween : depuis la mise à jour New City, le terrain de la saison près de la porte ouest de la Place des Éveillés (l'arrêt « Événement de saison » du transit), avec le portail du Haunted Castle et le Bazar de bonbons de Grimble.
+99c55286f7|<p>La zone de la saison d'Halloween : depuis la mise à jour New City, le terrain de la saison près de la porte ouest de la Place des Éveillés (l'arrêt « Événement de saison » du transit), avec le portail du Haunted Castle et le Bazar de bonbons de Grimble.</p>
+16230ef77d|Le village hanok et ses ruelles.
+e1485c15cb|<p><p>le gardien du Haunted Castle (un lot par éveillé)<!-- --> · <!-- -->un résultat par tirage</p></p>
+89b99bd839|Le plus haut rang de faille. À ceux qui osent d'en documenter les chiffres.
+f6e36646f5|Le hub
+8dfd637faf|L'objet est alors <strong>lié</strong> pendant un moment : il ne peut être ni porté, ni vendu, ni échangé, ni forgé. Une fois libre, la rune agit tant que l'objet est porté.
+4acfa41999|Les types d'objets
+f6d4152e35|Le chef peut expulser un membre, en promouvoir un autre ou dissoudre le groupe. S'il part, le membre le plus ancien prend la tête ; un groupe réduit à un seul membre est dissous.
+9fe3f9ed2c|<p>Le chef dessine l'emblème de la guilde : <strong>⟦1⟧ formes</strong>, <strong>⟦2⟧ symboles</strong>, ⟦3⟧ couleurs ou n'importe quelle couleur, un motif sur le fond (uni, partagé, rayures, bande, bords, dégradé) dans une seconde couleur, une bordure simple, double ou épaisse, la taille et la rotation du symbole, un halo, et un petit second symbole sur un badge. L'emblème apparaît dans la fenêtre de guilde, les classements, le navigateur de guildes et les invitations.</p>
+6f5380740d|Le chef, ou toute personne qui n'est pas encore dans un groupe, peut inviter ; le groupe est formé quand l'invitation est acceptée. Une invitation dure <strong>⟦1⟧ s</strong> ; il faut attendre ⟦2⟧ s avant d'inviter à nouveau le même éveillé.
+b955ab904e|<p>Le niveau maximum est de <strong>⟦1⟧</strong> pour l'Humain et les classes normales, <strong>⟦2⟧</strong> pour les classes spéciales. L'XP nécessaire augmente à chaque niveau : voir ⟦3⟧. Au-delà du niveau ⟦4⟧, les classes spéciales gagnent encore un point de stat tous les ⟦5⟧ niveaux jusqu'à ⟦6⟧, tous les ⟦7⟧ jusqu'à ⟦8⟧ et tous les ⟦9⟧ jusqu'à ⟦10⟧. Les récompenses de palier offrent de gros cadeaux tous les ⟦11⟧ niveaux à partir du niveau ⟦12⟧.</p>
+63330f4cf5|La carte (M)
+4fd20fbe80|Le marché (le stock dépend de votre rang).
+7e4671e174|<strong>Le marchand du marché</strong>
+666cde84cc|<p>Le marché vend des potions et de l'équipement de <strong>votre rang</strong>. Son stock change toutes les heures et est le même pour tous les éveillés de votre rang : chaque modèle est surtout Peu commun (D), parfois Commun, Rare ou Épique, rarement Légendaire. Les modèles d'un rang supérieur, les armes Nation et les éditions exclusives ne sont jamais vendus. L'achat coûte ⟦1⟧ fois la valeur de rang E de l'objet, multipliée par un facteur de votre rang (de ×⟦2⟧ au rang E à ×⟦3⟧ à Nation, ×⟦4⟧ pour une arme) ; la vente rend <strong>⟦5⟧ %</strong> de ce que vous avez payé (ou de sa valeur pour un objet looté), plus ⟦6⟧ % des éclats que vous y avez investis à la forge. Voir ⟦7⟧ et ⟦8⟧.</p>
+1d8a58ce2d|Les maths du jeu expliquées aux joueurs : progression, combat, forge, économie, donjons, boosts, classements et tour.
+ad82e57f32|<p>Le passe Monarch contient déjà VIP, Double XP, Double Shards et Lucky : inutile de l'acheter après eux.</p>
+921dee8fe2|Le sommet de la montagne qui abritait le colisée sur l'ancienne carte (sa pelouse, son rebord et sa mer de nuages).
+ef30970441|<p>Le sommet de la montagne qui abritait le colisée sur l'ancienne carte (sa pelouse, son rebord et sa mer de nuages). Depuis la mise à jour New City (⟦1⟧-⟦2⟧-⟦3⟧), le colisée se trouve en ville et le sommet a disparu.</p>
+dddd7519fa|Le multiplicateur sur les chances de drop et sur les grades supérieurs du butin ; chaque bonus s'additionne, x⟦1⟧ au maximum.
+a827ece965|<p>Le multiplicateur sur les chances de drop et sur les grades supérieurs du butin ; chaque bonus s'additionne, x⟦1⟧ au maximum.</p>
+166130a62d|Le tirage de l'édition Nation, les gemmes, les paliers de coffre, le stock du marché et les événements.
+2a1bee7e3e|<p>Les chiffres d'une page de monstre sont ses stats de base. Dans une faille, ils sont multipliés par le rang de la faille (×⟦1⟧ au rang E jusqu'à ×⟦2⟧ PV à Nation, gardiens jusqu'à ×⟦3⟧) : voir ⟦4⟧. <strong>Le jeu n'a ni faiblesses ni résistances élémentaires.</strong></p>
+e626f7ebac|Le vieux temple, sa porte et sa pagode.
+21ebf9da50|Les rues et pavillons de la vieille ville.
+711c328bfc|<p>Les options peuvent effacer définitivement votre profil : vous devez taper <strong>DELETE</strong> pour confirmer. Un chef de guilde ayant des membres doit d'abord céder la guilde.</p>
+f6ed79fb64|Les passes
+127c477d37|L'arène PvP et les duels entre éveillés.
+95b2c358b6|L'arène PvP, à l'est de la ville (à pied depuis la mise à jour New City) : arène en mêlée générale, classements de kills et arènes de duel à côté ; un duel peut être demandé de n'importe où dans la ville.
+94d9a4bc6d|<p>L'arène PvP, à l'est de la ville (à pied depuis la mise à jour New City) : arène en mêlée générale, classements de kills et arènes de duel à côté ; un duel peut être demandé de n'importe où dans la ville. Un coup sur un éveillé inflige ⟦1⟧ % de ses dégâts, au plus ⟦2⟧ % des PV max ; les duels durent ⟦3⟧ s au maximum.</p>
+27138effe1|Le quai, le bateau de croisière, les kiosques en bord de fleuve.
+2061f71ca5|La <strong>radio</strong> : la playlist propre au jeu, ou votre propre liste de ⟦1⟧ morceaux au maximum.
+0676bab36b|Les cosmétiques de rang. Un cosmétique de gemme peut être échangé si l'autre éveillé ne le possède pas déjà (un cosmétique porté est retiré).
+fa73aac186|Le rang, les monstres et les récompenses.
+d51c3b2470|Les poids de rareté des drops normaux (la chance change <em>si</em> un objet tombe, pas sa rareté).
+b2a444a4e0|Le tirage après un gardien : un lot par éveillé (équipement, éclats, un boost ou un objet rare).
+c81f23d98c|<p>Le tirage après un gardien : un lot par éveillé (équipement, éclats, un boost ou un objet rare).</p>
+498df1dc18|<strong>L'employé du Registre</strong>
+0077dcb5cd|La mesure de mana du Registre : gratuite, une fois par minute, donne le plus haut rang dont les conditions sont remplies.
+b8e2db99bc|<p>La mesure de mana du Registre : gratuite, une fois par minute, donne le plus haut rang dont les conditions sont remplies.</p>
+521a653b19|<p>la faille s'ouvre au point libre le plus proche dans un rayon de ⟦1⟧ m ; tout le monde est prévenu</p>
+0056e788fc|La règle
+f3916673ec|L'autel des runes
+416999b797|L'autel des runes.
+25df13431c|Le Temple des runes
+82d9835987|<p>Le passe de la saison ⟦1⟧ est en cours : ⟦2⟧ niveaux, System Arts premium et le Monarch's Edge (EX) au niveau ⟦3⟧. Il se termine le ⟦4⟧-⟦5⟧-⟦6⟧.</p>
+f2e087b4fd|L'événement de saison : nuages sombres sur la ville, le terrain de la saison avec le donjon du Haunted Castle, des bonbons, et le Bazar de bonbons de Grimble : trois coffres (équipement SP, cosmétiques) ou un achat direct d'un lot (prix du coffre / chance x ⟦1⟧), et le titre ⟦2⟧ ⟦3⟧ (⟦4⟧ bonbons).
+13345d7702|<p>L'événement de saison : nuages sombres sur la ville, le terrain de la saison avec le donjon du Haunted Castle, des bonbons, et le Bazar de bonbons de Grimble : trois coffres (équipement SP, cosmétiques) ou un achat direct d'un lot (prix du coffre / chance x ⟦1⟧), et le titre ⟦2⟧ ⟦3⟧ (⟦4⟧ bonbons).</p>
+4963466f7a|Le marchand de la saison
+215e17d131|Le terrain de la saison
+88b4324dc4|Le terrain de la saison et le donjon du Haunted Castle (voir ⟦1⟧ et ⟦2⟧).
+9ca3e06c34|Le terrain de la saison : ses boutiques, ses coffres, son donjon.
+f5466d74d6|Le cosmétique secret d'une gemme. Personne ne l'a encore documenté.
+5b29a1e1c3|<p>La part dépend du quartier et de qui se trouve autour : voir ⟦1⟧.</p>
+c7ecf23af3|<span><span>Le Seuil brisé (gardien Rift Colossus)</span></span>
+eaabf99c31|La boutique (éclats ou Robux).
+f1c261b067|Les arbres de compétences et les System Arts du passe de combat
+708eba809f|Le point d'apparition et sa place.
+a578c6621f|<p>Les stats affichées sur une page d'objet sont ses <strong>valeurs de base</strong> (rang E, Commun, +⟦1⟧). La valeur réelle est la base multipliée par la puissance de l'objet :</p>
+6c881fc7f9|Les arrêts
+43709f9861|Le Système vous a choisi. Entrez dans OVERRANK pour la première fois.
+4eb0a14617|<p>Le Système vous a choisi. Entrez dans OVERRANK pour la première fois.</p>
+a34024f17d|Les systèmes
+752706d563|<p>le thème apporte les monstres de ses salles et son gardien</p>
+7afe9199d0|<p>le thème apporte les monstres de ses salles et son gardien ; salles hors thème x⟦1⟧ PV, x⟦2⟧ dégâts</p>
+245fc36fc7|<p>Le thème du donjon décide des monstres et du gardien :</p>
+ab6df4308b|<p>Les ⟦1⟧ premiers de chaque classement sont affichés en jeu et rafraîchis toutes les ⟦2⟧ s. Plusieurs titres récompensent les premières places : voir ⟦3⟧. Les classements en direct du wiki : ⟦4⟧.</p>
+ba3e36f9e4|Le classement de la tour
+3d81d4c8a5|<p>Le classement de la <strong>Tour</strong> récompense ses meilleurs joueurs : les ⟦1⟧ premiers obtiennent des cosmétiques exclusifs (⟦2⟧, ⟦3⟧, ⟦4⟧) et le vainqueur obtient le titre ⟦5⟧. Voir ⟦6⟧.</p>
+d2863d1b9f|La tour qui s'élève au nord de la ville, où l'on entre à pied depuis sa place.
+78889bc368|<p>La tour qui s'élève au nord de la ville, où l'on entre à pied depuis sa place. Des étages sans fin joués en solo : un boss tous les ⟦1⟧ étages, un point de contrôle tous les ⟦2⟧, un nouveau style d'arène tous les ⟦3⟧ étages (Marble Sanctum, Frozen Spire, Infernal Forge, Celestial Court, Void Throne). Tickets d'entrée : ⟦4⟧ gratuits par jour, puis des éclats ou des Robux. Les ⟦5⟧ premiers de son classement conservent leurs récompenses tant qu'ils y restent.</p>
+2ef7181501|<p>L'échange s'arrête si l'un de vous part, tombe, s'éloigne de plus de ⟦1⟧ studs, entre dans une faille, le menu ou le colisée, ou ferme la fenêtre.</p>
+de4d7993fa|Le marchand itinérant (toutes les ⟦1⟧ min)
+1418647b53|Le tutoriel
+77cf74434d|L'état non éveillé (classe Aucune) : aucune classe, +⟦1⟧ % à toutes les stats, +⟦2⟧ % d'XP, tout l'arbre général ouvert.
+a4a79ef20e|<p>L'état non éveillé (classe Aucune) : aucune classe, +⟦1⟧ % à toutes les stats, +⟦2⟧ % d'XP, tout l'arbre général ouvert.</p>
+5f29c54c9f|La sortie est scellée tant que le gardien n'est pas tombé.
+4270a899b5|La compétence propre à l'arme, sur la touche E.
+6fefbfda67|<p>La compétence propre à l'arme, sur la touche E.</p>
+00403b5b11|<p>Le poids est la fréquence à laquelle le monstre est choisi pour une salle. Son sbire (les renforts qu'un gardien appelle) est ⟦1⟧.</p>
+48b2c869d0|Les rues du côté ouest, près de l'hôtel de ville.
+e622d6d01b|La roue
+0f80b6cbe7|Le wiki suit la mise à jour New City (⟦1⟧.⟦2⟧)
+43ed2663eb|Le wiki contient désormais les vraies données du jeu
+0740fb8790|Les mots d'Overrank au même endroit : éveillé, faille, butin, grade, forge, Panthéon...
+d122bc9d1b|Les mots du jeu
+75a5af24c2|Les multiplicateurs d'XP et d'éclats suivent la même règle d'addition.
+63ed79d9a8|<p>L'XP d'un kill n'est <strong>pas partagée</strong> : chaque membre à moins de ⟦1⟧ studs du monstre ou dans le même donjon (vivant, ou tombé depuis moins de ⟦2⟧ s) reçoit toute son XP en solo, ×⟦3⟧ à deux, ×⟦4⟧ à trois, ×⟦5⟧ à quatre. Un monstre de ⟦6⟧ rangs ou plus au-dessus de vous que vous n'avez pas frappé vous-même ne donne que ×⟦7⟧. Détails : ⟦8⟧.</p>
+a797e30923|Thème
+a3d24d3732|Faille à thème
+97945656e1|<span><span>Faille à thème (Une poche d'un autre monde est logée dans cette faille.)</span></span>
+94d5186ba3|Thèmes
+2bc1a79aae|Puis un bouclier de ⟦1⟧ % des PV max.
+690be8dd20|Puis pendant ⟦1⟧ s :
+4c4967c421|<p>Ce sont ses propres valeurs. Lors d'une invasion, il frappe ⟦1⟧ % plus fort et sa santé est fixée par le combat (ci-dessous).</p>
+75c76b7f6e|<p>Ce sont les valeurs propres du monstre. Dans un donjon, elles sont multipliées par le rang de la faille et par le nombre d'éveillés présents : voir ⟦1⟧. Le jeu n'a ni faiblesses ni résistances élémentaires.</p>
+ba8c0e05d8|<p>Ces codes ont été lus dans le jeu le ⟦1⟧ novembre ⟦2⟧. Ils sont copiés exactement comme saisis dans le jeu.</p>
+2f85ed553a|<p>Ces valeurs ont été lues dans le jeu. Elles peuvent changer avec les mises à jour : si vous remarquez une différence, modifiez la page.</p>
+76de067fdf|<p>Cet art appartient à ⟦1⟧ : tenez l'arme et appuyez sur <strong>E</strong>.</p>
+fe87e9015c|<p>Ce thème appartient à un événement saisonnier et n'est disponible que pendant la saison.</p>
+b3d4624b27|<p>Ce titre est <strong>temporaire</strong> : vous ne le portez que tant que la condition est remplie.</p>
+6b5ea98738|<span><span>Finition Thornwood (Rare)</span><span>C</span></span>
+78e2b47ea0|Trois étoiles ardentes filent devant.
+155f209268|Trois immenses coups de lumière. Vous ne pouvez pas être blessé pendant l'animation.
+5357bdbbe7|Trois étoiles perforantes filent devant.
+1dadd8732e|Trois séismes éclatent devant.
+e109920847|Trois morsures rapides ; le venin continue de brûler.
+2eea247072|<p>Trois quêtes aléatoires par jour donnent de ⟦1⟧ à ⟦2⟧ XP chacune :</p>
+902dd3ddd9|Trois rayons de lumière prismatique filent devant.
+9c10baff4d|Trois tourbillons de fauche qui drainent la vie.
+64093a2c3e|Trois entailles royales d'ombre.
+9413795d56|Trois coups sauvages qui boivent le sang, au prix du vôtre.
+1744027c76|Trois vagues de monstres (⟦1⟧ ⟦2⟧ puis ⟦3⟧), puis le boss mondial : ⟦4⟧.
+8a1a5d3a4d|Lance un croissant du vide qui tranche tout.
+94216b3528|Lance un javelot de foudre qui transperce tout.
+8c3a1b3d4b|Lance cinq lames spectrales en éventail.
+03f05af747|Lance le harpon : l'ennemi touché est attiré vers vous et immobilisé.
+2b8d3035a7|Projette les ennemis (⟦1⟧ studs) à ⟦2⟧ studs de haut, puis les écrase : ⟦3⟧ % de dégâts physiques.
+c00e1841cc|<strong>ThunderRows</strong>
+e42e4d583b|<p>Cochez les bonus que vous avez dans ⟦1⟧ : chaque table est recalculée avec votre multiplicateur. Les lignes marquées d'un ✨ sont celles que la chance affecte.</p>
+aac729e6da|<span><span>Aura Tidal (Rare)</span><span>C</span></span>
+2eeaff65e0|<strong>TideWall</strong>
+12d0f37788|<strong>Limite de temps</strong> : ⟦1⟧ minutes à partir du début de l'invasion ; encore debout à ce moment-là, la porte se ferme et personne n'est récompensé
+7c080108ac|<p>Limite de temps : ⟦1⟧ s ; Régénération : ⟦2⟧ % PV/s</p>
+e32f6228bd|Coffre-fort chronométré
+eca2e3390e|<span><span>Coffre-fort chronométré (Un coffre-fort d'éclats se trouve devant. Il ne restera pas ouvert.)</span></span>
+5530d04308|Titan's Elixir, Monarch's Blood
+0c8a2d81bc|Titan's Elixir, Phoenix Tears
+7ea0fe7755|Titre : ⟦1⟧
+a14cb3c8fb|<strong>Titres et badges</strong> : chaque rang a son propre titre et son badge.
+54b8a84eac|<p>Les totaux comptent les deux profils de votre compte (sauf le niveau). En pratique : un niveau vaut ⟦1⟧ points, un donjon ⟦2⟧, une heure de jeu ⟦3⟧ et un million d'éclats ⟦4⟧.</p>
+de9dfaf891|Donjons plus coriaces
+9a06a5f05f|Tour
+5034da4577|étage de la tour
+ddf9fb1885|<span><span>Un monstre de la tour lâche des bonbons</span></span><span>Quantité ⟦1⟧-⟦2⟧</span>
+7c1478bfd0|Tickets de la tour : voir ⟦1⟧.
+0629a1103f|Tours, centre commercial et mur médiatique.
+7476fdabdf|Toxique
+1a45c8c5ef|Échanges (jusqu'à ⟦1⟧)
+2d4174b07a|Échanges et autres prix
+135845294c|Échanges et confidentialité
+64e250e904|<strong>Échanges</strong> désactivés : aucune demande d'échange ne vous parvient (⟦1⟧).
+28046ee625|<strong>Terrains d'entraînement</strong>
+a9ea47c677|Kiosques de transit
+e3bf62bb7f|Camelote
+e82be8fd40|<span><span>Camelote (rang F)</span></span>
+71276879dc|marchand itinérant (offres d'élixirs, Rare et plus ; à partir du rang B)
+3d3fc6f2b1|marchand itinérant (offres d'élixirs, Rare et plus)

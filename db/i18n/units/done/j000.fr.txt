@@ -1,0 +1,212 @@
+87fa3969eb|Réinitialisation de l'arbre de compétences (⟦1⟧ par point, ⟦2⟧ minimum)
+0f881c550e|Arbres de compétences
+48756495fd|Compétences des ⟦1⟧ emplacements
+3a89edfc58|<p>Compétences de l'arbre ⟦1⟧. Dépensez des points de compétence pour les débloquer et les améliorer ; chaque niveau après le premier ajoute ⟦2⟧ % de puissance et retire ⟦3⟧ % du temps de recharge.</p>
+78a531f01a|<strong>Skins</strong> pour armes, armures et pendentifs.
+5f6de3b746|Passer (Robux)
+bfa839e321|Passer (éclats par heure restante)
+8a71185886|Passez la liaison avec des éclats (par heure restante) ou des Robux, ou avec un passage de liaison acheté auprès de ⟦1⟧.
+793fc00dca|<strong>Slam</strong>
+7abb2eee63|<strong>Slam <em>(à partir du rang C)</em></strong>
+19171d6f54|Frappe le sol et vous donne un bouclier.
+8d862e0e0a|Frappe le sol : tout autour est projeté en arrière.
+83309d1caa|Frappe le sol : tout autour est étourdi.
+79855e16dd|Tuez ⟦1⟧ éveillés dans l'arène du colisée.
+654845b270|<p>Tuez ⟦1⟧ éveillés dans l'arène du colisée.</p>
+6f9c4b3923|Tuez ⟦1⟧ monstres.
+1edcb83255|<p>Tuez ⟦1⟧ monstres.</p>
+adf1c104cd|<p>légèrement meilleur que celui d'un gardien ; affiché en jeu avant de payer ; jamais proposé là où Roblox restreint les objets aléatoires payants</p>
+2ab36b8a08|Fracasse le sol dans une explosion d'éclipse.
+e6768e04ed|Fracasse le sol : tout autour est violemment frappé.
+4e90b00f4b|<p>Ainsi deux boosts ×⟦1⟧ (+⟦2⟧ chacun) donnent ×⟦3⟧ et non ×⟦4⟧, et le maximum est de <strong>×⟦5⟧</strong>.</p>
+b2a3d18949|<span><span>Aura Solar crown (Légendaire)</span><span>A</span></span>
+cba3cfa529|<p>En solo, sans prendre de coup, terminez plusieurs donjons de votre rang ou d'un rang supérieur en tant qu'humain (⟦1⟧-⟦2⟧)</p>
+1ae7cda281|Certains cosmétiques
+7ef564aef0|<p>Certains cosmétiques sont <strong>non découverts</strong> : leurs pages sont floutées et demandent votre aide. Si vous en trouvez un, complétez la page et retirez l'étiquette <em>Non découvert</em>.</p>
+4425bcc83c|<p>Certains monstres sont <strong>non découverts</strong> : leurs pages sont floutées et demandent votre aide. Si vous en trouvez un, complétez la page et retirez l'étiquette <em>Non découvert</em>.</p>
+b6911d6334|<p>Certains nœuds sont <strong>réservés aux humains</strong> (le non-éveillé garde tout l'arbre général) et certains sont <strong>exclusifs</strong> : vous ne pouvez pas prendre les deux.</p>
+cb3b920498|<p>Certains lieux sont <strong>non découverts</strong> : leurs pages sont floutées et demandent votre aide. Si vous en trouvez un, complétez la page et retirez l'étiquette <em>Non découvert</em>.</p>
+61f242a477|Certaines failles de rang A et S s'ouvrent en raids de guilde : la première guilde à y entrer la revendique ; les éveillés sans guilde peuvent tout de même y entrer.
+c3e0b4cd19|<p>Certaines failles de rang A et S s'ouvrent en raids de guilde : la première guilde à y entrer la revendique ; les éveillés sans guilde peuvent tout de même y entrer.</p>
+8225bfc675|Certaines failles sont plus profondes qu'elles n'en ont l'air.
+984f3eb7fc|<p>Certaines salles suivent une règle spéciale (Silence, Momentum). Le run a une limite de temps de ⟦1⟧ minutes quand le modificateur <em>Collapse</em> est actif. Probabilités : ⟦2⟧, ⟦3⟧.</p>
+bd8ba930be|<p>Certains disent que la patience (et beaucoup de gemmes) est la seule clé. <strong>Chances et nom inconnus - découvrez-les et modifiez cette page.</strong></p>
+895ee3453d|<p>Certaines compétences sont <strong>non découvertes</strong> : leurs pages sont floutées et demandent votre aide. Si vous en trouvez une, complétez la page et retirez l'étiquette <em>Non découvert</em>.</p>
+64c08a733a|<p>Certains titres sont <strong>non découverts</strong> : leurs pages sont floutées et demandent votre aide. Si vous en trouvez un, complétez la page et retirez l'étiquette <em>Non découvert</em>.</p>
+9208c068fc|Quelque chose est enfoui sous cette faille...
+af8b55f765|Quelque chose qu'aucune lame ne blesse rôde dans ces salles. Évitez-le.
+1b3ed28180|Parfois sur tous les serveurs à la fois : il vient alors seul, avec une seule barre de vie pour tous les serveurs
+b4e3efeba1|Son
+6da13addb0|Source
+8dc65c3427|<span><span>Arme d'édition SP</span></span><span>Quantité ⟦1⟧-⟦2⟧ %</span>
+2bcb85de00|Lance
+942078ca2d|Spécial
+65a9055550|Les <strong>classes spéciales</strong> sont cachées : leur condition de déblocage est un exploit secret, et elles montent jusqu'au niveau ⟦1⟧.
+9cd1a70c53|Les classes spéciales montent jusqu'au niveau <strong>⟦1⟧</strong>.
+f094e26013|Objets spéciaux
+76a9376410|<span><span>Finition spectrale (Épique)</span><span>B</span></span>
+2d2cb022bc|Vitesse
+6ab66b59d9|Vitesse +⟦1⟧ %
+f85e467766|Sorts et grandes zones
+751e3931b9|<p>Dépensez la banque de la guilde pour améliorer les avantages (⟦1⟧ niveaux chacun) : les coûts par niveau sont ⟦2⟧ ⟦3⟧ ⟦4⟧ ⟦5⟧ ⟦6⟧ éclats.</p>
+8b5110296c|Dépensez vos éclats au marché et chez ⟦1⟧.
+3b0577f338|Tournoie trois fois et fauche la vie des ennemis.
+9a1292660c|Tournoie trois fois avec la hache.
+37da718af4|<strong>Esprit</strong>
+fe1e1fc935|Esprit
+6022e2ec0c|Fend le sol en une ligne de lumière loin devant.
+2c824184a2|Objet de boost du butin
+1383a60692|Grade d'équipement du butin (décalage par rapport au rang central)
+4c87070978|Emplacement d'équipement du butin
+f0d4905a80|Objet rare du butin
+0101762efe|Lot d'éclats du butin
+5c97a1757d|<strong>SporeBloom</strong>
+8ca15484a6|Sprint
+2300904a82|Sprint : maintenir, basculer ou toujours.
+a4730a22cf|Bâton
+42e5bcb7a8|Roue des événements du staff
+98d311f7f5|<p>événement du staff, ⟦1⟧ min.</p>
+4db880b3b2|Événement du staff : ⟦1⟧ failles s'ouvrent, chacune étant une anomalie ⟦2⟧ % du temps.
+798eb42a2e|<p>Événement du staff : ⟦1⟧ failles s'ouvrent, chacune étant une anomalie ⟦2⟧ % du temps.</p>
+6cf01c842e|Événement du staff : une fête en ville (avec la roue du staff, voir probabilités staff-wheel).
+03a3e097e2|<p>Événement du staff : une fête en ville (avec la roue du staff, voir probabilités staff-wheel).</p>
+ea67e90493|Événement du staff : chance x⟦1⟧.
+e9a8f5a460|<p>Événement du staff : chance x⟦1⟧.</p>
+ce5828ea75|Événement du staff : éclats x⟦1⟧.
+9ba6d4f4a3|<p>Événement du staff : éclats x⟦1⟧.</p>
+4b8480f64b|Événement du staff : XP x⟦1⟧ pour tout le monde.
+40d8c571b7|<p>Événement du staff : XP x⟦1⟧ pour tout le monde.</p>
+8620200a70|Événements du staff (tempête d'XP, pluie d'éclats, pic de chance)
+b28257c154|<p>événements du staff uniquement</p>
+cc9e41b1e2|<strong>Événements du staff</strong> : tempête d'XP, pluie d'éclats, pic de chance, tempête de failles, fête.
+ca6d0e3aaa|Étape
+1feb153b80|<span><span>Standard</span></span>
+85a7de6e27|Étoile
+3c3dad7fd7|<span><span>Aura Starfall (Mythique)</span><span>S</span></span>
+adb03812b4|Étoiles
+ddb1c4bc3b|Les étoiles coûtent des <strong>essences</strong> : chaque boss de donjon que vous aidez à vaincre en donne (plus pour un rang supérieur) ; le marchand itinérant en vend aussi.
+49df26a350|Stat
+96cdcad0c9|Bonus de stats (force, intelligence...)
+f7deffe3b3|Multiplicateur de stat
+067c6515c6|Points de stats
+1353c7a52b|Réinitialisation des stats (⟦1⟧ par point, ⟦2⟧ minimum)
+3970de1f83|réinitialisation des stats (tous les points)
+2649b6c403|<p>réinitialisation des stats (tous les points)</p>
+76c7ddb303|réinitialisation des stats (jusqu'à ⟦1⟧ points)
+52923abf9c|<p>réinitialisation des stats (jusqu'à ⟦1⟧ points)</p>
+be763e9aba|Stats
+f89768f888|<strong>Stats à privilégier :</strong> Toutes
+93fa18b769|<strong>Stats à privilégier :</strong> Intelligence, Esprit
+db9af4a810|<strong>Stats à privilégier :</strong> Intelligence, Esprit, Vitalité
+7c72113f34|<strong>Stats à privilégier :</strong> Force, Agilité, Perception
+82c31ab40f|<strong>Stats à privilégier :</strong> Force, Vitalité
+208a8b3005|<strong>Stats à privilégier :</strong> Vitalité, Défense, Esprit
+e252fdb6ea|Fenêtre d'état
+6b3131d027|Franchit une porte devant et frappe là où vous atterrissez.
+a70c44c07a|Traverse une faille du monde et déchire tout autour.
+b04e174525|Stoneskin, Healing, Greater healing, Regeneration, Fury
+9e253470c8|Arrêt
+ea9a3a92c5|<span><span>Pic de la tempête (gardien Storm Titan)</span></span>
+d7fb81bf09|<span><span>Sceau Storm (Épique)</span><span>B</span></span>
+39e115fdea|<strong>Force</strong>
+24d3e4fdd9|Force
+081868a1ee|Force et récompenses
+99a0efc6cf|Style
+400c6abe61|invoqué par le gardien de Clockwork Vault (variante Invocateur)
+9300af5339|invoqué par le gardien de Crimson Cathedral (variante Invocateur)
+9fa679580f|invoqué par le gardien de Drowned Marsh (variante Invocateur)
+4db9d90871|invoqué par le gardien d'Eclipse Citadel (variante Invocateur)
+95c50b3abe|invoqué par le gardien de Frozen Cavern (variante Invocateur)
+8f2a5ea058|invoqué par le gardien d'Iron Fortress (variante Invocateur)
+50a3baff11|invoqué par le gardien de Ruined Temple (variante Invocateur)
+9343dd170e|invoqué par le gardien de Storm Peak (variante Invocateur)
+27b8560f5a|invoqué par le gardien de Sunken Abyss (variante Invocateur)
+f05cea3597|invoqué par le gardien de The Shattered Threshold (variante Invocateur)
+158eb389e8|<span><span>Invocateur</span></span>
+bd37ee05d7|Invocateur (à ⟦1⟧ %/⟦2⟧ % de PV : ⟦3⟧ renforts)
+2702e32d71|Le soleil et la lune tombent devant et étourdissent.
+9afac95f72|<span><span>Abysse englouti (gardien Drowned King)</span></span>
+c858603082|<span><span>Sunstone (Légendaire)</span><span>A</span></span>
+f32d5a3b17|Support
+f281b618b3|Soutenez le jeu par un don. Merci !
+d2af603a0e|<p>Soutenez le jeu par un don. Merci !</p>
+67335ae556|Surprises qui peuvent survenir dans un donjon : salles à règle, coffres-forts, éveillés rivaux, sorties verrouillées et plus encore.
+fe88ea8d5f|Survie
+3882de1694|Survivez à un donjon double jusqu'au bout.
+17d28e08df|<p>Survivez à un donjon double jusqu'au bout.</p>
+a08e046c0c|L'avoir survécu jusqu'au bout rapporte le badge <em>Double Dungeon Survivor</em>.
+13c8bfae70|Échangez des objets et des éclats avec un autre éveillé : comment demander, ce qui ne peut jamais être échangé, et quand un échange est annulé.
+6d6f7c0961|<strong>Sweep</strong>
+80b2d9d185|<p>activé et désactivé par le staff (une saison à la fois, conservé après les redémarrages).</p>
+2ff1e3451b|Faux
+cb23f7099f|System Arts (compétences pour toutes les classes, sans points de compétence) : ⟦1⟧, ⟦2⟧, ⟦3⟧, ⟦4⟧.
+ad0bbefa0a|<strong>System Arts</strong> : compétences de ⟦1⟧, pour toutes les classes, sans points de compétence.
+fe06eb6459|Tab
+4d0deaa47f|Battez un autre éveillé dans l'arène libre du Colisée.
+3075eaecbe|<p>Battez un autre éveillé dans l'arène libre du Colisée.</p>
+de49bbd6bd|Parlez au Registre et demandez une réévaluation. C'est gratuit et instantané.
+0ba4d1aee6|Tank
+61ad50a9b9|Cible
+9decd48042|Déchire l'espace en une cicatrice qui attire les ennemis.
+f922e48f32|Déchirez l'espace là où vous vous tenez : une faille de votre rang ou inférieure s'ouvre à quelques pas devant vous, pour vous seul, pour votre guilde ou pour tout le monde (vous choisissez). Ce n'est pas une compétence à équiper : elle a son propre bouton à côté de vos compétences. Au bout de la branche des passifs : vous pouvez avoir l'ultime aussi.
+9044faf161|<strong>Temple</strong>
+770bce19da|Terme
+bea65e731b|<p>⟦1⟧ et ses zones de danger ; la carte de la ville (touche <strong>M</strong>) marque chaque kiosque.</p>
+5b63ac5bcf|Les annonces de ⟦1⟧
+0c4058128e|Les classes de ⟦1⟧, leurs bonus, compétences et indices de déblocage
+cc69d9a793|<p>⟦1⟧ contient <strong>⟦2⟧ tables</strong> : apparitions de failles, thèmes de donjon, coffres, raretés d'objet, butins, gemmes, forge, marché, événements... Cochez les boosts de chance que vous possédez et chaque table se met à jour.</p>
+d3f37df9ba|<p>⟦1⟧ relie ⟦2⟧ kiosques : services, lieux et quartiers, gratuit et instantané (pas en combat). Boutiques de la ville : ⟦3⟧, ⟦4⟧, ⟦5⟧, et un ⟦6⟧ toutes les ⟦7⟧ min.</p>
+e6c014ea29|⟦1⟧ de ce wiki
+c8de97a213|Les ⟦1⟧ nœuds passifs des arbres de compétences
+fed019c472|Les ⟦1⟧ runes
+73e8119459|Les ⟦1⟧ compétences fournies avec une arme (touche E)
+15173c113f|Le mur de ⟦1⟧
+237aac730c|le comptoir de ⟦1⟧
+32d022124b|L'alchimiste
+92018f5056|<strong>L'alchimiste</strong>
+5ac1d7d7c5|L'Alchimiste
+f17c66e499|La boutique de l'alchimiste, à l'ouest de la Place des Éveillés : ⟦1⟧ potions préparées pour chaque chasse (soin, mana, régénération, purification et buffs de ⟦2⟧ secondes), certaines à partir du rang C, D ou B ; jusqu'à ⟦3⟧ achetées d'un coup.
+911ea081c3|<p>La boutique de l'alchimiste, à l'ouest de la Place des Éveillés : ⟦1⟧ potions préparées pour chaque chasse (soin, mana, régénération, purification et buffs de ⟦2⟧ secondes), certaines à partir du rang C, D ou B ; jusqu'à ⟦3⟧ achetées d'un coup. L'emplacement de potion de la barre d'action contient la potion équipée, qui peut être échangée dans le sac.</p>
+ab6d276b48|L'Hôtel des ventes
+a099c0fa81|Le commissaire-priseur
+acf7d4910c|<strong>Le commissaire-priseur</strong>
+e964c1475a|<p><p>la récompense quotidienne du groupe AwaitLab<!-- --> · <!-- -->un résultat par tirage</p></p>
+785f64d340|Le Registre des Éveillés (réévaluation)
+25e60b9950|La ville des éveillés, reconstruite lors de la mise à jour New City (⟦1⟧-⟦2⟧-⟦3⟧) d'après Séoul : environ ⟦4⟧ sur ⟦5⟧ studs de quartiers (Namsan, Mapo, Myeongdong, Seongsu, Bukchon, Jongno, Gangnam, le fleuve Han), la Place des Éveillés en son cœur.
+d2997fe929|<p>La ville des éveillés, reconstruite lors de la mise à jour New City (⟦1⟧-⟦2⟧-⟦3⟧) d'après Séoul : environ ⟦4⟧ sur ⟦5⟧ studs de quartiers (Namsan, Mapo, Myeongdong, Seongsu, Bukchon, Jongno, Gangnam, le fleuve Han), la Place des Éveillés en son cœur. Ses quartiers forment ⟦6⟧ zones de danger, des Docks à la Zone industrielle ; les failles s'ouvrent sur leurs places et quelques monstres errent dans les rues. Le Colisée, la Tour infinie et les terrains d'entraînement se trouvent dans la ville et s'atteignent à pied ; ⟦7⟧ kiosques de transit gratuits relient chaque lieu, et la carte de la ville (touche M) les marque tous. Jour ⟦8⟧ min, nuit ⟦9⟧ min.</p>
+43d2cc42f2|<p>Le <strong>passe des Éveillés</strong> est le passe de combat saisonnier. La saison ⟦1⟧ dure du <strong>⟦2⟧ septembre ⟦3⟧ au ⟦4⟧ décembre ⟦5⟧</strong> (UTC) et compte <strong>⟦6⟧ niveaux</strong> de ⟦7⟧ XP chacun. Tout le monde suit la <strong>voie gratuite</strong> ; les détenteurs du passe premium débloquent aussi la <strong>voie premium</strong>.</p>
+cf88519052|L'éveil : le premier donjon d'un nouvel éveillé, puis une courte visite de la ville.
+6c168a56c2|<p>L'éveil : le premier donjon d'un nouvel éveillé, puis une courte visite de la ville.</p>
+9b94a3f058|L'arbre de compétences du passe de combat : compétences débloquées par les niveaux du passe, pour toutes les classes.
+1a46e6ae07|<p>L'arbre de compétences du passe de combat : compétences débloquées par les niveaux du passe, pour toutes les classes.</p>
+0a36e8c573|Le passe de combat, les codes, les récompenses quotidiennes et les montées de rang.
+7dcf9b8677|<strong>Le forgeron</strong>
+f4086e80f2|Le classement des meilleurs temps d'épreuve du Système (rang Nation).
+a6ab97067b|<p>Le classement des meilleurs temps d'épreuve du Système (rang Nation).</p>
+edd1080a3c|Les classements
+63248a6421|<p>Les bonus des passes Double XP et Double Shards sont de +⟦1⟧ % chacun. La chance a sa propre page : ⟦2⟧.</p>
+aadc22ee01|Le boss à la fin d'un donjon ; le thème du donjon décide lequel.
+da509e8a5f|<p>Le boss à la fin d'un donjon ; le thème du donjon décide lequel.</p>
+863a9c45dd|Le boss d'un étage de boss (un gardien) a ×⟦1⟧ PV, +⟦2⟧ par point de contrôle sous son étage (×⟦3⟧ au maximum), et ×⟦4⟧ dégâts, en plus de son étage.
+32c65b2074|le Bazar de bonbons de la saison
+9a68100da4|La place de la cathédrale, près du marché de Namdaemun.
+6e865d8051|La ville
+f205751f23|La ville et ses cinq quartiers, le Colisée, la Tour infinie, les terrains d'entraînement et les îles saisonnières.
+865e076bd1|La colline de la ville et sa tour.
+ff47eb52b6|La ville, le Colisée, la Tour infinie
+82031df035|Le Colisée
+c2a4e92be6|<p>Le multiplicateur de combo est ×⟦1⟧ ×⟦2⟧ puis ×⟦3⟧ au troisième coup. Chaque style d'arme a son propre multiplicateur :</p>
+822cc94a60|<p>Le produit de retour : ⟦1⟧. Les vies changent aussi avec ⟦2⟧ et ⟦3⟧.</p>
+115af9474c|Les docks : le marché aux poissons et le parc à conteneurs.
+d609f71b06|La fin de jeu : paliers, le Panthéon
+1165f54800|La Tour infinie
+072f9e2415|Le combat
+02eb67c783|la forge : amélioration, montée de grade, reforge, étoiles
+0259decb24|L'arène en mêlée générale
+ce13499c8c|Le jeu l'annonce avec exactement cette phrase.
+f9e02c5e75|<p>Le jeu regroupe les quartiers de la ville en ⟦1⟧ zones de danger ; entrer dans l'une affiche son nom et son danger.</p>
+04ea2218cc|<p>Le jeu n'a pas de calendrier fixe pour les événements du staff : ils sont lancés en direct. Surveillez ⟦1⟧ et le Discord.</p>
+37b6ade079|Le jeu murmure : <em>« Un mage qui ne sait pas choisir entre brûler et geler. »</em>
+edad89e57d|Le jeu murmure : <em>« Un simple humain, seul dans un donjon, intouchable. »</em>
+78276bd4eb|Le jeu murmure : <em>« Un nécromancien qui a tout misé sur son intelligence. »</em>
+d4eaff0980|Le jeu murmure : <em>« Un bouclier tombé bien des fois... qui a fini par ne plus protéger personne. »</em>

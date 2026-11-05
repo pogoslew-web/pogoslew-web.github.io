@@ -1,0 +1,271 @@
+2ef86d1521|<span><span>Rôdeur invincible (Quelque chose qu'aucune lame ne blesse rôde dans ces salles. Évitez-le.)</span></span>
+b136609f06|Inviter
+0133879e0c|<span><span>Forteresse de fer (gardien Cinder Colossus)</span></span>
+0005ff7be9|Elle appartient à une école cachée de l'arbre du Mage.
+fbe65c9917|Elle peut passer pour une autre faille jusqu'à ce que le Système la démasque.
+1c69d28b05|Il ne provient ni d'un classement, ni d'un rang, ni d'un badge.
+e760afd1d5|Il existe au-dessus du rang S+.
+d14f490d6a|Il existe : il a été vu dans le jeu.
+a7f3004003|C'est un objet purement esthétique : aucune stat.
+284a71bade|C'est une rare surprise au sein d'un donjon ordinaire.
+5101dc08f5|Il est lié au plus haut rang d'éveillé.
+bf004769d0|Il ne fait pas partie de la rotation régulière des failles.
+c57c763859|Il n'est pas vendu en boutique et ne peut pas être échangé.
+3d42ef2203|C'est l'une des <strong>classes spéciales</strong> : on ne peut pas les choisir librement, il faut les mériter.
+91fe9c1634|C'est une étape d'une chaîne : chaque compétence demande la précédente au niveau maximum.
+32f685d44a|C'est le cosmétique secret parmi les neuf d'une gemme (voir les tables de gemmes de ⟦1⟧).
+46f392037e|Il s'écrit au-dessus de la tête de son propriétaire, comme tous les titres.
+d37407e9db|<p>Il a le même aspect à chaque grade qu'il peut obtenir (de Camelote F à Mythique S) : seules ses stats changent.</p>
+afe42e317e|objet Épique
+c1f6331b28|Puissance de l'objet
+a8001701d3|objet Rare
+f7284d4560|Rareté d'objet (source de bonus : repli des gardiens spéciaux, butin relevé deux fois)
+b52b615217|Rareté d'objet (coffres, élites, mimics, mi-boss)
+e959c2815e|Rareté d'objet (repli du gardien, éveillé rival, ruptures de faille)
+869b25d879|Emplacement d'objet
+7425f83c01|objet Peu commun
+fbb6f013c8|Valeur de l'objet
+fb906c7320|Ses attaques et ses phases.
+f0bac0ce16|<p>Le tirage de son gardien (x⟦1⟧ / x⟦2⟧ / x⟦3⟧ / x⟦4⟧)</p>
+43acf483a1|<p>sa mort : éclats de coffre x⟦1⟧ et un objet pour chaque éveillé</p>
+5c427fa98b|<p>Son aspect ne change pas avec le grade : une édition Nation affiche toujours la couleur de son édition.</p>
+98e44d495d|<p>Son aspect ne change pas avec le grade : une édition S+ affiche toujours la couleur de son édition.</p>
+e1cd99b7e7|Son vrai nom, son aspect et sa rareté.
+446abbab9b|<span><span>Arme Jack-o'-lantern</span></span>
+304bbc245a|<span><span>Jackpot (x⟦1⟧ les éclats de victoire du rang)</span></span>
+1928b805fd|<span><span>Lotus de jade (Rare)</span><span>C</span></span>
+1e01e35054|Rejoignez une ⟦1⟧ à partir du rang D pour débloquer ses avantages.
+1d425806c0|Rejoindre une guilde, améliorer votre arme à la forge
+0782a72717|Rejoignez une guilde.
+388aeddefc|<p>Rejoignez une guilde.</p>
+ee41fb2487|<p>Rejoignez ⟦1⟧ sur Roblox : vous obtenez le titre ⟦2⟧, une récompense de départ (objet Rare, le cosmétique AwaitLab sparks) et une <strong>récompense quotidienne</strong> : éclats, une arme et des tirages supplémentaires (⟦3⟧, ⟦4⟧). Plus votre rang est élevé, plus vous avez de tirages : E ⟦5⟧ D ⟦6⟧ C ⟦7⟧ B ⟦8⟧ A ⟦9⟧ S ⟦10⟧ Nation ⟦11⟧ S+ ⟦12⟧.</p>
+301cc85fdc|Rejoignez le groupe AwaitLab sur Roblox.
+8379789794|<p>Rejoignez le groupe AwaitLab sur Roblox.</p>
+093a42489f|Rejoignez le groupe AwaitLab.
+389de2dcde|<p>Rejoignez le groupe AwaitLab.</p>
+585c5ffd2d|<strong>Jongno</strong>
+e1ac02c267|<strong>Judgement</strong>
+5a193b91b6|Clavier / souris
+6112cde955|Clavier : cliquez sur un arrêt, ↑ ↓ pour parcourir, Entrée pour voyager, Échap pour fermer. Manette : croix directionnelle, A pour voyager, Y pour un favori, B pour fermer.
+8c5ec4edfe|Coup de pied
+93cc756941|Classements de kills
+9ec34025b6|Kills
+4b11e02d76|kills
+e00ac23f2a|Type
+1b877d3d7c|<span><span>Kindle</span></span>
+5cc25e2ac2|Types de cosmétiques
+18f5ca531e|Types d'événements
+6f5f2c3d1e|Types de failles
+90c97643a3|<strong>KrakenGrasp</strong>
+cfc66ae39a|L⟦1⟧ (appui)
+15e960d88d|Étiquettes de l'interface en ville seulement ou toujours ; afficher ou masquer la barre d'état, la barre d'action, le panneau de groupe, la carte du donjon, la radio et le suivi de la ville ; chiffres de dégâts ; tremblement de caméra.
+d0619ae4ec|<strong>Lances</strong>
+37edc81582|Langue : automatique, anglais ou français.
+5f64bbc9bd|Dernier jour (UTC)
+edbfb2807d|<p>Dernière récompense de palier pour le faucheur <img alt="image of EX rank scythe" src="/api/media/entry/⟦1⟧/⟦2⟧/⟦3⟧f-⟦4⟧d-⟦5⟧d-b⟦6⟧-⟦7⟧f⟦8⟧dede⟦9⟧.png"/> Note : seule l'arme des récompenses est garantie d'être de votre classe.</p>
+5c39013f07|Dure s
+bd35f6acee|<strong>Lattice</strong>
+e6248e2108|<p>lancé par le staff.</p>
+b9a3fb9ac6|Lave
+acb4f065df|Diriger une guilde.
+cc8c6dc919|<p>Dirigez une guilde.</p>
+8e4cd6179e|Dirigez la guilde n°⟦1⟧ du classement des guildes.
+db50a02bf7|<p>Dirigez la guilde n°⟦1⟧ du classement des guildes.</p>
+e26c936bbe|Chef
+0381247a69|Classement
+91773ddcdf|<strong>Leap</strong>
+713113264f|Apprenez comment fonctionnent les failles : ⟦1⟧.
+23208c5370|Apprenez votre classe, terminez des failles E dans les quartiers peu dangereux (Namsan, Mapo)
+21dd2fad90|<p>Restants à la fin de la saison : chacun devient ⟦1⟧ éclats</p>
+27e85ba41f|Bouton gauche de la souris
+e0b34d8398|Maj gauche (maintenir)
+b7e8916505|Légendaire
+4b98fc6a22|<span><span>Légendaire</span></span>
+9444abdfe0|<span><span>Légendaire (⟦1⟧ offres, -⟦2⟧ %, un cosmétique, ⟦3⟧ élixirs)</span></span>
+8c6ca3e0b7|<span><span>Légendaire (rang A)</span><span>A</span></span>
+7c7f5d049f|Niveau
+ad60c535ff|niveau
+3c40f103b1|Niveau ⟦1⟧
+919503226c|Niveau ⟦1⟧ / ⟦2⟧
+2b18b18da6|<p>Récompense de palier du niveau ⟦1⟧ pour le faucheur (étoiles non comprises)</p>
+5f4a4856d0|Premium niveau ⟦1⟧ : le cosmétique ⟦2⟧.
+97b6b014f8|Premium niveau ⟦1⟧ : l'arme ⟦2⟧ (Limitée, EX), le titre ⟦3⟧ et ⟦4⟧ éclats.
+8e6c28ffef|<strong>Niveau maximum :</strong> ⟦1⟧
+691c60baf2|Niveaux maximum
+603aab4466|Progression, combat, forge, économie
+bcfe09c936|<span><span>Lieutenant</span></span>
+68c0381429|vol de vie
+37059e9dba|Vol de vie %
+57239ad99b|Vol de vie
+6dd3db8d87|Soulevez tout, puis brisez le monde sous eux.
+d27ac5b983|Soulève les ennemis dans les airs, puis les écrase au sol.
+0e3b5b1c88|Soulève les ennemis, puis fait s'abattre le ciel sur eux en flammes.
+041af82132|Soulève les ennemis, puis les écrase dans les flammes.
+b66c3f445f|Soulève les ennemis, puis les écrase comme une météorite.
+07128af673|Soulève les ennemis, puis laisse un soleil doré tomber sur eux.
+4fe7dcb009|Armure légère
+4504e5f0bf|Foudre
+e89db2f59c|<code>LIKE⟦1⟧</code>
+3ce432867a|Comme toute classe spéciale, son niveau maximum est plus élevé que celui ⟦1⟧ des classes normales.
+f3896cd744|<div><code>LIKE⟦1⟧</code><span>Expiré</span><span>⟦2⟧ × Invocation de faille, ⟦3⟧ × Boost de serveur</span></div>
+ceeaa744c4|Limité
+61a0ae3b84|Limites
+50a2fec081|vies ⟦1⟧
+194a3f6fed|<span><span>Verrou</span></span>
+0129b5c5e9|Donjon verrouillé
+2e1663851e|<span><span>Donjon verrouillé (La sortie est scellée tant que le gardien n'est pas tombé.)</span></span>
+b4df9bf8eb|Lofts, immeubles d'habitation et ateliers du côté est.
+6df39aecbd|<p>Connectez-vous chaque jour : la série monte jusqu'au jour ⟦1⟧ puis recommence.</p>
+5dc011754c|LookEdit
+7dfa28b47d|<p>LookEdit</p>
+e47eac793d|<p>Uniquement l'apparence ? Voir ⟦1⟧.</p>
+e8fef4b91c|Butin
+7169fa445e|Récupérez ⟦1⟧ objets d'au moins ⟦2⟧ rangs au-dessus du vôtre en combat (S+ au maximum).
+3c4ef457df|<p>Récupérez ⟦1⟧ objets d'au moins ⟦2⟧ rangs au-dessus du vôtre en combat (S+ au maximum).</p>
+8ad247eb2c|Récupérez ⟦1⟧ objets d'au moins ⟦2⟧ rang au-dessus du vôtre d'affilée (S+ au maximum ; aucun objet inférieur entre-temps).
+ef06d744a0|<p>Récupérez ⟦1⟧ objets d'au moins ⟦2⟧ rang au-dessus du vôtre d'affilée (S+ au maximum ; aucun objet inférieur entre-temps).</p>
+acaf67c417|Récupérez un objet d'au moins ⟦1⟧ rangs au-dessus du vôtre en combat (S+ au maximum).
+6936137691|<p>Récupérez un objet d'au moins ⟦1⟧ rangs au-dessus du vôtre en combat (S+ au maximum).</p>
+f3adbbbfca|Récupérez votre premier objet de rang S.
+f2f4d19ada|<p>Récupérez votre premier objet de rang S.</p>
+1c295a8aa5|Chance
+0dfb248a94|<p>Les bonus de chance s'additionnent avec tous les autres : ⟦1⟧.</p>
+cf438a566f|Les bonus de chance s'additionnent, ils ne se multiplient pas : multiplicateur = ⟦1⟧ + la somme des bonus, x⟦2⟧ au maximum. Il multiplie la chance des lignes marquées d'une étincelle, ⟦3⟧ % au maximum.
+a923523fc6|<p>Bonus de chance disponibles sur le calculateur d'origine (par défaut : aucun sélectionné ; tentatives = ⟦1⟧).</p>
+ef082c74db|<span><span>Boost de chance</span></span>
+728765a218|Boost de chance (objet) +⟦1⟧
+f6a80404b4|Boost de chance (objet spécial)
+dd37c36e28|<span><span>Boost de chance x⟦1⟧</span></span>
+d193327c25|Boost de chance, Invocation de faille
+f57ce53284|Boost de chance, boost d'XP
+4f3b3ee5f5|<p>Les boosts de chance s'ajoutent à vos autres bonus de chance : voir ⟦1⟧.</p>
+1966df5456|<p>la chance change la probabilité qu'un objet tombe, pas ces poids ; les failles rouges au-delà de S relèvent la source (normal -&gt; gardien -&gt; bonus)</p>
+f6a35a5f97|Modificateurs de chance
+28392f9bf9|<p>chance non comptée ; aucune sous Nation ; aussi sur un nouveau tirage payant ; une arme Nation est de la classe de l'éveillé ⟦1⟧ % du temps ; sa rareté : Épique ⟦2⟧ Légendaire ⟦3⟧ Mythique ⟦4⟧ Rare ⟦5⟧</p>
+21f85a24c6|Chance x⟦1⟧ pendant ⟦2⟧ min (tous les serveurs)
+c6b1f61089|<p>Chance x⟦1⟧ pendant ⟦2⟧ min (tous les serveurs)</p>
+09b6f7d518|Chance x⟦1⟧ pendant ⟦2⟧ min (personnelle)
+121233bc87|<p>Chance x⟦1⟧ pendant ⟦2⟧ min (personnelle)</p>
+f16ac7e6a9|Chance x⟦1⟧ pendant ⟦2⟧ min (tout le serveur)
+b1cb29a5b9|<p>Chance x⟦1⟧ pendant ⟦2⟧ min (tout le serveur)</p>
+4b7806afe8|Chance ×⟦1⟧
+52fcc3c08e|Game pass Lucky (Monarch l'inclut ; ils ne se cumulent pas)
+c594df7e5d|Pass Lucky
+c467feebbe|Pass Lucky (ou Monarch)
+aee17207a0|Pass Lucky +⟦1⟧
+1e78f5732d|Pass Lucky + boost personnel
+9c8adddf3e|Lucky Surge (événement) +⟦1⟧
+4bb7d45c53|Lucky Surge (événement du staff, ⟦1⟧ min)
+e6331d3fde|Fonce en avant et transperce tout sur une longue ligne.
+ecfc9f7262|<strong>Maelstrom</strong>
+d14e0b7b71|Mage
+044bcf2ecb|<strong>Écoles de mage</strong> : le Mage a plusieurs écoles de magie (feu, glace, foudre, arcane, eau, terre, vide...). Certaines restent cachées tant que vous n'avez pas placé assez de points d'école.
+6cee87b36f|Dégâts magiques
+faaee16b64|<span><span>Finition Magma (Légendaire)</span><span>A</span></span>
+8a52ed17c5|Majeur
+cea6d1e2b7|Majeur (au plus un par donjon)
+93d85bc284|Faites un don au terminal du Hall des Éveillés.
+9e857c1012|<p>Faites un don au terminal du Hall des Éveillés.</p>
+2feb9067b3|Former un groupe
+55645b6a87|Mana %
+035bf86a43|Coût en mana
+144ab922b0|Régénération de mana
+20a4a2395b|Mana, Focus, Precision, Swiftness, Purifying
+ab478f3efc|Carte
+315b5bab9e|<strong>Mapo</strong>
+cb702fa5ae|Marquez jusqu'à ⟦1⟧ arrêts comme <strong>favoris</strong> ; le kiosque le plus proche est toujours affiché en ville avec sa distance.
+569bbd757e|Marché
+939cad556f|<strong>Marché</strong>
+7e62484b03|marché (ville)
+ecb9242f39|marché (tous les rangs)
+489f2a9145|Marché (objets, potions)
+eaa6813503|marché (donjons de rang A+)
+3885f155b6|marché (donjons de rang Nation+ ; pastilles S+ / NATION)
+9bb0398bca|marché (donjons de rang S++ ; pastilles S+ / NATION)
+5e5918e326|Rareté du stock du marché
+c665515190|Maximum portable
+795f6703fd|PV max
+ce8fbd066e|PV max
+d90c73cd43|Mana max
+5d90e417ab|mana max
+ba4e6fb406|max(⟦1⟧ ⟦2⟧ × points placés)
+f92b428634|max(⟦1⟧ ⟦2⟧ × points de compétence dépensés)
+19cd7d185c|Signification
+952df1ca6f|mesure votre rang (réévaluation)
+e00694b1e2|Corps à corps
+a36be4e070|<strong>Corps à corps</strong>
+6853c98a6f|Membre
+1cb449c112|Membres
+57f5f5efbc|Menu
+5fbc0639e4|Menu &gt; Social
+0ed527aeba|Marchand
+097495f4bf|<strong>MeteorRain</strong>
+a778b48e22|Mi-boss dans un donjon
+dec74d40b8|<span><span>Arme Midnight Hex</span></span>
+b757669253|paliers (récompenses de niveau)
+b9e2e4b254|paliers : récompenses d'arme Nation aux niveaux ⟦1⟧ / ⟦2⟧ / ⟦3⟧ / ⟦4⟧
+15ec43d93b|<span><span>Mimic</span></span>
+5721edf2a1|Sbires
+100b455471|Mineur
+092f99ea11|Minutes
+44de9d3c91|Minutes jouées
+1f880bb1d3|Mobilité
+f260e757ce|Modificateur
+3a7ea294bf|Modificateurs
+6be9d471e5|Modificateurs des failles rouges
+bd349fe7c9|Monarch's Blood, Shadow Essence
+ad878ef174|<strong>MonolithFall <em>(à partir du rang D)</em></strong>
+e63d88bd7b|Monstre
+850c74e89e|Dégâts des monstres
+ec5ca4d405|Les PV des monstres augmentent de ⟦1⟧ % par étage et leurs dégâts de ⟦2⟧ % par étage.
+12988aa3c2|Monstre tué (⟦1⟧ XP max par jour)
+aff3e2da58|Force des monstres
+ebea5fed56|Monstres
+cbb944b977|<p>Les monstres n'ont pas de table de drop propre : les drops dépendent de la source. Les élites lâchent un objet à ⟦1⟧ %, les coffres ont leurs propres paliers et les gardiens paient le ⟦2⟧. Voir ⟦3⟧.</p>
+3a0a6152c6|Monstres d'un autre rang
+81119f96a2|Monstres par vague : ⟦1⟧ + étage / ⟦2⟧ (⟦3⟧ au maximum).
+7b9836c05c|Les monstres à moins de ⟦1⟧ studs se retournent contre vous.
+6302cb435e|<strong>MoonFall</strong>
+5a0dff6fb7|<span><span>Moonveil (Légendaire)</span><span>A</span></span>
+4bab2d8fe1|Plus
+4dc1548d48|<p>En savoir plus sur la tour : ⟦1⟧.</p>
+411d2e1ae0|Vitesse de déplacement
+3633001946|vitesse de déplacement
+b032583db6|Multiplicateur
+83e11eca6c|<p>Les multiplicateurs sont relatifs à une faille de rang E. Détails : ⟦1⟧.</p>
+76f6b22f73|Volumes de la musique, des effets et de l'interface.
+6a88d2eab7|<strong>Myeongdong</strong>
+f5eb17de1f|Mythique
+5f20a1493c|<span><span>Mythique</span></span>
+6803fba33c|<span><span>Mythique (rang S)</span><span>S</span></span>
+709a23220f|Nom
+d5c0b9c3f9|Nom, description, élément, temps de recharge, coût en mana et dégâts.
+135c7e55f4|Nation
+6d3ce83dea|<span><span>Donjon Nation</span></span>
+297d4bddbe|Édition Nation (tirage rare du gardien)
+86a6cd1d65|Nécromancien
+3bf27a8b60|<p>Nécessite d'abord ⟦1⟧.</p>
+fe16b6bcbd|Jamais échangé
+4c5de76746|<p>Nouvelles images de la ville de Séoul et de ses lieux (Hôtel des ventes, Alchimiste, Temple des runes), du réseau de transport, du marchand itinérant, des runes et des étoiles, des potions ⟦1⟧, des armures Nation de classe, des nouvelles conditions de rang et des changements d'équilibrage de ⟦2⟧.⟦3⟧ et ⟦4⟧.⟦5⟧.</p>
+1802fa7352|<strong>Nouveaux venus</strong> : jusqu'au niveau ⟦1⟧ : bonus x⟦2⟧.
+5ed63fc41d|Suivant : ⟦1⟧
+1b6473cc88|<p><em>Aucune capture de cette compétence en action pour l'instant : si vous en avez une, ajoutez-la (modifiez la page).</em></p>
+6eef664840|Aucun
+71f8e7976e|aucun
+362e2ed793|<p>Aucun : c'est un nœud de départ de l'arbre.</p>
+13a8559e79|<strong>Les classes normales</strong> peuvent être choisies librement et s'arrêtent au niveau ⟦1⟧.
+85a75be5a3|<strong>Normal</strong> : les monstres des salles.
+454a772add|Pas pendant un combat : attendez quelques secondes après un coup. Restez près du kiosque pendant que vous choisissez ; le réseau se recharge un instant entre deux trajets.
+54d3efe3a1|Toutes les failles ne sont pas ce qu'elles semblent être.
+d6efcacfd3|Pas blessé une seule fois depuis votre entrée ? Vous gagnez <strong>+⟦1⟧ % d'XP</strong> dans le donjon tant que cela dure (le bonus sans coup).
+aa8a14e70c|<p><em>Note :</em> un pouvoir sur son propre bouton, pas une compétence équipée (RiftTearService).</p>
+d94b20b02a|<p><em>Note :</em> exclusif avec Rift Swap (les classes à branches libres prennent les deux) ; chaque niveau après le premier : +⟦1⟧ % de puissance, -⟦2⟧ % de temps de recharge.</p>
+8b1bf5590b|<p><em>Note :</em> arbre partagé par : necromancer, overlord ; exclusif avec corpse-explosion (les classes à branches libres prennent les deux) ; chaque niveau après le premier : +⟦1⟧ % de puissance, -⟦2⟧ % de temps de recharge.</p>
+a1ae6e673f|<p><em>Note :</em> arbre partagé par : necromancer, overlord ; exclusif avec death-bolt (les classes à branches libres prennent les deux) ; chaque niveau après le premier : +⟦1⟧ % de puissance, -⟦2⟧ % de temps de recharge.</p>
+0b46326deb|<strong>Nova</strong>
+bcc2890f36|<strong>Nova <em>(à partir du rang C)</em></strong>
+7e53821f70|Chiffres
+2e3c017282|<span><span>Coffre d'obsidienne</span></span>
+015a8f88b5|<span><span>Coffre d'obsidienne (éclats x⟦1⟧, chance d'objet ⟦2⟧ %)</span></span>
+913437cacb|<p>Probabilités de chaque type : ⟦1⟧.</p>
+694f3a3542|<p>Probabilités de cette source : ⟦1⟧.</p>

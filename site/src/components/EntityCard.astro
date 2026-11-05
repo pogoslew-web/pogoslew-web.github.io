@@ -4,6 +4,7 @@ import { tierClass } from '../lib/tier';
 interface Props { e: Entity; attrs?: Record<string, string | number>; compact?: boolean }
 const { e, attrs = {} } = Astro.props;
 const img = asset(e.image);
+const special = !e.rarity && e.infobox.some(i => i.key === 'Class type');
 const meta = (() => {
   const keys = (FACETS[e.type] ?? []).filter(k => k !== 'Rank / rarity' && k !== 'Rarity');
   for (const k of keys) { const v = e.infobox.find(i => i.key === k)?.value; if (v && v !== '-') return v; }
@@ -17,6 +18,7 @@ const meta = (() => {
   <span class="entry-body">
     <span class="entry-title">{e.title}</span>
     <span class="entry-meta">
+      {special && <span class="badge">Special class</span>}
       {e.rarity && <span class={`badge ${tierClass(e.rarity)}`}>{e.rarity}</span>}
       {meta && <span>{meta}</span>}
     </span>

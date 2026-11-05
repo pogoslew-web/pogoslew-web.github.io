@@ -1,0 +1,163 @@
+ae624788b7|Une entaille rapide ascendante qui repousse.
+7cff324946|Un rift de ville de rang A.
+de052ea308|<p>Un rift de ville de rang A. Reste ouvert ⟦1⟧ s en ville.</p>
+bfd88b59f5|Un rift de ville de rang B.
+91f5ec899c|<p>Un rift de ville de rang B. Reste ouvert ⟦1⟧ s en ville.</p>
+0021165b24|Un rift de ville de rang C.
+1095a2e4f7|<p>Un rift de ville de rang C. Reste ouvert ⟦1⟧ s en ville.</p>
+2db4fb5387|Un rift de ville de rang D.
+18be4d64d7|<p>Un rift de ville de rang D. Reste ouvert ⟦1⟧ s en ville.</p>
+df3b31d8ef|Un rift de ville de rang E.
+e39069c24e|<p>Un rift de ville de rang E. Reste ouvert ⟦1⟧ s en ville.</p>
+702b515e52|Un rift de ville de rang S.
+95335ec844|<p>Un rift de ville de rang S. Reste ouvert ⟦1⟧ s en ville.</p>
+d0ce88f563|Un rift de ville de rang S+.
+9caed49cbd|<p>Un rift de ville de rang S+. Reste ouvert ⟦1⟧ s en ville.</p>
+2086f18b6e|Un rift rouge sang rare : monstres et butin d’un rang au-dessus, XP et éclats x⟦1⟧, un donjon plus long.
+5ef2fc7ba7|<p>Un rift rouge sang rare : monstres et butin d’un rang au-dessus, XP et éclats x⟦1⟧, un donjon plus long.</p>
+2cfeb9ea6b|<p><p>un prix rare<!-- --> · <!-- -->un résultat par tirage</p></p>
+f1b25a5a5b|Un rayon de lumière ; chaque ennemi touché vous soigne un peu.
+990357ecf5|<p><p>une reforge (éclats : ⟦1⟧ x la valeur de l’objet)<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+457dc3cb3e|Un modificateur d’anomalie de rift
+aba656382f|Un rift laissé seul jusqu’à la fin de son minuteur peut se rompre : des monstres se déversent alors dans le quartier par vagues.
+12ef6f6956|Un rift laissé jusqu’à la fin de son minuteur peut se rompre : des monstres envahissent son quartier par vagues.
+2f3c389a57|<p>Un rift laissé jusqu’à la fin de son minuteur peut se rompre : des monstres envahissent son quartier par vagues.</p>
+f3a5b0c134|<p><p>un Rift summon utilisé<!-- --> · <!-- -->un résultat par tirage</p></p>
+d9a4c0ba1c|Un rift qui s’effondre écrase tous ceux qui sont à l’intérieur : retour en ville.
+36b626df9d|Un rift dont le minuteur expire sans personne à l’intérieur peut se rompre : des monstres se déversent dans le quartier par vagues jusqu’à ce que les éveillés les arrêtent.
+2809e4be1c|<p>Un rift dont le minuteur expire sans personne à l’intérieur peut se rompre : des monstres se déversent dans le quartier par vagues jusqu’à ce que les éveillés les arrêtent.</p>
+0d2480667a|Le minuteur d’un rift expire
+d0d3f1ca44|Un anneau de feu sacré qui vous soigne à chaque ennemi touché.
+49da279aeb|Un anneau de lumière éclate autour de vous et ralentit les ennemis.
+9dfb96c733|Une salle ici suit sa propre loi.
+575a7af7d4|<p>L’arène d’une partie change de style tous les ⟦1⟧ étages (après le cinquième, les styles recommencent) :</p>
+dd49dcd19b|<p><p>une rune lâchée par un gardien<!-- --> · <!-- -->un résultat par tirage</p></p>
+eddf374d6c|Un portail de rift saisonnier
+08b4de472a|<p><p>le coffre d’une chambre secrète<!-- --> · <!-- -->un résultat par tirage</p></p>
+41d5c1eb70|<p><p>un prix d’éclats<!-- --> · <!-- -->un résultat par tirage</p></p>
+5e55a86ae8|Un bouclier de ⟦1⟧ % des PV max pendant ⟦2⟧ s.
+34189288eb|<span><span>Une branche latérale s’ouvre</span></span>
+11260b9f41|<p>Une compétence inflige son pourcentage de votre <strong>puissance physique</strong> (Force + arme) ou de votre <strong>puissance magique</strong> (Intelligence + arme), multiplié par les bonus de votre classe, de votre arbre et de vos boosts, puis un jet critique. Chaque niveau de compétence au-delà du premier ajoute <strong>+⟦1⟧ % de puissance</strong> et <strong>−⟦2⟧ % de recharge</strong>.</p>
+b2c5802b4c|Une compétence d’une école cachée. Personne ne l’a encore documentée.
+a224fd6c29|<p><p>un tour de la roue de l’événement du bâton<!-- --> · <!-- -->un résultat par tirage</p></p>
+4fbe685eff|Une fente étoilée sur une très longue ligne.
+00ee0554e9|Une pierre lâchée par les gardiens de donjon (⟦1⟧ sortes, de Common à Mythic), gravée sur une arme, une armure ou un pendentif au Temple des runes pour un petit bonus tant que l’objet est porté.
+7abaf5e9d4|Une pierre lâchée par les gardiens de donjon (⟦1⟧ sortes, de Common à Mythic), gravée sur une arme, une armure ou un pendentif au Temple ⟦2⟧ pour un petit bonus tant que l’objet est porté.
+8c37a0d87e|<p>Une pierre lâchée par les gardiens de donjon (⟦1⟧ sortes, de Common à Mythic), gravée sur une arme, une armure ou un pendentif au Temple ⟦2⟧ pour un petit bonus tant que l’objet est porté.</p>
+be99678a6c|Une tempête d’âmes qui attire les ennemis et boit leur vie.
+8c91e86a2b|Un essaim de chauves-souris jaillit du bâton et déchire les premiers ennemis rencontrés.
+9c2b53f1bd|Un balayage de feu fantôme entraîne les ennemis autour de vous et boit leur vie.
+000bc2a45f|Un séisme balayant autour de vous qui vous protège.
+b4d44866ee|Une entaille de foudre qui étourdit.
+db71159c3e|<p>le coffre d’un trésor chronométré est un mimic ⟦1⟧ % du temps</p>
+108b06a0d4|<p>Un <strong>titre</strong> est une ligne de texte au-dessus de votre tête. Sa couleur suit sa difficulté (⟦1⟧ facile à ⟦2⟧ légendaire). Certains sont permanents, d’autres <em>temporaires</em> : vous ne les portez que tant que leur condition est remplie (places de classement, grades de guilde, pass).</p>
+918282a107|Un titre que personne n’a encore expliqué.
+b9caec4345|Une chambre forte d’éclats se trouve devant. Elle ne restera pas ouverte.
+4597247795|Une très longue fente perçante.
+0121936c57|Une vague de lumière sacrée qui repousse les ennemis et vous protège.
+47a2177794|<p>Un <strong>art d’arme</strong> est la compétence signature d’une arme. Tenez l’arme et appuyez sur <strong>E</strong> : l’art utilise la recharge, le coût en mana et les dégâts propres à l’arme, quelle que soit votre classe. Changez d’arme, changez d’art.</p>
+48f1251d79|<p>une arme est l’une des armes de classe de l’éveillé ⟦1⟧ % du temps, sinon n’importe quelle arme de ce rang ; les modèles de haut rang (MinRank) seulement à partir de leur rang</p>
+685557638d|Un large croissant enflammé qui embrase les ennemis.
+5a01440e07|Une large entaille de lumière de l’aube.
+611c40e227|Une large entaille qui déchire un rift devant vous.
+39ac934874|Un large balayage de la hache de la hallebarde qui étourdit.
+29c3dd05a7|<p>Environ ⟦1⟧ % des donjons ont un événement (et ⟦2⟧ % d’entre eux un second). Voir ⟦3⟧.</p>
+fc838162ec|<p>Environ <strong>⟦1⟧ %</strong> des donjons tirent un modificateur. Chacun échange un handicap contre un bonus de récompense :</p>
+b26c7b532d|<strong>Abyss Gate</strong>
+66c2dd675a|<span><span>Aura abyssale (Legendary)</span><span>A</span></span>
+ab2c07a8c9|<p>Accessoire. Une <strong>édition Nation</strong> : il affiche <strong>Nation</strong> à la place de sa lettre de grade et garde la couleur de son édition, mais son grade (de Trash F à Mythic S) est toujours tiré à l’obtention et fixe ses stats.</p>
+95457ae8ee|<p>Accessoire. Une <strong>édition S+</strong> : il affiche <strong>S+</strong> à la place de sa lettre de grade et garde la couleur de son édition, mais son grade (de Trash F à Mythic S) est toujours tiré à l’obtention et fixe ses stats.</p>
+3771890bd8|<p>Accessoire. Son grade est tiré à l’obtention, de Trash (F) à Mythic (S) ; à +⟦1⟧ la forge peut l’améliorer d’un grade à la fois (voir ⟦2⟧).</p>
+e14b3ece28|<p>Codes actifs : ⟦1⟧.</p>
+876901d4c5|<strong>Alchimiste</strong>
+933773e1f2|Alchimiste (ville), ⟦1⟧ éclats pièce, jusqu’à ⟦2⟧ à la fois ; à partir du rang B
+80fe9834b0|Alchimiste (ville), ⟦1⟧ éclats pièce, jusqu’à ⟦2⟧ à la fois ; à partir du rang D
+230a2b5408|Alchimiste (ville), ⟦1⟧ éclats pièce, jusqu’à ⟦2⟧ à la fois ; à partir du rang C
+486cdd5804|Alchimiste (ville), ⟦1⟧ éclats pièce, jusqu’à ⟦2⟧ à la fois
+06aa9d9b42|Potions de l’alchimiste, offres du marchand itinérant
+3ee3f55f3a|Aussi sur les éveillés à moins de ⟦1⟧ studs.
+6849dc6865|Un abîme s’ouvre autour de vous : il attire, blesse et ralentit.
+049bc3d932|<p><p>une alcôve trouvée dans un donjon<!-- --> · <!-- -->un résultat par tirage</p></p>
+2bef6703f7|<p>Un gardien éveillé donne ×⟦1⟧ d’XP. Les éclats dépendent du rang :</p>
+3355c9e5c6|Le rang d’un éveillé, de E à S, puis S+ (niveau ⟦1⟧) et Nation (niveau ⟦2⟧ + l’épreuve du Système), mesuré au Registre des Éveillés.
+f59e571ce7|<p>Le rang d’un éveillé, de E à S, puis S+ (niveau ⟦1⟧) et Nation (niveau ⟦2⟧ + l’épreuve du Système), mesuré au Registre des Éveillés.</p>
+6f31d06619|<p>Un éveillé d’élite. Les rifts ⟦1⟧ sont longs (⟦2⟧ salles de combat) et peuvent s’ouvrir en raids de guilde.</p>
+6367902f1e|<p><p>une élite tuée (son tueur)<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+da05e189d0|<p>une élite : taille x⟦1⟧, +⟦2⟧ palier, XP x⟦3⟧, ⟦4⟧-⟦5⟧ éclats (x l’échelle de coffre du rang) et un objet à ⟦6⟧ %</p>
+84cf42bb6b|un élixir ⟦1⟧ % du temps
+e543cb3aa6|<p><p>un prix d’équipement<!-- --> · <!-- -->un résultat par tirage</p></p>
+a94f63a246|Une ascension solo infinie : un boss tous les ⟦1⟧ étages, un point de contrôle tous les ⟦2⟧, ⟦3⟧ ticket gratuit par jour et un classement avec des récompenses exclusives.
+edfe9a5e9e|<span><span>Un objet</span></span>
+f8372f669a|<span><span>Un objet (+⟦1⟧ rang)</span></span>
+fc8c28dcc6|<span><span>Un objet (coffre Common)</span><span>✦</span></span>
+7de11debae|<span><span>Un objet (item-rarity-normal)</span><span>✦</span></span>
+61fb913e54|La lettre de rang d’un objet, selon sa rareté : F (Trash), E, D, C, B, A, S (Mythic) ; EX (éditions Limited) et SP (récompenses exclusives) au-dessus.
+d5f7eb5836|<p>La lettre de rang d’un objet, selon sa rareté : F (Trash), E, D, C, B, A, S (Mythic) ; EX (éditions Limited) et SP (récompenses exclusives) au-dessus.</p>
+ee2c4fe07a|<p>Une amélioration <strong>n’échoue jamais</strong>. Le maximum est +⟦1⟧ (+⟦2⟧ pour les armes de grade S, +⟦3⟧ pour EX et SP).</p>
+ba4871ff3f|<p>et ⟦1⟧ % par jour pour un cosmétique de gemme</p>
+e0be77a784|Les modificateurs d’anomalie changent les règles d’une partie en échange de plus d’XP et d’éclats.
+0574ebc8e4|<span><span>Anomaly summon</span></span>
+181f565776|<strong>Anonyme</strong> : dans les classements et sur les podiums, vous apparaissez comme <code>???</code> avec une statue inconnue.
+3e9e24aff7|Tout changement remet les deux côtés à <em>pas prêt</em>. Quand les deux sont prêts, un compte à rebours de <strong>⟦1⟧ s</strong> démarre, tout est revérifié, puis l’échange est effectué et les deux profils sont sauvegardés au même instant.
+a0b118735c|<p>N’importe quel monstre d’une salle de combat peut apparaître en <strong>élite</strong> : ⟦1⟧× plus grand, +⟦2⟧ palier, ×⟦3⟧ d’XP, ⟦4⟧ à ⟦5⟧ éclats et un objet à ⟦6⟧ %. La chance dépend du rang : ⟦7⟧.</p>
+bc19ef2bac|<p>Tout éditeur de confiance peut corriger un tableau ; chaque modification est conservée dans le journal d’audit.</p>
+620e21a8a8|Apparaît derrière l’ennemi le plus proche et frappe.
+ce3e330df0|Apparaît dans l’ombre derrière l’ennemi le plus proche et frappe.
+bbafd48784|Apparaît dans ⟦1⟧
+5cf3588c52|Cosmétique d’armure (Limited). Tour infinie : top ⟦1⟧ de son classement (conservé tant que vous restez dans le top ⟦2⟧).
+2256943dd8|<p>Armure. Une <strong>édition Nation</strong> : elle affiche <strong>Nation</strong> à la place de sa lettre de grade et garde la couleur de son édition, mais son grade (de Trash F à Mythic S) est toujours tiré à l’obtention et fixe ses stats.</p>
+29464e1faa|<p>Armure. Une <strong>édition S+</strong> : elle affiche <strong>S+</strong> à la place de sa lettre de grade et garde la couleur de son édition, mais son grade (de Trash F à Mythic S) est toujours tiré à l’obtention et fixe ses stats.</p>
+0426765418|<p>Armure. Une édition <strong>SP</strong> : une récompense exclusive entre S et EX. Seul le profil qui en a gagné un exemplaire peut l’échanger, le vendre ou le mettre aux enchères (deux confirmations).</p>
+e634bfe606|<p>Armure. Son grade est tiré à l’obtention, de Trash (F) à Mythic (S) ; à +⟦1⟧ la forge peut l’améliorer d’un grade à la fois (voir ⟦2⟧).</p>
+4498082b31|<strong>Armure :</strong> toutes
+55b1383396|<strong>Armure :</strong> Heavy
+a7526c4c9e|<strong>Armure :</strong> Light
+0a4eeb6691|<strong>Armure :</strong> Medium, Heavy
+8bccc23d51|<strong>Armure :</strong> Robe
+4a630860b4|<strong>Armure :</strong> Robe, Light
+57778e2306|<span><span>Coffre de cendres (éclats x⟦1⟧, chance d’objet ⟦2⟧ %)</span></span>
+ef76588b34|<p>Demandez au Registre une <strong>réévaluation</strong> (gratuite, une fois par minute). Le parcours complet avec des conseils : ⟦1⟧.</p>
+4bb796181d|<span><span>Coffre astral</span></span>
+1c77a90ba3|<span><span>Coffre astral (éclats x⟦1⟧, chance d’objet ⟦2⟧ %)</span></span>
+c7ae8f262a|<span><span>Cœur astral (Mythic)</span><span>S</span></span>
+3a6369ca28|Au moins ⟦1⟧ sur ⟦2⟧
+592cf18899|<p>Au niveau ⟦1⟧ et avec ⟦2⟧ donjons terminés, vous pouvez demander au <strong>Registre des Éveillés</strong> le rang D. Une réévaluation est gratuite, une fois par minute. Parcours complet : ⟦3⟧.</p>
+321b441712|<p>Au niveau ⟦1⟧, le Système lui-même vous met à l’épreuve. <strong>Détails inconnus - découvrez-les et modifiez cette page.</strong></p>
+45f42f5b2e|<p>Au niveau maximum (⟦1⟧) : <strong>+⟦2⟧ % de chance critique</strong>.</p>
+cda2a1081d|<p>Au niveau maximum (⟦1⟧) : <strong>+⟦2⟧ % de chance critique</strong>, <strong>+⟦3⟧ % de mana max</strong>.</p>
+5265ce8172|<p>Au niveau maximum (⟦1⟧) : <strong>jusqu’à +⟦2⟧ % de dégâts à mesure que les PV baissent</strong>, <strong>+⟦3⟧ % de mana max</strong>, <strong>+⟦4⟧ % de régénération de mana</strong>.</p>
+ddc9703eaa|<p>au plus ⟦1⟧</p>
+eb9ce6bf27|<p>au plus ⟦1⟧ ruptures à la fois</p>
+8832faeb73|<p>au plus ⟦1⟧ par donjon</p>
+b097bb3639|<p>au plus ⟦1⟧ par donjon ; ils durent ⟦2⟧ s</p>
+ccaf952788|À l’autel de ⟦1⟧, gravez une rune sur une <strong>arme, une armure ou un pendentif</strong> compatible. Une rune par objet : une nouvelle remplace l’ancienne (perdue).
+1b81f28b5a|Attaque
+bc509a644d|Attaque et bonus. ⟦1⟧ styles : blade, spear, dagger, scythe, greatsword, hammer, staff. Chacun porte un ⟦2⟧.
+296349a2e7|vitesse d’attaque
+0fe3ec32a5|Bonus d’attaque, de PV et de stats : base × puissance (arrondi).
+0f980cfab2|Achats à l’Hôtel des ventes et frais de mise en vente
+3d0178495a|Enchères
+8c867fe662|Aura cosmétique (Epic). Groupe : récompense de départ du groupe AwaitLab.
+e8c94e0107|Aura cosmétique (Limited). Pass de combat de la saison ⟦1⟧, niveau ⟦2⟧ (voie premium).
+57cd10a639|Aura cosmétique (Limited). Paliers (récompenses de niveau).
+20479b6f78|Aura cosmétique (Limited). Tour infinie : top ⟦1⟧ de son classement (conservé tant que vous restez dans le top ⟦2⟧).
+6e5e7475f1|Gemme d’aura
+5f45b5cb82|Auras, edges et skins (apparence uniquement)
+4fc1658ff6|<strong>Auras</strong> : un effet autour de votre personnage.
+61d528685b|Gardien éveillé
+53ce1cfc20|<span><span>Gardien éveillé (Le gardien de ce rift est éveillé. Il est bien plus fort.)</span></span>
+e5cc133f1a|Éveillés sur ce serveur
+f016d8e0af|B (Epic)
+da6b02d40c|Badge : ⟦1⟧
+ef6155a5ec|Sac
+0891987e3b|<span><span>Sac (x⟦1⟧ les bonbons d’un clear)</span></span>
+49544c322d|<strong>Équilibre entre éveillés</strong> (uniquement en PvP) : l’écart entre un éveillé fort et un faible est réduit (puissance = racine carrée de offense × résistance).
+5f253579fe|<strong>Barrage</strong>
+e86cee4c30|<strong>Barrage <em>(à partir du rang A)</em></strong>
+d3a4ad7f76|<strong>Barrage <em>(à partir du rang B)</em></strong>
+79792cd986|<strong>Barrage <em>(à partir du rang D)</em></strong>
+dd3309f678|<strong>Barrage (jusqu’au rang C)</strong>
+4087a8a3e5|Valeur de base
+f55c043c8c|Valeur de base (éclats)
+5bddb8fc92|<p>Les valeurs de base sont pour le grade E, Common, +⟦1⟧. Elles augmentent avec le grade et le niveau de forge : voir ⟦2⟧.</p>
+6db5fe48ce|<p>poids de base ; un rang de donjon plus élevé les décale vers les runes plus rares ; parmi les ⟦1⟧ runes : chance égale</p>

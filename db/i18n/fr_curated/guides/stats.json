@@ -1,0 +1,20 @@
+{
+ "summary": "Force, agilité, vitalité, défense, perception, intelligence et esprit : ce que donne chaque point de chaque stat.",
+ "headings": {
+  "what-stats-do": "À quoi servent les stats",
+  "which-stats-for-which-class": "Quelles stats pour quelle classe ?",
+  "caps-worth-knowing": "Plafonds à connaître"
+ },
+ "blocks": {
+  "what-stats-do": {
+   "0": "<p>Chaque éveillé a <strong>7 stats</strong>, 5 points chacune au départ, jusqu’à 999. Vous gagnez des points en montant de niveau (3 par niveau jusqu’au niveau 30, 2 jusqu’à 60, 1 jusqu’à 100) et avec les passages de rang. Une réinitialisation des stats rend tous vos points.</p>"
+  },
+  "which-stats-for-which-class": {
+   "0": "<p>Chaque classe indique ses <em>stats à privilégier</em> sur sa page, par exemple <a href=\"/en/w/overrank/classes/assassin\">Assassin</a> (Strength, Agility, Perception) ou <a href=\"/en/w/overrank/classes/tank\">Tank</a> (Vitality, Defense, Spirit). Les compétences physiques évoluent avec la <strong>Strength</strong>, les compétences magiques avec l’<strong>Intelligence</strong>.</p>"
+  },
+  "caps-worth-knowing": {
+   "0": "<ul> <li>Chance critique : 50 % au maximum.</li> <li>Réduction de dégâts : 70 % au maximum (Tank 65 %, Berserker 62 %).</li> <li>Esquive : 60 % au maximum (Survivor 52 %).</li> <li>Réduction de recharge via l’Intelligence : 45 % au maximum.</li> </ul>",
+   "1": "<p>Formules : <a href=\"/en/w/overrank/formulas/combat\">Combat</a>.</p>"
+  }
+ }
+}

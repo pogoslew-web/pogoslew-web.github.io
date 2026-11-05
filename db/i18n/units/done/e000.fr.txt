@@ -1,0 +1,194 @@
+861b3929f7|Danger : faible.
+4189b74914|<p>Danger : <strong>faible</strong>. Poids des rangs de rift : E ⟦1⟧ D ⟦2⟧ C ⟦3⟧. Voir ⟦4⟧.</p>
+bae61d1b5c|<p>Danger : faible. Rangs de rift : E ⟦1⟧ D ⟦2⟧ C ⟦3⟧ (poids). Quartiers de la nouvelle ville dans cette zone : Namsan, Mapo et la place des novices dans le jardin du palais.</p>
+c2c93df631|Danger : modéré.
+799222f259|<p>Danger : modéré. Rangs de rift : E ⟦1⟧ D ⟦2⟧ C ⟦3⟧ B ⟦4⟧ (poids). Quartiers de la nouvelle ville dans cette zone : Myeongdong et Seongsu.</p>
+d4ebbc8943|<p>Danger : <strong>modéré</strong>. Poids des rangs de rift : E ⟦1⟧ D ⟦2⟧ C ⟦3⟧ B ⟦4⟧. Voir ⟦5⟧.</p>
+33a95938e3|Darkness
+927ceb86ef|Charge et coupe, intouchable un instant ; chaque coup vous soigne un peu.
+be12c97eb3|Traverse en un éclat, intouchable un instant.
+5c3d2743c4|Traverse les ennemis dans une traînée d’éclair rouge.
+72e0340777|Traverse les ennemis, intouchable un instant.
+987b9ced08|Jour
+04a8772568|<p>Le jour ⟦1⟧ donne aussi le titre ⟦2⟧ et le badge ⟦3⟧.</p>
+378672b6b2|Infligez ⟦1⟧ de dégâts en un seul coup.
+1cd3513927|<p>Infligez ⟦1⟧ de dégâts en un seul coup.</p>
+d8c7d877ba|Death
+0bb792d6b1|Touches par défaut
+b092cdcac8|arme de départ par défaut
+a431fb7f89|<p>valeurs par défaut : l’équipe peut régler ces taux en direct ; ⟦1⟧ % des rifts A / S s’ouvrent en raids de guilde</p>
+c6d54a6cca|Vainquez ⟦1⟧ boss.
+d8b5072470|<p>Vainquez ⟦1⟧ boss.</p>
+4b6b812a0c|Vainquez un gardien de donjon.
+7e10ff3793|<p>Vainquez un gardien de donjon.</p>
+ef6c0bfe5e|<strong>Défense</strong>
+3c284a10d0|Défense
+eb551f94de|Défense et esquive
+bf1be2b7ad|Définition
+bc7e370b36|Supprimer votre profil
+8dc4a9162b|Décrivez son style de jeu et ses meilleurs builds.
+3109c9336c|<span><span>Armure de nomade du désert (Rare)</span><span>C</span></span>
+3492b824e7|Mourez ⟦1⟧ fois.
+348d44a408|<p>Mourez ⟦1⟧ fois.</p>
+7945d3c8f7|Difficulté
+b524936d7a|Réduction
+ecf9609a03|<strong>Répartition</strong> : un résultat par tirage ; les chances s’additionnent à ⟦1⟧ %.
+c0cb139cce|Quartier
+28cbaeb5b3|Quartiers
+4e7a40fe2a|Ne vous précipitez pas sur des rifts très au-dessus de votre rang : le jeu vous refuse si l’écart est trop grand.
+794b762ba8|Docks
+5f1a7e1f69|Esquive
+b14e0a4257|Vous ne voulez pas de demandes ? Désactivez <strong>Échanges</strong> dans ⟦1⟧ : vous n’en recevrez aucune et personne ne verra votre invite d’échange.
+def6ba571f|Donné
+70d817f640|donné
+6d04b4e003|butin : gardiens, coffres, élites, mimics, ruptures de rift (donjons de rang Nation+) ; le prix Nation d’un gardien penche vers la classe de l’éveillé
+656e8a9e36|butin : gardiens, coffres, élites, mimics, ruptures de rift (donjons de rang A+)
+546ea0f0f1|butin : gardiens, coffres, élites, mimics, ruptures de rift (tous les rangs)
+d865c00845|butin : gardiens, coffres, élites, mimics, ruptures de rift (donjons de rang S++)
+159d0e92c7|butin : gardiens, coffres, élites, mimics, ruptures de rift (donjons de rang Nation+)
+02b008d6af|Butins
+b48a3e8e2f|<span><span>Drowned Marsh (gardien Rotwood Behemoth)</span></span>
+4aee53c4b5|Duality
+d74905b9ab|Mannequins, combos et test du gardien.
+fbcf1d1a29|coffres de donjon (alcôve / mimics de trésor)
+fd4166c164|Donjon terminé
+24ced25868|Donjons terminés (voir le tableau ci-dessous)
+6fa7bdbaed|événement de donjon Invincible wanderer
+71d8ff13d2|événement de donjon Rival awakened
+08c9c54122|<p><p>génération du donjon (à partir de ⟦1⟧ salles de combat)<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+3c486294b9|<p><p>génération du donjon<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+86fecb6d4d|<span><span>Un monstre de donjon lâche des bonbons</span></span><span>Quantité ⟦1⟧-⟦2⟧</span>
+8c9efa4236|Rang du donjon
+af94fc95ea|Étoiles de donjon : ⟦1⟧ ⟦2⟧ (x⟦3⟧), ⟦4⟧ (x⟦5⟧), ⟦6⟧ (x⟦7⟧)
+e29f415a5c|thème de donjon ⟦1⟧
+c943457013|thème de donjon ⟦1⟧ (donjons de rang C+)
+4013a94e87|thème de donjon ⟦1⟧ (donjons de rang D+)
+d81650e177|Thème de donjon et gardien, rang E
+35728d81ae|Thème de donjon et gardien, rang D
+2ee0417421|Thème de donjon et gardien, rang C
+a9f98a042b|Thème de donjon et gardien, rang B
+3efd13a435|Thème de donjon et gardien, rang A
+29a2f2a46a|Thème de donjon et gardien, rang S
+38a493996f|Thème de donjon et gardien, rang S+
+e9da20dd47|Thème de donjon et gardien, rang Nation
+72e91027c6|Thèmes de donjon
+10baabda2c|Thèmes de donjon, événements et modificateurs
+19be291888|salles piégées de donjon (portes mimic)
+89eabb1765|Donjons
+4538f388fa|donjons terminés
+a56c6cd610|Donjons terminés depuis votre dernier rang
+a4b4abec8a|Donjons depuis le dernier rang
+0a37bc21e8|<p>Pendant le groupe, la roue peut être tournée : ⟦1⟧.</p>
+c44bd68dda|E (Common)
+c664e291ce|De E à S+, et Nation
+0c409cb4b3|<span><span>Chaque stat bonus : l’une des ⟦1⟧ (Force, Agilité, Vitalité, Défense, Perception, Intelligence, Esprit), sans doublon</span></span>
+496ee5ff36|<p><p>chaque coffre placé<!-- --> · <!-- -->un résultat par tirage</p></p>
+e2465b8b05|Chaque classe a un <strong>rôle</strong> (dégâts, tank, support ou hybride) et une <strong>difficulté</strong> (facile, normale, difficile).
+5e8d408850|<p>Chaque classe liste ses <em>stats prioritaires</em> sur sa page, par exemple ⟦1⟧ (Force, Agilité, Perception) ou ⟦2⟧ (Vitalité, Défense, Esprit). Les compétences physiques évoluent avec la <strong>Force</strong>, les compétences magiques avec l’<strong>Intelligence</strong>.</p>
+08007a273d|<p>Chaque donjon terminé donne des points à votre guilde, selon son rang : E ⟦1⟧ D ⟦2⟧ C ⟦3⟧ B ⟦4⟧ A ⟦5⟧ S ⟦6⟧ S+ ⟦7⟧ Nation ⟦8⟧ (×⟦9⟧ dans un raid de guilde, ×⟦10⟧ pour une rupture de rift). Voir ⟦11⟧.</p>
+f569d36138|<p>Chaque éveillé supplémentaire ajoute +⟦1⟧ % aux PV des monstres et +⟦2⟧ % à leurs dégâts (le staff a réglé cette valeur en direct de ⟦3⟧ % à ⟦4⟧ %).</p>
+cba8e1ed33|<p><p>chaque tirage supplémentaire (par rang : A ⟦1⟧ S ⟦2⟧ C ⟦3⟧ B ⟦4⟧ E ⟦5⟧ Nation ⟦6⟧ S+ ⟦7⟧ D ⟦8⟧)<!-- --> · <!-- -->un résultat par tirage</p></p>
+adafdfa13d|<p><p>chaque tirage de butin de gardien, pris sur la part d’équipement<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+0fff88689c|<p><p>chaque objet tiré sans base fixée<!-- --> · <!-- -->un résultat par tirage</p></p>
+c6a3a12e8b|<p><p>chaque objet tiré<!-- --> · <!-- -->un résultat par tirage</p></p>
+a160640c1a|<p>Chaque niveau coûte <strong>⟦1⟧</strong> point de compétence, soit ⟦2⟧ points pour le monter au maximum. Les points peuvent être remboursés avec une réinitialisation de l’arbre de compétences.</p>
+8b7c0d9453|<p>Chaque niveau coûte <strong>⟦1⟧</strong> points de compétence, soit ⟦2⟧ points pour le monter au maximum. Les points peuvent être remboursés avec une réinitialisation de l’arbre de compétences.</p>
+f43dc55ab1|<p>Chaque niveau donne <strong>⟦1⟧ point de compétence</strong>. Vous dépensez les points dans l’arbre de compétences de votre classe (ou l’arbre General en tant qu’Humain) pour débloquer des <strong>compétences actives</strong> et des <strong>passifs</strong>. Une compétence demande la précédente de sa chaîne au niveau maximum. Chaque niveau de compétence au-delà du premier ajoute <strong>+⟦2⟧ % de puissance et −⟦3⟧ % de recharge</strong>.</p>
+c27ac0f8e0|<p>Chaque niveau donne des <strong>points de stats</strong> (⟦1⟧ par niveau jusqu’au niveau ⟦2⟧ puis ⟦3⟧ puis ⟦4⟧) et un <strong>point de compétence</strong>. Mettez vos points de stats dans les stats sur lesquelles votre classe se concentre : voir ⟦5⟧. Les erreurs ne sont pas définitives : une réinitialisation des stats coûte ⟦6⟧ éclats par point (⟦7⟧ au moins).</p>
+81a099aba8|<p><p>chaque monstre placé dans une salle de combat<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+e5c5e66c4b|<p><p>chaque monstre placé<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+4cc6d03faa|<p>Chaque ordre donne <strong>⟦1⟧ + ⟦2⟧ × votre niveau</strong> d’XP et ⟦3⟧ points de stats. Refuser ou échouer coûte −⟦4⟧ % d’XP pendant ⟦5⟧ minutes. Les ordres se réinitialisent chaque jour à ⟦6⟧:⟦7⟧ UTC.</p>
+79c33edd23|<p>Chaque page indique l’élément, la recharge, le coût en mana, les dégâts (un pourcentage de votre puissance physique ou magique) et comment la débloquer. Les recharges sont des valeurs de base : voir ⟦1⟧.</p>
+56672c9027|<p>Chaque page indique si le produit peut être offert.</p>
+eca168ffe3|<p>Chaque rareté multiplie la base de la rune : Common x⟦1⟧ Uncommon x⟦2⟧, Rare x⟦3⟧ Epic x⟦4⟧ Legendary x⟦5⟧ Mythic x⟦6⟧.</p>
+3dd0219c48|<p><p>chaque éveillé récompensé à la fin d’une invasion<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+268797f6d1|<p>Chaque éveillé récompensé peut aussi gagner une arme d’édition spéciale (SP et EX), conçue d’abord pour un style d’arme de sa classe : ⟦1⟧.</p>
+31e7ea5b80|<p><p>chaque chambre secrète d’un donjon<!-- --> · <!-- -->un résultat par tirage</p></p>
+d11ce5aa0c|Chaque côté propose jusqu’à <strong>⟦1⟧</strong> choses (objets du sac, cosmétiques échangeables) et jusqu’à <strong>⟦2⟧ éclats</strong>.
+8c81de0e17|Chaque étoile donne à l’objet <strong>+⟦1⟧ % de ses propres stats, en donjon uniquement</strong> (+⟦2⟧ % avec ⟦3⟧ étoiles).
+79c9eb8d37|<p>Chaque terme a sa propre page, liée depuis les autres pages. Il y a <strong>⟦1⟧ termes</strong> ; ajoutez ceux que nous avons oubliés.</p>
+0b997b1244|<p><p>chaque monstre de la tour<!-- --> · <!-- -->chaque ligne est tirée séparément</p></p>
+92d6623a93|<p>Chaque page d’arme montre son art, et chaque page d’art renvoie à son arme. Parcourez les armes dans ⟦1⟧. Certains arts appartiennent à des armes de classe ou à l’équipement de saison.</p>
+d059479ed0|<p>chacun : x⟦1⟧ pendant ⟦2⟧ min de jeu</p>
+a074430f35|Earth
+00f03137e1|Facile
+60ea6b3d5f|<span><span>Écho</span></span>
+696e7bc27a|<strong>Eclipse</strong>
+6539202e4d|<span><span>Eclipse Citadel (gardien Eclipse Monarch)</span></span>
+9c7de84f5d|Edge cosmétique (Limited). Paliers (récompenses de niveau).
+b7d0e9da1d|Edge cosmétique (Limited). Pass de combat de la saison ⟦1⟧, niveau ⟦2⟧ (voie premium).
+3ad729120d|<strong>Edges</strong> : un effet sur le tranchant de votre arme.
+720b5dbc53|Effet
+49fa9fd831|Élément
+b91ac9585a|<span><span>Plafond d’élites</span></span>
+d97cfe482a|chance d’élite ⟦1⟧ %
+f1c9f7cf1a|Chance d’élite : ⟦1⟧ % + ⟦2⟧ % par étage (⟦3⟧ % au maximum) : ⟦4⟧.
+948cdf4834|Butin d’objet d’élite (⟦1⟧ %)
+9186bbd24b|Kill d’élite
+72d8e49468|Monstres d’élite par rang de donjon
+9efdc32478|<span><span>Élite à l’étage ⟦1⟧</span></span>
+bcfdf4e902|<strong>Élite</strong> : tout monstre normal peut devenir élite (plus grand, ×⟦1⟧ d’XP, lâche des éclats et parfois un objet).
+090111e1fe|Élites
+11497d56bf|Élixirs
+d8728862e1|<strong>Ailleurs</strong> : les terrains d’entraînement, le colisée, la Tour infinie (son arène, les monstres encore debout, le gardien et le portail) et l’île saisonnière ont chacun leur propre carte.
+254703a211|<span><span>Aura de braises à la dérive (Rare)</span><span>C</span></span>
+fcddf2d3cf|<span><span>Vide</span></span>
+029c009919|Des étages sans fin, un gardien tous les ⟦1⟧.
+0371ebbcb8|Élites de la Tour infinie
+8642abff64|Étages de la Tour infinie
+47868d1cfe|Tickets de la Tour infinie
+3aa39b0612|Tour infinie : top ⟦1⟧ de son classement (conservé tant que vous restez dans le top ⟦2⟧)
+aa41295d96|<span><span>Enragé</span></span>
+f7860b25eb|Enragé (sous ⟦1⟧ % de PV : vitesse x⟦2⟧, recharges x⟦3⟧)
+cfb04e4358|<p>Enragé : plus rapide sous ⟦1⟧ % de PV ; Summoner : appelle des renforts à ⟦2⟧ % / ⟦3⟧ % de PV</p>
+898129cabd|Tickets d’entrée
+b3efd0d2dd|Epic
+280aa5e05c|<span><span>Epic</span></span>
+c68eaec580|<span><span>Epic (⟦1⟧ offres, -⟦2⟧ %, un cosmétique, ⟦3⟧ élixir)</span></span>
+e6e7356bef|<span><span>Epic (rang B)</span><span>B</span></span>
+058c4fe410|<p>Équipez un titre depuis l’onglet des titres de la fenêtre de statut : il s’écrit au-dessus de votre tête, avec une couleur qui suit sa difficulté (Legendary ici). Voir ⟦1⟧.</p>
+4495b93117|<p>Équipez un titre depuis l’onglet des titres de la fenêtre de statut : il s’écrit au-dessus de votre tête, avec une couleur qui suit sa difficulté (Extreme ici). Voir ⟦1⟧.</p>
+89a7a373e3|<p>Équipez un titre depuis l’onglet des titres de la fenêtre de statut : il s’écrit au-dessus de votre tête, avec une couleur qui suit sa difficulté (Hard ici). Voir ⟦1⟧.</p>
+c9b1277aad|<p>Équipez un titre depuis l’onglet des titres de la fenêtre de statut : il s’écrit au-dessus de votre tête, avec une couleur qui suit sa difficulté (Easy ici). Voir ⟦1⟧.</p>
+7c2cf74ca1|<p>Équipez un titre depuis l’onglet des titres de la fenêtre de statut : il s’écrit au-dessus de votre tête, avec une couleur qui suit sa difficulté (Normal ici). Voir ⟦1⟧.</p>
+68e4e6d5b8|<p>Équipez auras, edges et skins depuis l’onglet des cosmétiques de la fenêtre de statut. Voir ⟦1⟧.</p>
+da9228b76f|<span><span>Équipement</span></span>
+5b3b5c3848|<span><span>Donjon ERROR (au-delà d’un double donjon Nation)</span></span>
+0127f71940|Essences
+bce8cf9905|Esquive
+373bd27d90|esquive
+56dc40131c|Esquive %
+82b0ca96ed|Esquive : ⟦1⟧ % au maximum (Survivor ⟦2⟧ %).
+ad8919ace0|Événement
+9b38eced5b|événement : récompenses d’invasion (édition EX ; ⟦1⟧-⟦2⟧ % selon la place / la part de dégâts)
+73d7c04fa9|événement : récompenses d’invasion (édition SP ; ⟦1⟧-⟦2⟧ % selon la place / la part de dégâts)
+c5497bca58|Événements
+e3de865863|<p>Tous les ⟦1⟧ étages, l’arène change de style :</p>
+7fba9d3481|<p>toutes les ⟦1⟧ min (horloge UTC, tous les serveurs).</p>
+8782b2989d|<p><p>toutes les ⟦1⟧ min, identique pour chaque éveillé d’un rang<!-- --> · <!-- -->un résultat par tirage</p></p>
+36b04aa73d|<p>Toutes les <strong>⟦1⟧ minutes</strong> (à l’horloge, identique sur tous les serveurs) un nouveau marchand installe sa charrette dans l’un des ⟦2⟧ quartiers de la ville (Namsan, Myeongdong, Bukchon, Mapo, Seongsu, Jongno, Gangnam, le fleuve Han). Une rumeur nomme le quartier : cherchez la fumée de sa charrette.</p>
+cea2b215bd|<p>Chaque éveillé a <strong>⟦1⟧ stats</strong>, ⟦2⟧ points chacune au départ, jusqu’à ⟦3⟧. Vous gagnez des points en montant de niveau (⟦4⟧ par niveau jusqu’au niveau ⟦5⟧, ⟦6⟧ jusqu’à ⟦7⟧, ⟦8⟧ jusqu’à ⟦9⟧) et aux montées de rang. Une réinitialisation des stats rend tous vos points.</p>
+998cb4c659|<p>Chaque éveillé commence comme <strong>⟦1⟧</strong> : sans classe, un peu de tout. Vous pouvez y revenir depuis la fenêtre de classe à tout moment.</p>
+0020c075a1|<p>chaque jour à ⟦1⟧:⟦2⟧ UTC.</p>
+680bda080e|<p>chaque jour.</p>
+19d0988dc1|Toutes les touches par défaut au clavier et à la manette, comment les changer, les boutons tactiles, et la carte de chaque lieu (touche M).
+4bc2fff0ff|<p>Tous les grades qu’il peut tirer, tels que le jeu les affiche dans le sac :</p>
+9ced9235ea|<p>Chaque chasseur au-delà du premier rend les monstres du donjon plus coriaces : <strong>+⟦1⟧ % de PV</strong> et <strong>+⟦2⟧ % de dégâts</strong> chacun (voir ⟦3⟧). Un chasseur tombé revient dans la salle la plus lointaine terminée par le groupe : ⟦4⟧.</p>
+7dcbf02a5c|Tous les classements, les statues des meilleurs, les dons.
+469d5cd681|Chaque bonus de chance est additionné : multiplicateur = ⟦1⟧ + min(⟦2⟧ somme des bonus), soit ×⟦3⟧ au maximum. Il renforce les butins à chance et les meilleurs grades du butin des gardiens.
+697c88d3db|<p>Chaque bonus de chance est additionné : multiplicateur = ⟦1⟧ + min(⟦2⟧ somme des bonus) (pass Lucky +⟦3⟧, un boost x⟦4⟧ +⟦5⟧ avantage de guilde +⟦6⟧ un niveau...), soit x⟦7⟧ au maximum.</p>
+6beaf223f9|<p>Chaque monstre a des stats de base à son propre rang. En donjon, elles sont multipliées par l’<strong>échelle de rang</strong> du rift, par le palier de la salle et par le nombre d’éveillés à l’intérieur :</p>
+e1a9a63d72|<p>Chaque nouvel éveillé est un <strong>Humain</strong> : sans classe, +⟦1⟧ % à toutes les stats et +⟦2⟧ % d’XP, avec tout l’arbre de compétences General ouvert. Ouvrez la fenêtre de classe (fenêtre de statut, <strong>Changer de classe</strong>) pour en choisir une. Le premier changement d’un profil est gratuit ; les suivants coûtent des éclats. Pas sûr ? Regardez ⟦3⟧ et lisez la <em>Difficulté</em> et le <em>Rôle</em> de chacune. ⟦4⟧, ⟦5⟧, ⟦6⟧ et ⟦7⟧ sont de bons premiers choix.</p>
+7ebdcabe5d|Toutes les probabilités du jeu et la vraie formule de chance
+5592213fc9|Toutes les probabilités du jeu : apparitions de rifts, butins, gemmes, coffres et tirages.
+630fb18f2c|<p><p>chaque ouverture de rift (rouge tiré d’abord, puis PvP)<!-- --> · <!-- -->un résultat par tirage</p></p>
+b8fb1c8d46|<p><p>chaque ouverture de rift dans ce quartier<!-- --> · <!-- -->un résultat par tirage</p></p>
+536ecb1c1f|Tous les badges Roblox
+1ab5fabbf8|Chaque stat commence à ⟦1⟧ et plafonne à ⟦2⟧.
+db8fff9141|Toutes les fenêtres
+a444a9fb63|<p>Tout le monde commence ici. Les rifts ⟦1⟧ sont petits (⟦2⟧ salles de combat) et indulgents : apprenez à esquiver, choisissez une classe et terminez votre premier rift.</p>
+d7f7e5b58d|<p>Tout à son sujet : ⟦1⟧.</p>
+1ac933e47c|Tout à la fois (+⟦1⟧ ou plus)
+5fce6a1df6|<p>Tout commence dans ⟦1⟧, reconstruite après Séoul lors de la mise à jour Nouvelle Ville : une place sûre avec le Registre, la forge, le marché, la salle des guildes et les stands de gemmes, et des quartiers regroupés en quatre zones de danger où s’ouvrent les rifts. Plus on s’éloigne des Docks, plus c’est dangereux. ⟦2⟧ ⟦3⟧ relient chaque lieu.</p>
+9969d993d0|Tout ce que change la fenêtre d’options (P) : graphismes par appareil, son et radio, interface, commandes, échanges et confidentialité.
+78a4f0ec0f|<span><span>Arme d’édition EX</span></span><span>Quantité ⟦1⟧-⟦2⟧ %</span>

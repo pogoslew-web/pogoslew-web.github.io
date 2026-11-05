@@ -15,6 +15,10 @@ if (art) {
       body.innerHTML = d.html;
       if (d.heading && el.matches('details')) { const sm = el.querySelector('summary')!; if (!sm.dataset.en) sm.dataset.en = sm.textContent ?? ''; sm.textContent = d.heading; }
     });
+    document.querySelectorAll<HTMLAnchorElement>('.toc a, .toc-chips a').forEach(a => {
+      const t = document.getElementById(decodeURIComponent(a.hash.slice(1))); const d = t?.dataset.i !== undefined ? cache.sections[Number(t.dataset.i)] : null;
+      if (d?.heading) { if (!a.dataset.en) a.dataset.en = a.textContent ?? ''; a.textContent = d.heading; }
+    });
     if (cache.summary && sub) { origSub ??= sub.textContent; sub.textContent = cache.summary; }
     if (!note) { note = document.createElement('div'); note.className = 'i18n-note'; note.innerHTML = '<span><b>Traduction française automatique</b> du texte du wiki original. Les noms du jeu restent en anglais, comme en jeu.</span>'; art.insertBefore(note, art.querySelector('.sections')); }
   };
@@ -22,6 +26,7 @@ if (art) {
     orig.forEach((h, el) => (el.innerHTML = h)); orig.clear();
     art.querySelectorAll<HTMLElement>('summary[data-en]').forEach(sm => { sm.textContent = sm.dataset.en!; delete sm.dataset.en; });
     if (origSub !== null && sub) { sub.textContent = origSub; origSub = null; }
+    document.querySelectorAll<HTMLAnchorElement>('.toc a[data-en], .toc-chips a[data-en]').forEach(a => { a.textContent = a.dataset.en!; delete a.dataset.en; });
     note?.remove(); note = null;
   };
   const sync = () => (document.documentElement.lang === 'fr' ? toFr() : toEn());

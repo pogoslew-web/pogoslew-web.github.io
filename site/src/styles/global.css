@@ -466,3 +466,7 @@ a.gs-item:hover { border-color: var(--accent); text-decoration: none; }
 .nav-desktop summary, .nav-desktop .nav-link { white-space: nowrap; }
 :root[data-lang='fr'] .nav-desktop { gap: 0; }
 @media (max-width: 1180px) { .search-trigger { min-width: 150px; } .search-trigger .kbd { display: none; } }
+
+/* contenu pré-traduit à la construction (actualités) */
+html[lang='fr'] [data-lang-en]{display:none}
+html:not([lang='fr']) [data-lang-fr]{display:none}

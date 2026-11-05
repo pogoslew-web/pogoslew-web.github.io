@@ -1,0 +1,256 @@
+52a1b328da|Attaque de base
+7507a52c32|<span><span>Panier (x⟦1⟧ les bonbons d’un clear)</span></span>
+0d5e8602e2|Pass de combat
+55938d6744|pass de combat
+7579fe97f2|<p>Pass de combat saison ⟦1⟧ niveau ⟦2⟧ (voie premium) : System Arts, toutes les classes, sans points de compétence.</p>
+692c638019|<p>Pass de combat saison ⟦1⟧ niveau ⟦2⟧ (voie gratuite) : System Arts, toutes les classes, sans points de compétence.</p>
+cc99b50b57|Être membre du staff.
+536900275a|<p>Être membre du staff.</p>
+6692a49e3e|Être parmi les ⟦1⟧e à ⟦2⟧e éveillés du Panthéon de la Nation.
+23fddd7452|<p>Être parmi les ⟦1⟧e à ⟦2⟧e éveillés du Panthéon de la Nation.</p>
+bd2099b8ef|Être officier d’une guilde.
+7ab229c050|<p>Être officier d’une guilde.</p>
+800ea87011|Être officier de la guilde n°⟦1⟧ du classement des guildes.
+e22648709f|<p>Être officier de la guilde n°⟦1⟧ du classement des guildes.</p>
+340619cd70|Être l’un des dix premiers noms du Panthéon de la Nation.
+a88197e851|<p>Être l’un des dix premiers noms du Panthéon de la Nation.</p>
+742b20959a|Être l’un des créateurs du jeu.
+688678c013|<p>Être l’un des créateurs du jeu.</p>
+03a49faad5|Être réévalué éveillé de rang S+. Au-delà de S : une calamité qui a un nom.
+58becaa093|<p>Être réévalué éveillé de rang S+. Au-delà de S : une calamité qui a un nom.</p>
+84eee755c2|Être réévalué éveillé de rang S au Registre. Seuls les plus forts arrivent ici.
+0920e5f1b2|<p>Être réévalué éveillé de rang S au Registre. Seuls les plus forts arrivent ici.</p>
+792a68fe3d|Être le premier éveillé du Panthéon de la Nation.
+48e2dc7a4f|<p>Être le premier éveillé du Panthéon de la Nation.</p>
+f6b92a72f2|Battez le gardien pour fermer le rift et ramasser votre butin.
+62e067f858|Appartenir à une guilde.
+269a926c09|<p>Appartenir à une guilde.</p>
+e2aeaedd05|Appartenir à la guilde n°⟦1⟧ du classement des guildes.
+c11aa8c264|<p>Appartenir à la guilde n°⟦1⟧ du classement des guildes.</p>
+7d812b6c0c|Berserker
+cbf66fabe5|Au-delà du gardien, un autre donjon peut attendre : un rang au-dessus du premier.
+7f0043e684|Binding
+668c2d8735|Blade
+24652e28b9|Blood
+a405d84bcf|<span><span>Rubis de sang (Epic)</span><span>B</span></span>
+f7d60a1722|<strong>BloodSpiral</strong>
+92424c0f14|<span><span>Finition en acier sanglant (Rare)</span><span>C</span></span>
+e879b0be01|Classement
+4d963cfab7|Bonus
+ab786857b0|<span><span>Montant du bonus ⟦1⟧ x ordre de rang de l’objet</span></span>
+ac8131b225|<strong>Points bonus</strong> : les rangs S+ et Nation donnent des points de stats et de compétence en plus.
+5bdbc1b495|Stats bonus (affixes) : de ⟦1⟧ à ⟦2⟧ fois le rang chacune.
+e033dd5517|<p>Les bonus s’ajoutent à vos autres boosts, jamais ne se multiplient : voir ⟦1⟧.</p>
+d68bd10dc9|<p>bonus par rareté : Common ⟦1⟧ Uncommon ⟦2⟧ Rare ⟦3⟧ Epic ⟦4⟧ Legendary ⟦5⟧ Mythic ⟦6⟧ Limited ⟦7⟧ ; les améliorations de forge et les montées de grade n’échouent jamais (aucune part de hasard)</p>
+2da2851fff|Boost
+c8256f7394|<span><span>Boost</span></span>
+57f9d05f25|Durée du boost
+7a5cd90c5f|Durée du boost
+d14d7b6ea8|Les boosts s’additionnent, ils ne se multiplient pas : ⟦1⟧ + la somme de tous vos bonus, jusqu’à ×⟦2⟧.
+9103a8414c|<strong>Boosts</strong> : personnels (⟦1⟧ min ou ⟦2⟧ h), de serveur et globaux (⟦3⟧ min). Ils s’additionnent : voir ⟦4⟧.
+0993d6700b|Boss de rang E · niveau ⟦1⟧ · ⟦2⟧ PV.
+a70c5e87a3|Rang du boss
+b478a59139|<strong>Boss</strong> : combats spéciaux (entraînement, événements).
+21ed6784a2|BossReroll
+8c5e1e2d06|<p>BossReroll</p>
+3c4dc8f399|<p>Les deux existent aussi comme produits Robux dans ⟦1⟧.</p>
+98839a2562|Les deux doivent être au <strong>niveau ⟦1⟧</strong> ou plus. Attendez ⟦2⟧ s entre deux demandes.
+0bdb79c878|<strong>BoulderThrow</strong>
+33a5f0b646|<strong>BrambleCage</strong>
+bba755f808|<span><span>Ruptures (monstres dans le quartier)</span></span>
+30e09c68ef|prépare les ⟦1⟧ potions
+c8ad275695|<strong>Bukchon</strong>
+8d9aa3b347|<strong>Lots</strong> et le pass de combat premium.
+c0fc2a02ad|Des citrouilles enflammées pleuvent devant vous ; chacune éclate là où elle tombe.
+520deb9aa2|Achetez et vendez de l’équipement avec tous les serveurs, en éclats.
+8947bffdbf|Achetez-le ⟦1⟧ bonbons au Candy Bazaar de Grimble (saison ⟦2⟧).
+e6c32f868e|<p>Achetez-le ⟦1⟧ bonbons au Candy Bazaar de Grimble (saison ⟦2⟧).</p>
+a0871e01a9|<p>prix d’achat x⟦1⟧ ; la revente rend ⟦2⟧ %</p>
+b71ea366a6|Prix d’achat immédiat
+b0e3606a17|Par catégorie
+4d30717d94|C (Rare)
+1b408082b8|<strong>Caldera</strong>
+93a3bc4b4b|Annulé
+25a53c9040|Appelle les morts à combattre pour vous.
+c068f7bff1|Salles calmes
+eac8fcbe5e|<p>Peut être amélioré jusqu’à <strong>+⟦1⟧</strong> à la forge (chaque niveau ajoute ⟦2⟧ % aux stats principales). Les améliorations n’échouent jamais.</p>
+2f3585aba2|<p>Peut être amélioré jusqu’à <strong>+⟦1⟧</strong> à la forge (<strong>+⟦2⟧</strong> une fois l’arme de grade S, Mythic) (chaque niveau ajoute ⟦3⟧ % aux stats principales). Les améliorations n’échouent jamais.</p>
+1478a2af1a|<p>Les <strong>bonbons</strong> n’existent que pendant la saison d’Halloween. Ils viennent des clears du Haunted Castle et des bonbons ramassés, et se dépensent au Candy Bazaar de Grimble (coffres, achat direct, le titre Halloween ⟦1⟧).</p>
+65a25ad871|Bonbons : voir ⟦1⟧.
+562ccb400b|<span><span>Edge Candy Corn</span></span>
+6537e6875e|<p>Bonbons ramassés sur les monstres de donjon (⟦1⟧ %) et de tour (⟦2⟧ %)</p>
+1434f36fc5|<p><em>Plafonds :</em> le bonus de santé au-delà de +⟦1⟧ % compte pour ⟦2⟧ % ; la réduction de dégâts est plafonnée à ⟦3⟧ %.</p>
+2967f1c811|<p><em>Lancée par un mannequin d’entraînement du Colisée (sans cible), comme le jeu la dessine.</em></p>
+a3c686e711|Catégorie
+7abdaf24b4|<strong>Cathedral</strong>
+bd1a5c9407|<span><span>Chaudron (x⟦1⟧ les bonbons d’un clear)</span></span>
+9714fe9593|<span><span>Finition céleste (Mythic)</span><span>S</span></span>
+8a6069faa1|<span><span>Atours célestes (Legendary)</span><span>A</span></span>
+8e0cb9e09d|<p>centre = le plus bas du rang de butin du donjon et du rang de l’éveillé (S+ / Nation comptent comme S+) ; sommet = S (S+ quand le donjon ou l’éveillé est S+ ou au-dessus), les rangs au-delà du sommet s’y replient ; les chances au-dessus du centre x ⟦1⟧ par palier de bonus (gardien spécial, au-delà de S) et x la chance (⟦2⟧ au maximum), puis renormalisées</p>
+ce7da0a794|<strong>ChainBolts</strong>
+826b07e8e3|Chance
+ca5b6fa690|<p>chance = ⟦1⟧ + ⟦2⟧ x étage, ⟦3⟧ au maximum</p>
+796a32914a|<p>la chance va de la dernière place du classement au maximum pour la première place (ou ⟦1⟧ % des dégâts) : qté = l’intervalle ; chaque édition du grade déjà possédée : un autre exemplaire d’une édition (une édition spéciale peut être détenue plusieurs fois)</p>
+36fb48cef7|<strong>Butins à chance</strong> : l’objet d’élite (⟦1⟧ %), les objets des coffres, tout butin avec une chance. Chance × multiplicateur, ⟦2⟧ % au maximum.
+903779ed43|<p>Chances de chaque événement : ⟦1⟧. Certains événements ne sont jamais annoncés : ⟦2⟧, ⟦3⟧...</p>
+9bfc76d69b|Changez les touches et les boutons de la manette ; déplacez et redimensionnez les boutons tactiles.
+a4789fb959|<p>Modifiez-les dans <strong>Options &gt; Commandes</strong> (P) : la plupart des actions peuvent prendre une autre touche, et les boutons principaux de la manette peuvent être échangés. Sur écran tactile, les boutons de combat sont à l’écran : leur taille, leur opacité et leur place peuvent aussi y être modifiées.</p>
+045f3fd4f2|<p>Changement de classe : le premier changement d’un profil est gratuit, ensuite il coûte <strong>⟦1⟧ éclats × votre niveau</strong> (au moins ⟦2⟧). Il y a un délai de ⟦3⟧ s entre deux changements, votre niveau est conservé par paliers de ⟦4⟧ (le niveau ⟦5⟧ devient ⟦6⟧), et vos points de stats et vos arbres de compétences vous sont rendus. Voir ⟦7⟧.</p>
+38fec49ad3|<strong>Charge</strong>
+d3bcdd9f82|<strong>Charge <em>(à partir du rang B)</em></strong>
+d685c8aa2e|Charge à travers une ligne d’ennemis et boit leur vie.
+38963966ed|Consultez ⟦1⟧ avant de dépenser des éclats dans des tirages aléatoires.
+a2b3a59adb|Points de contrôle
+45bfc2d680|<span><span>Coffre</span></span>
+23cd7b28bf|Objet de coffre
+1ee0907858|Objet de coffre (⟦1⟧ %)
+305fa525c0|<p>Chances des coffres : ⟦1⟧, ⟦2⟧, ⟦3⟧.</p>
+ffaef75347|Éclats de coffre (avant le palier)
+91a5948ed2|éclats de coffre ⟦1⟧-⟦2⟧
+55c048a7f5|coffres / récompenses
+c4036030c9|Coffres, élites, mimics, mi-boss, éveillés rivaux
+c43a11b0f5|Choisissez votre première classe. ⟦1⟧ classes : laquelle êtes-vous ?
+df675d2886|<p>Choisissez votre première classe. ⟦1⟧ classes : laquelle êtes-vous ?</p>
+ef7a98e309|Récupérez ⟦1⟧ récompenses de connexion quotidiennes. Les rifts connaissent votre visage.
+d6c169d4e6|<p>Récupérez ⟦1⟧ récompenses de connexion quotidiennes. Les rifts connaissent votre visage.</p>
+175af177b8|Récupérez le palier du niveau ⟦1⟧ (récompenses, paliers ; classe cachée uniquement).
+8d76f597d9|<p>Récupérez le palier du niveau ⟦1⟧ (récompenses, paliers ; classe cachée uniquement).</p>
+243990fd9b|Récupérez le ⟦1⟧e jour de la série de connexions (récompenses quotidiennes).
+a328e2db39|<p>Récupérez le ⟦1⟧e jour de la série de connexions (récompenses quotidiennes).</p>
+2e1e4eaf81|Changement de classe
+ff4b6c8e62|Changements de classe après le gratuit (⟦1⟧ x niveau, ⟦2⟧ au moins)
+54ed1dc506|<strong>Arbres de classe</strong> : environ ⟦1⟧ compétences par classe, en ⟦2⟧ paliers (un palier coûte autant de points par niveau que son numéro).
+3ef317932d|arme de classe (grade +⟦1⟧)
+85e2271e51|arme de classe de rang S+ (grade +⟦1⟧)
+ed1846afee|Classes
+f1ef3b345a|Classes à choisir
+9519456a8a|<p>Classes, compétences, objets, monstres, rifts, probabilités, titres, rangs, formules et plus encore ont été reconstruits à partir du jeu lui-même. Une erreur ou un secret ? Modifiez la page.</p>
+60b7883655|Terminez ⟦1⟧ donjons.
+73a23e6d97|<p>Terminez ⟦1⟧ donjons.</p>
+392532a546|Terminez un donjon en groupe de ⟦1⟧ ou plus.
+7537a03595|<p>Terminez un donjon en groupe de ⟦1⟧ ou plus.</p>
+c0cfd94cc2|Terminez un rift d’anomalie rouge.
+1cf39a2366|<p>Terminez un rift d’anomalie rouge.</p>
+43535bd53f|Terminez un rift de rang ????.
+353abcb15b|<p>Terminez un rift de rang ????.</p>
+1dc2a4ff81|Terminez un donjon de rang S.
+da98b2091f|<p>Terminez un donjon de rang S.</p>
+2016c77171|Éclats de clear de ses rifts
+5fee2610da|Terminez le nombre de donjons requis (n’importe quel rift compte, idéalement de votre rang).
+4fd9568530|Terminez votre premier donjon.
+55c514e752|<p>Terminez votre premier donjon.</p>
+0b99f5f763|<p>Fermer le rift rapporte <strong>⟦1⟧ éclats</strong> et l’XP du rang, un prix de ⟦2⟧ par éveillé ayant combattu le gardien, et les coffres : ⟦3⟧.</p>
+5c79227bb8|Cliquez sur un nom dans la liste du serveur (Tab) pour voir la carte de l’éveillé : niveau, rang, classe, titre, guilde, stats, équipement, compétences et records.
+0ab3d0db5b|<span><span>Ascension</span></span>
+58b9cd9a91|<span><span>Clockwork Vault (gardien Grand Mechanist)</span></span>
+d0dacbdb6e|Fermez ⟦1⟧ rifts.
+4415935abd|<p>Fermez ⟦1⟧ rifts.</p>
+adac69379a|Code
+f95b50362c|<nav><ol><li>⟦1⟧</li><li><span>Code</span></li></ol></nav>
+5635003f80|Code HALLOWEEN
+8a50978f40|Code LIKE⟦1⟧
+b08468c70c|Code VISIT⟦1⟧
+199993be9f|Codes
+1f12cf7dd3|codes
+05b98e14ef|codes et cadeaux de l’équipe
+1075080e1a|<div><span>Code</span><span>·</span><time>nov. ⟦1⟧ ⟦2⟧</time><span>·</span><span>Overrank</span></div>
+9cf188d3a6|Réduire
+fa88763d2b|Récupérez la récompense de montée de rang (éclats, boosts, une meilleure arme de classe...).
+def12b0dcf|Récupérez vos ⟦1⟧ et utilisez le ⟦2⟧.
+1f07c8cfca|<strong>Colisée</strong>
+a56c63f051|Colisée
+af169bb89c|Combat
+7de90a6524|Common
+2d9cd0eb8b|<span><span>Common</span></span>
+f9756e5c39|<span><span>Common (⟦1⟧ offres, -⟦2⟧ %)</span></span>
+7e6e5e1574|<span><span>Common (rang E)</span><span>E</span></span>
+b51aa6701b|<span><span>Coffre Common (éclats x⟦1⟧ chance d’objet ⟦2⟧ %)</span></span>
+0502a52aee|Terminez un échange avec un autre éveillé.
+a6490694c7|<p>Terminez un échange avec un autre éveillé.</p>
+90b38903df|<p><strong>Conditions inconnues - découvrez-les et modifiez cette page.</strong></p>
+6949d7d92d|<p><strong>Conditions inconnues - découvrez-les et modifiez cette page.</strong> Certains disent que c’est le Système lui-même qui décide quand cela arrive.</p>
+83750b60cf|<p><strong>Conditions inconnues - découvrez-les et modifiez cette page.</strong> Certains disent qu’un Mage qui répartit bien ses points d’école verra plus que des points d’interrogation.</p>
+c49cc66e87|<strong>Cone</strong>
+850aed4d2e|<strong>Cone <em>(à partir du rang B)</em></strong>
+f5c11a6410|<strong>Cone <em>(à partir du rang C)</em></strong>
+17c9d43cca|<strong>Cone (jusqu’au rang C)</strong>
+f6ac353908|<strong>Cone (jusqu’au rang D)</strong>
+8dec7f27c9|Consommable
+adfd5491ab|Consommable · Réduction de recharge % : ⟦1⟧ · Dure s : ⟦2⟧
+8f252514a8|Consommable · Réduction de recharge % : ⟦1⟧ · Chance critique % : ⟦2⟧
+1b59634f00|Consommable · Chance critique % : ⟦1⟧ · Dure s : ⟦2⟧
+1bcc2e5177|Consommable · Dégâts % : ⟦1⟧ · Dure s : ⟦2⟧
+b4a08544e2|Consommable · Dégâts % : ⟦1⟧ · Vol de vie % : ⟦2⟧
+85c9c35a44|Consommable · Dégâts % : ⟦1⟧ · Réduction de dégâts % : ⟦2⟧
+e74b3c56c2|Consommable · Réduction de dégâts % : ⟦1⟧ · Dure s : ⟦2⟧
+2bb760fcd9|Consommable · Esquive % : ⟦1⟧ · Dure s : ⟦2⟧
+d37b9f1da5|Consommable · Soin % : ⟦1⟧ · Recharge s : ⟦2⟧
+facec75c7b|Consommable · Vol de vie % : ⟦1⟧ · Dure s : ⟦2⟧
+2872e232d4|Consommable · Mana % : ⟦1⟧ · Recharge s : ⟦2⟧
+78c80a1472|Consommable · Vitesse de déplacement : ⟦1⟧ · Esquive % : ⟦2⟧
+764f381b7c|Consommable · Vitesse de déplacement : ⟦1⟧ · Dure s : ⟦2⟧
+6c5c5742bd|Consommable · Multiplicateur : ⟦1⟧ · Minutes : ⟦2⟧
+6dd6d6931e|Consommable · Régén. % PV / s : ⟦1⟧ · Recharge s : ⟦2⟧
+4190d6d0f5|Consommables
+bee75ca77f|Commandes
+d7a2185349|Commandes et carte, groupe, échange, chute au combat, options et carte de profil : les systèmes que tout éveillé utilise.
+98fd67d93f|Recharge
+2725731956|<p>La recharge est la valeur de base ; l’intelligence et les bonus la réduisent (voir ⟦1⟧).</p>
+4a0bb0077e|Réduction de recharge %
+ebeaec2446|Réduction de recharge par l’Intelligence : ⟦1⟧ % au maximum.
+6c5c9ce7ef|Recharge s
+2356194d24|<strong>CoronaBurst</strong>
+182e0f279a|cosmétique Crimson moon aura
+65fdacbe22|<p>cosmétique Crimson moon aura</p>
+a108682d29|<p>Les cosmétiques ont une couleur de rareté et quelques-uns peuvent être échangés.</p>
+c34a1a8dc7|<strong>Cosmétiques, emplacements de sac, emplacements de profil, réinitialisations, vies supplémentaires et gemmes.</strong>
+64ae43e8fe|Coût
+6f9ff26998|<p>Coûts et formules : ⟦1⟧.</p>
+71e9ea22c3|<p>Coûts : ⟦1⟧.</p>
+253728d368|Créez ou rejoignez une guilde de jusqu’à ⟦1⟧ éveillés à partir du rang D : gagnez des points de guilde dans les rifts, améliorez des avantages et achetez des boosts.
+d49520ecdb|<span><span>Crimson Cathedral (gardien Scarlet Archon)</span></span>
+4ff35a086c|Chance critique %
+93a62dbaa0|Chance critique
+2b22c195d2|chance critique
+a35b31a18a|Chance critique : ⟦1⟧ % au maximum.
+ec76c0a584|Chance critique : base × rareté × (⟦1⟧ + ⟦2⟧ × forge).
+c86028d193|Dégâts critiques
+97b079a3ce|dégâts critiques
+7508884a76|Coups critiques
+d4e4653cef|<strong>Cross</strong>
+bcda4f6570|Traversez le champ de bataille en quatre coupes d’ombre. Vous ne pouvez pas être blessé pendant l’animation.
+d7c71a5da4|<span><span>Couronne du Wraith Lich</span></span>
+dd6a02a553|Ctrl
+76b21b497a|<p>Annule la réduction de soins d’une blessure, puis restaure ⟦1⟧ % de PV. Recharge de ⟦2⟧ s, une potion à la fois, ⟦3⟧ portées au maximum.</p>
+0b3d98d5a8|Malédiction
+78420fd4fd|D (Uncommon)
+f48aa67163|Aspect ⟦1⟧D
+0a4c74b78a|Croix directionnelle bas
+32e2beccb6|Croix directionnelle gauche
+6e71db01d4|Croix directionnelle droite
+89c030f373|Croix directionnelle haut
+8e0e5961c9|Dagger
+53f7f2b435|récompenses quotidiennes / de série / de montée de rang
+806dc32774|Ordres quotidiens
+9ea036ce68|Les ordres quotidiens donnent aussi ⟦1⟧ points de stats.
+ba381f7803|Quêtes quotidiennes de pass (⟦1⟧ par jour)
+6040db3552|Série quotidienne, temps de jeu, groupe, paliers et récompenses de montée de rang
+bcb7063c71|<strong>Quotidien</strong> : ordres, tickets de tour gratuits, série de connexions.
+7bf6d1d3a5|Dégâts
+5419830900|dégâts
+69bde5063f|Dégâts %
+5162bc968b|Dégâts +⟦1⟧ %
+4e4205dae9|Dealer de dégâts
+1e294fa339|Réduction de dégâts
+e7e715553d|réduction de dégâts
+1d806bcfcc|Réduction de dégâts %
+192439c434|réduction de dégâts = défense / (défense + ⟦1⟧) (max ⟦2⟧ %)
+32026202f9|Réduction de dégâts : ⟦1⟧ % au maximum (Tank ⟦2⟧ %, Berserker ⟦3⟧ %).
+66f288970c|Réduction de dégâts : base × rareté × (⟦1⟧ + ⟦2⟧ × (rang − ⟦3⟧)) × (⟦4⟧ + ⟦5⟧ × forge).
+de1cd45a73|Zones de danger
+ff313ac9dc|Danger : extrême.
+24c43aa9e3|<p>Danger : extrême. Rangs de rift : C ⟦1⟧ B ⟦2⟧ A ⟦3⟧ S ⟦4⟧ S+ ⟦5⟧ Nation ⟦6⟧ (poids). Quartiers de la nouvelle ville dans cette zone : Gangnam et le fleuve Han.</p>
+1248f048f7|<p>Danger : <strong>extrême</strong>. Poids des rangs de rift : C ⟦1⟧ B ⟦2⟧ A ⟦3⟧ S ⟦4⟧ S+ ⟦5⟧ Nation ⟦6⟧. Voir ⟦7⟧.</p>
+a57eecb56e|Danger : élevé.
+c7051fe1a3|<p>Danger : <strong>élevé</strong>. Poids des rangs de rift : D ⟦1⟧ C ⟦2⟧ B ⟦3⟧ A ⟦4⟧. Voir ⟦5⟧.</p>
+6adb8f512c|<p>Danger : élevé. Rangs de rift : D ⟦1⟧ C ⟦2⟧ B ⟦3⟧ A ⟦4⟧ (poids). Quartiers de la nouvelle ville dans cette zone : Bukchon et Jongno.</p>

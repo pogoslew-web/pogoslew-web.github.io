@@ -1,0 +1,201 @@
+a22f4fcd5c|Tables de probabilités avec chance
+aacdce9c14|<p>Probabilités : ⟦1⟧.</p>
+f1031bf8a6|Des PV max par seconde
+43c94306c1|Offres
+f58330ab22|Officier
+8a79da01ad|Officiers
+847b67976c|En entrant, vous obtenez des <strong>vies supplémentaires</strong>, tirées entre ⟦1⟧ et un maximum qui dépend du rang de la faille (plus dans les bas rangs).
+d464ed7adc|Sur Roblox
+5d6ba943f5|<p><p>une fois qu'un modificateur survient<!-- --> · <!-- -->un résultat par tirage</p></p>
+b291cb7158|<p><p>une fois qu'un événement survient<!-- --> · <!-- -->un résultat par tirage</p></p>
+7913ad18d0|<p>Une fois obtenu, le titre est à vous pour toujours.</p>
+b8ba1db565|<p>Quand il tombe, chaque éveillé du classement des dégâts (tout dégât compte) est récompensé selon sa place : éclats (les éclats de victoire du donjon du rang ×⟦1⟧ plus jusqu'à ×⟦2⟧ de plus selon sa part des dégâts ; places ⟦3⟧ à ⟦4⟧ ×⟦5⟧ ×⟦6⟧ et ×⟦7⟧), un objet du grade du rang (un grade de plus pour la première place), un boost d'XP et d'éclats ×⟦9⟧ de ⟦8⟧ minutes, un jeton d'XP et un jeton d'éclats. Les places ⟦10⟧ à ⟦11⟧ reçoivent aussi une invocation d'anomalie et ⟦12⟧ jetons de chance.</p>
+5e91667671|<p>Une fois faucheur de haut niveau, il est recommandé de mettre assez de points en perception pour garder ⟦1⟧ % de critique et assez en agilité pour garder ⟦2⟧ % d'esquive, puis de mettre le reste des points en force.</p>
+1eb268827b|L'un des ⟦1⟧ kiosques du réseau de transport de la ville : choisissez un arrêt et voyagez-y aussitôt, gratuitement (pas pendant un combat).
+ade11513db|<p>L'un des ⟦1⟧ kiosques du réseau de transport de la ville : choisissez un arrêt et voyagez-y aussitôt, gratuitement (pas pendant un combat).</p>
+615ae1a81e|<p><p>un lot par éveillé ayant combattu le gardien<!-- --> · <!-- -->un résultat par tirage</p></p>
+329211169c|<span><span>Un rang au-dessus</span></span>
+5e30ecb97b|<span><span>Un rang en dessous</span></span>
+cc57c0d366|Seul un éveillé du rang correspondant devrait y survivre.
+9611c1ba8d|<p>Disponible uniquement quand vous jouez en <strong>Humain</strong>.</p>
+e16af55c69|Seuls les éveillés de niveaux de prix régionaux proches peuvent échanger entre eux (l'équipement et les éclats achetés moins cher ailleurs y restent).
+e616be5e0c|<p>seuls les gardiens de donjon lâchent des runes (pas dans une faille PvP) ; raid de guilde x⟦1⟧</p>
+47a4673ef8|<p>seuls les événements autorisés au rang du donjon sont tirés ; au plus un événement majeur</p>
+e8caedf30d|Seuls les malchanceux (ou les chanceux) en croisent un.
+711ace4d8e|Ouvrez des coffres et tuez des monstres <strong>élites</strong> : ils peuvent lâcher de l'équipement.
+65a0487e9f|Ouvrez la fenêtre de groupe avec <strong>L</strong> (manette : Menu &gt; Social). Un groupe accueille jusqu'à <strong>⟦1⟧</strong> éveillés.
+972695957c|<p>Ouvre une faille au point de faille libre le plus proche de la ville (jusqu'à ⟦1⟧ m) : votre rang, parfois un au-dessus ou en dessous. Tout le serveur est prévenu.</p>
+38516174e6|<p>Ouvre une anomalie (une faille rouge ou une faille PvP) au point de faille libre le plus proche de la ville (jusqu'à ⟦1⟧ m). Tout le serveur est prévenu.</p>
+c50c1506bd|<span><span>Armure Operative (Épique)</span><span>B</span></span>
+6bf5da9c08|Options
+81ad71a5ee|<span><span>Oracles</span></span>
+14083b64c9|Autres lieux
+a7cfb2be0a|<p>Autres secrets : voir ⟦1⟧ et ⟦2⟧.</p>
+2865b5c465|Plus de vies : <strong>ÉLIMINÉ</strong>. Vous avez ⟦1⟧ s pour choisir : regarder les chasseurs encore debout, partir, ou <strong>revenir</strong> pour ⟦2⟧ R$ (une fois par donjon). Sans choix : vous partez. Une fois sorti, il n'y a aucun moyen de revenir dans ce même donjon.
+d3f0610632|Résultat
+00c7224e0f|<strong>Overclock</strong>
+b8362772ec|Posséder le pass ⟦1⟧ (tout-en-un).
+5d1c718bbd|<p>Possédez le pass ⟦1⟧ (tout-en-un).</p>
+e3cf167d30|Posséder le pass VIP.
+ad58cb20a0|<p>Possédez le pass VIP.</p>
+df706aa533|Posséder votre tout premier éclat.
+1b6b02e127|<p>Possédez votre tout premier éclat.</p>
+600584c2d5|Pages
+4b67bef676|Grade d'équipement du reroll payant
+8f5dbb69fe|Groupes, failles rouges, Tour infinie, runes et étoiles
+60b18fc8a8|Groupe
+d7cd56f2a2|Pass
+3071ed6504|Réussissez l'épreuve du Système (rang Nation) du premier coup.
+37d924a43a|<p>Réussissez l'épreuve du Système (rang Nation) du premier coup.</p>
+40974147a7|Réussissez l'épreuve du Système du premier coup.
+5e4a1dce73|<p>Réussissez l'épreuve du Système du premier coup.</p>
+365845724a|Réussissez l'épreuve du Système et atteignez le rang Nation.
+a695f6b794|<p>Réussissez l'épreuve du Système et atteignez le rang Nation.</p>
+4894ce8f68|<span><span>Chemin</span></span>
+672c672955|pendentif
+c4a82a95d0|Gemme de pendentif
+4313162084|<strong>Perception</strong>
+c0ffa17bf7|Perception
+bb75f32f0a|Avantage
+b71b7eb0e4|Bonus permanents
+8117e1d18c|Game passes Roblox permanents : XP, éclats, chance, VIP et le pack Monarch.
+458bdcdce7|Boost personnel (boutique)
+bdef828580|Boost de chance personnel (boutique ⟦1⟧ / ⟦2⟧ min, ou boost Tout ⟦3⟧ min)
+1318a15a26|Boost de chance personnel +⟦1⟧
+1299c5da4d|Phases
+0bedac26da|Phoenix Tears, Sage's Elixir
+919b82a0b4|Physique
+98ec577328|Dégâts physiques
+9301cb6607|Choisissez une classe : ⟦1⟧.
+cd0343d91b|Choisissez un arrêt (ou <strong>recherchez</strong> un lieu), puis <strong>VOYAGER</strong> : vous y êtes aussitôt, sans écran de chargement. C'est <strong>gratuit</strong>.
+83fea32ffd|<span><span>Tas (x⟦1⟧ les éclats de victoire du rang)</span></span>
+589972d667|<strong>Pistons</strong>
+fce3b91efa|<p>pitié par éveillé : +⟦1⟧ % par donjon sans événement, garanti après ⟦2⟧ d'affilée (le groupe utilise la pitié la plus élevée)</p>
+4934e569f4|Pitié, modificateurs et comment lire
+0cd3597453|Lieux
+f4b501a0b7|<span><span>Faille simple</span></span>
+79f63b0f09|Jouez ⟦1⟧ heures au total.
+1a64bd4ac6|<p>Jouez ⟦1⟧ heures au total.</p>
+fba5692934|Jouez au moins une fois à chaque classe normale.
+93bcaa934c|<p>Jouez au moins une fois à chaque classe normale.</p>
+c1cf412d14|secondes de jeu
+5ad0c17491|Jouez avec votre propre avatar Roblox.
+03786b10c2|<p>Jouez avec votre propre avatar Roblox au lieu de l'apparence d'éveillé par défaut.</p>
+da2c3a460d|Jouez avec votre propre avatar Roblox au lieu de l'apparence de votre éveillé (avec le game pass ⟦1⟧).
+9c4e92d6ef|A joué à OVERRANK pendant sa bêta. Un vrai pionnier !
+dd34714c39|<p>A joué à OVERRANK pendant sa bêta. Un vrai pionnier !</p>
+b1517bb488|<p>plus une arme chaque jour (grades du butin, chance comptée)</p>
+08a349ff86|<p>plus des éclats ; chance x le multiplicateur de chance (⟦1⟧ % au maximum)</p>
+4b2a6a3149|Points
+a2d91fc0d0|<p>Les points alimentent le classement <strong>⟦1⟧</strong> (et les titres des meilleures guildes).</p>
+08f100badc|Potions
+dab3ecdd36|<p>Potions (par ⟦1⟧), objets spéciaux, passages de liaison de rune, essences pour les étoiles de votre équipement et, à partir d'Épique, un cosmétique (aura Verdant, edge Frost, aura Storm ou aura Shadow). Ses prix sont déjà réduits et chaque offre est limitée par marchand. Les <strong>élixirs</strong> ne sont vendus que par lui, une fois par marchand.</p>
+cf75b50171|potions et équipement de votre rang ; rachète votre butin
+2ee7d56d3c|Potions et objets spéciaux (boosts, invocations)
+ecbaab5c74|Potions et provisions ; vendez votre butin.
+71831a4d8a|Des potions préparées pour chaque chasse.
+53b63b39b9|passe de combat premium
+f9f3aab572|<p>passe de combat premium</p>
+25e06ae605|Passe de combat premium (⟦1⟧)
+efa2a46da7|passe de combat premium + ⟦1⟧ niveaux
+eca7460097|<p>passe de combat premium + ⟦1⟧ niveaux</p>
+e7c8d59c4a|Voie premium
+a49b4b861d|<p>Appuyez sur <strong>Tab</strong> pour voir les éveillés de votre serveur et cliquez sur un nom. La fiche montre le profil qu'il joue actuellement : son <strong>niveau</strong>, son <strong>rang</strong>, sa <strong>classe</strong>, son <strong>titre</strong> et sa <strong>guilde</strong>, ses <strong>stats</strong>, l'<strong>équipement</strong> qu'il porte, les <strong>compétences</strong> de sa barre d'action et ses <strong>records</strong> (monstres tués, donjons terminés, temps de jeu...).</p>
+bb89c240f9|Précédent : ⟦1⟧
+3e8248e32e|Prix
+a4fa71ea99|<p>Les prix sont en Robux (R$). Les tickets de la Tour et les coffres du marchand d'Halloween sont vendus là où ils servent (la tour et le marchand de la saison).</p>
+63bd58b81c|<span><span>Prism</span></span>
+a87bfa4cb3|<span><span>Faille privée</span></span>
+7f34d5126e|ProfileSlot
+84f98dbb05|<p>ProfileSlot</p>
+685e262241|Progression
+0d762f6d27|<strong>Projectile</strong>
+fc6b5b8b80|<strong>Projectile <em>(à partir du rang C)</em></strong>
+61c57736e7|Promouvoir
+21d6e9108a|<strong>Protection</strong> : un éveillé de ⟦1⟧ rangs ou plus en dessous de vous ne peut pas être touché, sauf s'il vous a frappé en premier (⟦2⟧ s), et son kill ne compte dans aucun record.
+d654dba42d|<span><span>Pendentif Pumpkin</span></span>
+9080fd0abd|Remettre l'arme dans le dos au repos.
+1cf1ac5bdc|pv pkills
+4555d33974|pv pwins
+d29d5f0cd2|PvP
+e4e75dcf6d|<strong>Plafonds PvP</strong> : esquive ⟦1⟧ %, réduction des dégâts ⟦2⟧ %, vol de vie ×⟦3⟧, dégâts critiques ×⟦4⟧.
+f4bc8c806d|<strong>PvP</strong> dans ⟦1⟧ et une ⟦2⟧ pour les joueurs solo.
+1395cf643a|<span><span>Faille PvP</span></span>
+8616b68f73|Victoire PvP
+25637aee77|<strong>Quake</strong>
+1defd1949b|Quête
+da8c1a92de|Quitter le jeu fait quitter le groupe immédiatement. Une téléportation (une faille, un voyage) vous y maintient ; un membre introuvable pendant ⟦1⟧ minutes est retiré.
+2ea915f22a|Ressuscite jusqu'à ⟦1⟧ monstres tués dans un rayon de ⟦2⟧ studs (dans un donjon ; chaque niveau +⟦3⟧). Ils disparaissent avec le donjon.
+a16c5bbe4b|Portée
+dd48a11495|Rang
+2c29fa63d2|Bonus de rang : <strong>+⟦1⟧</strong> au rang S+, <strong>+⟦2⟧</strong> au rang Nation.
+bae71ca64a|<strong>Du rang E à S, S+ et Nation</strong> : votre rang mesure votre vraie force (voir ⟦1⟧).
+c9ba49bf84|<p><code>rank</code> est le palier de l'objet (E = ⟦1⟧ D = ⟦2⟧ C = ⟦3⟧ B = ⟦4⟧ A = ⟦5⟧ S = ⟦6⟧ S+ = ⟦7⟧ Nation = ⟦8⟧) et <code>forge</code> son niveau de forge.</p>
+afe3262d06|Rang S+
+b51bec74bd|<span><span>Rang S+</span><span>EX</span></span>
+bc77de863e|Rang affiché
+7c6bf04825|Rang, niveau, santé et dégâts.
+7ac5ab403f|Récompenses de montée de rang (un set de cosmétiques par classe), le passe de combat, le classement de la Tour infinie et les événements.
+69d31b5571|Classés par
+cce370d2f9|Rare
+ef6f0c9c4f|<span><span>Rare</span></span>
+63dbc94305|<span><span>Rare (⟦1⟧ offres, -⟦2⟧ %)</span></span>
+d875c549e6|<span><span>Rare (rang C)</span><span>C</span></span>
+0ebb42fee9|Raretés et liaison
+a3e1e99f26|Rareté
+39f8da3b39|Rareté d'une rune lâchée
+3c10ae14af|Rareté du marchand itinérant
+4d6f1734de|Note (⟦1⟧-⟦2⟧)
+8ee0262440|Atteignez le niveau ⟦1⟧ (n'importe quelle classe).
+b03a3506c0|<p>Atteignez le niveau ⟦1⟧ (n'importe quelle classe).</p>
+464a1161df|Atteignez le niveau ⟦1⟧ en tant que ⟦2⟧.
+1c2f48d96f|<p>Atteignez le niveau ⟦1⟧ en tant que ⟦2⟧.</p>
+ea47eec365|Atteignez le niveau ⟦1⟧ du passe de la saison ⟦2⟧.
+f545f65d22|<p>Atteignez le niveau ⟦1⟧ du passe de la saison ⟦2⟧.</p>
+48977c39c9|Atteignez le niveau ⟦1⟧ sans aucune classe (humain).
+8446a64b32|<p>Atteignez le niveau ⟦1⟧ sans aucune classe (humain).</p>
+dfe87aed99|Atteignez le niveau ⟦1⟧.
+af8c7ab2fb|<p>Atteignez le niveau ⟦1⟧.</p>
+bb8e7aca26|Atteignez le niveau du rang suivant.
+9de5eb3d6c|<p>Atteindre ce rang donne <strong>+⟦1⟧ points de stats</strong> et <strong>+⟦2⟧ points de compétence</strong>.</p>
+b3eefacf6b|<p>Lisez ⟦1⟧ avant de dépenser en boosts.</p>
+02ea3d0efa|Lisez ⟦1⟧.
+b388536cc3|<p>Pour en savoir plus sur les chiffres du PvP, lisez ⟦1⟧.</p>
+dfff84c650|<p>À lire ensuite : ⟦1⟧, ⟦2⟧, ⟦3⟧.</p>
+b8d6e6eaea|Lire une page de compétence
+5a1fbe3623|Fauche tout autour et attire les ennemis.
+d3c5f0173d|Fauche tout autour et vole de la vie.
+708b6df94a|Fauche tout autour dans la lumière ; chaque coup vous soigne un peu.
+0a2d1c323b|<p>Les records alimentent ⟦1⟧ et de nombreux ⟦2⟧.</p>
+2974fa2466|<span><span>Faille rouge (anomalie)</span></span>
+76655ae51c|<p>Les failles rouges multiplient l'XP et les éclats par ⟦1⟧, les failles PvP par ⟦2⟧. Les paliers de coffre multiplient les éclats de coffre de ×⟦3⟧ à ×⟦4⟧ : ⟦5⟧.</p>
+7a1a5613a4|<p>Utilisez un code dans le menu des paramètres du jeu.</p>
+97cd1b3671|<p><p>Utilisez un code dans le menu des paramètres du jeu.</p></p>
+f1feb83e86|Utilisez ⟦1⟧.
+b880fd4bf0|La réduction plafonne à <strong>⟦1⟧ %</strong> (Tank ⟦2⟧ %, Berserker ⟦3⟧ %).
+dbc415ec10|Reforgez des objets ⟦1⟧ fois.
+4212af0510|<p>Reforgez des objets ⟦1⟧ fois.</p>
+3ea68462ef|Reforgez le même objet ⟦1⟧ fois.
+8cf5e8198b|<p>Reforgez le même objet ⟦1⟧ fois.</p>
+aa1fc1a71f|<strong>Reforge</strong> : retire au sort les stats bonus de l'objet (⟦1⟧). C'est la seule partie aléatoire.
+6729a98f06|Régén. % PV / s
+506eb98f49|Régénération
+7163d5aa65|<strong>Registre</strong>
+755c233dbb|<p>Les monstres ordinaires ne donnent que de l'XP. Une <strong>élite</strong> ⟦1⟧ (tirée sur n'importe quel monstre normal : plus grosse, XP ×⟦2⟧) lâche aussi des éclats et un objet à ⟦3⟧ % (boosté par la chance) : ⟦4⟧.</p>
+781967642f|<p>À voir aussi : ⟦1⟧ et ⟦2⟧.</p>
+a75e30c3de|<span><span>Relique</span></span>
+6aa6794f59|Retirez l'étiquette <em>Non découvert</em> une fois la page complète.
+e9c366b4f3|Condition
+021217f8bc|Cosmétiques réservés du programme de créateurs.
+44c57abd88|Réinitialiser
+da1a3c8018|Réinitialisations
+1e9282d62e|Résonance (XP x⟦1⟧)
+52caf398ae|<p>Restaure ⟦1⟧ % de PV sur ⟦2⟧ s. Recharge ⟦3⟧ s, une potion à la fois, ⟦4⟧ portées au maximum. Un élixir : uniquement chez le marchand itinérant, une fois par marchand.</p>
+e9e2ceaf4d|<p>Restaure ⟦1⟧ % de PV sur ⟦2⟧ s. Recharge ⟦3⟧ s, une potion à la fois, ⟦4⟧ portées au maximum.</p>
+1524bec7e3|<p>Restaure ⟦1⟧ % de PV. Recharge ⟦2⟧ s, une potion à la fois, ⟦3⟧ portées au maximum.</p>
+6f7f914702|<p>Restaure ⟦1⟧ % de mana. Recharge ⟦2⟧ s, une potion à la fois, ⟦3⟧ portées au maximum.</p>
+2e08bbd34b|Ressusciter
+387b3b4b03|<p>Ressusciter</p>
+c7d7652ec6|Récompense
+2f4f4b7fbc|Récompenses
+f913bf9f45|Récompenses selon la place au classement des dégâts : éclats, boosts, objets spéciaux et une chance d'obtenir des armes d'édition SP ou EX (⟦1⟧).

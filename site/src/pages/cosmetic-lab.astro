@@ -2,24 +2,25 @@
 import Base from '../layouts/Base.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
 import { entities, asset } from '../lib/db';
-const slotOf = (k: string | undefined) => ({ Armor: 'armor', Weapon: 'weapon', Pendant: 'pendant' } as Record<string, string>)[k ?? ''];
+const slotOf = (k: string | undefined) => ({ Armor: 'armor', Weapon: 'weapon', Edge: 'edge', Pendant: 'pendant', Aura: 'aura' } as Record<string, string>)[k ?? ''];
 const all = entities.filter(e => e.type === 'cosmetics' && !e.is_overview);
 const val = (e: any, k: string) => e.infobox.find((i: any) => i.key === k)?.value;
 const items = all.map(e => {
   const m = e.media.find((x: any) => x.kind === '3d-model');
   const slot = slotOf(val(e, 'Kind'));
-  return { slug: e.slug, title: e.title, slot, rank: val(e, 'Rank / rarity') ?? '', rarity: val(e, 'Rarity') ?? '', img: asset(e.image), glb: m ? asset(m.src) : null };
+  return { slug: e.slug, title: e.title, slot, rank: val(e, 'Rank / rarity') ?? '', rarity: val(e, 'Rarity') ?? '', img: asset(e.image), glb: m ? asset(m.src) : null, rarityNote: undefined };
 });
-const tryable = items.filter(i => i.slot && i.glb);
+const tryable = items.filter(i => i.slot && (i.glb || i.img)).map(({ rarityNote, ...i }) => ({ ...i, mode: i.glb ? 'model' : i.slot === 'aura' ? 'aura' : 'sprite' }));
 const noModel = items.length - tryable.length;
-const counts = { armor: tryable.filter(i => i.slot === 'armor').length, weapon: tryable.filter(i => i.slot === 'weapon').length, pendant: tryable.filter(i => i.slot === 'pendant').length };
+const approx = tryable.filter(i => i.mode !== 'model').length;
+const counts = Object.fromEntries(['armor', 'weapon', 'edge', 'pendant', 'aura'].map(k => [k, tryable.filter(i => i.slot === k).length])) as Record<string, number>;
 ---
 <Base title="Cosmetic test" description="Try Overrank cosmetics on a character you can rotate in 3D: armors, weapons and pendants.">
   <div class="wrap page">
     <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Cosmetic test' }]} />
     <header class="page-head">
       <h1>Cosmetic test <span class="count">{tryable.length} cosmetics to try</span></h1>
-      <p>Pick a cosmetic, then drag the character to turn it around. You can combine one armor, one weapon and one pendant.</p>
+      <p>Pick a cosmetic, then drag the character to turn it around. You can combine an armor, a weapon or edge, a pendant and an aura.</p>
     </header>
 
     <div class="lab" id="lab">
@@ -40,7 +41,9 @@ const counts = { armor: tryable.filter(i => i.slot === 'armor').length, weapon: 
         <div class="lab-tabs" role="tablist" aria-label="Cosmetic type">
           <button class="chip" role="tab" type="button" data-slot="armor" aria-pressed="true">Armor <span class="n">{counts.armor}</span></button>
           <button class="chip" role="tab" type="button" data-slot="weapon" aria-pressed="false">Weapon <span class="n">{counts.weapon}</span></button>
+          <button class="chip" role="tab" type="button" data-slot="edge" aria-pressed="false">Edge <span class="n">{counts.edge}</span></button>
           <button class="chip" role="tab" type="button" data-slot="pendant" aria-pressed="false">Pendant <span class="n">{counts.pendant}</span></button>
+          <button class="chip" role="tab" type="button" data-slot="aura" aria-pressed="false">Aura <span class="n">{counts.aura}</span></button>
         </div>
         <input class="input" id="lab-search" type="search" placeholder="Search a cosmetic…" aria-label="Search a cosmetic" autocomplete="off" />
         <div class="lab-grid" id="lab-grid" role="list"></div>
@@ -49,7 +52,7 @@ const counts = { armor: tryable.filter(i => i.slot === 'armor').length, weapon: 
           <span class="faint">Character color</span>
           <div id="lab-skins" role="radiogroup" aria-label="Character color"></div>
         </div>
-        <p class="faint cc-small">{noModel} other cosmetics (auras, edges and a few items) have no 3D model on the original wiki yet, so they cannot be tried here. <a href="/cosmetics/">Browse all cosmetics</a>. The character is a generic mannequin, not the official Roblox avatar; placement is approximate.</p>
+        <p class="faint cc-small">Cosmetics with an official 3D model (<b>{tryable.length - approx}</b>) are fitted to the character automatically. The other <b>{approx}</b> (edges, auras and a few items) have no 3D model on the original wiki: edges and items are shown as a thick cut-out of their official picture, and auras as a particle effect using the colors of the official picture. These are previews, not exact renders. The character is a generic mannequin, not the official Roblox avatar. <a href="/cosmetics/">Browse all cosmetics</a>.</p>
       </div>
     </div>
     <script type="application/json" id="lab-data" set:html={JSON.stringify(tryable)} />

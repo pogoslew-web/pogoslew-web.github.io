@@ -1,11 +1,1 @@
-{
- "summary": "Huit rangs d’éveillé : E, D, C, B, A, S, S+ et Nation. Mesurés au Registre, jamais perdus.",
- "headings": {
-  "the-eight-ranks": "Les huit rangs"
- },
- "blocks": {
-  "the-eight-ranks": {
-   "1": "<p>Demandez au Registre une <strong>réévaluation</strong> (gratuite, une fois par minute). Toute la route avec des conseils : <a href=\"/en/w/overrank/guides/progression-path\">Parcours de progression</a>.</p>"
-  }
- }
-}
+{"summary": "Huit rangs d’éveillé : E, D, C, B, A, S, S+ et Nation. Mesurés au Registre, jamais perdus.", "headings": {"the-eight-ranks": "Les huit rangs"}, "blocks": {"the-eight-ranks": {"0": "<table><thead><tr><th>Rang</th><th>Niveau</th><th>Donjons</th></tr></thead><tbody><tr><td><a href=\"/en/w/overrank/ranks/e\">Rank E</a></td><td>1</td><td>-</td></tr><tr><td><a href=\"/en/w/overrank/ranks/d\">Rank D</a></td><td>10</td><td>5</td></tr><tr><td><a href=\"/en/w/overrank/ranks/c\">Rank C</a></td><td>20</td><td>7</td></tr><tr><td><a href=\"/en/w/overrank/ranks/b\">Rank B</a></td><td>40</td><td>15</td></tr><tr><td><a href=\"/en/w/overrank/ranks/a\">Rank A</a></td><td>70</td><td>30</td></tr><tr><td><a href=\"/en/w/overrank/ranks/s\">Rank S</a></td><td>100</td><td>50</td></tr><tr><td><a href=\"/en/w/overrank/ranks/s-plus\">Rank S+</a></td><td>175</td><td>100</td></tr><tr><td><a href=\"/en/w/overrank/ranks/nation\">Rank Nation</a></td><td>250</td><td>-</td></tr></tbody></table>", "1": "<p>Demandez au Registre une <strong>réévaluation</strong> (gratuite, une fois par minute). Toute la route avec des conseils : <a href=\"/en/w/overrank/guides/progression-path\">Parcours de progression</a>.</p>"}}}

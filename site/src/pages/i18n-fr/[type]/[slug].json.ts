@@ -11,6 +11,6 @@ const blocksHtml = (blocks: any[], fr: Record<string, string> = {}) => blocks.ma
 export const GET: APIRoute = ({ params }) => {
   const e = byId.get(`${params.type}/${params.slug}`)!; const f = frFile(params.type!, params.slug!)!;
   const sections = e.sections.filter(s => s.blocks.length || s.heading);
-  const out = { summary: f.summary ?? null, sections: sections.map((s, i) => ({ heading: s.heading ? (f.headings?.[s.id ?? ''] ?? null) : null, html: blocksHtml(s.blocks, f.blocks?.[s.id ?? `#${i}`] ?? {}) })) };
+  const out = { summary: f.summary ?? null, sections: sections.map((s, i) => ({ heading: s.heading ? (f.headings?.[s.id ?? `#${i}`] ?? null) : null, html: blocksHtml(s.blocks, f.blocks?.[s.id ?? `#${i}`] ?? {}) })) };
   return new Response(JSON.stringify(out), { headers: { 'Content-Type': 'application/json' } });
 };

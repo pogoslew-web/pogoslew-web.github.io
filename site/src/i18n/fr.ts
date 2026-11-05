@@ -131,7 +131,7 @@ export const exact: Record<string, string> = {
 const MONTHS: Record<string, string> = { Jan: 'janv.', Feb: 'févr.', Mar: 'mars', Apr: 'avr.', May: 'mai', Jun: 'juin', Jul: 'juil.', Aug: 'août', Sep: 'sept.', Oct: 'oct.', Nov: 'nov.', Dec: 'déc.' };
 export const frDate = (s: string) => s.replace(/\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.? (\d{1,2}),? (\d{4})/g, (_, m, d, y) => `${d === '1' ? '1er' : d} ${MONTHS[m]} ${y}`);
 /** Règles à motifs (textes avec chiffres ou noms variables). */
-export const rules: [RegExp, (m: RegExpMatchArray) => string][] = [
+export const rules: [RegExp, (m: RegExpMatchArray) => string | null][] = [
   [/^(\d[\d,]*) of (\d[\d,]*) pages?(?: \((\d+)\))?$/, m => `${m[1]} sur ${m[2]} pages${m[3] ? ` (${m[3]})` : ''}`],
   [/^(\d[\d,]*) pages?$/, m => `${m[1]} page${m[1] === '1' ? '' : 's'}`],
   [/^(\d[\d,]*) pages · (\d+) categories$/, m => `${m[1]} pages · ${m[2]} catégories`],
@@ -218,3 +218,75 @@ rules.unshift(
   [/^(.+?) \((\d+)\)$/, m => (exact[m[1]] ? `${exact[m[1]]} (${m[2]})` : m[1].endsWith(' (weapon)') ? '' : '')],
   [/^(\w+) \(weapon\)(?: \((\d+)\))?$/, m => `${m[1]} (arme)${m[2] ? ` (${m[2]})` : ''}`],
 );
+
+Object.assign(exact, {
+  'This page is incomplete on the original wiki.': "Cette page est incomplète sur le wiki original.",
+  'Unknown information appears as “???” exactly as published. Nothing has been filled in.': "Les informations inconnues apparaissent comme « ??? », exactement comme publiées. Rien n'a été complété.",
+  'Open the badge page on Roblox': 'Ouvrir la page du badge sur Roblox',
+  'Where to find it': 'Où le trouver',
+  'Pick a cosmetic, then drag the character to turn it around. You can combine an armor, a weapon or edge, a pendant and an aura.': "Choisissez un cosmétique, puis faites tourner le personnage en le faisant glisser. Vous pouvez combiner une armure, une arme ou un edge, un pendentif et une aura.",
+  'Special class': 'Classe spéciale', 'Edge': 'Edge', 'Edges': 'Edges', 'Aura': 'Aura', 'Auras': 'Auras', 'Pendant': 'Pendentif', 'Pendants': 'Pendentifs', 'Armor': 'Armure', 'Weapon': 'Arme', 'Weapons': 'Armes',
+  'Nothing equipped yet. Pick a cosmetic below.': 'Rien d’équipé pour l’instant. Choisissez un cosmétique ci-dessous.',
+  'Nothing equipped yet. Pick a cosmetic.': 'Rien d’équipé pour l’instant. Choisissez un cosmétique.',
+});
+Object.assign(exact, {
+  'Cosmetics with an official 3D model (': 'Cosmétiques avec un modèle 3D officiel (',
+  ') are fitted to the character automatically. The other': ") s'ajustent automatiquement au personnage. Les",
+  "(edges, auras and a few items) have no 3D model on the original wiki: edges and items are shown as a thick cut-out of their official picture, and auras as a particle effect using the colors of the official picture. These are previews, not exact renders. The character is a generic mannequin, not the official Roblox avatar.": "autres (edges, auras et quelques objets) n'ont pas de modèle 3D sur le wiki original : les edges et les objets sont affichés comme une découpe épaisse de leur image officielle, les auras comme un effet de particules aux couleurs de l'image officielle. Ce sont des aperçus, pas des rendus exacts. Le personnage est un mannequin générique, pas l'avatar Roblox officiel.",
+  'Browse all cosmetics': 'Parcourir tous les cosmétiques',
+});
+
+// cartes des classes secrètes (infobox)
+const UNLOCK: Record<string, string> = {
+  'SOLO, no-hit, clear multiple dungeons of your same rank or above as a human (2-5)': "EN SOLO, sans prendre un seul coup, terminer plusieurs donjons de votre rang ou supérieur en tant qu'humain (2-5)",
+  'Same as Reaper, just as a support': 'Comme le Reaper, mais en tant que support',
+  '105 points in int as an attacker': "105 points en intelligence en tant qu'attacker",
+  '105 points in int as assassin': "105 points en intelligence en tant qu'assassin",
+  'Level 100 and S rank human': 'Niveau 100 et humain de rang S',
+  'Die 10 times in 10 different dungeons (might have to complete it?)': 'Mourir 10 fois dans 10 donjons différents (faut-il peut-être les terminer ?)',
+  '105+ point all at once into intelligence, and that only as a necromancer': "Mettre 105+ points d'un seul coup en intelligence, et uniquement en tant que nécromancien",
+  'Unlock ultimate skill in fire and ice skill tree': "Débloquer la compétence ultime dans les arbres de compétences feu et glace",
+};
+const BONUS: Record<string, string> = {
+  'damage': 'de dégâts', 'evasion': "d'esquive", 'life steal': 'de vol de vie', 'heals and boosts': 'de soins et de boosts', 'max HP': 'de PV max', 'magic damage': 'de dégâts magiques',
+  'faster cooldowns': 'de recharge plus rapide', 'power of General skills': 'de puissance des compétences générales', 'all stats': 'à toutes les stats', 'experience': "d'expérience",
+  'damage reduction': 'de réduction des dégâts', 'max mana': 'de mana max', 'mana to raise the dead': 'de mana pour relever les morts', 'undead power': 'de puissance des morts-vivants', 'area of effect': "de zone d'effet",
+  'damage as HP runs out': 'de dégâts à mesure que les PV baissent',
+};
+const bonusFr = (s: string): string | null => {
+  const m = s.match(/^(Up to )?([+-]\d+)% (.+)$/); if (!m || !BONUS[m[3]]) return null;
+  return `${m[1] ? "Jusqu'à " : ''}${m[2]} % ${BONUS[m[3]]}`;
+};
+rules.push([/^(.+) \(community-reported\)$/, (m: RegExpMatchArray) => { const u = UNLOCK[m[1]]; return u ? `${u} (signalé par la communauté)` : null; }]);
+rules.push([/^((?:Up to )?[+-]\d+% .+?)( · .+)?$/, (m: RegExpMatchArray) => {
+  const parts = [m[1], ...(m[2] ? m[2].slice(3).split(' · ') : [])]; const out = parts.map(bonusFr); return out.every(x => x) ? out.join(' · ') : null;
+}]);
+
+// valeurs de « infos rapides » (texte rédactionnel de l'infobox)
+Object.assign(exact, {
+  'Rolled when it drops': 'Tiré au drop', '+10 (+25 at grade S)': '+10 (+25 au grade S)',
+  'Nation edition (grade rolled)': 'Édition Nation (grade tiré)', 'S+ edition (grade rolled)': 'Édition S+ (grade tiré)',
+  'While the condition holds': 'Tant que la condition est remplie', '1+ (party up to 4)': "1+ (groupe jusqu'à 4)",
+  '1+ (a party holds up to 4; everyone entering the same rift joins the same dungeon)': "1+ (un groupe compte jusqu'à 4 ; tous ceux qui entrent dans la même faille rejoignent le même donjon)",
+  'rift spots, roaming monsters': 'points de faille, monstres errants', 'everyone in the district': 'tout le monde dans le quartier',
+  'launched by the staff': 'lancé par le staff', 'the claiming guild (and solo awakened)': 'la guilde qui la revendique (et les éveillés solo)',
+  'switched on and off by the staff (one season at a time, kept across restarts)': 'activé et désactivé par le staff (une saison à la fois, conservé après les redémarrages)',
+  'every 30 min (UTC clock, all servers)': 'toutes les 30 min (horloge UTC, tous les serveurs)', 'every day at 00:00 UTC': 'chaque jour à 00:00 UTC',
+  'the Awakened Registry (re-evaluation), the forge, the market, the guild hall, the gemstone stands, the Hall of the Awakened (leaderboards)': 'le Registre des Éveillés (réévaluation), la forge, le marché, le hall de guilde, les étals de gemmes, le Hall des Éveillés (classements)',
+  'the Awakened Registry (re-evaluation), the forge, the market, the guild hall, the gemstone stands, the Auction House': 'le Registre des Éveillés (réévaluation), la forge, le marché, le hall de guilde, les étals de gemmes, l’Hôtel des ventes',
+  'auctions, buy-now prices, a price chart per item, the auctioneer': 'enchères, prix d’achat immédiat, un graphique de prix par objet, le commissaire-priseur',
+  'the tower board, entry tickets, checkpoints': 'le classement de la tour, les tickets d’entrée, les points de contrôle',
+  '12 potions, the alchemist': '12 potions, l’alchimiste', 'the season merchant, a seasonal rift portal': 'le marchand de la saison, un portail de faille saisonnier',
+  'a PvP ring, a guardian test': 'un ring PvP, une épreuve de gardien', 'the free-for-all arena, two duel rings, kill boards': 'l’arène en mêlée générale, deux rings de duel, classements de kills',
+});
+const BONUS2: Record<string, string> = { 'critical chance': 'de chance de critique', 'mana regeneration': 'de régénération de mana' };
+Object.assign(BONUS, BONUS2);
+rules.push([/^((?:Up to )?[+-]\d+% [^,]+)(, (?:Up to )?[+-]\d+% [^,]+)+$/, (m: RegExpMatchArray) => { const out = m[0].split(', ').map(bonusFr); return out.every(x => x) ? out.join(', ') : null; }]);
+rules.push([/^(.+ Chest at \d+(?:\.\d+)?%)(; .+ Chest at \d+(?:\.\d+)?%)*$/, (m: RegExpMatchArray) => m[0].replace(/ at (\d+(?:\.\d+)?)%/g, (_x, n) => ` à ${n.replace('.', ',')} %`)]);
+rules.push([/^staff event, (\d+) min$/, (m: RegExpMatchArray) => `événement du staff, ${m[1]} min`]);
+rules.push([/^\+(\d+) stat, \+(\d+) skill$/, (m: RegExpMatchArray) => `+${m[1]} stats, +${m[2]} compétences`]);
+rules.push([/^(\d{4}-\d\d-\d\d) to (\d{4}-\d\d-\d\d) \(UTC\)$/, (m: RegExpMatchArray) => `${m[1]} au ${m[2]} (UTC)`]);
+rules.push([/^Season (\d+) battle pass, level (\d+) \(premium route\)$/, (m: RegExpMatchArray) => `Passe de combat de la saison ${m[1]}, niveau ${m[2]} (voie premium)`]);
+rules.push([/^Endless Tower: top (\d+) of its board \(kept while in the top (\d+)\)$/, (m: RegExpMatchArray) => `Tour infinie : top ${m[1]} de son classement (conservé tant que vous êtes dans le top ${m[2]})`]);
+rules.push([/^Ranks: from E to Nation$/, () => 'Rangs : de E à Nation']);
+rules.push([/^Places of the city and beyond$/, () => 'Les lieux de la ville et au-delà']);

@@ -1,0 +1,31 @@
+{
+ "summary": "Créez ou rejoignez une guilde de jusqu’à 30 éveillés à partir du rang D : gagnez des points de guilde en rifts, améliorez les avantages et achetez des boosts.",
+ "headings": {
+  "overview": "Présentation",
+  "emblem": "Emblème",
+  "grades": "Grades",
+  "guild-points": "Points de guilde",
+  "perks": "Avantages",
+  "boosts": "Boosts"
+ },
+ "blocks": {
+  "overview": {
+   "0": "<p>Une guilde est une équipe de jusqu’à <strong>30 éveillés</strong> (3 officiers au maximum). Vous pouvez en créer une à partir du <strong>rang D</strong>. Nom : 3 à 20 caractères, tag : 2 à 4. Renommer coûte 10 000 éclats. Le recrutement peut être <strong>Open, Apply, Closed</strong>.</p>"
+  },
+  "emblem": {
+   "0": "<p>Le chef dessine l’emblème de la guilde : <strong>12 formes</strong>, <strong>24 symboles</strong>, 24 couleurs ou n’importe quelle couleur, un motif sur le fond (uni, divisé, rayures, bande, bords, dégradé) dans une seconde couleur, une bordure simple, double ou épaisse, la taille et la rotation du symbole, un halo, et un petit second symbole sur un badge. L’emblème s’affiche dans la fenêtre de guilde, les classements, le navigateur de guildes et les invitations.</p>"
+  },
+  "guild-points": {
+   "0": "<p>Chaque donjon terminé donne des points à votre guilde :</p>",
+   "2": "<ul> <li><strong>Raids de guilde</strong> : les rifts de rang A et S s’ouvrent en raid une fois sur deux ; points ×2, et les éveillés solo peuvent les rejoindre.</li> <li>Les <strong>ruptures de rift</strong> stoppées donnent ×1,5 points.</li> <li><strong>Guilde rivale</strong> : parfois une rivale, Ashen Crown [ASH], vous dispute un rift.</li> </ul>",
+   "3": "<p>Les points alimentent le classement <strong>Guilds</strong> (et les titres des meilleures guildes).</p>"
+  },
+  "perks": {
+   "0": "<p>Dépensez la banque de la guilde pour améliorer les avantages (5 niveaux chacun) : les coûts par niveau sont de 250 000, 750 000, 2 000 000, 6 000 000, 20 000 000 éclats.</p>"
+  },
+  "boosts": {
+   "0": "<p>Un boost de guilde dure 1 heure pour chaque membre.</p>",
+   "2": "<p>Les bonus de chance s’additionnent avec tous les autres : <a href=\"/en/w/overrank/odds/how-luck-works\">Comment fonctionne la chance</a>.</p>"
+  }
+ }
+}

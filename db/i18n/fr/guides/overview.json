@@ -1,12 +1,1 @@
-{
- "summary": "Commencez ici : ce qu’est Overrank, comment débuter, la route vers le rang S et les systèmes expliqués un par un.",
- "headings": {
-  "start-here": "Commencer ici",
-  "systems": "Systèmes"
- },
- "blocks": {
-  "systems": {
-   "1": "<blockquote> <p>Chaque hub du wiki a sa propre page de présentation : cherchez la carte <em>Overview</em> en haut de chaque catégorie.</p> </blockquote>"
-  }
- }
-}
+{"summary": "Commencez ici : ce qu’est Overrank, comment débuter, la route vers le rang S et les systèmes expliqués un par un.", "headings": {"start-here": "Commencer ici", "systems": "Systèmes"}, "blocks": {"start-here": {"0": "<ul> <li><a href=\"/en/w/overrank/guides/what-is-overrank\">Qu'est-ce qu'Overrank ?</a></li> <li><a href=\"/en/w/overrank/guides/getting-started\">Pour bien débuter</a></li> <li><a href=\"/en/w/overrank/guides/progression-path\">Parcours de progression : de E à Nation</a></li> </ul>"}, "systems": {"0": "<ul> <li><a href=\"/en/w/overrank/guides/currencies\">Currencies</a></li> <li><a href=\"/en/w/overrank/guides/stats\">Les 7 stats</a></li> <li><a href=\"/en/w/overrank/guides/forge-and-gear\">Forge, marché et équipement</a></li> <li><a href=\"/en/w/overrank/guides/battle-pass\">Passe de combat</a></li> <li><a href=\"/en/w/overrank/guides/endless-tower\">Endless Tower</a></li> <li><a href=\"/en/w/overrank/guides/guilds\">Guilds</a></li> <li><a href=\"/en/w/overrank/guides/daily-rewards\">Récompenses quotidiennes</a></li> <li><a href=\"/en/w/overrank/guides/codes\">Codes</a></li> </ul>", "1": "<blockquote> <p>Chaque hub du wiki a sa propre page de présentation : cherchez la carte <em>Overview</em> en haut de chaque catégorie.</p> </blockquote>"}}}

@@ -1,0 +1,27 @@
+{
+ "summary": "Sans classe · un peu de tout. Non éveillé. Aucun avantage en compétences, un peu plus de tout le reste : stats, expérience, et tout l’arbre General ouvert.",
+ "headings": {
+  "overview": "Présentation",
+  "playstyle": "Style de jeu",
+  "bonuses": "Bonus",
+  "equipment": "Équipement",
+  "skills": "Compétences",
+  "how-to-unlock": "Comment débloquer"
+ },
+ "blocks": {
+  "overview": {
+   "0": "<p>Non éveillé. Aucun avantage en compétences, un peu plus de tout le reste : stats, expérience, et tout l’arbre General ouvert.</p>",
+   "1": "<p><strong>Pour vous si :</strong> vous voulez tout essayer avant de choisir.</p>"
+  },
+  "equipment": {
+   "0": "<ul> <li><strong>Armes :</strong> toutes</li> <li><strong>Armure :</strong> toutes</li> <li><strong>Stats à privilégier :</strong> All</li> <li><strong>Niveau max :</strong> 100</li> </ul>"
+  },
+  "skills": {
+   "0": "<p>Compétences de l’arbre Human. Dépensez des points de compétence pour les débloquer et les monter de niveau ; chaque niveau après le premier ajoute 15 % de puissance et retire 5 % du temps de recharge.</p>"
+  },
+  "how-to-unlock": {
+   "0": "<p>Tout éveillé commence <strong>Human</strong> : sans classe, un peu de tout. Vous pouvez y revenir à tout moment depuis la fenêtre de classe.</p>",
+   "1": "<p>Changer de classe : le premier changement d’un profil est gratuit, ensuite il coûte <strong>100 éclats × votre niveau</strong> (au moins 1 000). Il y a 60 s d’attente entre deux changements, votre niveau est conservé par paliers de 50 (le niveau 449 devient 400), et vos points de stats et arbres de compétences vous sont rendus. Voir les <a href=\"/en/w/overrank/formulas/economy\">formules d’économie</a>.</p>"
+  }
+ }
+}

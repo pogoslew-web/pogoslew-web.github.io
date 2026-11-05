@@ -1,0 +1,19 @@
+{
+ "summary": "15 classes : l’Humain non éveillé, 6 classes à choisir librement et 8 classes spéciales à mériter.",
+ "headings": {
+  "how-classes-work": "Comment fonctionnent les classes",
+  "picking-your-first-class": "Choisir sa première classe",
+  "roles": "Rôles",
+  "special-classes": "Classes spéciales"
+ },
+ "blocks": {
+  "how-classes-work": {
+   "0": "<p>Votre <strong>classe</strong> détermine vos bonus, vos armes, votre armure, votre arbre de compétences et votre style de jeu. Tout le monde commence <strong>Human</strong> (sans classe). Vous pouvez changer de classe depuis la fenêtre de statut : le premier changement d’un profil est gratuit, les suivants coûtent des éclats.</p>",
+   "1": "<ul> <li>Les <strong>classes normales</strong> se choisissent librement et s’arrêtent au niveau 100.</li> <li>Les <strong>classes spéciales</strong> sont cachées : leur condition de déblocage est un exploit secret, et elles montent jusqu’au niveau 999.</li> <li>Chaque classe a un <strong>rôle</strong> (dégâts, tank, soutien ou hybride) et une <strong>difficulté</strong> (facile, normale, difficile).</li> </ul>"
+  },
+  "special-classes": {
+   "0": "<p>Certaines classes spéciales sont <strong>non découvertes</strong> : leurs pages sont floutées et demandent votre aide. Si vous en trouvez une, complétez la page et retirez l’étiquette <em>Non découverte</em>.</p>",
+   "1": "<p>Le jeu donne un indice pour chacune dans la fenêtre de classe. Les joueurs trouvent les vraies conditions et les écrivent ici.</p>"
+  }
+ }
+}

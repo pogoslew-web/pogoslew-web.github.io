@@ -80,3 +80,11 @@ export interface ClassCard { name?: string; desc: string; stats: string[]; on: s
 export const classCards: Record<string, ClassCard> = rd(path.join(DB, 'overlays/class_cards.json')).classes;
 export const classCardsMeta: any = rd(path.join(DB, 'overlays/class_cards.json'));
 export const gearSuggestions: any = rd(path.join(DB, 'suggestions.json'));
+
+// fiches de classe : les lignes « ??? » du wiki d'origine sont complétées avec la carte en jeu ; ce qui reste inconnu est retiré
+for (const e of entities) {
+  const c = e.type === 'classes' ? classCards[e.slug] : undefined; if (!c) continue;
+  const fill: Record<string, string> = { 'Weapons': c.weapons.join(', '), 'Armor': c.armor.join(', '), 'Focus stats': c.stats.join(', '), 'Bonuses': c.on.join(' · '), 'Unlock': c.unlock + ' (community-reported)' };
+  e.infobox = e.infobox.map((i: any) => ((i.value === '???' || i.value === 'Unknown') && fill[i.key] ? { ...i, value: fill[i.key] } : i)).filter((i: any) => i.value !== '???' && i.value !== 'Unknown' && i.value !== '');
+  if (!e.infobox.some((i: any) => i.key === 'Class type')) e.infobox.unshift({ key: 'Class type', value: 'Special class', html: '<dd>Special class</dd>' });
+}

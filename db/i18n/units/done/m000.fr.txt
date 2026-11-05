@@ -1,0 +1,18 @@
+e6bbb5942c|<p>Un ticket payant coûte ⟦1⟧ éclats, où ⟦2⟧ est l'étage du point de contrôle d'où vous partez (⟦3⟧ ⟦4⟧ ⟦5⟧...) : ⟦6⟧ éclats dès l'étage ⟦7⟧ ⟦8⟧ dès l'étage ⟦9⟧ ⟦10⟧ dès l'étage ⟦11⟧ ⟦12⟧ dès l'étage ⟦13⟧. Vous recevez ⟦14⟧ ticket gratuit par jour (jour UTC).</p>
+5e9ac0ba7c|<p>À l'étage ⟦1⟧ (par rapport à un monstre de rang E) :</p>
+86422ad2dd|<p>Chance = ⟦1⟧. Un coup critique inflige <strong>×⟦2⟧</strong> dégâts (plus les bonus de dégâts critiques).</p>
+e584a122c5|<p>Réduction du temps de recharge : ⟦1⟧.</p>
+a11149965b|<p>Chaque entrée demande un ticket. Vous recevez <strong>⟦1⟧ ticket gratuit par jour</strong> (jour UTC) ; d'autres peuvent être achetés avec des éclats (le prix augmente avec votre point de contrôle : voir ⟦2⟧). Les tickets peuvent aussi être achetés avec des Robux : palier ⟦3⟧ (dès le point de contrôle ⟦4⟧) ⟦5⟧ R⟦6⟧, palier ⟦7⟧ (dès le point de contrôle ⟦8⟧) ⟦9⟧ R⟦10⟧.</p>
+5460cd4479|Chance d'élite : ⟦1⟧.
+f236cdcabe|Esquive = ⟦1⟧ + bonus, <strong>⟦2⟧ %</strong> au maximum (Survivor ⟦3⟧ %).
+d84ad4b8b3|<p>Pour un niveau ⟦1⟧ jusqu'à ⟦2⟧, l'XP nécessaire pour atteindre le niveau suivant est :</p>
+bd15a2d859|<strong>Montée de grade</strong> (nécessite +⟦1⟧) : ⟦2⟧ éclats ; le niveau de forge revient à +⟦3⟧.
+a15a6c9b9b|Monstres par vague : ⟦1⟧.
+95ea4d0a9d|<p>En promotion : **⟦1⟧ R⟦2⟧.</p>
+2d8fc949f3|<strong>Reforge</strong> : ⟦1⟧ éclats. Probabilités des nouveaux bonus : ⟦2⟧.
+dceae98450|Éclats d'un étage : ⟦1⟧, ×⟦2⟧ sur un étage de boss.
+dabf6c8713|<p>Les premiers niveaux sont donc rapides et la courbe devient plus raide jusqu'au niveau ⟦1⟧, puis suit ⟦2⟧. Les classes spéciales peuvent dépasser le niveau ⟦3⟧ : chaque niveau au-delà de ⟦4⟧ multiplie le besoin par ⟦5⟧, à partir du niveau ⟦6⟧ par ⟦7⟧, à partir du niveau ⟦8⟧ par ⟦9⟧ et à partir du niveau ⟦10⟧ par ⟦11⟧.</p>
+2efb9c0550|<p>Le prix d'achat d'un objet est ⟦1⟧. Vous le revendez à <strong>⟦2⟧ %</strong> du prix payé (ou de la valeur avec laquelle il est tombé), plus ⟦3⟧ % des éclats investis à la forge.</p>
+0e757961ed|<p>Le premier changement d'un profil est gratuit. Ensuite : ⟦1⟧ éclats, avec ⟦2⟧ s entre deux changements. Votre niveau est conservé par paliers de ⟦3⟧ (⟦4⟧ → ⟦5⟧ ; sous ⟦6⟧ : ⟦7⟧ ; sous ⟦8⟧ : ⟦9⟧), ou vous pouvez tout réinitialiser. Les points de stats et les arbres de compétences sont restitués.</p>
+2d84b90041|<p>Le temps entre deux attaques est de ⟦1⟧ secondes multiplié par l'intervalle propre au style.</p>
+c732c06741|<p>Passer au niveau ⟦1⟧ coûte :</p>
