@@ -75,3 +75,8 @@ export const FACETS: Record<string, string[]> = {
   titles: ['Category', 'Rank / rarity', 'Kept'], 'weapon-arts': ['Element', 'Class'],
   passes: [], places: [], events: [], guides: [], systems: [], formulas: [], glossary: [], odds: [],
 };
+
+export interface ClassCard { name?: string; desc: string; stats: string[]; on: string[]; weapons: string[]; armor: string[]; trees: string[]; rule: string; unlock: string; unlock_status: string }
+export const classCards: Record<string, ClassCard> = rd(path.join(DB, 'overlays/class_cards.json')).classes;
+export const classCardsMeta: any = rd(path.join(DB, 'overlays/class_cards.json'));
+export const gearSuggestions: any = rd(path.join(DB, 'suggestions.json'));

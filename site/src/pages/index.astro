@@ -18,6 +18,7 @@ const quick = [
   { icon: 'guides', title: 'Guides', text: cat('guides').description, href: '/guides/' },
   { icon: 'ranks', title: 'Ranks', text: cat('ranks').description, href: '/ranks/' },
   { icon: 'codes', title: 'Codes', text: 'Active and past redeem codes with their rewards.', href: '/codes/' },
+  { icon: 'cosmetics', title: 'Cosmetic test', text: 'Try armors, weapons and pendants on a 3D character you can rotate.', href: '/cosmetic-lab/' },
   { icon: 'database', title: 'Database', text: `All ${categories.length} categories, from badges to weapon arts.`, href: '/database/' },
 ];
 const start = home.start_here.map((s: any) => ({ ...s, href: mapHref(s.href).href, img: asset(s.image) }));

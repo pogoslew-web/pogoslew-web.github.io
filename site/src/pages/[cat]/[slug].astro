@@ -2,7 +2,10 @@
 import Base from '../../layouts/Base.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import Icon from '../../components/Icon.astro';
-import { entities, byId, catLabel, catById, asset, entityHref, FACETS } from '../../lib/db';
+import { entities, byId, catLabel, catById, asset, entityHref, FACETS, classCards, gearSuggestions } from '../../lib/db';
+import ClassCard from '../../components/ClassCard.astro';
+import GearSuggestions from '../../components/GearSuggestions.astro';
+import { frFile } from '../../lib/fr';
 import { renderHtml } from '../../lib/links';
 import { tierClass } from '../../lib/tier';
 
@@ -30,6 +33,10 @@ const backlinks = e.linked_from.map(i => byId.get(i)!).filter(x => x && !['news'
 const facts = e.infobox.filter(i => i.value !== '');
 const desc = (e.summary || e.sections.flatMap(s => s.blocks).find(b => b.type === 'p')?.text || `${e.title} — ${catLabel(e.type)} in Overrank.`).slice(0, 180);
 const label = catLabel(e.type);
+const hasFr = !!frFile(e.type, e.slug);
+const card = e.type === 'classes' ? classCards[e.slug] : undefined;
+const gear = e.type === 'classes' && !e.is_overview ? gearSuggestions.classes[e.slug] : undefined;
+const gearData = gear ? { ...gear, __method: gearSuggestions.method } : undefined;
 const crumbs = [{ label: 'Home', href: '/' }, { label, href: `/${e.type}/` }, ...(e.is_overview ? [] : []), { label: e.title }];
 ---
 <Base title={`${e.title} · ${label}`} description={desc} image={img} type="article">
@@ -53,7 +60,8 @@ const crumbs = [{ label: 'Home', href: '/' }, { label, href: `/${e.type}/` }, ..
       </div>
     </header>
 
-    {e.incomplete_at_source && <div class="notice warn"><b>This page is incomplete on the original wiki.</b> Unknown information appears as “???” exactly as published. Nothing has been filled in.</div>}
+    {e.incomplete_at_source && !card && <div class="notice warn"><b>This page is incomplete on the original wiki.</b> Unknown information appears as “???” exactly as published. Nothing has been filled in.</div>}
+    {e.incomplete_at_source && card && <div class="notice warn"><b>The original wiki page is incomplete.</b> Its text below is unchanged (unknown values appear as “???”). The class card comes from in-game screenshots provided by the site owner.</div>}
 
     <div class="detail">
       <aside class="toc" aria-label="On this page">
@@ -67,7 +75,7 @@ const crumbs = [{ label: 'Home', href: '/' }, { label, href: `/${e.type}/` }, ..
         </div>
       </aside>
 
-      <article>
+      <article data-fr={hasFr ? `/i18n-fr/${e.type}/${e.slug}.json` : undefined}>
         {facts.length > 0 && (
           <div id="facts-inline">
             <div class="facts-inline">
@@ -83,14 +91,16 @@ const crumbs = [{ label: 'Home', href: '/' }, { label, href: `/${e.type}/` }, ..
           </div>
         )}
         {toc.length > 2 && <nav class="toc-chips" aria-label="Jump to section">{toc.map(s => <a class="chip" href={`#${s.id}`}>{s.heading}</a>)}</nav>}
+        {card && <ClassCard card={card} title={e.title} />}
+        {gearData && <GearSuggestions data={gearData} classTitle={e.title} />}
         <div class="sections">
           {sections.map((s, i) => (
             s.heading ? (
-              <details class="acc" id={s.id ?? undefined} open data-sec>
+              <details class="acc" id={s.id ?? undefined} open data-sec data-i={i}>
                 <summary>{s.heading}</summary>
                 <div class="acc-body prose" set:html={blocksHtml(s.blocks)} />
               </details>
-            ) : <div class="prose" set:html={blocksHtml(s.blocks)} />
+            ) : <div class="prose" data-i={i} set:html={blocksHtml(s.blocks)} />
           ))}
         </div>
       </article>
@@ -131,24 +141,7 @@ const crumbs = [{ label: 'Home', href: '/' }, { label, href: `/${e.type}/` }, ..
       </aside>
     </div>
   </div>
-  {modelUrl && <script>import '@google/model-viewer';</script>}
-  <script>
-    const secs = [...document.querySelectorAll<HTMLDetailsElement>('details[data-sec]')];
-    // mobile : seules les deux premières sections restent ouvertes ; tout reste accessible
-    if (matchMedia('(max-width: 719px)').matches && secs.length > 3) secs.slice(2).forEach(s => (s.open = false));
-    const openHash = () => { const id = decodeURIComponent(location.hash.slice(1)); if (!id) return; const t = document.getElementById(id); const d = t?.closest('details[data-sec]') as HTMLDetailsElement | null; if (d) { d.open = true; t!.scrollIntoView(); } };
-    addEventListener('hashchange', openHash); openHash();
-    document.getElementById('expand-all')?.addEventListener('click', () => secs.forEach(s => (s.open = true)));
-    document.getElementById('collapse-all')?.addEventListener('click', () => secs.forEach(s => (s.open = false)));
-    document.querySelectorAll<HTMLAnchorElement>('.toc-chips a, .toc a').forEach(a => a.addEventListener('click', () => { const t = document.getElementById(a.hash.slice(1)) as HTMLDetailsElement | null; if (t && 'open' in t) t.open = true; }));
-    // surlignage du sommaire
-    const links = [...document.querySelectorAll<HTMLAnchorElement>('.toc a')];
-    if ('IntersectionObserver' in window && links.length) {
-      const io = new IntersectionObserver(es => { es.forEach(en => { if (en.isIntersecting) links.forEach(l => l.setAttribute('aria-current', String(l.hash === '#' + en.target.id))); }); }, { rootMargin: '-20% 0px -70% 0px' });
-      secs.forEach(s => io.observe(s));
-    }
-    document.getElementById('copy-link')?.addEventListener('click', async ev => { const b = ev.currentTarget as HTMLButtonElement; try { await navigator.clipboard.writeText(location.href.split('#')[0]); b.textContent = 'Link copied'; setTimeout(() => (b.textContent = 'Copy link'), 1600); } catch { b.textContent = 'Copy failed'; } });
-  </script>
+  <script>import '../../scripts/detail';</script>
   <style>
     @media (min-width: 1080px) { #facts-inline { display: none !important; } }
     .more-facts { margin: -8px 0 20px; } .more-facts summary { list-style: none; cursor: pointer; display: inline-flex; }

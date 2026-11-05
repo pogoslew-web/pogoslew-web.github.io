@@ -1,0 +1,58 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import { entities, asset } from '../lib/db';
+const slotOf = (k: string | undefined) => ({ Armor: 'armor', Weapon: 'weapon', Pendant: 'pendant' } as Record<string, string>)[k ?? ''];
+const all = entities.filter(e => e.type === 'cosmetics' && !e.is_overview);
+const val = (e: any, k: string) => e.infobox.find((i: any) => i.key === k)?.value;
+const items = all.map(e => {
+  const m = e.media.find((x: any) => x.kind === '3d-model');
+  const slot = slotOf(val(e, 'Kind'));
+  return { slug: e.slug, title: e.title, slot, rank: val(e, 'Rank / rarity') ?? '', rarity: val(e, 'Rarity') ?? '', img: asset(e.image), glb: m ? asset(m.src) : null };
+});
+const tryable = items.filter(i => i.slot && i.glb);
+const noModel = items.length - tryable.length;
+const counts = { armor: tryable.filter(i => i.slot === 'armor').length, weapon: tryable.filter(i => i.slot === 'weapon').length, pendant: tryable.filter(i => i.slot === 'pendant').length };
+---
+<Base title="Cosmetic test" description="Try Overrank cosmetics on a character you can rotate in 3D: armors, weapons and pendants.">
+  <div class="wrap page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Cosmetic test' }]} />
+    <header class="page-head">
+      <h1>Cosmetic test <span class="count">{tryable.length} cosmetics to try</span></h1>
+      <p>Pick a cosmetic, then drag the character to turn it around. You can combine one armor, one weapon and one pendant.</p>
+    </header>
+
+    <div class="lab" id="lab">
+      <div class="lab-stage card">
+        <canvas id="lab-canvas" aria-label="3D character. Drag to rotate, scroll or pinch to zoom." tabindex="0"></canvas>
+        <div class="lab-loading" id="lab-loading">Loading 3D…</div>
+        <div class="lab-tools">
+          <button class="btn btn-sm" type="button" id="lab-spin" aria-pressed="true">Auto-rotate</button>
+          <button class="btn btn-sm" type="button" id="lab-view-front">Front</button>
+          <button class="btn btn-sm" type="button" id="lab-view-back">Back</button>
+          <button class="btn btn-sm" type="button" id="lab-reset">Reset view</button>
+        </div>
+        <p class="lab-hint faint">Drag to rotate · scroll or pinch to zoom</p>
+      </div>
+
+      <div class="lab-panel card">
+        <div class="lab-equipped" id="lab-equipped" aria-live="polite"></div>
+        <div class="lab-tabs" role="tablist" aria-label="Cosmetic type">
+          <button class="chip" role="tab" type="button" data-slot="armor" aria-pressed="true">Armor <span class="n">{counts.armor}</span></button>
+          <button class="chip" role="tab" type="button" data-slot="weapon" aria-pressed="false">Weapon <span class="n">{counts.weapon}</span></button>
+          <button class="chip" role="tab" type="button" data-slot="pendant" aria-pressed="false">Pendant <span class="n">{counts.pendant}</span></button>
+        </div>
+        <input class="input" id="lab-search" type="search" placeholder="Search a cosmetic…" aria-label="Search a cosmetic" autocomplete="off" />
+        <div class="lab-grid" id="lab-grid" role="list"></div>
+        <p class="lab-empty faint" id="lab-empty" hidden>No cosmetic matches your search.</p>
+        <div class="lab-skin">
+          <span class="faint">Character color</span>
+          <div id="lab-skins" role="radiogroup" aria-label="Character color"></div>
+        </div>
+        <p class="faint cc-small">{noModel} other cosmetics (auras, edges and a few items) have no 3D model on the original wiki yet, so they cannot be tried here. <a href="/cosmetics/">Browse all cosmetics</a>. The character is a generic mannequin, not the official Roblox avatar; placement is approximate.</p>
+      </div>
+    </div>
+    <script type="application/json" id="lab-data" set:html={JSON.stringify(tryable)} />
+  </div>
+  <script>import '../scripts/lab';</script>
+</Base>

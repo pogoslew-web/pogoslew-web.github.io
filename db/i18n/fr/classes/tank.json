@@ -1,0 +1,34 @@
+{
+ "summary": "Défense · protège le groupe. Attire les monstres vers lui et tient la ligne : provocations, murs et peau épaisse.",
+ "headings": {
+  "overview": "Présentation",
+  "playstyle": "Style de jeu",
+  "bonuses": "Bonus",
+  "equipment": "Équipement",
+  "skills": "Compétences",
+  "passives": "Passifs",
+  "how-to-unlock": "Comment débloquer"
+ },
+ "blocks": {
+  "overview": {
+   "0": "<p>Attire les monstres vers lui et tient la ligne : provocations, murs et peau épaisse.</p>",
+   "1": "<p><strong>Pour vous si :</strong> vous voulez encaisser les coups pour les autres.</p>"
+  },
+  "bonuses": {
+   "1": "<p><em>Plafonds :</em> le bonus de santé au-delà de +60 % ne compte que pour 50 % ; la réduction de dégâts est plafonnée à 65 %.</p>"
+  },
+  "equipment": {
+   "0": "<ul> <li><strong>Armes :</strong> Hammer, Spear</li> <li><strong>Armure :</strong> Heavy</li> <li><strong>Stats à privilégier :</strong> Vitality, Defense, Spirit</li> <li><strong>Niveau max :</strong> 100</li> </ul>"
+  },
+  "skills": {
+   "0": "<p>Compétences de l’arbre Tank. Dépensez des points de compétence pour les débloquer et les monter de niveau ; chaque niveau après le premier ajoute 15 % de puissance et retire 5 % du temps de recharge.</p>"
+  },
+  "passives": {
+   "0": "<ul> <li><a href=\"/en/w/overrank/passives/thick-hide\">Thick Hide</a>: +4 % PV max par niveau (jusqu’à +20 % PV max)</li> <li><a href=\"/en/w/overrank/passives/bulwark\">Bulwark</a>: +2 % réduction de dégâts, +6 % mana max, +4 % régénération de mana par niveau (jusqu’à +10 % réduction de dégâts, +30 % mana max, +20 % régénération de mana)</li> <li><a href=\"/en/w/overrank/passives/regeneration\">Regeneration</a>: +0.2 % des PV max par seconde par niveau (jusqu’à +0.6 % des PV max par seconde)</li> <li><a href=\"/en/w/overrank/passives/unbreakable\">Unbreakable</a>: +6 % PV max, +2 % réduction de dégâts par niveau (jusqu’à +12 % PV max, +4 % réduction de dégâts)</li> </ul>"
+  },
+  "how-to-unlock": {
+   "0": "<p>Choisissez-la librement dans la fenêtre de classe (fenêtre de statut, puis <strong>Change class</strong>).</p>",
+   "1": "<p>Changer de classe : le premier changement d’un profil est gratuit, ensuite il coûte <strong>100 éclats × votre niveau</strong> (au moins 1 000). Il y a 60 s d’attente entre deux changements, votre niveau est conservé par paliers de 50 (le niveau 449 devient 400), et vos points de stats et arbres de compétences vous sont rendus. Voir les <a href=\"/en/w/overrank/formulas/economy\">formules d’économie</a>.</p>"
+  }
+ }
+}

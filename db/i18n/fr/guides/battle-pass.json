@@ -1,0 +1,25 @@
+{
+ "summary": "30 niveaux de 1 000 XP, une voie gratuite et une voie premium, des System Arts et la Monarch's Edge (EX) à la fin. La saison 1 dure du 1er septembre 2026 au 1er décembre 2026.",
+ "headings": {
+  "overview": "Présentation",
+  "premium-pass": "Pass premium",
+  "how-to-earn-pass-xp": "Gagner de l’XP de pass",
+  "daily-pass-quests-3-a-day": "Quêtes de pass quotidiennes (3 par jour)",
+  "rewards-per-level": "Récompenses par niveau",
+  "highlights": "Points forts"
+ },
+ "blocks": {
+  "overview": {
+   "0": "<p>Le <strong>Awakened's pass</strong> est le pass de combat saisonnier. La saison 1 dure du <strong>1er septembre 2026 au 1er décembre 2026</strong> (UTC) et compte <strong>30 niveaux</strong> de 1 000 XP chacun. Tout le monde suit la <strong>voie gratuite</strong> ; les détenteurs du pass premium débloquent aussi la <strong>voie premium</strong>.</p>"
+  },
+  "premium-pass": {
+   "0": "<ul> <li><a href=\"/en/w/overrank/products/pass-premium\">Premium Pass (Season 1)</a> : 499 R$, ou 150 000 éclats en jeu.</li> <li><a href=\"/en/w/overrank/products/pass-premium-plus\">Premium Pass + 10 levels</a> : 749 R$.</li> <li><a href=\"/en/w/overrank/products/pass-level1\">+1 level</a> et <a href=\"/en/w/overrank/products/pass-level10\">+10 levels</a> peuvent être achetés si vous êtes en retard.</li> </ul>"
+  },
+  "daily-pass-quests-3-a-day": {
+   "0": "<p>Trois quêtes aléatoires par jour donnent chacune 300 à 500 XP :</p>"
+  },
+  "highlights": {
+   "0": "<ul> <li>Niveau 30, premium : l’arme <a href=\"/en/w/overrank/items/monarchs-edge\">Monarch's Edge</a> (Limited, EX), le titre <a href=\"/en/w/overrank/titles/season-monarch1\">Rift Monarch</a> et 15 000 éclats.</li> <li>Niveau 25, premium : le cosmétique <a href=\"/en/w/overrank/cosmetics/edge-monarch\">Monarch's edge</a>.</li> <li>Niveau 20, premium : le cosmétique <a href=\"/en/w/overrank/cosmetics/aura-celestial\">Celestial halo</a>.</li> <li>System Arts (compétences pour toutes les classes, sans point de compétence) : <a href=\"/en/w/overrank/skills/system-blade\">System Blade</a>, <a href=\"/en/w/overrank/skills/sovereigns-ward\">Sovereign's Ward</a>, <a href=\"/en/w/overrank/skills/system-judgment\">System Judgment</a>, <a href=\"/en/w/overrank/skills/system-override\">System Override</a>.</li> </ul>"
+  }
+ }
+}

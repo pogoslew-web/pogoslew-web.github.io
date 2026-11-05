@@ -1,0 +1,19 @@
+{
+ "summary": "Tout le monde commence ici.",
+ "headings": {
+  "overview": "Présentation",
+  "requirements": "Conditions",
+  "related": "Pages liées"
+ },
+ "blocks": {
+  "overview": {
+   "0": "<p>Tout le monde commence ici. Les rifts de rang E sont petits (2 salles de combat) et indulgents : apprenez à esquiver, choisissez une classe et terminez votre premier rift.</p>"
+  },
+  "requirements": {
+   "1": "<p>Allez voir le <strong>Awakened Registry</strong> sur l’Awakened Plaza et demandez une réévaluation : c’est gratuit, possible une fois par minute, et vous donne le rang le plus élevé dont vous remplissez les conditions. Un rang n’est jamais perdu.</p>"
+  },
+  "related": {
+   "0": "<ul> <li>Titre : <a href=\"/en/w/overrank/titles/newly-awakened\">Newly Awakened</a></li> <li>Rifts de ce rang : <a href=\"/en/w/overrank/rifts/rift-e\">Rank E rift</a></li> <li>Suivant : <a href=\"/en/w/overrank/ranks/d\">Rank D</a></li> </ul>"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "summary": "Un rang dangereux : les gardiens de rift ont plusieurs phases et la Vieille Ville et la Zone industrielle ouvrent leurs meilleurs rifts.",
+ "headings": {
+  "overview": "Présentation",
+  "requirements": "Conditions",
+  "rank-up-reward": "Récompense de passage de rang",
+  "related": "Pages liées"
+ },
+ "blocks": {
+  "overview": {
+   "0": "<p>Un rang dangereux : les gardiens de rift ont plusieurs phases et la Vieille Ville et la Zone industrielle ouvrent leurs meilleurs rifts.</p>"
+  },
+  "requirements": {
+   "1": "<p>Allez voir le <strong>Awakened Registry</strong> sur l’Awakened Plaza et demandez une réévaluation : c’est gratuit, possible une fois par minute, et vous donne le rang le plus élevé dont vous remplissez les conditions. Un rang n’est jamais perdu.</p>"
+  },
+  "rank-up-reward": {
+   "0": "<ul> <li>6,000 éclats</li> <li>1 x Anomaly summon</li> <li>1 x Rift summon</li> <li>2 x Shard boost</li> <li>XP x2 45 min</li> <li>arme de classe (grade +1)</li> </ul>"
+  },
+  "related": {
+   "0": "<ul> <li>Titre : <a href=\"/en/w/overrank/titles/elite-hunter\">Elite Awakened</a></li> <li>Badge : <a href=\"/en/w/overrank/badges/rank-b\">Rank B Awakened</a></li> <li>Rifts de ce rang : <a href=\"/en/w/overrank/rifts/rift-b\">Rank B rift</a></li> <li>Précédent : <a href=\"/en/w/overrank/ranks/c\">Rank C</a></li> <li>Suivant : <a href=\"/en/w/overrank/ranks/a\">Rank A</a></li> </ul>"
+  }
+ }
+}

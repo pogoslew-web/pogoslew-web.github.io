@@ -1,0 +1,11 @@
+{
+ "summary": "Huit rangs d’éveillé : E, D, C, B, A, S, S+ et Nation. Mesurés au Registre, jamais perdus.",
+ "headings": {
+  "the-eight-ranks": "Les huit rangs"
+ },
+ "blocks": {
+  "the-eight-ranks": {
+   "1": "<p>Demandez au Registre une <strong>réévaluation</strong> (gratuite, une fois par minute). Toute la route avec des conseils : <a href=\"/en/w/overrank/guides/progression-path\">Parcours de progression</a>.</p>"
+  }
+ }
+}

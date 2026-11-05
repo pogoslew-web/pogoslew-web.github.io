@@ -1,0 +1,33 @@
+{
+ "summary": "Une ascension solo infinie : un boss tous les 25 étages, un point de contrôle tous les 25, 1 ticket gratuit par jour et un classement avec des récompenses exclusives.",
+ "headings": {
+  "overview": "Présentation",
+  "arena-styles": "Styles d’arène",
+  "the-rank-shown-for-a-floor": "Le rang affiché pour un étage",
+  "tickets": "Tickets",
+  "strength-of-a-floor": "Puissance d’un étage",
+  "falling": "Chute",
+  "leaderboard-rewards": "Récompenses du classement"
+ },
+ "blocks": {
+  "overview": {
+   "0": "<p>La <strong>Endless Tower</strong> s’élève au nord de la <a href=\"/en/w/overrank/places/city\">ville</a> : entrez par sa place. Elle n’a pas de fin : vous jouez étage après étage, <strong>seul</strong>, contre des vagues de plus en plus dures. Un <strong>boss</strong> vous attend tous les 25 étages et vous pouvez repartir d’un <strong>point de contrôle</strong> tous les 25 étages.</p>"
+  },
+  "arena-styles": {
+   "0": "<p>Tous les 100 étages, l’arène change de style :</p>",
+   "1": "<ul> <li>Étages 1 à 100 : <strong>Marble Sanctum</strong></li> <li>Étages 101 à 200 : <strong>Frozen Spire</strong></li> <li>Étages 201 à 300 : <strong>Infernal Forge</strong></li> <li>Étages 301 à 400 : <strong>Celestial Court</strong></li> <li>Étages 401 à 500 : <strong>Void Throne</strong> (puis les styles recommencent)</li> </ul>"
+  },
+  "the-rank-shown-for-a-floor": {
+   "1": "<p>Le rang n’est qu’une étiquette : les chiffres ci-dessous donnent la vraie puissance.</p>"
+  },
+  "strength-of-a-floor": {
+   "0": "<ul> <li>Les PV des monstres augmentent de 1,55 % par étage et leurs dégâts de 1,25 % par étage.</li> <li>Monstres par vague : 3 + étage / 8 (12 au maximum).</li> <li>Chance d’élite : 5 % + 0,15 % par étage (45 % au maximum) : <a href=\"/en/w/overrank/odds#tower-elite\">tableau des élites</a>.</li> <li>Éclats d’étage : 5 + 0,6 par étage (×4 sur un étage de boss).</li> <li>Le boss d’un étage de boss (un gardien) a ×4 PV, +0,12 par point de contrôle sous son étage (×12 au maximum), et ×1,3 dégâts, en plus de son étage.</li> </ul>"
+  },
+  "falling": {
+   "0": "<p>Tombé dans la tour, vous avez 25 s pour choisir : <strong>revenir</strong> pour 39 R$ (3 fois maximum par partie : retour au point d’apparition de l’arène, l’étage continue) ou <strong>partir</strong> (la partie s’arrête là).</p>"
+  },
+  "leaderboard-rewards": {
+   "0": "<p>Le classement <strong>Tower</strong> récompense ses meilleurs joueurs : le top 3 reçoit des cosmétiques exclusifs (<a href=\"/en/w/overrank/cosmetics/tower-apex-armor\">Apex armor</a>, <a href=\"/en/w/overrank/cosmetics/tower-gilded-aura\">Gilded aura</a>, <a href=\"/en/w/overrank/cosmetics/tower-gilded-blade\">Gilded blade</a>) et le vainqueur reçoit le titre <a href=\"/en/w/overrank/titles/tower-apex\">Sovereign of the Endless Tower</a>. Voir les <a href=\"/en/w/overrank/leaderboards\">classements</a>.</p>"
+  }
+ }
+}

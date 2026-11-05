@@ -3,6 +3,7 @@ import Icon from './Icon.astro';
 import { categories, FAMILIES, FAMILY_BLURB, asset } from '../lib/db';
 const icon = asset('/games/overrank/icon.webp');
 const groups = FAMILIES.map(f => ({ f, cats: categories.filter(c => c.family === f) })).filter(g => g.cats.length);
+const labLink = { href: '/cosmetic-lab/', label: 'Cosmetic test', n: '' };
 const extraLinks = [{ href: '/codes/', label: 'Codes', n: '' }, { href: '/news/', label: 'Announcements', n: '' }, { href: '/leaderboards/', label: 'Leaderboards', n: '' }];
 ---
 <header class="site-header">
@@ -19,6 +20,7 @@ const extraLinks = [{ href: '/codes/', label: 'Codes', n: '' }, { href: '/news/'
             <div class="blurb">{FAMILY_BLURB[g.f]}</div>
             {g.cats.map(c => <a href={`/${c.id}/`}><b>{c.label}</b><span>{c.count}</span></a>)}
             {g.f === 'Extra' && extraLinks.map(l => <a href={l.href}><b>{l.label}</b></a>)}
+            {g.f === 'Database' && <a href={labLink.href}><b>{labLink.label}</b><span>3D</span></a>}
           </div>
         </details>
       ))}
@@ -29,6 +31,10 @@ const extraLinks = [{ href: '/codes/', label: 'Codes', n: '' }, { href: '/news/'
         <Icon name="search" size={16} /> <span>Search…</span> <span class="kbd">Ctrl K</span>
       </button>
       <button class="btn btn-ghost btn-icon search-icon-btn" type="button" data-open-search aria-label="Search"><Icon name="search" /></button>
+      <div class="lang-switch" role="group" aria-label="Language / Langue" data-i18n-skip>
+        <button type="button" data-set-lang="en" aria-pressed="true" lang="en" title="English">EN</button>
+        <button type="button" data-set-lang="fr" aria-pressed="false" lang="fr" title="Français">FR</button>
+      </div>
       <button class="btn btn-ghost btn-icon" type="button" id="theme-toggle" aria-label="Toggle light / dark theme"><Icon name="sun" /></button>
       <button class="btn btn-ghost btn-icon burger" type="button" id="menu-open" aria-label="Open menu" aria-expanded="false" aria-controls="drawer"><Icon name="menu" /></button>
     </div>
@@ -42,12 +48,17 @@ const extraLinks = [{ href: '/codes/', label: 'Codes', n: '' }, { href: '/news/'
       <button class="btn btn-ghost btn-icon" type="button" id="menu-close" aria-label="Close menu"><Icon name="close" /></button>
     </div>
     <button class="btn" type="button" data-open-search style="justify-content:flex-start;min-height:48px"><Icon name="search" size={18} /> Search everything</button>
+    <div class="lang-switch lang-switch-drawer" role="group" aria-label="Language / Langue" data-i18n-skip>
+      <button type="button" data-set-lang="en" aria-pressed="true" lang="en">English</button>
+      <button type="button" data-set-lang="fr" aria-pressed="false" lang="fr">Français</button>
+    </div>
     <a class="btn btn-primary" href="/codes/" style="min-height:48px">Redeem codes</a>
     {groups.map(g => (
       <details>
         <summary>{g.f}</summary>
         {g.cats.map(c => <a href={`/${c.id}/`}>{c.label}<span>{c.count}</span></a>)}
         {g.f === 'Extra' && extraLinks.map(l => <a href={l.href}>{l.label}</a>)}
+        {g.f === 'Database' && <a href={labLink.href}>{labLink.label}<span>3D</span></a>}
       </details>
     ))}
     <a class="btn btn-ghost" href="/database/" style="justify-content:flex-start">All categories</a>

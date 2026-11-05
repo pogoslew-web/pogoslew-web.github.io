@@ -1,0 +1,27 @@
+{
+ "summary": "Les éclats sont la monnaie d’Overrank ; les bonbons sont la monnaie saisonnière de l’événement d’Halloween.",
+ "headings": {
+  "shards": "Éclats",
+  "how-to-earn-shards": "Comment gagner des éclats",
+  "what-to-spend-them-on": "À quoi les dépenser",
+  "candies": "Bonbons"
+ },
+ "blocks": {
+  "shards": {
+   "0": "<p>Les <strong>éclats</strong> (shards) sont l’unique monnaie du jeu. On en gagne partout et on les dépense en équipement et en services.</p>"
+  },
+  "how-to-earn-shards": {
+   "0": "<ul> <li>Donjons terminés (voir le tableau ci-dessous)</li> <li>Coffres, élites, mimics, mini-boss, éveillés rivaux</li> <li>Butin des gardiens (prix en éclats)</li> <li>Ruptures de rift stoppées</li> <li>Vente d’objets au marché (80 % de leur prix)</li> <li>Vente d’équipement à l’Hôtel des ventes (4 % prélevés sur une vente)</li> <li>Série quotidienne, temps de jeu, groupe, paliers et récompenses de rang</li> <li>Pass de combat</li> <li>Codes</li> <li>Invasions</li> <li>Étages de la Tour infinie</li> <li>Boutique (Robux)</li> <li>Bonbons d’Halloween restants en fin de saison (x3)</li> </ul>",
+   "2": "<p>Les boosts d’éclats de la boutique ou des événements multiplient ces gains : <a href=\"/en/w/overrank/formulas/boosts\">Boosts et chance</a>.</p>"
+  },
+  "what-to-spend-them-on": {
+   "0": "<ul> <li>Marché (objets, potions)</li> <li>Potions de l’Alchimiste, offres du marchand itinérant</li> <li>Achats à l’Hôtel des ventes et frais de mise en vente</li> <li>Forge (amélioration, montée de grade, reforge)</li> <li>Passage des liaisons de runes</li> <li>Changements de classe après le gratuit (100 x niveau, 1 000 au minimum)</li> <li>Réinitialisation des stats (120 par point, 500 au minimum)</li> <li>Réinitialisation de l’arbre de compétences (150 par point, 1 500 au minimum)</li> <li>Gemmes (20 000-30 000)</li> <li>Tickets de la Tour infinie</li> <li>Pass de combat premium (150 000)</li> <li>Améliorations, boosts et ancres de guilde</li> <li>Échanges (jusqu’à 10 000 000)</li> <li>Second emplacement de profil</li> <li>Certains cosmétiques</li> </ul>",
+   "1": "<p>Coûts et formules : <a href=\"/en/w/overrank/formulas/economy\">Économie</a>.</p>"
+  },
+  "candies": {
+   "0": "<p>Les <strong>bonbons</strong> n’existent que pendant la saison d’Halloween. Ils viennent des Haunted Castle terminés et des bonbons ramassés, et se dépensent au Grimble's Candy Bazaar (coffres, achat direct, titre Halloween 2026).</p>",
+   "2": "<ul> <li> <p>Haunted Castle terminé (E 20, D 22, C 24, B 26, A 28, S 30, S+ 33, Nation 36)</p> </li> <li> <p>Le tirage de son gardien (x1 / x2 / x4 / x10)</p> </li> <li> <p>Bonbons ramassés sur les monstres de donjon (30 %) et de tour (15 %)</p> </li> <li> <p>Grimble's Candy Bazaar : coffres (Pumpkin 150, Crypt 450, Reliquary 1 200), achat direct d’un prix (prix du coffre / chance x 1,25), titre Halloween 2026 (2 500)</p> </li> <li> <p>Restants en fin de saison : chacun devient 3 éclats</p> </li> </ul>",
+   "3": "<p>Chances des coffres : <a href=\"/en/w/overrank/odds#chest-halloween-pumpkin\">Pumpkin</a>, <a href=\"/en/w/overrank/odds#chest-halloween-crypt\">Crypt</a>, <a href=\"/en/w/overrank/odds#chest-halloween-reliquary\">Reliquary</a>.</p>"
+  }
+ }
+}

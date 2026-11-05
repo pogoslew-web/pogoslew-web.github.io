@@ -1,0 +1,31 @@
+{
+ "summary": "Soins · renforce tout le groupe. Soigne et booste : plus de dégâts et de régénération pour tout le groupe.",
+ "headings": {
+  "overview": "Présentation",
+  "playstyle": "Style de jeu",
+  "bonuses": "Bonus",
+  "equipment": "Équipement",
+  "skills": "Compétences",
+  "passives": "Passifs",
+  "how-to-unlock": "Comment débloquer"
+ },
+ "blocks": {
+  "overview": {
+   "0": "<p>Soigne et booste : plus de dégâts et de régénération pour tout le groupe.</p>",
+   "1": "<p><strong>Pour vous si :</strong> vous aimez que votre groupe gagne grâce à vous.</p>"
+  },
+  "equipment": {
+   "0": "<ul> <li><strong>Armes :</strong> Staff</li> <li><strong>Armure :</strong> Robe, Light</li> <li><strong>Stats à privilégier :</strong> Intelligence, Spirit, Vitality</li> <li><strong>Niveau max :</strong> 100</li> </ul>"
+  },
+  "skills": {
+   "0": "<p>Compétences de l’arbre Support. Dépensez des points de compétence pour les débloquer et les monter de niveau ; chaque niveau après le premier ajoute 15 % de puissance et retire 5 % du temps de recharge.</p>"
+  },
+  "passives": {
+   "0": "<ul> <li><a href=\"/en/w/overrank/passives/devotion\">Devotion</a>: +5 % soins et boosts par niveau (jusqu’à +25 % soins et boosts)</li> <li><a href=\"/en/w/overrank/passives/clarity\">Clarity</a>: +6 % régénération de mana par niveau (jusqu’à +30 % régénération de mana)</li> <li><a href=\"/en/w/overrank/passives/radiance\">Radiance</a>: +8 % durée des boosts par niveau (jusqu’à +24 % durée des boosts)</li> <li><a href=\"/en/w/overrank/passives/martyr\">Martyr</a>: +5 % soins et boosts, +5 % PV max par niveau (jusqu’à +10 % soins et boosts, +10 % PV max)</li> </ul>"
+  },
+  "how-to-unlock": {
+   "0": "<p>Choisissez-la librement dans la fenêtre de classe (fenêtre de statut, puis <strong>Change class</strong>).</p>",
+   "1": "<p>Changer de classe : le premier changement d’un profil est gratuit, ensuite il coûte <strong>100 éclats × votre niveau</strong> (au moins 1 000). Il y a 60 s d’attente entre deux changements, votre niveau est conservé par paliers de 50 (le niveau 449 devient 400), et vos points de stats et arbres de compétences vous sont rendus. Voir les <a href=\"/en/w/overrank/formulas/economy\">formules d’économie</a>.</p>"
+  }
+ }
+}

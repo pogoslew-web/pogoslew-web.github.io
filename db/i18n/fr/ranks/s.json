@@ -1,0 +1,23 @@
+{
+ "summary": "L’objectif de la plupart des joueurs : équipement de rang S, rifts de rang S et badge de rang S.",
+ "headings": {
+  "overview": "Présentation",
+  "requirements": "Conditions",
+  "rank-up-reward": "Récompense de passage de rang",
+  "related": "Pages liées"
+ },
+ "blocks": {
+  "overview": {
+   "0": "<p>L’objectif de la plupart des joueurs : équipement de rang S, rifts de rang S et badge de rang S. Beaucoup d’éveillés s’arrêtent ici.</p>"
+  },
+  "requirements": {
+   "1": "<p>Allez voir le <strong>Awakened Registry</strong> sur l’Awakened Plaza et demandez une réévaluation : c’est gratuit, possible une fois par minute, et vous donne le rang le plus élevé dont vous remplissez les conditions. Un rang n’est jamais perdu.</p>"
+  },
+  "rank-up-reward": {
+   "0": "<ul> <li>40,000 éclats</li> <li>2 x Luck boost</li> <li>3 x Anomaly summon</li> <li>2 x Private rift</li> <li>1 x Server boost</li> <li>XP/Shards x2 60 min</li> <li>arme de classe (grade +0)</li> </ul>"
+  },
+  "related": {
+   "0": "<ul> <li>Titre : <a href=\"/en/w/overrank/titles/walking-calamity\">Walking Calamity</a></li> <li>Badge : <a href=\"/en/w/overrank/badges/rank-s\">Rank S Awakened</a></li> <li>Rifts de ce rang : <a href=\"/en/w/overrank/rifts/rift-s\">Rank S rift</a></li> <li>Précédent : <a href=\"/en/w/overrank/ranks/a\">Rank A</a></li> <li>Suivant : <a href=\"/en/w/overrank/ranks/s-plus\">Rank S+</a></li> </ul>"
+  }
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "summary": "La route du rang E aux rangs S, S+ et Nation : niveaux, donjons à terminer, récompenses et ce qui change à chaque étape.",
+ "headings": {
+  "the-ladder": "L’échelle",
+  "how-a-step-goes": "Comment se passe une étape",
+  "what-changes-with-your-rank": "Ce qui change avec votre rang",
+  "levels-and-caps": "Niveaux et plafonds",
+  "suggested-road": "Route conseillée"
+ },
+ "blocks": {
+  "the-ladder": {
+   "0": "<p>Votre <strong>rang</strong> est mesuré à l’Awakened Registry. Il dépend de votre niveau et du nombre de donjons terminés depuis votre dernier rang. Un rang n’est jamais perdu.</p>"
+  },
+  "how-a-step-goes": {
+   "0": "<ol> <li>Atteignez le niveau du rang suivant.</li> <li>Terminez le nombre de donjons requis (tout rift compte, idéalement de votre rang).</li> <li>Parlez au Registre et demandez une réévaluation. C’est gratuit et instantané.</li> <li>Récupérez la récompense de passage de rang (éclats, boosts, une meilleure arme de classe...).</li> </ol>"
+  },
+  "what-changes-with-your-rank": {
+   "0": "<ul> <li><strong>Rifts</strong> : vous pouvez entrer dans des rifts de rang supérieur, avec de meilleures récompenses (voir les <a href=\"/en/w/overrank/rifts/rifts\">rifts</a>).</li> <li><strong>Équipement</strong> : le marché propose de meilleurs équipements dans les rifts de rang A et plus, et les grades du butin dépendent de votre rang.</li> <li><strong>Titres et badges</strong> : chaque rang a son propre titre et son propre badge.</li> <li><strong>Points bonus</strong> : les rangs S+ et Nation donnent des points de stats et de compétences supplémentaires.</li> </ul>"
+  },
+  "levels-and-caps": {
+   "0": "<p>Le niveau maximum est de <strong>100</strong> pour le Human et les classes normales, <strong>999</strong> pour les classes spéciales. L’XP nécessaire augmente à chaque niveau : voir <a href=\"/en/w/overrank/formulas/leveling\">Niveaux</a>. Après le niveau 100, les classes spéciales gagnent encore un point de stat tous les 5 niveaux jusqu’à 150, tous les 10 jusqu’à 500 et tous les 25 jusqu’à 999. Les récompenses de palier donnent de gros cadeaux tous les 50 niveaux à partir du niveau 250.</p>"
+  }
+ }
+}

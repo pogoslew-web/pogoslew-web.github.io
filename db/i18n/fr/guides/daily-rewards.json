@@ -1,0 +1,29 @@
+{
+ "summary": "Série de connexions, cadeaux de temps de jeu, récompenses de groupe, premiers clears, bonus d’amis, récompenses de rang et de paliers de niveau.",
+ "headings": {
+  "login-streak": "Série de connexions",
+  "playtime-gifts": "Cadeaux de temps de jeu",
+  "group-rewards": "Récompenses de groupe",
+  "other-gifts": "Autres cadeaux",
+  "rank-up-rewards": "Récompenses de passage de rang",
+  "level-milestones": "Paliers de niveau"
+ },
+ "blocks": {
+  "login-streak": {
+   "0": "<p>Connectez-vous chaque jour : la série monte jusqu’au jour 7, puis recommence.</p>",
+   "2": "<p>Le jour 7 donne aussi le titre <a href=\"/en/w/overrank/titles/devoted\">Devoted</a> et le badge <a href=\"/en/w/overrank/badges/devoted\">Devoted</a>.</p>"
+  },
+  "playtime-gifts": {
+   "0": "<p>Restez en jeu pour ouvrir des cadeaux :</p>"
+  },
+  "group-rewards": {
+   "0": "<p>Rejoignez le <a href=\"https://www.roblox.com/communities/452166249\">groupe AwaitLab</a> sur Roblox : vous obtenez le titre <a href=\"/en/w/overrank/titles/await-lab-member\">AwaitLab Member</a>, une récompense de départ (objet Rare, le cosmétique AwaitLab sparks) et une <strong>récompense quotidienne</strong> : éclats, une arme et des tirages supplémentaires (<a href=\"/en/w/overrank/odds#group-daily-shards\">éclats</a>, <a href=\"/en/w/overrank/odds#group-daily-pool\">tirages supplémentaires</a>). Plus votre rang est élevé, plus vous avez de tirages : E 1, D 1, C 2, B 2, A 3, S 3, Nation 4, S+ 4.</p>"
+  },
+  "other-gifts": {
+   "0": "<ul> <li><strong>Mettre le jeu en favori</strong> : 1 500 éclats, 1 × XP boost + arme HunterSaber (Rare, rang D).</li> <li><strong>Premier clear d’un rift</strong> : 500 éclats ; <strong>tout premier clear de tous les temps</strong> : 600 éclats, 1 × XP boost + un objet Rare.</li> <li><strong>Amis</strong> : +10 % d’XP et d’éclats par ami Roblox présent sur le serveur, +50 % maximum.</li> <li><strong>Roblox Premium</strong> : +10 % d’XP, +10 % d’éclats.</li> <li><strong>Nouveaux venus</strong> : jusqu’au niveau 10 : bonus x2.</li> </ul>"
+  },
+  "level-milestones": {
+   "0": "<p>À partir du niveau 250 (classes spéciales), tous les 50 niveaux apportent un gros cadeau :</p>"
+  }
+ }
+}

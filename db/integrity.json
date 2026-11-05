@@ -303,8 +303,8 @@
   "entities_with_image": 1050,
   "entity_images_missing": [],
   "by_type": {
-   ".glb": 317,
    ".webp": 1639,
+   ".glb": 317,
    ".svg": 2,
    ".png": 3
   }

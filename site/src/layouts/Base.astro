@@ -35,6 +35,7 @@ const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : un
     <main id="main"><slot /></main>
     <Footer />
     <SearchPalette />
+    <script>import '../scripts/i18n';</script>
     <script>
       // tri des tableaux (clic sur l'en-tête)
       const num = (s: string) => { const m = s.replace(/[, ]/g, '').match(/-?\d+(\.\d+)?/); return m ? parseFloat(m[0]) : NaN; };

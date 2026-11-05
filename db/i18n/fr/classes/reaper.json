@@ -1,0 +1,33 @@
+{
+ "summary": "Une classe spéciale que personne n’a encore documentée. Dégâts · vol de vie.",
+ "headings": {
+  "what-we-know": "Ce que l’on sait",
+  "stats-and-skills": "Stats et compétences",
+  "how-to-unlock": "Comment débloquer",
+  "playstyle": "Style de jeu",
+  "class-card": "Fiche de classe",
+  "gear": "Équipement obtenu",
+  "complete-this-page": "Compléter cette page"
+ },
+ "blocks": {
+  "what-we-know": {
+   "0": "<ul> <li>C’est l’une des <strong>classes spéciales</strong> : on ne peut pas la choisir librement, il faut la mériter.</li> <li>Dans la fenêtre de classe, elle est décrite ainsi : <em>Dégâts · vol de vie</em>.</li> <li>Le jeu murmure : <em>« Un simple humain, seul dans un donjon, intouchable. »</em></li> <li>Comme toute classe spéciale, son niveau maximum est supérieur aux 100 des classes normales.</li> </ul>"
+  },
+  "how-to-unlock": {
+   "0": "<p>En solo, sans prendre un seul coup, terminer plusieurs donjons de votre rang ou plus haut en tant qu’humain (2 à 5).</p>"
+  },
+  "playstyle": {
+   "0": "<p>En tant que reaper, vous voulez profiter du vol de vie : se coller aux ennemis pour garder un soin constant est donc la façon habituelle de jouer reaper.</p>",
+   "1": "<p>Une fois reaper de haut niveau, il est recommandé de mettre assez de points en perception pour garder 75 % de critique et assez d’agilité pour garder 60 % d’esquive, puis de mettre le reste des points en force.</p>",
+   "2": "<p>Certains joueurs ont expérimenté des bâtons de rang SP et EX pour éviter le malus de classe et jouer reaper-mage.</p>"
+  },
+  "gear": {
+   "0": "<p>Récompense de palier niveau 500 pour reaper (étoiles non incluses)</p>",
+   "2": "<p>Dernière récompense de palier pour reaper <img alt=\"image of EX rank scythe\" src=\"/api/media/entry/2026/11/9331237f-261d-445d-b848-90f8dede6617.png\"/> Note : seule l’arme des récompenses est garantie d’être de votre classe.</p>"
+  },
+  "complete-this-page": {
+   "0": "<ul> <li>Remplissez les stats, les armes et l’armure de la classe.</li> <li>Expliquez ses compétences.</li> </ul>",
+   "1": "<p>Autres secrets : voir les <a href=\"/en/w/overrank/classes\">autres classes spéciales</a> et le <a href=\"/en/w/overrank/glossary/special-class\">glossaire</a>.</p>"
+  }
+ }
+}

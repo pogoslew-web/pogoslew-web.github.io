@@ -1,0 +1,23 @@
+{
+ "summary": "Le milieu de l’échelle.",
+ "headings": {
+  "overview": "Présentation",
+  "requirements": "Conditions",
+  "rank-up-reward": "Récompense de passage de rang",
+  "related": "Pages liées"
+ },
+ "blocks": {
+  "overview": {
+   "0": "<p>Le milieu de l’échelle. À partir d’ici, les monstres frappent assez fort pour punir les erreurs, et les groupes commencent à compter.</p>"
+  },
+  "requirements": {
+   "1": "<p>Allez voir le <strong>Awakened Registry</strong> sur l’Awakened Plaza et demandez une réévaluation : c’est gratuit, possible une fois par minute, et vous donne le rang le plus élevé dont vous remplissez les conditions. Un rang n’est jamais perdu.</p>"
+  },
+  "rank-up-reward": {
+   "0": "<ul> <li>2,500 éclats</li> <li>1 x Luck boost</li> <li>2 x Rift summon</li> <li>1 x XP boost</li> <li>XP x2 30 min</li> <li>arme de classe (grade +1)</li> </ul>"
+  },
+  "related": {
+   "0": "<ul> <li>Titre : <a href=\"/en/w/overrank/titles/seasoned-hunter\">Seasoned Awakened</a></li> <li>Badge : <a href=\"/en/w/overrank/badges/rank-c\">Rank C Awakened</a></li> <li>Rifts de ce rang : <a href=\"/en/w/overrank/rifts/rift-c\">Rank C rift</a></li> <li>Précédent : <a href=\"/en/w/overrank/ranks/d\">Rank D</a></li> <li>Suivant : <a href=\"/en/w/overrank/ranks/b\">Rank B</a></li> </ul>"
+  }
+ }
+}

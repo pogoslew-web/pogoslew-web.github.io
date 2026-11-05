@@ -1,0 +1,233 @@
+{
+ "_meta": {
+  "source": "In-game class-card screenshots and a Discord message (author shown as Derp[ARMY]) supplied by the site owner on 2026-11-05. Unlock conditions are community-reported and not verified by the original wiki.",
+  "verified": false
+ },
+ "classes": {
+  "reaper": {
+   "desc": "Huge damage, dodges most blows, steals life with every cut.",
+   "stats": [
+    "Strength",
+    "Agility"
+   ],
+   "on": [
+    "+30% damage",
+    "+25% evasion",
+    "+10% life steal"
+   ],
+   "weapons": [
+    "Scythe"
+   ],
+   "armor": [
+    "Light"
+   ],
+   "trees": [
+    "General",
+    "Reaper"
+   ],
+   "status": "Current",
+   "unlock": "SOLO, no-hit, clear multiple dungeons of your same rank or above as a human (2-5)",
+   "rule": "+15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+   "unlock_status": "community-reported"
+  },
+  "survivor": {
+   "desc": "Huge damage, dodges most blows, heals and boosts himself only.",
+   "stats": [
+    "Strength",
+    "Agility",
+    "Spirit"
+   ],
+   "on": [
+    "+15% damage",
+    "+30% evasion",
+    "+20% heals and boosts"
+   ],
+   "weapons": [
+    "Dagger",
+    "Spear"
+   ],
+   "armor": [
+    "Light"
+   ],
+   "trees": [
+    "General",
+    "Survivor"
+   ],
+   "status": "Available",
+   "unlock": "Same as Reaper, just as a support",
+   "rule": "+15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+   "unlock_status": "community-reported"
+  },
+  "magic-attacker": {
+   "name": "Spellblade",
+   "desc": "Fights up close with a blade soaked in spells.",
+   "stats": [
+    "Strength",
+    "Intelligence",
+    "Vitality"
+   ],
+   "on": [
+    "+10% damage",
+    "+10% max HP",
+    "+15% magic damage"
+   ],
+   "weapons": [
+    "Blade",
+    "Staff"
+   ],
+   "armor": [
+    "Medium",
+    "Robe"
+   ],
+   "trees": [
+    "General",
+    "Spellblade"
+   ],
+   "status": "Available",
+   "unlock": "105 points in int as an attacker",
+   "rule": "+15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+   "unlock_status": "community-reported"
+  },
+  "warper": {
+   "desc": "Rifts everywhere: short jumps, strikes from rifts, enemies thrown up and dropped.",
+   "stats": [
+    "Strength",
+    "Agility",
+    "Intelligence"
+   ],
+   "on": [
+    "+15% faster cooldowns",
+    "+10% damage",
+    "+8% evasion"
+   ],
+   "weapons": [
+    "Dagger",
+    "Staff"
+   ],
+   "armor": [
+    "Light",
+    "Robe"
+   ],
+   "trees": [
+    "General",
+    "Warper"
+   ],
+   "status": "Available",
+   "unlock": "105 points in int as assassin",
+   "rule": "+15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+   "unlock_status": "community-reported"
+  },
+  "chad": {
+   "desc": "The human who needed no awakening: the General tree's skills, far stronger.",
+   "stats": [
+    "All"
+   ],
+   "on": [
+    "+50% power of General skills",
+    "+15% all stats",
+    "+10% experience"
+   ],
+   "weapons": [
+    "Greatsword",
+    "Hammer"
+   ],
+   "armor": [],
+   "trees": [
+    "General"
+   ],
+   "status": "Available",
+   "unlock": "Level 100 and S rank human",
+   "rule": "+15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+   "unlock_status": "community-reported"
+  },
+  "berserker": {
+   "desc": "A tank that hits harder the more HP it loses.",
+   "stats": [
+    "Strength",
+    "Vitality",
+    "Defense"
+   ],
+   "on": [
+    "+20% max HP",
+    "Up to +60% damage as HP runs out",
+    "+8% damage reduction"
+   ],
+   "weapons": [
+    "Greatsword",
+    "Hammer"
+   ],
+   "armor": [
+    "Heavy"
+   ],
+   "trees": [
+    "General",
+    "Berserker"
+   ],
+   "status": "Available",
+   "unlock": "Die 10 times in 10 different dungeons (might have to complete it?)",
+   "rule": "+15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+   "unlock_status": "community-reported"
+  },
+  "overlord": {
+   "desc": "A necromancer who fears not even death: more undead, cheaper to raise, and attack spells of his own.",
+   "stats": [
+    "Intelligence",
+    "Strength"
+   ],
+   "on": [
+    "+10% damage",
+    "+20% magic damage",
+    "+30% max mana",
+    "-30% mana to raise the dead",
+    "+25% undead power"
+   ],
+   "weapons": [
+    "Staff",
+    "Scythe"
+   ],
+   "armor": [
+    "Robe",
+    "Heavy"
+   ],
+   "trees": [
+    "General",
+    "Necromancer",
+    "Overlord"
+   ],
+   "status": "Available",
+   "unlock": "105+ point all at once into intelligence, and that only as a necromancer",
+   "rule": "+15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+   "unlock_status": "community-reported"
+  },
+  "bipolar": {
+   "desc": "A stronger mage of fire and ice only, wide and devastating.",
+   "stats": [
+    "Intelligence",
+    "Spirit"
+   ],
+   "on": [
+    "+20% area of effect",
+    "-10% max HP",
+    "+30% magic damage",
+    "+20% max mana"
+   ],
+   "weapons": [
+    "Staff"
+   ],
+   "armor": [
+    "Robe"
+   ],
+   "trees": [
+    "General",
+    "Fire",
+    "Ice",
+    "Duality"
+   ],
+   "status": "Available",
+   "unlock": "Unlock ultimate skill in fire and ice skill tree",
+   "rule": "+15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+   "unlock_status": "community-reported"
+  }
+ },
+ "mage_unlock": "Clear one dungeon before choosing a school and you will unlock Time and Death mage (community-reported, no class card provided)."
+}

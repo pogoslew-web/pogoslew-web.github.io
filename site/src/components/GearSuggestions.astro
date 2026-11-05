@@ -1,0 +1,51 @@
+---
+import { asset, entityHref } from '../lib/db';
+interface Props { data: any; classTitle: string }
+const { data, classTitle } = Astro.props;
+const rawRows = data.rows as any[];
+// regroupe les rangs consécutifs qui recommandent exactement les mêmes objets
+const rows: any[] = [];
+for (const r of rawRows) {
+  const sig = `${r.weapon?.slug}|${r.armor?.slug}|${r.dream_weapon?.slug}`;
+  const last = rows[rows.length - 1];
+  if (last && last.sig === sig) last.ranks.push(r.rank); else rows.push({ ...r, sig, ranks: [r.rank] });
+}
+const href = (slug: string) => `/items/${slug}/`;
+const statLine = (st: Record<string, string>) => Object.entries(st).slice(0, 3).map(([k, v]) => k.endsWith(' %') ? `${k.replace(' %', '')} ${v}%` : `${k} ${v}`).join(' · ');
+const rankClass = (r: string) => ({ E: 'tier-e', D: 'tier-d', C: 'tier-c', B: 'tier-b', A: 'tier-a', S: 'tier-s', 'S+': 'tier-splus', Nation: 'tier-ex' } as any)[r];
+---
+<section class="card gear-sug" id="best-gear" aria-label={`Best gear for ${classTitle}`}>
+  <header>
+    <h2>Best gear for {classTitle}</h2>
+    <span class="faint">Rank E → Nation</span>
+  </header>
+  <p class="faint cc-small">
+    Weapons: {data.weapon_styles.length ? data.weapon_styles.join(', ') : '—'}. Armor type: {data.armor_types.length ? data.armor_types.join(', ') : 'any'}.
+    Pick the gear listed for your rank: it is the strongest one you can actually get there.
+  </p>
+  <div class="gs-list">
+    {rows.map(r => (
+      <div class="gs-row">
+        <div class="gs-rank"><span class={`badge ${rankClass(r.ranks[0])}`}>{r.ranks.length > 1 ? `Rank ${r.ranks[0]} → ${r.ranks[r.ranks.length - 1]}` : `Rank ${r.ranks[0]}`}</span></div>
+        <div class="gs-items">
+          {[['Weapon', r.weapon], ['Armor', r.armor]].map(([lab, it]: any) => it ? (
+            <a class="gs-item" href={href(it.slug)}>
+              {asset(it.image) ? <img src={asset(it.image)!} alt="" width="44" height="44" loading="lazy" /> : <span class="thumb"></span>}
+              <span><small class="faint">{lab}</small><b>{it.title}</b><em>{statLine(it.stats)}</em></span>
+            </a>
+          ) : <div class="gs-item gs-none"><span><small class="faint">{lab}</small><b>No data yet</b></span></div>)}
+          {r.dream_weapon && (
+            <a class="gs-item gs-dream" href={href(r.dream_weapon.slug)}>
+              {asset(r.dream_weapon.image) ? <img src={asset(r.dream_weapon.image)!} alt="" width="44" height="44" loading="lazy" /> : <span class="thumb"></span>}
+              <span><small>Dream weapon (very rare drop)</small><b>{r.dream_weapon.title}</b><em>{statLine(r.dream_weapon.stats)}</em></span>
+            </a>
+          )}
+        </div>
+      </div>
+    ))}
+  </div>
+  <details class="gs-how"><summary>How is this chosen?</summary>
+    <p>{data.__method}</p>
+    <p>Event, limited, battle-pass and exclusive items are left out, because you cannot count on getting them. Stats shown are base values (rank E, Common, +0): the real value grows with rank, grade and forge level.</p>
+  </details>
+</section>
