@@ -80,7 +80,6 @@ export interface ClassCard { name?: string; desc: string; stats: string[]; on: s
 export const classCards: Record<string, ClassCard> = rd(path.join(DB, 'overlays/class_cards.json')).classes;
 export const classCardsMeta: any = rd(path.join(DB, 'overlays/class_cards.json'));
 export const classPages: Record<string, any> = rd(path.join(DB, 'overlays/class_pages.json'));
-export const gearSuggestions: any = rd(path.join(DB, 'suggestions.json'));
 
 // fiches de classe : les lignes « ??? » du wiki d'origine sont complétées avec la carte en jeu ; ce qui reste inconnu est retiré
 for (const e of entities) {

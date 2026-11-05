@@ -2,9 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import Icon from '../../components/Icon.astro';
-import { entities, byId, catLabel, catById, asset, entityHref, FACETS, classCards, gearSuggestions } from '../../lib/db';
-import ClassCard from '../../components/ClassCard.astro';
-import GearSuggestions from '../../components/GearSuggestions.astro';
+import { entities, byId, catLabel, catById, asset, entityHref, FACETS } from '../../lib/db';
 import { frFile } from '../../lib/fr';
 import { renderHtml } from '../../lib/links';
 import { tierClass } from '../../lib/tier';
@@ -33,10 +31,7 @@ const backlinks = e.linked_from.map(i => byId.get(i)!).filter(x => x && !['news'
 const desc = (e.summary || e.sections.flatMap(s => s.blocks).find(b => b.type === 'p')?.text || `${e.title} — ${catLabel(e.type)} in Overrank.`).slice(0, 180);
 const label = catLabel(e.type);
 const hasFr = !!frFile(e.type, e.slug);
-const card = e.type === 'classes' ? classCards[e.slug] : undefined;
 const facts = e.infobox.filter(i => i.value !== '');
-const gear = e.type === 'classes' && !e.is_overview ? gearSuggestions.classes[e.slug] : undefined;
-const gearData = gear ? { ...gear, __method: gearSuggestions.method } : undefined;
 const crumbs = [{ label: 'Home', href: '/' }, { label, href: `/${e.type}/` }, ...(e.is_overview ? [] : []), { label: e.title }];
 ---
 <Base title={`${e.title} · ${label}`} description={desc} image={img} type="article">
@@ -60,8 +55,7 @@ const crumbs = [{ label: 'Home', href: '/' }, { label, href: `/${e.type}/` }, ..
       </div>
     </header>
 
-    {e.incomplete_at_source && !card && <div class="notice warn"><b>This page is incomplete on the original wiki.</b> Unknown information appears as “???” exactly as published. Nothing has been filled in.</div>}
-    {e.incomplete_at_source && card && <div class="notice warn"><b>The original wiki page is incomplete.</b> Its text below is unchanged (unknown values appear as “???”). The class card comes from in-game screenshots provided by the site owner.</div>}
+    {e.incomplete_at_source && <div class="notice warn"><b>This page is incomplete on the original wiki.</b> Unknown information appears as “???” exactly as published. Nothing has been filled in.</div>}
 
     <div class="detail">
       <aside class="toc" aria-label="On this page">
@@ -91,8 +85,6 @@ const crumbs = [{ label: 'Home', href: '/' }, { label, href: `/${e.type}/` }, ..
           </div>
         )}
         {toc.length > 2 && <nav class="toc-chips" aria-label="Jump to section">{toc.map(s => <a class="chip" href={`#${s.id}`}>{s.heading}</a>)}</nav>}
-        {card && <ClassCard card={card} title={e.title} />}
-        {gearData && <GearSuggestions data={gearData} classTitle={e.title} />}
         <div class="sections">
           {sections.map((s, i) => (
             s.heading ? (
