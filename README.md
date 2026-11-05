@@ -14,3 +14,6 @@ npm run build                 # sortie : site/dist
 Rapports : `db/integrity.json`, `db/dist_check.json`, page `/integrity/`. Détails : `REPORT.md`.
 ## Structure
 `db/` base de données JSON · `assets/` images/3D dédupliquées · `tools/` crawl→extraction→vérif · `site/` Astro · `tests/` Playwright.
+
+## Déploiement GitHub Pages
+Le workflow `.github/workflows/pages.yml` construit et publie `site/dist`. Le site utilise des chemins absolus (`/classes/...`) : il doit être servi à la racine d'un domaine, donc dépôt nommé `<utilisateur>.github.io` (ou domaine personnalisé). Settings → Pages → Source : GitHub Actions.
