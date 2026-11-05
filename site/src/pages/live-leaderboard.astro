@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+---
+<Base title="Level leaderboard (live)" description="Level leaderboard that refreshes from a data feed." noindex>
+  <div class="wrap page">
+    <Breadcrumb items={[{ label: 'Home', href: '/' }, { label: 'Leaderboards', href: '/leaderboards/' }, { label: 'Level (live)' }]} />
+    <header class="page-head"><h1>Level leaderboard</h1><p id="lb-meta" class="faint">Loading…</p></header>
+    <div class="card" style="padding:0;overflow:auto"><table class="lb"><thead><tr><th>Rank</th><th>Player</th><th>Level</th></tr></thead><tbody id="lb-body"></tbody></table></div>
+    <p class="faint cc-small">Hidden players stay hidden. This page re-reads <code>/data/leaderboard-level.json</code> every 30 s; replace that file (or point <code>FEED</code> in the script to your own endpoint) and the table updates without a reload.</p>
+  </div>
+</Base>
+<style>.lb{width:100%;border-collapse:collapse}.lb th,.lb td{padding:8px 14px;text-align:left;border-bottom:1px solid var(--border,#2a2a3a)}.lb td:last-child,.lb th:last-child{text-align:right}</style>
+<script>
+  const FEED = '/data/leaderboard-level.json';
+  const body = document.getElementById('lb-body')!, meta = document.getElementById('lb-meta')!;
+  async function load() {
+    try {
+      const d = await (await fetch(FEED + '?t=' + Date.now(), { cache: 'no-store' })).json();
+      body.innerHTML = '';
+      (d.rows as { name: string | null; score: number }[]).forEach((r, i) => {
+        const tr = document.createElement('tr');
+        [String(i + 1), r.name ?? 'Hidden player', String(r.score)].forEach(t => { const td = document.createElement('td'); td.textContent = t; tr.appendChild(td); });
+        body.appendChild(tr);
+      });
+      meta.textContent = (d.snapshot ? 'Snapshot' : 'Live') + ' · updated ' + new Date(d.captured_at).toLocaleString();
+    } catch { meta.textContent = 'Feed unavailable.'; }
+  }
+  load(); setInterval(load, 30000);
+</script>
