@@ -79,6 +79,7 @@ export const FACETS: Record<string, string[]> = {
 export interface ClassCard { name?: string; desc: string; stats: string[]; on: string[]; weapons: string[]; armor: string[]; trees: string[]; rule: string; unlock: string; unlock_status: string }
 export const classCards: Record<string, ClassCard> = rd(path.join(DB, 'overlays/class_cards.json')).classes;
 export const classCardsMeta: any = rd(path.join(DB, 'overlays/class_cards.json'));
+export const classPages: Record<string, any> = rd(path.join(DB, 'overlays/class_pages.json'));
 export const gearSuggestions: any = rd(path.join(DB, 'suggestions.json'));
 
 // fiches de classe : les lignes « ??? » du wiki d'origine sont complétées avec la carte en jeu ; ce qui reste inconnu est retiré
@@ -87,4 +88,10 @@ for (const e of entities) {
   const fill: Record<string, string> = { 'Weapons': c.weapons.join(', '), 'Armor': c.armor.join(', '), 'Focus stats': c.stats.join(', '), 'Bonuses': c.on.join(' · '), 'Unlock': c.unlock + ' (community-reported)' };
   e.infobox = e.infobox.map((i: any) => ((i.value === '???' || i.value === 'Unknown') && fill[i.key] ? { ...i, value: fill[i.key] } : i)).filter((i: any) => i.value !== '???' && i.value !== 'Unknown' && i.value !== '');
   if (!e.infobox.some((i: any) => i.key === 'Class type')) e.infobox.unshift({ key: 'Class type', value: 'Special class', html: '<dd>Special class</dd>' });
+  const pg = classPages[e.slug];
+  if (pg) {
+    e.sections = pg.sections; e.incomplete_at_source = pg.incomplete_at_source; e.summary = c.desc;
+    for (const [k, v] of Object.entries(pg.infobox_fill ?? {})) if (!e.infobox.some((i: any) => i.key === k)) e.infobox.push({ key: k, value: v as string, html: `<dd>${v}</dd>` });
+    if (!e.infobox.some((i: any) => i.key === 'Max level')) e.infobox.push({ key: 'Max level', value: '999', html: '<dd>999</dd>' });
+  }
 }

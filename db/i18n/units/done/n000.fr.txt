@@ -1,0 +1,70 @@
+9c73384537|<p>⟦1⟧ points en intelligence en tant qu'attacker (signalé par la communauté)</p>
+b775cb3fc1|<p>⟦1⟧ points en intelligence en tant qu'assassin (signalé par la communauté)</p>
+c2fc13df84|<p>Mettre ⟦1⟧+ points d'un seul coup en intelligence, et uniquement en tant que nécromancien (signalé par la communauté)</p>
+fa648e709b|⟦1⟧ : +⟦2⟧ % de chance de critique, +⟦3⟧ % de mana max par niveau (jusqu'à +⟦4⟧ % de chance de critique, +⟦5⟧ % de mana max)
+ed2d1f7209|⟦1⟧ : jusqu'à +⟦2⟧ % de dégâts à mesure que les PV baissent, +⟦3⟧ % de mana max, +⟦4⟧ % de régénération de mana par niveau (jusqu'à +⟦5⟧ % de dégâts à mesure que les PV baissent, +⟦6⟧ % de mana max, +⟦7⟧ % de régénération de mana)
+22902bebc3|Un nécromancien qui ne craint pas même la mort : plus de morts-vivants, moins chers à relever, et ses propres sorts d'attaque.
+2cd8a4d627|Un mage plus puissant, uniquement de feu et de glace, aux effets larges et dévastateurs.
+0de129f21b|Un tank qui frappe d'autant plus fort qu'il perd de PV.
+6e05c50e07|Zone d'effet
+e64ff22d49|<strong>Armure :</strong> Légère, Robe
+6979183a3f|<strong>Armure :</strong> Moyenne, Robe
+2bcacb29c1|<strong>Armure :</strong> Robe, Lourde
+cc749ad3db|Dégâts à mesure que les PV baissent
+7ea160acef|<p>Mourir ⟦1⟧ fois dans ⟦2⟧ donjons différents (faut-il peut-être les terminer ?) (signalé par la communauté)</p>
+e694f08fc9|Recharge plus rapide
+86fe4b03b1|Combat au corps à corps avec une lame imprégnée de sorts.
+aa2dfdf8e7|Dégâts énormes, esquive la plupart des coups, vole de la vie à chaque entaille.
+950272671c|Dégâts énormes, esquive la plupart des coups, ne soigne et ne booste que lui-même.
+79f1398d3c|<p>Dans la fenêtre de classe, elle est décrite ainsi : <em>Un tank qui frappe plus fort quand il est blessé</em>.</p>
+05084f0f88|<p>Dans la fenêtre de classe, elle est décrite ainsi : <em>Magie de zone · feu et glace</em>.</p>
+4321bd58ac|<p>Dans la fenêtre de classe, elle est décrite ainsi : <em>Aucune classe · tout est plus fort</em>.</p>
+146b90cda6|<p>Dans la fenêtre de classe, elle est décrite ainsi : <em>Épée et magie · corps à corps</em>.</p>
+a315a338f8|<p>Dans la fenêtre de classe, elle est décrite ainsi : <em>Invocations · sorts d'attaque</em>.</p>
+524a8d784d|<p>Dans la fenêtre de classe, elle est décrite ainsi : <em>Dégâts · vole de la vie</em>.</p>
+6d2807e26f|<p>Dans la fenêtre de classe, elle est décrite ainsi : <em>Dégâts · esquives · se soigne seul</em>.</p>
+7e8552e2c2|<p>Dans la fenêtre de classe, elle est décrite ainsi : <em>Mobilité · frappe depuis les failles</em>.</p>
+21a8d089c5|<p>Elle n'a pas d'arbre de compétences propre : elle utilise l'arbre général, ouvert à toutes les classes.</p>
+c535d10aa1|<p>C'est l'une des <strong>classes spéciales</strong> : on ne peut pas les choisir librement, il faut les mériter.</p>
+365a55c92b|<p>Niveau ⟦1⟧ et humain de rang S (signalé par la communauté)</p>
+417f106adb|Vol de vie
+609c55b43a|Mana pour relever les morts
+10d8b63fc6|Puissance des compétences générales
+1efea091c8|Des failles partout : courts sauts, frappes depuis les failles, ennemis projetés en l'air puis lâchés.
+7be40b1959|<p>Comme le Reaper, mais en tant que support (signalé par la communauté)</p>
+17c9629794|<p><strong>Arbres de compétences :</strong> Général, ⟦1⟧.</p>
+4b823db32c|<p><strong>Arbres de compétences :</strong> Général, Feu, Glace, Dualité.</p>
+36226ae7a1|<p><strong>Arbres de compétences :</strong> Général, Nécromancien, ⟦1⟧.</p>
+ef9347e7fd|<p><strong>Arbres de compétences :</strong> Général.</p>
+589a421626|<p>EN SOLO, sans prendre un seul coup, terminer plusieurs donjons de votre rang ou supérieur en tant qu'humain (⟦1⟧-⟦2⟧) (signalé par la communauté)</p>
+0c3a28cce2|<strong>Stats à privilégier :</strong> Intelligence, Force
+9bb84a4731|<strong>Stats à privilégier :</strong> Force, Vitalité, Défense
+d1299ae126|<strong>Stats à privilégier :</strong> Force, Intelligence, Vitalité
+319b40975a|<strong>Stats à privilégier :</strong> Force, Agilité
+6679f7b978|<strong>Stats à privilégier :</strong> Force, Agilité, Esprit
+5866e8ae4d|<strong>Stats à privilégier :</strong> Force, Agilité, Intelligence
+a8aba2514e|<p>Le jeu murmure : <em>« Un mage qui ne sait pas choisir entre brûler et geler. »</em></p>
+9c8172faa8|<p>Le jeu murmure : <em>« Un simple humain, seul dans un donjon, intouchable. »</em></p>
+2b19c24a08|<p>Le jeu murmure : <em>« Un nécromancien qui a tout misé sur son intelligence. »</em></p>
+2f1fdd0d81|<p>Le jeu murmure : <em>« Un bouclier tombé bien des fois... qui a fini par ne plus protéger personne. »</em></p>
+a19280d2d0|<p>Le jeu murmure : <em>« Un support qui se bat seul... et que rien ne touche jamais. »</em></p>
+b936881a91|<p>Le jeu murmure : <em>« Un assassin dont l'intelligence est aussi acérée que sa lame. »</em></p>
+c94eddf840|<p>Le jeu murmure : <em>« Certains humains n'ont jamais eu besoin d'une classe pour atteindre le sommet. »</em></p>
+1a8787f659|<p>Le jeu murmure : <em>« Certains attaquants lisent plus de livres qu'ils ne brisent de crânes. »</em></p>
+cf0ea0fcfc|L'humain qui n'a pas eu besoin d'éveil : les compétences de l'arbre général, bien plus puissantes.
+0b5c2a3c35|<p>L'humain qui n'a pas eu besoin d'éveil : les compétences de l'arbre général, bien plus puissantes.</p>
+6e9f1e136d|<p>Les conditions de déblocage viennent de la communauté et n'ont pas été vérifiées par le wiki original.</p>
+09d1bd3604|<p>Débloquer la compétence ultime dans les arbres de compétences feu et glace (signalé par la communauté)</p>
+e7c8edbd90|<p><strong>Armes et armures :</strong> +⟦1⟧ % de dégâts avec les armes de sa propre classe (classe cachée : celles de sa classe d'origine aussi), +⟦2⟧ % avec celles d'une classe cachée vers laquelle elle mène, -⟦3⟧ % avec celles d'une autre classe (les armes de l'éveillé sans classe et EX / SP : neutres) ; +⟦4⟧ % de PV avec son armure, -⟦5⟧ % avec les autres.</p>
+ca6a44e05a|<strong>Armes :</strong> Lame, Bâton
+487df00113|<strong>Armes :</strong> Dague, Lance
+abedbeec90|<strong>Armes :</strong> Dague, Bâton
+f972bfebbe|<strong>Armes :</strong> Espadon, Marteau
+3374d0d96f|<strong>Armes :</strong> Faux
+84c626da61|<p>Un nécromancien qui ne craint pas même la mort : plus de morts-vivants, moins chers à relever, et ses propres sorts d'attaque.</p>
+37cac7355c|<p>Un mage plus puissant, uniquement de feu et de glace, aux effets larges et dévastateurs.</p>
+61b6dcf1f9|<p>Un tank qui frappe d'autant plus fort qu'il perd de PV.</p>
+73db11b85e|<p>Combat au corps à corps avec une lame imprégnée de sorts.</p>
+4ceda8288b|<p>Dégâts énormes, esquive la plupart des coups, vole de la vie à chaque entaille.</p>
+47be72a05c|<p>Dégâts énormes, esquive la plupart des coups, ne soigne et ne booste que lui-même.</p>
+f5ee28e4ce|<p>Des failles partout : courts sauts, frappes depuis les failles, ennemis projetés en l'air puis lâchés.</p>

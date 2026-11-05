@@ -1,0 +1,2018 @@
+{
+ "reaper": {
+  "sections": [
+   {
+    "id": "overview",
+    "heading": "Overview",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Huge damage, dodges most blows, steals life with every cut.",
+      "html": "<p>Huge damage, dodges most blows, steals life with every cut.</p>"
+     },
+     {
+      "type": "p",
+      "text": "In the class window it is described as: Damage · steals life.",
+      "html": "<p>In the class window it is described as: <em>Damage · steals life</em>.</p>"
+     },
+     {
+      "type": "p",
+      "text": "The game whispers: “A mere human, alone in a dungeon, untouchable.”",
+      "html": "<p>The game whispers: <em>“A mere human, alone in a dungeon, untouchable.”</em></p>"
+     },
+     {
+      "type": "p",
+      "text": "It is one of the special classes: they cannot be picked freely, you have to earn them.",
+      "html": "<p>It is one of the <strong>special classes</strong>: they cannot be picked freely, you have to earn them.</p>"
+     }
+    ]
+   },
+   {
+    "id": "playstyle",
+    "heading": "Playstyle",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "As a reaper you want to take advantage of the lifesteal, therefore glueing yourself to the enemies to keep a constant heal going is the common way of playing reaper.",
+      "html": "<p>As a reaper you want to take advantage of the lifesteal, therefore glueing yourself to the enemies to keep a constant heal going is the common way of playing reaper.</p>"
+     },
+     {
+      "type": "p",
+      "text": "Once you are a high level reaper its reccomended to put enough points in perception to keep 75% critical and have enough agility to keep a 60% evasion, then put the rest of the points into strength.",
+      "html": "<p>Once you are a high level reaper its reccomended to put enough points in perception to keep 75% critical and have enough agility to keep a 60% evasion, then put the rest of the points into strength.</p>"
+     },
+     {
+      "type": "p",
+      "text": "Some users have experimented using SP and EX rank staffs to avoid the class debuff and play as a reaper-mage.",
+      "html": "<p>Some users have experimented using SP and EX rank staffs to avoid the class debuff and play as a reaper-mage.</p>"
+     }
+    ]
+   },
+   {
+    "id": "bonuses",
+    "heading": "Bonuses",
+    "blocks": [
+     {
+      "type": "table",
+      "headers": [
+       "Bonus",
+       "Value"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Damage"
+        },
+        {
+         "text": "+30%"
+        }
+       ],
+       [
+        {
+         "text": "Evasion"
+        },
+        {
+         "text": "+25%"
+        }
+       ],
+       [
+        {
+         "text": "Life steal"
+        },
+        {
+         "text": "+10%"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Bonus</th><th>Value</th></tr></thead><tbody><tr><td>Damage</td><td>+30%</td></tr><tr><td>Evasion</td><td>+25%</td></tr><tr><td>Life steal</td><td>+10%</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Weapons and armor: +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+      "html": "<p><strong>Weapons and armor:</strong> +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.</p>"
+     }
+    ]
+   },
+   {
+    "id": "equipment",
+    "heading": "Equipment",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Weapons: Scythe",
+       "Armor: Light",
+       "Stats to focus: Strength, Agility",
+       "Level cap: 999"
+      ],
+      "html": "<ul><li><strong>Weapons:</strong> Scythe</li><li><strong>Armor:</strong> Light</li><li><strong>Stats to focus:</strong> Strength, Agility</li><li><strong>Level cap:</strong> 999</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "skills",
+    "heading": "Skills",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Skills of the Reaper tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.",
+      "html": "<p>Skills of the Reaper tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.</p>"
+     },
+     {
+      "type": "table",
+      "headers": [
+       "Skill",
+       "Element",
+       "Cooldown",
+       "Damage"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Death's Step",
+         "href": "/en/w/overrank/skills/deaths-step"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "8 s"
+        },
+        {
+         "text": "260% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Final Harvest",
+         "href": "/en/w/overrank/skills/final-harvest"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "45 s"
+        },
+        {
+         "text": "650% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Grim Mark",
+         "href": "/en/w/overrank/skills/grim-mark"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "14 s"
+        },
+        {
+         "text": "380% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Harvest",
+         "href": "/en/w/overrank/skills/harvest"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "12 s"
+        },
+        {
+         "text": "100% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Scythe Throw",
+         "href": "/en/w/overrank/skills/scythe-throw"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "8 s"
+        },
+        {
+         "text": "240% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Soul Reap",
+         "href": "/en/w/overrank/skills/soul-reap"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "6 s"
+        },
+        {
+         "text": "200% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Wraith Form",
+         "href": "/en/w/overrank/skills/wraith-form"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "24 s"
+        },
+        {
+         "text": "-"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Skill</th><th>Element</th><th>Cooldown</th><th>Damage</th></tr></thead><tbody><tr><td><a href=\"/en/w/overrank/skills/deaths-step\">Death's Step</a></td><td>Void</td><td>8 s</td><td>260% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/final-harvest\">Final Harvest</a></td><td>Void</td><td>45 s</td><td>650% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/grim-mark\">Grim Mark</a></td><td>Void</td><td>14 s</td><td>380% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/harvest\">Harvest</a></td><td>Void</td><td>12 s</td><td>100% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/scythe-throw\">Scythe Throw</a></td><td>Void</td><td>8 s</td><td>240% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/soul-reap\">Soul Reap</a></td><td>Void</td><td>6 s</td><td>200% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/wraith-form\">Wraith Form</a></td><td>Void</td><td>24 s</td><td>-</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Skill trees: General, Reaper.",
+      "html": "<p><strong>Skill trees:</strong> General, Reaper.</p>"
+     }
+    ]
+   },
+   {
+    "id": "passives",
+    "heading": "Passives",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Grim Edge: +5% damage, +6% max mana, +4% mana regeneration per level (up to +25% damage, +30% max mana, +20% mana regeneration)",
+       "Phantom: +3% evasion per level (up to +9% evasion)",
+       "Reaper's Toll: +10% critical damage per level (up to +20% critical damage)",
+       "Soul Hunger: +1% life steal per level (up to +5% life steal)"
+      ],
+      "html": "<ul><li><a href=\"/en/w/overrank/passives/grim-edge\">Grim Edge</a>: +5% damage, +6% max mana, +4% mana regeneration per level (up to +25% damage, +30% max mana, +20% mana regeneration)</li><li><a href=\"/en/w/overrank/passives/phantom\">Phantom</a>: +3% evasion per level (up to +9% evasion)</li><li><a href=\"/en/w/overrank/passives/reapers-toll\">Reaper's Toll</a>: +10% critical damage per level (up to +20% critical damage)</li><li><a href=\"/en/w/overrank/passives/soul-hunger\">Soul Hunger</a>: +1% life steal per level (up to +5% life steal)</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "how-to-unlock",
+    "heading": "How to unlock",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "SOLO, no-hit, clear multiple dungeons of your same rank or above as a human (2-5) (community-reported)",
+      "html": "<p>SOLO, no-hit, clear multiple dungeons of your same rank or above as a human (2-5) (community-reported)</p>"
+     },
+     {
+      "type": "p",
+      "text": "Unlock conditions come from the community and have not been verified by the original wiki.",
+      "html": "<p>Unlock conditions come from the community and have not been verified by the original wiki.</p>"
+     }
+    ]
+   },
+   {
+    "id": "class-card",
+    "heading": "Class card",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "",
+      "html": "<p><img alt=\"reaper class card\" src=\"/api/media/entry/2026/11/1a5a7bdc-ad98-4f73-9594-ab62624c48dd.png\"/></p>"
+     }
+    ]
+   },
+   {
+    "id": "gear",
+    "heading": "Gear",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Level 500 milestone reward for reaper (stars not included)",
+      "html": "<p>Level 500 milestone reward for reaper (stars not included)</p>"
+     },
+     {
+      "type": "p",
+      "text": "",
+      "html": "<p><img alt=\"image of level 500 milestone scythe\" src=\"/api/media/entry/2026/11/5c427ad5-5680-491a-bb8f-b24eb0b4aa57.png\"/></p>"
+     },
+     {
+      "type": "p",
+      "text": "Last milestone reward for reaper Note: Only the weapon from rewards is garuanteed to be your class.",
+      "html": "<p>Last milestone reward for reaper <img alt=\"image of EX rank scythe\" src=\"/api/media/entry/2026/11/9331237f-261d-445d-b848-90f8dede6617.png\"/> Note: Only the weapon from rewards is garuanteed to be your class.</p>"
+     }
+    ]
+   }
+  ],
+  "infobox_fill": {
+   "Role": "Melee",
+   "Difficulty": "Hard"
+  },
+  "incomplete_at_source": false
+ },
+ "survivor": {
+  "sections": [
+   {
+    "id": "overview",
+    "heading": "Overview",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Huge damage, dodges most blows, heals and boosts himself only.",
+      "html": "<p>Huge damage, dodges most blows, heals and boosts himself only.</p>"
+     },
+     {
+      "type": "p",
+      "text": "In the class window it is described as: Damage · dodges · heals alone.",
+      "html": "<p>In the class window it is described as: <em>Damage · dodges · heals alone</em>.</p>"
+     },
+     {
+      "type": "p",
+      "text": "The game whispers: “A support who fights alone... and whom nothing ever touches.”",
+      "html": "<p>The game whispers: <em>“A support who fights alone... and whom nothing ever touches.”</em></p>"
+     },
+     {
+      "type": "p",
+      "text": "It is one of the special classes: they cannot be picked freely, you have to earn them.",
+      "html": "<p>It is one of the <strong>special classes</strong>: they cannot be picked freely, you have to earn them.</p>"
+     }
+    ]
+   },
+   {
+    "id": "bonuses",
+    "heading": "Bonuses",
+    "blocks": [
+     {
+      "type": "table",
+      "headers": [
+       "Bonus",
+       "Value"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Damage"
+        },
+        {
+         "text": "+15%"
+        }
+       ],
+       [
+        {
+         "text": "Evasion"
+        },
+        {
+         "text": "+30%"
+        }
+       ],
+       [
+        {
+         "text": "Heals and boosts"
+        },
+        {
+         "text": "+20%"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Bonus</th><th>Value</th></tr></thead><tbody><tr><td>Damage</td><td>+15%</td></tr><tr><td>Evasion</td><td>+30%</td></tr><tr><td>Heals and boosts</td><td>+20%</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Weapons and armor: +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+      "html": "<p><strong>Weapons and armor:</strong> +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.</p>"
+     }
+    ]
+   },
+   {
+    "id": "equipment",
+    "heading": "Equipment",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Weapons: Dagger, Spear",
+       "Armor: Light",
+       "Stats to focus: Strength, Agility, Spirit",
+       "Level cap: 999"
+      ],
+      "html": "<ul><li><strong>Weapons:</strong> Dagger, Spear</li><li><strong>Armor:</strong> Light</li><li><strong>Stats to focus:</strong> Strength, Agility, Spirit</li><li><strong>Level cap:</strong> 999</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "skills",
+    "heading": "Skills",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Skills of the Survivor tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.",
+      "html": "<p>Skills of the Survivor tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.</p>"
+     },
+     {
+      "type": "table",
+      "headers": [
+       "Skill",
+       "Element",
+       "Cooldown",
+       "Damage"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Adrenaline",
+         "href": "/en/w/overrank/skills/adrenaline"
+        },
+        {
+         "text": "Wind"
+        },
+        {
+         "text": "18 s"
+        },
+        {
+         "text": "heals / shields 20% of max HP"
+        }
+       ],
+       [
+        {
+         "text": "Evasive Strike",
+         "href": "/en/w/overrank/skills/evasive-strike"
+        },
+        {
+         "text": "Wind"
+        },
+        {
+         "text": "6 s"
+        },
+        {
+         "text": "240% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Awakened Instinct",
+         "href": "/en/w/overrank/skills/hunter-instinct"
+        },
+        {
+         "text": "Wind"
+        },
+        {
+         "text": "22 s"
+        },
+        {
+         "text": "-"
+        }
+       ],
+       [
+        {
+         "text": "Last Stand",
+         "href": "/en/w/overrank/skills/last-stand"
+        },
+        {
+         "text": "Wind"
+        },
+        {
+         "text": "30 s"
+        },
+        {
+         "text": "heals / shields 35% of max HP"
+        }
+       ],
+       [
+        {
+         "text": "Relentless",
+         "href": "/en/w/overrank/skills/relentless"
+        },
+        {
+         "text": "Wind"
+        },
+        {
+         "text": "14 s"
+        },
+        {
+         "text": "90% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Second Skin",
+         "href": "/en/w/overrank/skills/second-skin"
+        },
+        {
+         "text": "Wind"
+        },
+        {
+         "text": "18 s"
+        },
+        {
+         "text": "heals / shields 25% of max HP"
+        }
+       ],
+       [
+        {
+         "text": "Unkillable",
+         "href": "/en/w/overrank/skills/unkillable"
+        },
+        {
+         "text": "Wind"
+        },
+        {
+         "text": "55 s"
+        },
+        {
+         "text": "-"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Skill</th><th>Element</th><th>Cooldown</th><th>Damage</th></tr></thead><tbody><tr><td><a href=\"/en/w/overrank/skills/adrenaline\">Adrenaline</a></td><td>Wind</td><td>18 s</td><td>heals / shields 20% of max HP</td></tr><tr><td><a href=\"/en/w/overrank/skills/evasive-strike\">Evasive Strike</a></td><td>Wind</td><td>6 s</td><td>240% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/hunter-instinct\">Awakened Instinct</a></td><td>Wind</td><td>22 s</td><td>-</td></tr><tr><td><a href=\"/en/w/overrank/skills/last-stand\">Last Stand</a></td><td>Wind</td><td>30 s</td><td>heals / shields 35% of max HP</td></tr><tr><td><a href=\"/en/w/overrank/skills/relentless\">Relentless</a></td><td>Wind</td><td>14 s</td><td>90% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/second-skin\">Second Skin</a></td><td>Wind</td><td>18 s</td><td>heals / shields 25% of max HP</td></tr><tr><td><a href=\"/en/w/overrank/skills/unkillable\">Unkillable</a></td><td>Wind</td><td>55 s</td><td>-</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Skill trees: General, Survivor.",
+      "html": "<p><strong>Skill trees:</strong> General, Survivor.</p>"
+     }
+    ]
+   },
+   {
+    "id": "passives",
+    "heading": "Passives",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Predator: +4% damage, +6% max mana, +4% mana regeneration per level (up to +20% damage, +30% max mana, +20% mana regeneration)",
+       "Reflexes: +2% evasion per level (up to +10% evasion)",
+       "Self-Care: +8% heals and boosts per level (up to +24% heals and boosts)",
+       "Survival Instinct: +2% evasion, +0.4% of max HP per second per level (up to +4% evasion, +0.8% of max HP per second)"
+      ],
+      "html": "<ul><li><a href=\"/en/w/overrank/passives/predator\">Predator</a>: +4% damage, +6% max mana, +4% mana regeneration per level (up to +20% damage, +30% max mana, +20% mana regeneration)</li><li><a href=\"/en/w/overrank/passives/reflexes\">Reflexes</a>: +2% evasion per level (up to +10% evasion)</li><li><a href=\"/en/w/overrank/passives/self-care\">Self-Care</a>: +8% heals and boosts per level (up to +24% heals and boosts)</li><li><a href=\"/en/w/overrank/passives/survival-instinct\">Survival Instinct</a>: +2% evasion, +0.4% of max HP per second per level (up to +4% evasion, +0.8% of max HP per second)</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "how-to-unlock",
+    "heading": "How to unlock",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Same as Reaper, just as a support (community-reported)",
+      "html": "<p>Same as Reaper, just as a support (community-reported)</p>"
+     },
+     {
+      "type": "p",
+      "text": "Unlock conditions come from the community and have not been verified by the original wiki.",
+      "html": "<p>Unlock conditions come from the community and have not been verified by the original wiki.</p>"
+     }
+    ]
+   }
+  ],
+  "infobox_fill": {},
+  "incomplete_at_source": false
+ },
+ "magic-attacker": {
+  "sections": [
+   {
+    "id": "overview",
+    "heading": "Overview",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Fights up close with a blade soaked in spells.",
+      "html": "<p>Fights up close with a blade soaked in spells.</p>"
+     },
+     {
+      "type": "p",
+      "text": "In the class window it is described as: Sword and magic · melee.",
+      "html": "<p>In the class window it is described as: <em>Sword and magic · melee</em>.</p>"
+     },
+     {
+      "type": "p",
+      "text": "The game whispers: “Some attackers read more books than they break skulls.”",
+      "html": "<p>The game whispers: <em>“Some attackers read more books than they break skulls.”</em></p>"
+     },
+     {
+      "type": "p",
+      "text": "It is one of the special classes: they cannot be picked freely, you have to earn them.",
+      "html": "<p>It is one of the <strong>special classes</strong>: they cannot be picked freely, you have to earn them.</p>"
+     }
+    ]
+   },
+   {
+    "id": "bonuses",
+    "heading": "Bonuses",
+    "blocks": [
+     {
+      "type": "table",
+      "headers": [
+       "Bonus",
+       "Value"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Damage"
+        },
+        {
+         "text": "+10%"
+        }
+       ],
+       [
+        {
+         "text": "Max HP"
+        },
+        {
+         "text": "+10%"
+        }
+       ],
+       [
+        {
+         "text": "Magic damage"
+        },
+        {
+         "text": "+15%"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Bonus</th><th>Value</th></tr></thead><tbody><tr><td>Damage</td><td>+10%</td></tr><tr><td>Max HP</td><td>+10%</td></tr><tr><td>Magic damage</td><td>+15%</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Weapons and armor: +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+      "html": "<p><strong>Weapons and armor:</strong> +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.</p>"
+     }
+    ]
+   },
+   {
+    "id": "equipment",
+    "heading": "Equipment",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Weapons: Blade, Staff",
+       "Armor: Medium, Robe",
+       "Stats to focus: Strength, Intelligence, Vitality",
+       "Level cap: 999"
+      ],
+      "html": "<ul><li><strong>Weapons:</strong> Blade, Staff</li><li><strong>Armor:</strong> Medium, Robe</li><li><strong>Stats to focus:</strong> Strength, Intelligence, Vitality</li><li><strong>Level cap:</strong> 999</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "skills",
+    "heading": "Skills",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Skills of the Spellblade tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.",
+      "html": "<p>Skills of the Spellblade tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.</p>"
+     },
+     {
+      "type": "table",
+      "headers": [
+       "Skill",
+       "Element",
+       "Cooldown",
+       "Damage"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Arcane Surge",
+         "href": "/en/w/overrank/skills/arcane-surge"
+        },
+        {
+         "text": "Arcane"
+        },
+        {
+         "text": "11 s"
+        },
+        {
+         "text": "180% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Astral Execution",
+         "href": "/en/w/overrank/skills/astral-execution"
+        },
+        {
+         "text": "Arcane"
+        },
+        {
+         "text": "40 s"
+        },
+        {
+         "text": "140% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Flame Edge",
+         "href": "/en/w/overrank/skills/flame-edge"
+        },
+        {
+         "text": "Fire"
+        },
+        {
+         "text": "9 s"
+        },
+        {
+         "text": "180% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Frost Edge",
+         "href": "/en/w/overrank/skills/frost-edge"
+        },
+        {
+         "text": "Ice"
+        },
+        {
+         "text": "9 s"
+        },
+        {
+         "text": "200% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Mana Blade",
+         "href": "/en/w/overrank/skills/mana-blade"
+        },
+        {
+         "text": "Arcane"
+        },
+        {
+         "text": "22 s"
+        },
+        {
+         "text": "-"
+        }
+       ],
+       [
+        {
+         "text": "Spellblade",
+         "href": "/en/w/overrank/skills/spellblade"
+        },
+        {
+         "text": "Arcane"
+        },
+        {
+         "text": "6 s"
+        },
+        {
+         "text": "220% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Thunder Blade",
+         "href": "/en/w/overrank/skills/thunder-blade"
+        },
+        {
+         "text": "Lightning"
+        },
+        {
+         "text": "14 s"
+        },
+        {
+         "text": "300% of magic power"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Skill</th><th>Element</th><th>Cooldown</th><th>Damage</th></tr></thead><tbody><tr><td><a href=\"/en/w/overrank/skills/arcane-surge\">Arcane Surge</a></td><td>Arcane</td><td>11 s</td><td>180% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/astral-execution\">Astral Execution</a></td><td>Arcane</td><td>40 s</td><td>140% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/flame-edge\">Flame Edge</a></td><td>Fire</td><td>9 s</td><td>180% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/frost-edge\">Frost Edge</a></td><td>Ice</td><td>9 s</td><td>200% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/mana-blade\">Mana Blade</a></td><td>Arcane</td><td>22 s</td><td>-</td></tr><tr><td><a href=\"/en/w/overrank/skills/spellblade\">Spellblade</a></td><td>Arcane</td><td>6 s</td><td>220% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/thunder-blade\">Thunder Blade</a></td><td>Lightning</td><td>14 s</td><td>300% of magic power</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Skill trees: General, Spellblade.",
+      "html": "<p><strong>Skill trees:</strong> General, Spellblade.</p>"
+     }
+    ]
+   },
+   {
+    "id": "passives",
+    "heading": "Passives",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Battle Mage: +3% max HP, +3% max mana per level (up to +15% max HP, +15% max mana)",
+       "Resonance: +3% faster cooldowns per level (up to +9% faster cooldowns)",
+       "Runic Steel: +3% magic damage per level (up to +15% magic damage)",
+       "Spell Armor: +3% damage reduction per level (up to +6% damage reduction)"
+      ],
+      "html": "<ul><li><a href=\"/en/w/overrank/passives/battle-mage\">Battle Mage</a>: +3% max HP, +3% max mana per level (up to +15% max HP, +15% max mana)</li><li><a href=\"/en/w/overrank/passives/resonance\">Resonance</a>: +3% faster cooldowns per level (up to +9% faster cooldowns)</li><li><a href=\"/en/w/overrank/passives/runic-steel\">Runic Steel</a>: +3% magic damage per level (up to +15% magic damage)</li><li><a href=\"/en/w/overrank/passives/spell-armor\">Spell Armor</a>: +3% damage reduction per level (up to +6% damage reduction)</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "how-to-unlock",
+    "heading": "How to unlock",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "105 points in int as an attacker (community-reported)",
+      "html": "<p>105 points in int as an attacker (community-reported)</p>"
+     },
+     {
+      "type": "p",
+      "text": "Unlock conditions come from the community and have not been verified by the original wiki.",
+      "html": "<p>Unlock conditions come from the community and have not been verified by the original wiki.</p>"
+     }
+    ]
+   }
+  ],
+  "infobox_fill": {},
+  "incomplete_at_source": false
+ },
+ "warper": {
+  "sections": [
+   {
+    "id": "overview",
+    "heading": "Overview",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Rifts everywhere: short jumps, strikes from rifts, enemies thrown up and dropped.",
+      "html": "<p>Rifts everywhere: short jumps, strikes from rifts, enemies thrown up and dropped.</p>"
+     },
+     {
+      "type": "p",
+      "text": "In the class window it is described as: Mobility · strikes from rifts.",
+      "html": "<p>In the class window it is described as: <em>Mobility · strikes from rifts</em>.</p>"
+     },
+     {
+      "type": "p",
+      "text": "The game whispers: “An assassin whose intelligence is as sharp as his blade.”",
+      "html": "<p>The game whispers: <em>“An assassin whose intelligence is as sharp as his blade.”</em></p>"
+     },
+     {
+      "type": "p",
+      "text": "It is one of the special classes: they cannot be picked freely, you have to earn them.",
+      "html": "<p>It is one of the <strong>special classes</strong>: they cannot be picked freely, you have to earn them.</p>"
+     }
+    ]
+   },
+   {
+    "id": "bonuses",
+    "heading": "Bonuses",
+    "blocks": [
+     {
+      "type": "table",
+      "headers": [
+       "Bonus",
+       "Value"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Faster cooldowns"
+        },
+        {
+         "text": "+15%"
+        }
+       ],
+       [
+        {
+         "text": "Damage"
+        },
+        {
+         "text": "+10%"
+        }
+       ],
+       [
+        {
+         "text": "Evasion"
+        },
+        {
+         "text": "+8%"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Bonus</th><th>Value</th></tr></thead><tbody><tr><td>Faster cooldowns</td><td>+15%</td></tr><tr><td>Damage</td><td>+10%</td></tr><tr><td>Evasion</td><td>+8%</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Weapons and armor: +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+      "html": "<p><strong>Weapons and armor:</strong> +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.</p>"
+     }
+    ]
+   },
+   {
+    "id": "equipment",
+    "heading": "Equipment",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Weapons: Dagger, Staff",
+       "Armor: Light, Robe",
+       "Stats to focus: Strength, Agility, Intelligence",
+       "Level cap: 999"
+      ],
+      "html": "<ul><li><strong>Weapons:</strong> Dagger, Staff</li><li><strong>Armor:</strong> Light, Robe</li><li><strong>Stats to focus:</strong> Strength, Agility, Intelligence</li><li><strong>Level cap:</strong> 999</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "skills",
+    "heading": "Skills",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Skills of the Warper tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.",
+      "html": "<p>Skills of the Warper tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.</p>"
+     },
+     {
+      "type": "table",
+      "headers": [
+       "Skill",
+       "Element",
+       "Cooldown",
+       "Damage"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Blink",
+         "href": "/en/w/overrank/skills/blink"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "5 s"
+        },
+        {
+         "text": "126% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Dimension Rend",
+         "href": "/en/w/overrank/skills/dimension-rend"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "45 s"
+        },
+        {
+         "text": "525% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Dimensional Prison",
+         "href": "/en/w/overrank/skills/dimensional-prison"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "18 s"
+        },
+        {
+         "text": "252% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Gate Barrage",
+         "href": "/en/w/overrank/skills/gate-barrage"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "15 s"
+        },
+        {
+         "text": "137% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Rift Strike",
+         "href": "/en/w/overrank/skills/portal-strike"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "8 s"
+        },
+        {
+         "text": "273% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Rift Swap",
+         "href": "/en/w/overrank/skills/rift-swap"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "10 s"
+        },
+        {
+         "text": "231% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Rift Tear",
+         "href": "/en/w/overrank/skills/rift-tear"
+        },
+        {
+         "text": "-"
+        },
+        {
+         "text": "1800 s"
+        },
+        {
+         "text": "-"
+        }
+       ],
+       [
+        {
+         "text": "Skyfall",
+         "href": "/en/w/overrank/skills/skyfall"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "12 s"
+        },
+        {
+         "text": "294% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Void Anchor",
+         "href": "/en/w/overrank/skills/void-anchor"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "18 s"
+        },
+        {
+         "text": "63% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Void Tether",
+         "href": "/en/w/overrank/skills/void-tether"
+        },
+        {
+         "text": "Void"
+        },
+        {
+         "text": "9 s"
+        },
+        {
+         "text": "210% of physical power"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Skill</th><th>Element</th><th>Cooldown</th><th>Damage</th></tr></thead><tbody><tr><td><a href=\"/en/w/overrank/skills/blink\">Blink</a></td><td>Void</td><td>5 s</td><td>126% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/dimension-rend\">Dimension Rend</a></td><td>Void</td><td>45 s</td><td>525% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/dimensional-prison\">Dimensional Prison</a></td><td>Void</td><td>18 s</td><td>252% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/gate-barrage\">Gate Barrage</a></td><td>Void</td><td>15 s</td><td>137% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/portal-strike\">Rift Strike</a></td><td>Void</td><td>8 s</td><td>273% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/rift-swap\">Rift Swap</a></td><td>Void</td><td>10 s</td><td>231% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/rift-tear\">Rift Tear</a></td><td>-</td><td>1800 s</td><td>-</td></tr><tr><td><a href=\"/en/w/overrank/skills/skyfall\">Skyfall</a></td><td>Void</td><td>12 s</td><td>294% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/void-anchor\">Void Anchor</a></td><td>Void</td><td>18 s</td><td>63% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/void-tether\">Void Tether</a></td><td>Void</td><td>9 s</td><td>210% of physical power</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Skill trees: General, Warper.",
+      "html": "<p><strong>Skill trees:</strong> General, Warper.</p>"
+     }
+    ]
+   },
+   {
+    "id": "passives",
+    "heading": "Passives",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Phase Shift: +2% evasion per level (up to +10% evasion)",
+       "Spatial Sense: +3% critical chance, +5% max mana per level (up to +6% critical chance, +10% max mana)",
+       "Void Edge: +3% damage per level (up to +15% damage)",
+       "Warp Mastery: +3% faster cooldowns per level (up to +9% faster cooldowns)"
+      ],
+      "html": "<ul><li><a href=\"/en/w/overrank/passives/phase-shift\">Phase Shift</a>: +2% evasion per level (up to +10% evasion)</li><li><a href=\"/en/w/overrank/passives/spatial-sense\">Spatial Sense</a>: +3% critical chance, +5% max mana per level (up to +6% critical chance, +10% max mana)</li><li><a href=\"/en/w/overrank/passives/void-edge\">Void Edge</a>: +3% damage per level (up to +15% damage)</li><li><a href=\"/en/w/overrank/passives/warp-mastery\">Warp Mastery</a>: +3% faster cooldowns per level (up to +9% faster cooldowns)</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "how-to-unlock",
+    "heading": "How to unlock",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "105 points in int as assassin (community-reported)",
+      "html": "<p>105 points in int as assassin (community-reported)</p>"
+     },
+     {
+      "type": "p",
+      "text": "Unlock conditions come from the community and have not been verified by the original wiki.",
+      "html": "<p>Unlock conditions come from the community and have not been verified by the original wiki.</p>"
+     }
+    ]
+   }
+  ],
+  "infobox_fill": {},
+  "incomplete_at_source": false
+ },
+ "chad": {
+  "sections": [
+   {
+    "id": "overview",
+    "heading": "Overview",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "The human who needed no awakening: the General tree's skills, far stronger.",
+      "html": "<p>The human who needed no awakening: the General tree's skills, far stronger.</p>"
+     },
+     {
+      "type": "p",
+      "text": "In the class window it is described as: No class · everything stronger.",
+      "html": "<p>In the class window it is described as: <em>No class · everything stronger</em>.</p>"
+     },
+     {
+      "type": "p",
+      "text": "The game whispers: “Some humans never needed a class to reach the top.”",
+      "html": "<p>The game whispers: <em>“Some humans never needed a class to reach the top.”</em></p>"
+     },
+     {
+      "type": "p",
+      "text": "It is one of the special classes: they cannot be picked freely, you have to earn them.",
+      "html": "<p>It is one of the <strong>special classes</strong>: they cannot be picked freely, you have to earn them.</p>"
+     }
+    ]
+   },
+   {
+    "id": "bonuses",
+    "heading": "Bonuses",
+    "blocks": [
+     {
+      "type": "table",
+      "headers": [
+       "Bonus",
+       "Value"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Power of General skills"
+        },
+        {
+         "text": "+50%"
+        }
+       ],
+       [
+        {
+         "text": "All stats"
+        },
+        {
+         "text": "+15%"
+        }
+       ],
+       [
+        {
+         "text": "Experience"
+        },
+        {
+         "text": "+10%"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Bonus</th><th>Value</th></tr></thead><tbody><tr><td>Power of General skills</td><td>+50%</td></tr><tr><td>All stats</td><td>+15%</td></tr><tr><td>Experience</td><td>+10%</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Weapons and armor: +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+      "html": "<p><strong>Weapons and armor:</strong> +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.</p>"
+     }
+    ]
+   },
+   {
+    "id": "equipment",
+    "heading": "Equipment",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Weapons: Greatsword, Hammer",
+       "Stats to focus: All",
+       "Level cap: 999"
+      ],
+      "html": "<ul><li><strong>Weapons:</strong> Greatsword, Hammer</li><li><strong>Stats to focus:</strong> All</li><li><strong>Level cap:</strong> 999</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "skills",
+    "heading": "Skills",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "It has no skill tree of its own: it uses the General tree, open to every class.",
+      "html": "<p>It has no skill tree of its own: it uses the General tree, open to every class.</p>"
+     },
+     {
+      "type": "p",
+      "text": "Skill trees: General.",
+      "html": "<p><strong>Skill trees:</strong> General.</p>"
+     }
+    ]
+   },
+   {
+    "id": "how-to-unlock",
+    "heading": "How to unlock",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Level 100 and S rank human (community-reported)",
+      "html": "<p>Level 100 and S rank human (community-reported)</p>"
+     },
+     {
+      "type": "p",
+      "text": "Unlock conditions come from the community and have not been verified by the original wiki.",
+      "html": "<p>Unlock conditions come from the community and have not been verified by the original wiki.</p>"
+     }
+    ]
+   }
+  ],
+  "infobox_fill": {},
+  "incomplete_at_source": false
+ },
+ "berserker": {
+  "sections": [
+   {
+    "id": "overview",
+    "heading": "Overview",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "A tank that hits harder the more HP it loses.",
+      "html": "<p>A tank that hits harder the more HP it loses.</p>"
+     },
+     {
+      "type": "p",
+      "text": "In the class window it is described as: A tank that hits harder when hurt.",
+      "html": "<p>In the class window it is described as: <em>A tank that hits harder when hurt</em>.</p>"
+     },
+     {
+      "type": "p",
+      "text": "The game whispers: “A shield that fell many times... and stopped protecting anyone.”",
+      "html": "<p>The game whispers: <em>“A shield that fell many times... and stopped protecting anyone.”</em></p>"
+     },
+     {
+      "type": "p",
+      "text": "It is one of the special classes: they cannot be picked freely, you have to earn them.",
+      "html": "<p>It is one of the <strong>special classes</strong>: they cannot be picked freely, you have to earn them.</p>"
+     }
+    ]
+   },
+   {
+    "id": "bonuses",
+    "heading": "Bonuses",
+    "blocks": [
+     {
+      "type": "table",
+      "headers": [
+       "Bonus",
+       "Value"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Max HP"
+        },
+        {
+         "text": "+20%"
+        }
+       ],
+       [
+        {
+         "text": "Damage as HP runs out"
+        },
+        {
+         "text": "Up to +60%"
+        }
+       ],
+       [
+        {
+         "text": "Damage reduction"
+        },
+        {
+         "text": "+8%"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Bonus</th><th>Value</th></tr></thead><tbody><tr><td>Max HP</td><td>+20%</td></tr><tr><td>Damage as HP runs out</td><td>Up to +60%</td></tr><tr><td>Damage reduction</td><td>+8%</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Weapons and armor: +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+      "html": "<p><strong>Weapons and armor:</strong> +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.</p>"
+     }
+    ]
+   },
+   {
+    "id": "equipment",
+    "heading": "Equipment",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Weapons: Greatsword, Hammer",
+       "Armor: Heavy",
+       "Stats to focus: Strength, Vitality, Defense",
+       "Level cap: 999"
+      ],
+      "html": "<ul><li><strong>Weapons:</strong> Greatsword, Hammer</li><li><strong>Armor:</strong> Heavy</li><li><strong>Stats to focus:</strong> Strength, Vitality, Defense</li><li><strong>Level cap:</strong> 999</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "skills",
+    "heading": "Skills",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Skills of the Berserker tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.",
+      "html": "<p>Skills of the Berserker tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.</p>"
+     },
+     {
+      "type": "table",
+      "headers": [
+       "Skill",
+       "Element",
+       "Cooldown",
+       "Damage"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Berserk",
+         "href": "/en/w/overrank/skills/berserk"
+        },
+        {
+         "text": "Blood"
+        },
+        {
+         "text": "45 s"
+        },
+        {
+         "text": "-"
+        }
+       ],
+       [
+        {
+         "text": "Blood Frenzy",
+         "href": "/en/w/overrank/skills/blood-frenzy"
+        },
+        {
+         "text": "Blood"
+        },
+        {
+         "text": "20 s"
+        },
+        {
+         "text": "-"
+        }
+       ],
+       [
+        {
+         "text": "Bloodlust",
+         "href": "/en/w/overrank/skills/bloodlust"
+        },
+        {
+         "text": "Blood"
+        },
+        {
+         "text": "18 s"
+        },
+        {
+         "text": "heals / shields 15% of max HP"
+        }
+       ],
+       [
+        {
+         "text": "Ground Rupture",
+         "href": "/en/w/overrank/skills/ground-rupture"
+        },
+        {
+         "text": "Blood"
+        },
+        {
+         "text": "10 s"
+        },
+        {
+         "text": "280% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Rampage",
+         "href": "/en/w/overrank/skills/rampage"
+        },
+        {
+         "text": "Blood"
+        },
+        {
+         "text": "14 s"
+        },
+        {
+         "text": "140% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Reckless Swing",
+         "href": "/en/w/overrank/skills/reckless-swing"
+        },
+        {
+         "text": "Blood"
+        },
+        {
+         "text": "6 s"
+        },
+        {
+         "text": "300% of physical power"
+        }
+       ],
+       [
+        {
+         "text": "Unstoppable",
+         "href": "/en/w/overrank/skills/unstoppable"
+        },
+        {
+         "text": "Blood"
+        },
+        {
+         "text": "26 s"
+        },
+        {
+         "text": "-"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Skill</th><th>Element</th><th>Cooldown</th><th>Damage</th></tr></thead><tbody><tr><td><a href=\"/en/w/overrank/skills/berserk\">Berserk</a></td><td>Blood</td><td>45 s</td><td>-</td></tr><tr><td><a href=\"/en/w/overrank/skills/blood-frenzy\">Blood Frenzy</a></td><td>Blood</td><td>20 s</td><td>-</td></tr><tr><td><a href=\"/en/w/overrank/skills/bloodlust\">Bloodlust</a></td><td>Blood</td><td>18 s</td><td>heals / shields 15% of max HP</td></tr><tr><td><a href=\"/en/w/overrank/skills/ground-rupture\">Ground Rupture</a></td><td>Blood</td><td>10 s</td><td>280% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/rampage\">Rampage</a></td><td>Blood</td><td>14 s</td><td>140% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/reckless-swing\">Reckless Swing</a></td><td>Blood</td><td>6 s</td><td>300% of physical power</td></tr><tr><td><a href=\"/en/w/overrank/skills/unstoppable\">Unstoppable</a></td><td>Blood</td><td>26 s</td><td>-</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Skill trees: General, Berserker.",
+      "html": "<p><strong>Skill trees:</strong> General, Berserker.</p>"
+     }
+    ]
+   },
+   {
+    "id": "passives",
+    "heading": "Passives",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Iron Will: +2% damage reduction per level (up to +6% damage reduction)",
+       "Pain Fuels: Up to +6% damage as HP runs out, +6% max mana, +4% mana regeneration per level (up to Up to +30% damage as HP runs out, +30% max mana, +20% mana regeneration)",
+       "Savage: +5% damage per level (up to +10% damage)",
+       "Thick Skull: +4% max HP per level (up to +20% max HP)"
+      ],
+      "html": "<ul><li><a href=\"/en/w/overrank/passives/iron-will\">Iron Will</a>: +2% damage reduction per level (up to +6% damage reduction)</li><li><a href=\"/en/w/overrank/passives/pain-fuels\">Pain Fuels</a>: Up to +6% damage as HP runs out, +6% max mana, +4% mana regeneration per level (up to Up to +30% damage as HP runs out, +30% max mana, +20% mana regeneration)</li><li><a href=\"/en/w/overrank/passives/savage\">Savage</a>: +5% damage per level (up to +10% damage)</li><li><a href=\"/en/w/overrank/passives/thick-skull\">Thick Skull</a>: +4% max HP per level (up to +20% max HP)</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "how-to-unlock",
+    "heading": "How to unlock",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Die 10 times in 10 different dungeons (might have to complete it?) (community-reported)",
+      "html": "<p>Die 10 times in 10 different dungeons (might have to complete it?) (community-reported)</p>"
+     },
+     {
+      "type": "p",
+      "text": "Unlock conditions come from the community and have not been verified by the original wiki.",
+      "html": "<p>Unlock conditions come from the community and have not been verified by the original wiki.</p>"
+     }
+    ]
+   }
+  ],
+  "infobox_fill": {},
+  "incomplete_at_source": false
+ },
+ "overlord": {
+  "sections": [
+   {
+    "id": "overview",
+    "heading": "Overview",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "A necromancer who fears not even death: more undead, cheaper to raise, and attack spells of his own.",
+      "html": "<p>A necromancer who fears not even death: more undead, cheaper to raise, and attack spells of his own.</p>"
+     },
+     {
+      "type": "p",
+      "text": "In the class window it is described as: Summons · attack spells.",
+      "html": "<p>In the class window it is described as: <em>Summons · attack spells</em>.</p>"
+     },
+     {
+      "type": "p",
+      "text": "The game whispers: “A necromancer who bet everything on his intelligence.”",
+      "html": "<p>The game whispers: <em>“A necromancer who bet everything on his intelligence.”</em></p>"
+     },
+     {
+      "type": "p",
+      "text": "It is one of the special classes: they cannot be picked freely, you have to earn them.",
+      "html": "<p>It is one of the <strong>special classes</strong>: they cannot be picked freely, you have to earn them.</p>"
+     }
+    ]
+   },
+   {
+    "id": "bonuses",
+    "heading": "Bonuses",
+    "blocks": [
+     {
+      "type": "table",
+      "headers": [
+       "Bonus",
+       "Value"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Damage"
+        },
+        {
+         "text": "+10%"
+        }
+       ],
+       [
+        {
+         "text": "Magic damage"
+        },
+        {
+         "text": "+20%"
+        }
+       ],
+       [
+        {
+         "text": "Max mana"
+        },
+        {
+         "text": "+30%"
+        }
+       ],
+       [
+        {
+         "text": "Mana to raise the dead"
+        },
+        {
+         "text": "-30%"
+        }
+       ],
+       [
+        {
+         "text": "Undead power"
+        },
+        {
+         "text": "+25%"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Bonus</th><th>Value</th></tr></thead><tbody><tr><td>Damage</td><td>+10%</td></tr><tr><td>Magic damage</td><td>+20%</td></tr><tr><td>Max mana</td><td>+30%</td></tr><tr><td>Mana to raise the dead</td><td>-30%</td></tr><tr><td>Undead power</td><td>+25%</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Weapons and armor: +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+      "html": "<p><strong>Weapons and armor:</strong> +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.</p>"
+     }
+    ]
+   },
+   {
+    "id": "equipment",
+    "heading": "Equipment",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Weapons: Staff, Scythe",
+       "Armor: Robe, Heavy",
+       "Stats to focus: Intelligence, Strength",
+       "Level cap: 999"
+      ],
+      "html": "<ul><li><strong>Weapons:</strong> Staff, Scythe</li><li><strong>Armor:</strong> Robe, Heavy</li><li><strong>Stats to focus:</strong> Intelligence, Strength</li><li><strong>Level cap:</strong> 999</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "skills",
+    "heading": "Skills",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Skills of the Overlord tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.",
+      "html": "<p>Skills of the Overlord tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.</p>"
+     },
+     {
+      "type": "table",
+      "headers": [
+       "Skill",
+       "Element",
+       "Cooldown",
+       "Damage"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Dark Dominion",
+         "href": "/en/w/overrank/skills/dark-dominion"
+        },
+        {
+         "text": "Death"
+        },
+        {
+         "text": "24 s"
+        },
+        {
+         "text": "-"
+        }
+       ],
+       [
+        {
+         "text": "Death Coil",
+         "href": "/en/w/overrank/skills/death-coil"
+        },
+        {
+         "text": "Death"
+        },
+        {
+         "text": "6 s"
+        },
+        {
+         "text": "300% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Decimate",
+         "href": "/en/w/overrank/skills/decimate"
+        },
+        {
+         "text": "Death"
+        },
+        {
+         "text": "11 s"
+        },
+        {
+         "text": "340% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "End Of All",
+         "href": "/en/w/overrank/skills/end-of-all"
+        },
+        {
+         "text": "Death"
+        },
+        {
+         "text": "45 s"
+        },
+        {
+         "text": "700% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Grave Rift",
+         "href": "/en/w/overrank/skills/grave-rift"
+        },
+        {
+         "text": "Death"
+        },
+        {
+         "text": "18 s"
+        },
+        {
+         "text": "110% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Reaper's Call",
+         "href": "/en/w/overrank/skills/reapers-call"
+        },
+        {
+         "text": "Death"
+        },
+        {
+         "text": "16 s"
+        },
+        {
+         "text": "180% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Soul Nova",
+         "href": "/en/w/overrank/skills/soul-nova"
+        },
+        {
+         "text": "Death"
+        },
+        {
+         "text": "10 s"
+        },
+        {
+         "text": "240% of magic power"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Skill</th><th>Element</th><th>Cooldown</th><th>Damage</th></tr></thead><tbody><tr><td><a href=\"/en/w/overrank/skills/dark-dominion\">Dark Dominion</a></td><td>Death</td><td>24 s</td><td>-</td></tr><tr><td><a href=\"/en/w/overrank/skills/death-coil\">Death Coil</a></td><td>Death</td><td>6 s</td><td>300% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/decimate\">Decimate</a></td><td>Death</td><td>11 s</td><td>340% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/end-of-all\">End Of All</a></td><td>Death</td><td>45 s</td><td>700% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/grave-rift\">Grave Rift</a></td><td>Death</td><td>18 s</td><td>110% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/reapers-call\">Reaper's Call</a></td><td>Death</td><td>16 s</td><td>180% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/soul-nova\">Soul Nova</a></td><td>Death</td><td>10 s</td><td>240% of magic power</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Skill trees: General, Necromancer, Overlord.",
+      "html": "<p><strong>Skill trees:</strong> General, Necromancer, Overlord.</p>"
+     }
+    ]
+   },
+   {
+    "id": "passives",
+    "heading": "Passives",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Dread: +4% magic damage per level (up to +20% magic damage)",
+       "Sovereign: +5% damage per level (up to +10% damage)",
+       "Tyranny: +8% undead power per level (up to +24% undead power)",
+       "Undying: +4% max HP per level (up to +20% max HP)"
+      ],
+      "html": "<ul><li><a href=\"/en/w/overrank/passives/dread\">Dread</a>: +4% magic damage per level (up to +20% magic damage)</li><li><a href=\"/en/w/overrank/passives/sovereign\">Sovereign</a>: +5% damage per level (up to +10% damage)</li><li><a href=\"/en/w/overrank/passives/tyranny\">Tyranny</a>: +8% undead power per level (up to +24% undead power)</li><li><a href=\"/en/w/overrank/passives/undying\">Undying</a>: +4% max HP per level (up to +20% max HP)</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "how-to-unlock",
+    "heading": "How to unlock",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Have all your stat points in intelligence, and that only. Has to be over 105 points.",
+      "html": "<p>Have all your stat points in intelligence, and that only. Has to be over 105 points.</p>"
+     },
+     {
+      "type": "p",
+      "text": "105+ point all at once into intelligence, and that only as a necromancer (community-reported)",
+      "html": "<p>105+ point all at once into intelligence, and that only as a necromancer (community-reported)</p>"
+     },
+     {
+      "type": "p",
+      "text": "Unlock conditions come from the community and have not been verified by the original wiki.",
+      "html": "<p>Unlock conditions come from the community and have not been verified by the original wiki.</p>"
+     }
+    ]
+   }
+  ],
+  "infobox_fill": {
+   "Role": "Damage dealer",
+   "Difficulty": "Easy"
+  },
+  "incomplete_at_source": false
+ },
+ "bipolar": {
+  "sections": [
+   {
+    "id": "overview",
+    "heading": "Overview",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "A stronger mage of fire and ice only, wide and devastating.",
+      "html": "<p>A stronger mage of fire and ice only, wide and devastating.</p>"
+     },
+     {
+      "type": "p",
+      "text": "In the class window it is described as: Area magic · fire and ice.",
+      "html": "<p>In the class window it is described as: <em>Area magic · fire and ice</em>.</p>"
+     },
+     {
+      "type": "p",
+      "text": "The game whispers: “A mage who can't choose between burning and freezing.”",
+      "html": "<p>The game whispers: <em>“A mage who can't choose between burning and freezing.”</em></p>"
+     },
+     {
+      "type": "p",
+      "text": "It is one of the special classes: they cannot be picked freely, you have to earn them.",
+      "html": "<p>It is one of the <strong>special classes</strong>: they cannot be picked freely, you have to earn them.</p>"
+     }
+    ]
+   },
+   {
+    "id": "bonuses",
+    "heading": "Bonuses",
+    "blocks": [
+     {
+      "type": "table",
+      "headers": [
+       "Bonus",
+       "Value"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Area of effect"
+        },
+        {
+         "text": "+20%"
+        }
+       ],
+       [
+        {
+         "text": "Max HP"
+        },
+        {
+         "text": "-10%"
+        }
+       ],
+       [
+        {
+         "text": "Magic damage"
+        },
+        {
+         "text": "+30%"
+        }
+       ],
+       [
+        {
+         "text": "Max mana"
+        },
+        {
+         "text": "+20%"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Bonus</th><th>Value</th></tr></thead><tbody><tr><td>Area of effect</td><td>+20%</td></tr><tr><td>Max HP</td><td>-10%</td></tr><tr><td>Magic damage</td><td>+30%</td></tr><tr><td>Max mana</td><td>+20%</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Weapons and armor: +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.",
+      "html": "<p><strong>Weapons and armor:</strong> +15% damage with its own class's weapons (a hidden class: its origin class's too), +5% with those of a hidden class it leads to, -20% with another class's (the classless awakened's weapons and EX / SP: neutral); +10% HP with its armor, -10% with the others.</p>"
+     }
+    ]
+   },
+   {
+    "id": "equipment",
+    "heading": "Equipment",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Weapons: Staff",
+       "Armor: Robe",
+       "Stats to focus: Intelligence, Spirit",
+       "Level cap: 999"
+      ],
+      "html": "<ul><li><strong>Weapons:</strong> Staff</li><li><strong>Armor:</strong> Robe</li><li><strong>Stats to focus:</strong> Intelligence, Spirit</li><li><strong>Level cap:</strong> 999</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "skills",
+    "heading": "Skills",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Skills of the Bipolar tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.",
+      "html": "<p>Skills of the Bipolar tree. Spend skill points to unlock and level them; each level past the first adds 15% power and removes 5% of the cooldown.</p>"
+     },
+     {
+      "type": "table",
+      "headers": [
+       "Skill",
+       "Element",
+       "Cooldown",
+       "Damage"
+      ],
+      "rows": [
+       [
+        {
+         "text": "Cataclysm",
+         "href": "/en/w/overrank/skills/cataclysm"
+        },
+        {
+         "text": "Duality"
+        },
+        {
+         "text": "50 s"
+        },
+        {
+         "text": "170% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Frostfire Bolt",
+         "href": "/en/w/overrank/skills/frostfire-bolt"
+        },
+        {
+         "text": "Duality"
+        },
+        {
+         "text": "5 s"
+        },
+        {
+         "text": "260% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Frozen Inferno",
+         "href": "/en/w/overrank/skills/frozen-inferno"
+        },
+        {
+         "text": "Duality"
+        },
+        {
+         "text": "20 s"
+        },
+        {
+         "text": "90% of magic power"
+        }
+       ],
+       [
+        {
+         "text": "Thermal Shock",
+         "href": "/en/w/overrank/skills/thermal-shock"
+        },
+        {
+         "text": "Duality"
+        },
+        {
+         "text": "10 s"
+        },
+        {
+         "text": "320% of magic power"
+        }
+       ]
+      ],
+      "html": "<table><thead><tr><th>Skill</th><th>Element</th><th>Cooldown</th><th>Damage</th></tr></thead><tbody><tr><td><a href=\"/en/w/overrank/skills/cataclysm\">Cataclysm</a></td><td>Duality</td><td>50 s</td><td>170% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/frostfire-bolt\">Frostfire Bolt</a></td><td>Duality</td><td>5 s</td><td>260% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/frozen-inferno\">Frozen Inferno</a></td><td>Duality</td><td>20 s</td><td>90% of magic power</td></tr><tr><td><a href=\"/en/w/overrank/skills/thermal-shock\">Thermal Shock</a></td><td>Duality</td><td>10 s</td><td>320% of magic power</td></tr></tbody></table>"
+     },
+     {
+      "type": "p",
+      "text": "Skill trees: General, Fire, Ice, Duality.",
+      "html": "<p><strong>Skill trees:</strong> General, Fire, Ice, Duality.</p>"
+     }
+    ]
+   },
+   {
+    "id": "passives",
+    "heading": "Passives",
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "Balance: +4% magic damage per level (up to +12% magic damage)",
+       "Twin Souls: +5% area of effect, +4% mana regeneration per level (up to +15% area of effect, +12% mana regeneration)"
+      ],
+      "html": "<ul><li><a href=\"/en/w/overrank/passives/balance\">Balance</a>: +4% magic damage per level (up to +12% magic damage)</li><li><a href=\"/en/w/overrank/passives/twin-souls\">Twin Souls</a>: +5% area of effect, +4% mana regeneration per level (up to +15% area of effect, +12% mana regeneration)</li></ul>"
+     }
+    ]
+   },
+   {
+    "id": "how-to-unlock",
+    "heading": "How to unlock",
+    "blocks": [
+     {
+      "type": "p",
+      "text": "Unlock ultimate skill in fire and ice skill tree (community-reported)",
+      "html": "<p>Unlock ultimate skill in fire and ice skill tree (community-reported)</p>"
+     },
+     {
+      "type": "p",
+      "text": "Unlock conditions come from the community and have not been verified by the original wiki.",
+      "html": "<p>Unlock conditions come from the community and have not been verified by the original wiki.</p>"
+     }
+    ]
+   }
+  ],
+  "infobox_fill": {},
+  "incomplete_at_source": false
+ }
+}

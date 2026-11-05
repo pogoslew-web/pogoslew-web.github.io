@@ -16,8 +16,10 @@ def want(t,kind=''):
     need[H(t)]=t
 def scan(frag,title,kind):
     t,_=templ(frag,title); want(t,kind)
+CP=json.load(open(R+'/db/overlays/class_pages.json')); CC=json.load(open(R+'/db/overlays/class_cards.json'))['classes']
 for f in sorted(glob.glob(R+'/db/entities/*/*.json')):
     e=json.load(open(f)); title=e['title']
+    if e['type']=='classes' and e['slug'] in CP: e['sections']=CP[e['slug']]['sections']; e['summary']=CC[e['slug']]['desc']
     if e['summary']: scan(e['summary'],title,'s')
     for s in e['sections']:
         if s.get('heading'): scan(s['heading'],title,'h')

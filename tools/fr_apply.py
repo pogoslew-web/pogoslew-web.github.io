@@ -35,10 +35,13 @@ def block(b,title):
     elif b['type']=='image': return None
     else: out=tr(h,title)
     return out if out!=h else None
+CP=json.load(open(R+'/db/overlays/class_pages.json')); CC=json.load(open(R+'/db/overlays/class_cards.json'))['classes']
 n=0;tot=0;fully=0
 for f in sorted(glob.glob(R+'/db/entities/*/*.json')):
     e=json.load(open(f)); t=e['type'];s=e['slug'];title=e['title']
-    cur=R+f'/db/i18n/fr_curated/{t}/{s}.json'; c=json.load(open(cur)) if os.path.exists(cur) else {}
+    if t=='classes' and s in CP:
+        e['sections']=CP[s]['sections']; e['summary']=CC[s]['desc']
+    cur=R+f'/db/i18n/fr_curated/{t}/{s}.json'; c=json.load(open(cur)) if os.path.exists(cur) and not (t=='classes' and s in CP) else {}
     d={'summary':c.get('summary'),'headings':dict(c.get('headings',{})),'blocks':{}}
     if not d['summary'] and e['summary']:
         x=tr(e['summary'],title); d['summary']=x if x!=e['summary'] else None

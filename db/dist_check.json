@@ -4,9 +4,52 @@
  "pages_missing": 0,
  "missing_list": [],
  "numbers_checked": 13456,
- "numbers_missing": 0,
- "pages_with_missing_numbers": [],
- "internal_links_checked": 88909,
+ "numbers_missing": 7,
+ "pages_with_missing_numbers": [
+  {
+   "url": "/classes/survivor/",
+   "missing": {
+    "100": 1
+   }
+  },
+  {
+   "url": "/classes/berserker/",
+   "missing": {
+    "100": 1
+   }
+  },
+  {
+   "url": "/classes/magic-attacker/",
+   "missing": {
+    "100": 1
+   }
+  },
+  {
+   "url": "/classes/overlord/",
+   "missing": {
+    "100": 1
+   }
+  },
+  {
+   "url": "/classes/reaper/",
+   "missing": {
+    "100": 1
+   }
+  },
+  {
+   "url": "/classes/warper/",
+   "missing": {
+    "100": 1
+   }
+  },
+  {
+   "url": "/classes/bipolar/",
+   "missing": {
+    "100": 1
+   }
+  }
+ ],
+ "internal_links_checked": 88968,
  "broken_internal_links": 0,
  "broken_sample": [],
  "images_missing": [],
