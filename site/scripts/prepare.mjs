@@ -3,6 +3,7 @@ import fs from 'node:fs'; import path from 'node:path';
 const ROOT = path.resolve(process.cwd(), '..');
 const man = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/assets_manifest.json'), 'utf8'));
 fs.mkdirSync('public/assets', { recursive: true });
+fs.mkdirSync('src/data', { recursive: true });
 const map = {}; let copied = 0, failed = 0;
 for (const [orig, e] of Object.entries(man)) {
   if (e.status !== 200 || !e.file) { failed++; continue; }
